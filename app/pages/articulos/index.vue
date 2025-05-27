@@ -16,7 +16,7 @@ const pageNumber = computed(() => (valid.value.isValid ? valid.value.value : 1))
 </script>
 
 <template>
-  <Articles
+  <Articulos
     v-model:page="pageNumber"
     path="/articulos"
     image-path="/img/posts"
