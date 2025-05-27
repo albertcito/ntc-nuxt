@@ -1,6 +1,6 @@
 ---
 title: Carta de clemente a los corintios
-description: alone, familia, sociedad, soledad, historia, investigación
+description: A principios del siglo V, el hospital ya era omnipresente en todo el oriente cristiano del mundo bizantino. Se asemejaban a una ciudad e incluían viviendas para médicos y enfermeras y edificios separados para diversas clases de pacientes.​ Algunos hospitales mantenían bibliotecas y programas de formación, y los médicos recopilaban sus estudios médicos y farmacológicos en manuscritos. Así pues, la atención médica hospitalaria, en el sentido de lo que hoy consideramos un hospital, fue un invento impulsado por la misericordia cristiana.​
 date: 2025-02-01
 type: blog
 tags: [alone, familia, sociedad, soledad, historia, investigación]

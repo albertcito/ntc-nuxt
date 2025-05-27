@@ -23,7 +23,7 @@ const { data: total } = await useAsyncData('total', () => queryCollection(collec
 
 <template>
   <div class="flex justify-between items-center mt-4">
-    <h1 class="text-3xl font-bold font-inter">
+    <h1 class="text-3xl font-bold">
       {{ title }}
     </h1>
     <div class="flex justify-between items-center gap-2">

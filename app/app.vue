@@ -2,9 +2,8 @@
 import type { NavigationMenuItem } from '@nuxt/ui'
 
 const { data: navigation } = await useAsyncData('navigation', () => queryCollectionNavigation('articulos'))
-provide('navigation', navigation)
-
 const { data: files } = useLazyAsyncData('search', () => queryCollectionSearchSections('articulos'), { server: false })
+
 const route = useRoute()
 const items = computed<NavigationMenuItem[]>(() => [
   {
@@ -27,16 +26,12 @@ const items = computed<NavigationMenuItem[]>(() => [
 
 <template>
   <UApp>
-    <UHeader :ui="{ left: 'min-w-0' }" :menu="{ shouldScaleBackground: true }">
-      <template #title>
-        <NuxtLink
-          to="/"
-          class="font-bold text-2xl text-primary font-karma"
-          aria-label="No te conformes"
-        >
-          No te conformes
-        </NuxtLink>
-      </template>
+    <UHeader
+      title="No te conformes"
+      :ui="{
+        title: 'text-primary'
+      }"
+    >
       <UNavigationMenu :items="items" />
       <template #right>
         <ThemePicker />

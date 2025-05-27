@@ -1,6 +1,26 @@
 <script setup lang="ts">
+const route = useRoute()
+const { data: page } = await useAsyncData(
+  `/pages${route.path}`,
+  () => queryCollection('pages').path(`/pages${route.path}`).first()
+)
 </script>
 
 <template>
-  Aqui
+  <UPage v-if="page">
+    <UPageHeader class="justify-center">
+      <template #title>
+        {{ page.title }}
+      </template>
+    </UPageHeader>
+
+    <UPageBody class="max-w-2xl mx-auto">
+      <ContentRenderer
+        v-if="page.body"
+        :value="page"
+        :prose="true"
+        class="text-xl font-karma"
+      />
+    </UPageBody>
+  </UPage>
 </template>

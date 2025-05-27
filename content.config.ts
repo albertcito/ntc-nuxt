@@ -18,6 +18,13 @@ export default defineContentConfig({
           link: z.string().optional()
         })
       })
+    }),
+    pages: defineCollection({
+      type: 'page',
+      source: 'pages/*.md',
+      schema: z.object({
+        title: z.string().min(1)
+      })
     })
   }
 })

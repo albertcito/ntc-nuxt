@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import dayjs from 'dayjs'
-import { kebabCase } from 'scule'
 import type { ContentNavigationItem } from '@nuxt/content'
 
 import { findPageBreadcrumb, mapContentNavigation } from '#ui-pro/utils'
@@ -18,7 +17,7 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
 
 <template>
   <UPage v-if="page">
-    <UPageHeader>
+    <UPageHeader :ui="{ root: 'border-none' }">
       <template #headline>
         <UBreadcrumb :items="breadcrumb" />
       </template>
@@ -27,21 +26,12 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
         {{ page.title }}
       </template>
 
-      <template #description>
-        <div v-if="page.date">
-          {{ dayjs(page.date).format('MMMM D, YYYY') }}
-        </div>
-
-        <MDC
-          v-if="page.description"
-          :value="page.description"
-          unwrap="p"
-          :cache-key="`${kebabCase(route.path)}-description`"
-        />
+      <template v-if="page.date" #description>
+        {{ dayjs(page.date).format('MMMM D, YYYY') }}
       </template>
     </UPageHeader>
 
-    <UPageBody>
+    <UPageBody class="mt-0">
       <figure v-if="page.image" class="mb-4">
         <div class="relative">
           <img
@@ -78,8 +68,12 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
         <USeparator />
       </UPageBody>
     </UPageBody>
-    <template v-if="page?.body?.toc?.links?.length" #right>
-      <UContentToc :links="page.body.toc.links" class="z-[2]" />
+    <template #right>
+      <UContentToc
+        v-if="page?.body?.toc?.links?.length"
+        :links="page.body.toc.links"
+        class="z-[2]"
+      />
     </template>
   </UPage>
 </template>

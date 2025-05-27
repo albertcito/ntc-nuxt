@@ -4,7 +4,7 @@ defineProps<{
   icon?: string
   chip?: string
   selected?: boolean
-}>();
+}>()
 </script>
 
 <template>
