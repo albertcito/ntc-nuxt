@@ -1,6 +1,9 @@
 export const isValidInteger = (value: unknown) => {
   const valueNumber = Number(value)
-  const isNoValid = { isValid: false } as const
+  const isNoValid = {
+    isValid: false,
+    value
+  } as const
   if (`${valueNumber}` !== value) {
     return isNoValid
   }

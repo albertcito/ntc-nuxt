@@ -5,11 +5,11 @@ import { isValidInteger } from '~/util/getIntegerOrDefault'
 
 import page from '.index.yml'
 
-useHead({ title: page.title })
+useHead({ title: page.seo.title })
 
 const route = useRoute()
 const valid = computed(() => isValidInteger(route.query.page))
-if (!valid.value.isValid) {
+if (!valid.value.isValid && valid.value.value) {
   navigateTo('/articulos', { replace: true })
 }
 const pageNumber = computed(() => (valid.value.isValid ? valid.value.value : 1))
@@ -21,5 +21,6 @@ const pageNumber = computed(() => (valid.value.isValid ? valid.value.value : 1))
     path="/articulos"
     image-path="/img/posts"
     :items-per-page="6"
+    :title="page.title"
   />
 </template>

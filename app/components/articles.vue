@@ -1,28 +1,56 @@
 <script setup lang="ts">
 const props = defineProps<{
-  path: string,
-  imagePath: string,
-  itemsPerPage: number,
-}>();
+  title: string
+  path: string
+  imagePath: string
+  itemsPerPage: number
+}>()
 
-const page = defineModel<number>('page', { required: true });
-const collection = 'articulos';
-const totalSkip = computed(() => (page.value - 1) * props.itemsPerPage);
+const page = defineModel<number>('page', { required: true })
+const collection = 'articulos'
+const totalSkip = computed(() => (page.value - 1) * props.itemsPerPage)
 const { data } = await useAsyncData(
   computed(() => `${collection}_${page.value}_${props.itemsPerPage}`),
   () => queryCollection(collection)
     .order('date', 'DESC')
     .skip(totalSkip.value)
     .limit(props.itemsPerPage)
-    .all(),
-);
+    .all()
+)
 const { data: total } = await useAsyncData('total', () => queryCollection(collection)
-  .count());
-// const totalPages = computed(() => Math.ceil((total.value ?? 0) / itemsPerPage.value));
+  .count())
 </script>
+
 <template>
+  <div class="flex justify-between items-center mt-4">
+    <h1 class="text-3xl font-bold font-inter">
+      {{ title }}
+    </h1>
+    <div class="flex justify-between items-center gap-2">
+      <div>
+        {{ itemsPerPage }} de {{ total }} artículos
+      </div>
+      <UPagination
+        v-if="total"
+        v-model:page="page"
+        :items-per-page="itemsPerPage"
+        :total="total"
+        :sibling-count="1"
+        size="sm"
+        :to="(pageSelected) => ({
+          path,
+          query: { page: pageSelected }
+        })"
+        :ui="{
+          first: 'hidden',
+          last: 'hidden'
+        }"
+        variant="ghost"
+      />
+    </div>
+  </div>
   <UMain class="flex flex-col gap-8 py-8 items-center ">
-    <UBlogPosts>
+    <UBlogPosts class="lg:gap-y-8">
       <UBlogPost
         v-for="(post, index) in data"
         :key="index"
@@ -38,7 +66,7 @@ const { data: total } = await useAsyncData('total', () => queryCollection(collec
       :total="total"
       :to="(pageSelected) => ({
         path,
-        query: { page: pageSelected },
+        query: { page: pageSelected }
       })"
     />
   </UMain>
