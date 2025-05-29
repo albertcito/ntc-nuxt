@@ -71,34 +71,34 @@ Pero ¿Fue también novedosa la Basilia? ¿Fue realmente el primer hospital del 
 
 Utilizando textos primarios, hemos reconstruido la Basilia, probablemente el primer hospital auténtico de la historia. Fue construido con inspiración en la doctrina social cristiana y con el impulso de una hambruna. Se convertiría en el primero de un gran número de hospitales en todo el imperio romano: un hito importante en la historia de la medicina.
 
-[^a4535b87-4814-4eef-b0e0-46a7930ba166]: Gregory Naziazen. Oration 43. From Nicene and Post-Nicene Fathers, Second Series, vol. 7. Ed. Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1894.) Trans. Charles G. Browne and James E. Swallow. Available online at <a href="http://www.newadvent.org/fathers" data-type="link" data-id="www.newadvent.org/fathers" target="_blank" rel="noreferrer noopener">www.newadvent.org/fathers</a>. Accessed 31 January 2015.
+[^a4535b87-4814-4eef-b0e0-46a7930ba166]: Gregory Naziazen. Oration 43. From Nicene and Post-Nicene Fathers, Second Series, vol. 7. Ed. Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1894.) Trans. Charles G. Browne and James E. Swallow. Available online at [www.newadvent.org/fathers](http://www.newadvent.org/fathers){target=blank}. Accessed 31 January 2015.
 
-[^6baea373-58dd-49fd-82a9-50b1309978e4]: Basil of Caesarea. Homilia in illud dictum evangelii secundum Lucam: «Destruam horrea mea, et majora ædificabo:» itemque de avaritia (Homily on the saying of the Gospel According to Luke, “I will pull down my barns and build bigger ones,” and on greed), §7 (PG 31, 276B – 277A). Translated Peter Gilbert, available online <a href="https://bekkos.wordpress.com/2009/10/08/st-basil-on-stealing-from-the-poor/" target="_blank" rel="noreferrer noopener">https://bekkos.wordpress.com/2009/10/08/st-basil-on-stealing-from-the-poor/</a>. Accessed 31 January 2015.
+[^6baea373-58dd-49fd-82a9-50b1309978e4]: Basil of Caesarea. Homilia in illud dictum evangelii secundum Lucam: «Destruam horrea mea, et majora ædificabo:» itemque de avaritia (Homily on the saying of the Gospel According to Luke, “I will pull down my barns and build bigger ones,” and on greed), §7 (PG 31, 276B – 277A). Translated Peter Gilbert, available online [https://bekkos.wordpress.com/2009/10/08/st-basil-on-stealing-from-the-poor/](https://bekkos.wordpress.com/2009/10/08/st-basil-on-stealing-from-the-poor/){target=blank}. Accessed 31 January 2015.
 
-[^dd0b5b39-2c0e-4f51-a91f-c2be46a63e4b]: Philip Rousseau. <em>Basil of Caesarea</em>. <em>Transformation of the Classical Heritage Series</em>, no. 20. California UP: 1998. P137ff.
+[^dd0b5b39-2c0e-4f51-a91f-c2be46a63e4b]: Philip Rousseau. _Basil of Caesarea_. _Transformation of the Classical Heritage Series_, no. 20. California UP: 1998. P137ff.
 
-[^60dc76c3-5020-4971-b8e0-c46981e89d00]: Basil of Caesarea. Homily to the Rich. Trans. Peter Gilbert. In Migne, JP (PG 31 277C-304C). Available online: <a href="https://bekkos.wordpress.com/st-basils-sermon-to-the-rich" target="_blank" rel="noreferrer noopener">https://bekkos.wordpress.com/st-basils-sermon-to-the-rich</a>/. Accessed 31 January 2015.
+[^60dc76c3-5020-4971-b8e0-c46981e89d00]: Basil of Caesarea. Homily to the Rich. Trans. Peter Gilbert. In Migne, JP (PG 31 277C-304C). Available online: [https://bekkos.wordpress.com/st-basils-sermon-to-the-rich](https://bekkos.wordpress.com/st-basils-sermon-to-the-rich){target=blank}/. Accessed 31 January 2015.
 
 [^f4490149-3f35-45b7-a071-5548453bc2f1]: Gary Ferngren. Medicine and Health Care in Early Christianity. Baltimore, MD: Johns Hopkins UP, 2009. p124-9.
 
-[^ba86c390-fda0-41d4-ad48-8807e1b96d10]: Basil of Caesarea. <em>Letter 94: To Elias, Governor of the Province</em>. From <em>Nicene and Post-Nicene Fathers</em>, Second Series, vol. 7. Ed. Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1894.) Trans. Blomfield Jackson. Available online at <a href="http://www.newadvent.org/fathers" target="_blank" rel="noreferrer noopener">www.newadvent.org/fathers</a>. Accessed 31 January 2015.
+[^ba86c390-fda0-41d4-ad48-8807e1b96d10]: Basil of Caesarea. _Letter 94: To Elias, Governor of the Province_. From _Nicene and Post-Nicene Fathers_, Second Series, vol. 7. Ed. Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1894.) Trans. Blomfield Jackson. Available online at [www.newadvent.org/fathers](http://www.newadvent.org/fathers){target=blank}. Accessed 31 January 2015.
 
-[^e3d0f6a5-16a7-4e53-8950-77d8b600b216]: Basil of Caesarea. <em>Letter 150: To Amphilochius, Bishop of Iconium</em>. From <em>Nicene and Post-Nicene Fathers</em>, as above.
+[^e3d0f6a5-16a7-4e53-8950-77d8b600b216]: Basil of Caesarea. _Letter 150: To Amphilochius, Bishop of Iconium_. From _Nicene and Post-Nicene Fathers_, as above.
 
-[^800a504e-c5e1-4196-bc2f-cdc68f3e7645]: Timothy Patitias. “St. Basil’s Philanthropic Program and Modern Microlending Strategies for Economic Self-Actualization,” in <em>Wealth and Poverty in Early Church and Society. </em>Ed. Susan Holman. p267-270.
+[^800a504e-c5e1-4196-bc2f-cdc68f3e7645]: Timothy Patitias. “St. Basil’s Philanthropic Program and Modern Microlending Strategies for Economic Self-Actualization,” in _Wealth and Poverty in Early Church and Society._ Ed. Susan Holman. p267-270.
 
-[^57853c96-039f-4e08-af6f-3ca63be04603]: Timothy Miller. <em>The birth of the hospital in the Byzantine Empire</em>. Baltimore: Johns Hopkins UP: 1997.
+[^57853c96-039f-4e08-af6f-3ca63be04603]: Timothy Miller. _The birth of the hospital in the Byzantine Empire_. Baltimore: Johns Hopkins UP: 1997.
 
-[^f8cbf455-e2e5-47b6-94ae-eb94fc24a6c2]: Basil of Caesarea. <em>Letter 176: To Amphilochius, Bishop of Iconium</em>. From <em>Nicene and Post-Nicene Fathers</em>, as no. 6 above.
+[^f8cbf455-e2e5-47b6-94ae-eb94fc24a6c2]: Basil of Caesarea. _Letter 176: To Amphilochius, Bishop of Iconium_. From _Nicene and Post-Nicene Fathers_, as no. 6 above.
 
 [^7e0b60df-422d-40f6-98a0-9bde1c4cac10]: See Timothy Miller and JW Nesbitt. Walking Corpses: Leprosy in Byzantium and the Medieval West. Cornell UP: 2014.
 
-[^2210a371-e3e8-4832-be18-8e110ec35acf]: Basil of Caesarea. <em>Interrogatio XV </em>(PG 31: 952), in Timothy Miller, <em>The Orphans of Byzantium: Child Welfare in the Christian Empire</em>. New York: Catholic UP: 2003, p115.
+[^2210a371-e3e8-4832-be18-8e110ec35acf]: Basil of Caesarea. _Interrogatio XV_ (PG 31: 952), in Timothy Miller, _The Orphans of Byzantium: Child Welfare in the Christian Empire_. New York: Catholic UP: 2003, p115.
 
-[^e3a9ce71-4d9f-408d-a46d-4dc254cb8a97]: Andrew Crislip. <em>From Monastery to Hospital: Christian Monasticism and the Transformation of Health Care in Late Antiquity</em>. Ann Arbor: U of Michigan P, 2005, p125.
+[^e3a9ce71-4d9f-408d-a46d-4dc254cb8a97]: Andrew Crislip. _From Monastery to Hospital: Christian Monasticism and the Transformation of Health Care in Late Antiquity_. Ann Arbor: U of Michigan P, 2005, p125.
 
 [^f4490149-3f35-45b7-a071-5548453bc2f1]: Gary Ferngren. Medicine and Health Care in Early Christianity. Baltimore, MD: Johns Hopkins UP, 2009. p124-9.
 
-[^9eef32d8-ebb5-457a-a438-7349b138d9fa]: Guenter B. Risse. <em>Mending Bodies, Saving Souls: A History of Hospitals</em>. Oxford UP: 1999. p.30f.
+[^9eef32d8-ebb5-457a-a438-7349b138d9fa]: Guenter B. Risse. _Mending Bodies, Saving Souls: A History of Hospitals_. Oxford UP: 1999. p.30f.
 
-[^9eef32d8-ebb5-457a-a438-7349b138d9fa]: Guenter B. Risse. <em>Mending Bodies, Saving Souls: A History of Hospitals</em>. Oxford UP: 1999. p.30f.
+[^9eef32d8-ebb5-457a-a438-7349b138d9fa]: Guenter B. Risse. _Mending Bodies, Saving Souls: A History of Hospitals_. Oxford UP: 1999. p.30f.

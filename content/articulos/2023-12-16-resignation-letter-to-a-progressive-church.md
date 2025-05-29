@@ -165,23 +165,25 @@ In closing, with all this evidence I am truly convinced that this is the positio
 
 [^aada2aa9-2c21-42ad-a9d0-c1407d5a3264]: The Sacred Band: Three Hundred Theban Lovers Fighting to Save Greek Freedom [https://www.simonandschuster.com/books/The-Sacred-Band/James-Romm/9781501198014](https://www.simonandschuster.com/books/The-Sacred-Band/James-Romm/9781501198014){target=blank}
 
-[^b2308a11-a2a4-4e5f-94bb-bdcd2d3a92be]: By James Romm. Professor of Classics at Bard College in Annandale, New York - [https://historynewsnetwork.org/article/180453](https://historynewsnetwork.org/article/180453){target=blank} 
+[^b2308a11-a2a4-4e5f-94bb-bdcd2d3a92be]: By James Romm. Professor of Classics at Bard College in Annandale, New York - [https://historynewsnetwork.org/article/180453](https://historynewsnetwork.org/article/180453){target=blank}
 
-[^211a415c-0d34-4e99-95ba-bbf5c566b52f]: "His second epistle expressly mentions the church at Corinth with all the saints that are in the whole of Achaia. The first epistle too seems directed, not merely to the several congregations in the city of Corinth, but to other congregations also, "in every place," presumably every place in Greece. At least two verses in the first three chapters, if they do not require this inference, make better sense if so understood. The reference to Greeks in general and not just Corinthians in 1:22, and as well the wherever and whenever of 3:3-4, give some small support to the assumption of a wider public. The first of these two references is the better for this purpose because at first sight it seems strange that Paul has so much to say about wisdom and knowledge to the Corinthians. Corinth was not Oxford; it was Liverpool. Hence when he says in 1:22 that the Greeks seek after wisdom, he may have had Athens in mind. The Corinthians mostly sought after money and pleasure". Wisdom in First Corinthians by Gordon Clark -  [https://www.etsjets.org/files/JETS-PDFs/15/15-4/15-pp197-206_JETS.pdf](https://www.etsjets.org/files/JETS-PDFs/15/15-4/15-pp197-206_JETS.pdf){target=blank}
+[^211a415c-0d34-4e99-95ba-bbf5c566b52f]: "His second epistle expressly mentions the church at Corinth with all the saints that are in the whole of Achaia. The first epistle too seems directed, not merely to the several congregations in the city of Corinth, but to other congregations also, "in every place," presumably every place in Greece. At least two verses in the first three chapters, if they do not require this inference, make better sense if so understood. The reference to Greeks in general and not just Corinthians in 1:22, and as well the wherever and whenever of 3:3-4, give some small support to the assumption of a wider public. The first of these two references is the better for this purpose because at first sight it seems strange that Paul has so much to say about wisdom and knowledge to the Corinthians. Corinth was not Oxford; it was Liverpool. Hence when he says in 1:22 that the Greeks seek after wisdom, he may have had Athens in mind. The Corinthians mostly sought after money and pleasure". Wisdom in First Corinthians by Gordon Clark - [https://www.etsjets.org/files/JETS-PDFs/15/15-4/15-pp197-206\_JETS.pdf](https://www.etsjets.org/files/JETS-PDFs/15/15-4/15-pp197-206\_JETS.pdf){target=blank}
 
 [^a67fd57d-274c-4b89-ab22-dd1c4acfe8ba]: [https://biblehub.com/greek/3120.htm](https://biblehub.com/greek/3120.htm){target=blank}
 
 [^b63c3ad4-587f-4cca-b4d8-f839b2309f41]:  La regulación de la sexualidad en Las leyes particulares de Filón de Alejandría, Laura Pérez. Page 527 - [https://ri.conicet.gov.ar/handle/11336/163316](https://ri.conicet.gov.ar/handle/11336/163316){target=blank}
 
-[^cf5faffd-3cae-4dd2-99f6-a5176810ef97]:  Philo is held in high influence and esteem by the church fathers. Eusebius and Jerome believed that he met with the apostle Peter. It could mean that all of early Christianity accepted the <em>malakoi</em> from him. Just as “Light from Light” and “God from God” have their origin in the writings of Philos, which we repeat every Sunday, and many other things.
+[^cf5faffd-3cae-4dd2-99f6-a5176810ef97]:  Philo is held in high influence and esteem by the church fathers. Eusebius and Jerome believed that he met with the apostle Peter. It could mean that all of early Christianity accepted the _malakoi_ from him. Just as “Light from Light” and “God from God” have their origin in the writings of Philos, which we repeat every Sunday, and many other things.
 
-[^079ddbb0-11ed-4c1c-a074-f3fdd810f29c]: “...symbol of modesty, which all those women are accustomed to wear who are completely blameless” - The Works of Philo - The special laws 3:37-42 
+[^079ddbb0-11ed-4c1c-a074-f3fdd810f29c]: “...symbol of modesty, which all those women are accustomed to wear who are completely blameless” - The Works of Philo - The special laws 3:37-42
 
 [^ac98ec8a-a507-4a22-a5e7-ea9c65261fbc]: [https://biblehub.com/greek/733.htm](https://biblehub.com/greek/733.htm){target=blank}
 
-[^3f3dd189-8463-4a16-881f-9c6cabc64fb8]: The Bible and the homosexual practice, Robert Gagnon. Ch 4 - The meaning of <em>arsenokoitai</em> in 1 Cor 6:9 - [https://www.amazon.com/Bible-Homosexual-Practice-Texts-Hermeneutics/dp/0687022797](https://www.amazon.com/Bible-Homosexual-Practice-Texts-Hermeneutics/dp/0687022797){target=blank}
+[^3f3dd189-8463-4a16-881f-9c6cabc64fb8]: The Bible and the homosexual practice, Robert Gagnon. Ch 4 - The meaning of _arsenokoitai_ in 1 Cor 6:9 - [https://www.amazon.com/Bible-Homosexual-Practice-Texts-Hermeneutics/dp/0687022797](https://www.amazon.com/Bible-Homosexual-Practice-Texts-Hermeneutics/dp/0687022797){target=blank}
 
-[^00bbe9f8-3cfd-49dc-b661-6b62fe106690]: Latin: <em>masculorum concubitores</em> ("men lying together with males")<br>Syriac: "those who lie with men"<br>Coptic: "lying with males"
+[^00bbe9f8-3cfd-49dc-b661-6b62fe106690]: Latin: _masculorum concubitores_ ("men lying together with males")  
+Syriac: "those who lie with men"  
+Coptic: "lying with males"
 
 [^73ba2208-899f-4b6f-ad96-c0553ab0f59c]: Rescuing the Bible from Fundamentalism - John Shelby Spong - [https://www.nytimes.com/1991/02/02/nyregion/was-st-paul-gay-claim-stirs-fury.html](https://www.nytimes.com/1991/02/02/nyregion/was-st-paul-gay-claim-stirs-fury.html){target=blank}
 

@@ -97,74 +97,74 @@ La Confesión de Fe de Westminster hace mucho tiempo afirmó correctamente que n
 
 Estos errores históricos también presionan otro punto teológico importante, a saber, si Piper ha usado mal a Calvino, Owen y Turretin, tiene al menos dos opciones: (1) preguntar si son correctos y, de ser así, revisar su propio libro y conservar la distinción entre lo que es la fe versus lo que hace la fe; o (2) si no está de acuerdo con Calvin, Owen y Turretin y está de acuerdo con Edwards, entonces reconozca que se desvía de la tradición reformada histórica. Al final, el quid de la cuestión no es si la fe salvadora tiene conexiones con el amor. Todos están de acuerdo en esto, ya sean católicos romanos, Calvino, Owen, Turretin o Edwards. La pregunta crítica es si la esencia de la fe es la confianza, ya que pasivamente descansa, recibe y acepta a Cristo solo para la justificación, la santificación y la vida eterna, y reflexivamente obra por amor. O, por el contrario, como sugiere Piper, ¿destruimos juntos lo que es y lo que hace la fe para que el amor esté en el corazón de la fe? La razón por la que la tradición reformada optó por la primera opción al distinguir qué es la fe de lo que hace es que si el amor está en el corazón de la fe, entonces la fe deja de ser la única causa instrumental de la justificación y nuestra salvación ya no descansa exclusivamente en la sola justicia de Cristo, sino también en nuestros propios afectos y amor por él. Los errores de Piper son como los de un médico que dice, la justicia ajena de Cristo, sino también de nuestros propios afectos y amor por él. Los errores de Piper son como los de un médico que dice: “¡Mira! El cuerpo humano respira y bombea sangre, pero me niego a distinguir entre el corazón y los pulmones”. Semejante error puede ser comprensible, pero igualmente mortal, si el médico opera los pulmones cuando debería operar el corazón. Si no distinguimos entre lo que es la fe y lo que hace, ¿no confundimos la fe y las obras y comprometemos la doctrina de la justificación sólo por la fe? El Espíritu Santo que habla en las Escrituras es el juez supremo por el cual deben ser determinadas todas las controversias religiosas. ¿Piper ha escuchado correctamente la voz del Espíritu hablando en las Escrituras? ¿Ha interpretado correctamente la tradición reformada sobre este tema? En este punto, estoy convencido de que la tradición reformada histórica está diciendo algo diferente a Piper con respecto a la naturaleza de la fe salvadora.
 
-[^71a32274-4131-4bf7-8ae9-8254796ddcfe]: John Piper, <em>What is Saving Faith? Reflections on Receiving Christ as a Treasure</em> (Wheaton, IL: Crossway, 2022), 13.
+[^71a32274-4131-4bf7-8ae9-8254796ddcfe]: John Piper, _What is Saving Faith? Reflections on Receiving Christ as a Treasure_ (Wheaton, IL: Crossway, 2022), 13.
 
-[^c0b15c2b-b352-483a-ba45-55c364b5dd46]: Calvin, <em>Institutes</em>, III.ii.41.
+[^c0b15c2b-b352-483a-ba45-55c364b5dd46]: Calvin, _Institutes_, III.ii.41.
 
 [^7e513dbb-5176-407f-9af5-e25ee8b894d4]: Piper, “On the Nature of Saving Faith,” emphasis Piper’s.
 
-[^c7745393-63cf-4ae6-8470-d126824a6022]: John Owen, <em>The Doctrine of Justification by Faith</em>, in <em>The Works of John Owen</em>, vol. 5, ed. William H. Goold (1850-53; Edinburgh: Banner of Truth, 1998), 103.<br>
+[^c7745393-63cf-4ae6-8470-d126824a6022]: John Owen, _The Doctrine of Justification by Faith_, in _The Works of John Owen_, vol. 5, ed. William H. Goold (1850-53; Edinburgh: Banner of Truth, 1998), 103.
 
-[^ff9b147c-48ae-443f-bf88-503d1c484285]:  Piper, <em>Saving Faith</em>, 57.
+[^ff9b147c-48ae-443f-bf88-503d1c484285]:  Piper, _Saving Faith_, 57.
 
-[^d251951a-006e-4d04-b10e-f551f9094ed3]: Piper, <em>Saving Faith</em>, 61.
+[^d251951a-006e-4d04-b10e-f551f9094ed3]: Piper, _Saving Faith_, 61.
 
-[^fce4a025-a443-4643-8ceb-feac225875eb]: Piper, <em>Saving Faith</em>, 62-63.
+[^fce4a025-a443-4643-8ceb-feac225875eb]: Piper, _Saving Faith_, 62-63.
 
-[^f50bf9c8-9ec1-4ba1-83da-d8adb444b981]: Francis Turretin, <em>Institutes of Elenctic Theology</em>, 3 vols., ed. James T. Dennison Jr., trans. George Musgrave Giger (Phillipsburg, NJ: P &amp; R Publishing, 1992-97), XV.viii.5; idem, <em>Institutio Theologicae Elencticae</em>, 3 vols. (New York, NY: Robert Carter, 1847).
+[^f50bf9c8-9ec1-4ba1-83da-d8adb444b981]: Francis Turretin, _Institutes of Elenctic Theology_, 3 vols., ed. James T. Dennison Jr., trans. George Musgrave Giger (Phillipsburg, NJ: P & R Publishing, 1992-97), XV.viii.5; idem, _Institutio Theologicae Elencticae_, 3 vols. (New York, NY: Robert Carter, 1847).
 
-[^1b4826f6-795a-4308-8951-2e93c1079b58]: Turretin, <em>Institutes</em>, XV.viii.5.
+[^1b4826f6-795a-4308-8951-2e93c1079b58]: Turretin, _Institutes_, XV.viii.5.
 
-[^040aaa21-60f3-405c-9736-2d787ce120c4]: <em>Confessio Fidei in Conventu Theologorum Authoritate Parlimenti Anglicani Indicto Elaborata</em> (Edinburgh: Officina Societatis Bibliopolarum, 1689), XIV.ii.
+[^040aaa21-60f3-405c-9736-2d787ce120c4]: _Confessio Fidei in Conventu Theologorum Authoritate Parlimenti Anglicani Indicto Elaborata_ (Edinburgh: Officina Societatis Bibliopolarum, 1689), XIV.ii.
 
-[^a991cdb4-d670-4b16-848c-6bf25b3fe016]: Turretin, <em>Institutes</em>, XV.viii.4.
+[^a991cdb4-d670-4b16-848c-6bf25b3fe016]: Turretin, _Institutes_, XV.viii.4.
 
-[^59065fa5-c8ee-44e0-a473-013a337ccec1]: Turretin, <em>Institutes</em>, XV.viii.7.
+[^59065fa5-c8ee-44e0-a473-013a337ccec1]: Turretin, _Institutes_, XV.viii.7.
 
-[^b00058b0-8f98-4e1c-bfb6-2128b35777e3]: Turretin, <em>Institutes</em>, XV.viii.12.
+[^b00058b0-8f98-4e1c-bfb6-2128b35777e3]: Turretin, _Institutes_, XV.viii.12.
 
-[^54b43d82-5233-48d8-a250-d0ddbeb9f0df]: Council of Trent, “Decree on Justification,” Session VI, 13 Jan 1547 in, <em>Creeds and Confessions of Faith in the Christian Tradition</em>, 4 vols. (New Haven, CT: Yale University Press, 2003), 2:826-39, esp. 831; Robert Bellarmine, <em>De Iustificatione Impii Libri Quinque</em> 4.18, in <em>Disputationum Roberti Bellarmini</em> (Naples, 1858), 593–97; John W. O’Malley, <em>Trent: What Happened at the Council</em> (Cambridge, MA: Belknap, 2013), 102–16; Hubert Jedin, <em>Papal Legate at the Council of Trent: Cardinal Seripando</em> (St. Louis: B. Herder Book Co., 1947), 326–92; Jedin, <em>A History of the Council of Trent</em>, 2 vols. (London: Thomas Nelson and Sons, 1963), 166–96.
+[^54b43d82-5233-48d8-a250-d0ddbeb9f0df]: Council of Trent, “Decree on Justification,” Session VI, 13 Jan 1547 in, _Creeds and Confessions of Faith in the Christian Tradition_, 4 vols. (New Haven, CT: Yale University Press, 2003), 2:826-39, esp. 831; Robert Bellarmine, _De Iustificatione Impii Libri Quinque_ 4.18, in _Disputationum Roberti Bellarmini_ (Naples, 1858), 593–97; John W. O’Malley, _Trent: What Happened at the Council_ (Cambridge, MA: Belknap, 2013), 102–16; Hubert Jedin, _Papal Legate at the Council of Trent: Cardinal Seripando_ (St. Louis: B. Herder Book Co., 1947), 326–92; Jedin, _A History of the Council of Trent_, 2 vols. (London: Thomas Nelson and Sons, 1963), 166–96.
 
-[^94f4d8d3-c583-4814-a7e4-b8386d6bec00]: Piper, <em>Saving Faith</em>, 62 n.9.
+[^94f4d8d3-c583-4814-a7e4-b8386d6bec00]: Piper, _Saving Faith_, 62 n.9.
 
-[^df43bbac-3640-49b2-843b-c958a696b6f8]: Piper, <em>Saving Faith</em>, 71.
+[^df43bbac-3640-49b2-843b-c958a696b6f8]: Piper, _Saving Faith_, 71.
 
-[^ce3f2872-201a-4b1d-8e22-ac74426d3650]: Piper, <em>Saving Faith</em>, 193.
+[^ce3f2872-201a-4b1d-8e22-ac74426d3650]: Piper, _Saving Faith_, 193.
 
-[^fb1501ba-a96f-4e75-ab54-9626c18acc0b]: Piper, <em>Saving Faith</em>, 194.
+[^fb1501ba-a96f-4e75-ab54-9626c18acc0b]: Piper, _Saving Faith_, 194.
 
-[^0226e439-4335-4b23-b8ac-c1e5d268a460]: Piper, <em>Saving Faith</em>, 71, 194.
+[^0226e439-4335-4b23-b8ac-c1e5d268a460]: Piper, _Saving Faith_, 71, 194.
 
-[^1ea352b3-99e4-4f1e-b697-90c052bc497a]: Piper, <em>Saving Faith</em>, 194.
+[^1ea352b3-99e4-4f1e-b697-90c052bc497a]: Piper, _Saving Faith_, 194.
 
-[^94c88e65-851a-4deb-be40-6b6c8e0301b1]: The following analysis of Edwards appears in J. V. Fesko, <em>The Covenant of Redemption: Origins, Development, and Reception</em> (Göttingen: Vandenhoeck &amp; Ruprecht, 2016), 133-35.
+[^94c88e65-851a-4deb-be40-6b6c8e0301b1]: The following analysis of Edwards appears in J. V. Fesko, _The Covenant of Redemption: Origins, Development, and Reception_ (Göttingen: Vandenhoeck & Ruprecht, 2016), 133-35.
 
-[^5743c646-c67c-4fd4-9d4c-4b439d9a120a]: Edwards, Misc. 411, “Faith,” in <em>The “Miscellanies,” a-500</em>, <em>The Works of Jonathan Edwards</em>, vol. 13, ed. Thomas A Schafer (New Haven, CT: Yale University Press, 1994), 471.
+[^5743c646-c67c-4fd4-9d4c-4b439d9a120a]: Edwards, Misc. 411, “Faith,” in _The “Miscellanies,” a-500_, _The Works of Jonathan Edwards_, vol. 13, ed. Thomas A Schafer (New Haven, CT: Yale University Press, 1994), 471.
 
-[^0208ddcf-e0f8-4f9c-9d10-ed55787c5772]: Turretin, <em>Institutes</em>, XV.viii.3.
+[^0208ddcf-e0f8-4f9c-9d10-ed55787c5772]: Turretin, _Institutes_, XV.viii.3.
 
-[^f3e9ba47-9970-4277-9c2a-208b0909cf04]: Turretin, <em>Institutes</em>, XV.x.5.
+[^f3e9ba47-9970-4277-9c2a-208b0909cf04]: Turretin, _Institutes_, XV.x.5.
 
-[^31614f93-1cd9-4475-9ec5-283878fea894]: Turretin, <em>Institutes</em>, XV.xiii.6.
+[^31614f93-1cd9-4475-9ec5-283878fea894]: Turretin, _Institutes_, XV.xiii.6.
 
-[^25182bd8-c147-4321-afb7-e0fd5313bdd0]: Robert W. Caldwell, <em>Communion in the Spirit: The Holy Spirit as the Bond of Union in the Theology of Jonathan Edwards</em> (Milton Keynes: Paternoster, 2006), 130-31.
+[^25182bd8-c147-4321-afb7-e0fd5313bdd0]: Robert W. Caldwell, _Communion in the Spirit: The Holy Spirit as the Bond of Union in the Theology of Jonathan Edwards_ (Milton Keynes: Paternoster, 2006), 130-31.
 
-[^c40a4756-2d6a-44e7-99b7-618f58f8c57b]: Edwards, “Faith,” nos. 20, 26, 140, 141, 148, in <em>Writings on the Trinity, Grace, and Faith</em>, <em>The Works of Jonathan Edwards</em>, vol. 21, ed. Sang Hyun Lee (New Haven, CT: Yale University Press, 2003), 420-21, 422, 464, 467.
+[^c40a4756-2d6a-44e7-99b7-618f58f8c57b]: Edwards, “Faith,” nos. 20, 26, 140, 141, 148, in _Writings on the Trinity, Grace, and Faith_, _The Works of Jonathan Edwards_, vol. 21, ed. Sang Hyun Lee (New Haven, CT: Yale University Press, 2003), 420-21, 422, 464, 467.
 
-[^0d143a7e-e018-4ef6-bb38-d019e159c9ec]: Edwards, “Faith,” nos. 140-41, in <em>Works</em>, 21:464.
+[^0d143a7e-e018-4ef6-bb38-d019e159c9ec]: Edwards, “Faith,” nos. 140-41, in _Works_, 21:464.
 
-[^816d394e-30ba-47f5-a32a-a6987220c4fd]: Edwards, “Faith,” no. 141, in <em>Works</em>, 21:464 n. 9.
+[^816d394e-30ba-47f5-a32a-a6987220c4fd]: Edwards, “Faith,” no. 141, in _Works_, 21:464 n. 9.
 
-[^08f5d34c-2631-4667-8432-551fc94b29e4]: Edwards, “Faith,” no. 148, in <em>Works</em>, 21:467-68.
+[^08f5d34c-2631-4667-8432-551fc94b29e4]: Edwards, “Faith,” no. 148, in _Works_, 21:467-68.
 
-[^0930086e-d974-41f6-85a8-64c081f9d7c6]: Piper, <em>Saving Faith</em>, 57.McClenahan, <em>Jonathan Edwards and Justification by Faith</em> (Aldershot: Ashgate, 2012), 72-76; Carl R. Trueman, <em>John Owen: Reformed Catholic, Renaissance Man</em> (Aldershot: Ashgate, 2007), 123-25.
+[^0930086e-d974-41f6-85a8-64c081f9d7c6]: Piper, _Saving Faith_, 57.McClenahan, _Jonathan Edwards and Justification by Faith_ (Aldershot: Ashgate, 2012), 72-76; Carl R. Trueman, _John Owen: Reformed Catholic, Renaissance Man_ (Aldershot: Ashgate, 2007), 123-25.
 
-[^397e8342-3678-42d0-b613-c61bf5c5aafb]: McClenahan, <em>Edwards and Justification by Faith</em>, 73.
+[^397e8342-3678-42d0-b613-c61bf5c5aafb]: McClenahan, _Edwards and Justification by Faith_, 73.
 
-[^c35a816f-d18a-46cb-9817-dad59a935129]: Owen, <em>Justification</em>, 231.
+[^c35a816f-d18a-46cb-9817-dad59a935129]: Owen, _Justification_, 231.
 
-[^5a48a100-0e05-417f-88ba-674136333ea4]: Owen, <em>Justification</em>, 103-04.
+[^5a48a100-0e05-417f-88ba-674136333ea4]: Owen, _Justification_, 103-04.
 
-[^148a78fd-7610-42d1-b89f-908aaf2a9a3b]: William Sherlock, <em>A Discourse Concerning the Knowledge of Jesus Christ, and Our Union and Communion with him, etc.</em> (London: Walter Kettilby, 1674), 173-74.
+[^148a78fd-7610-42d1-b89f-908aaf2a9a3b]: William Sherlock, _A Discourse Concerning the Knowledge of Jesus Christ, and Our Union and Communion with him, etc._ (London: Walter Kettilby, 1674), 173-74.
 
-[^8f794575-1e6e-4e53-96e7-2e0232bf38d9]: Piper, <em>Saving Faith</em>, 57.
+[^8f794575-1e6e-4e53-96e7-2e0232bf38d9]: Piper, _Saving Faith_, 57.

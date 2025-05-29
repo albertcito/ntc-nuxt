@@ -35,7 +35,9 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
       <figure v-if="page.image" class="mb-4">
         <div class="relative">
           <img
-            :src="`/img/articulos/${page.image.src}`"
+            :src="page.image.src.substring(0, 4) === 'http'
+              ? page.image.src
+              :`/img/articulos/${page.image.src}`"
             :alt="page.image.alt"
             class="w-full rounded-lg object-cover object-center"
           >
@@ -55,7 +57,7 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
         </div>
         <figcaption class="text-sm text-neutral-500 text-right">
           <span>
-            {{ page.image.alt }}
+            {{ page.image.descr }}
           </span>
         </figcaption>
       </figure>

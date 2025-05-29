@@ -1,14 +1,15 @@
 ---
 title: "Biblia, Divorcio y abuso matrimonial"
 date: 2023-12-04
-categories: 
+categories:
   - "featured"
   - "teologia"
-tags: 
+tags:
   - "familia"
   - "greg-bahnsen"
 image:
-  src: abuso-violencia-mujer.jpg
+  src: https://cdn.pixabay.com/photo/2019/05/16/17/02/violence-4207549_1280.jpg
+  alt: Hombre abusando de mujer
   cc: https://pixabay.com/photos/violence-abuse-aggression-bullying-4207549/
 ---
 
@@ -18,11 +19,16 @@ Durante los últimos meses, he estado estudiando las Tesis sobre divorcio y abus
 
 Permítanme proporcionar algunas de las tesis sin más explicaciones por parte de Bahnsen o mía:
 
-> **E**. El alcance de la “fornicación” en el uso bíblico es más amplio que el adulterio e incluso más amplio que las relaciones sexuales ilícitas.  
-> **F**. Las únicas formas de “fornicación” que proporcionan motivos justos para el divorcio son aquellas que violan los compromisos esenciales del pacto matrimonial.  
-> **G**. Las obligaciones del pacto matrimonial incluyen al menos “dejar al padre y a la madre”, “unirse” al cónyuge y convertirse en “una sola carne”.  
-> **H**. A la luz del voto de ser “una sola carne” podemos entender que la infidelidad sexual rompe el pacto matrimonial y es, como tal, motivo de divorcio.  
-> **I**. A la luz del voto de “dejar al padre y a la madre”, podemos entender que el abandono del cónyuge rompe el pacto matrimonial y es, como tal, causal de divorcio.  
+> **E**. El alcance de la “fornicación” en el uso bíblico es más amplio que el adulterio e incluso más amplio que las relaciones sexuales ilícitas.
+
+> **F**. Las únicas formas de “fornicación” que proporcionan motivos justos para el divorcio son aquellas que violan los compromisos esenciales del pacto matrimonial.
+
+> **G**. Las obligaciones del pacto matrimonial incluyen al menos “dejar al padre y a la madre”, “unirse” al cónyuge y convertirse en “una sola carne”.
+
+> **H**. A la luz del voto de ser “una sola carne” podemos entender que la infidelidad sexual rompe el pacto matrimonial y es, como tal, motivo de divorcio.
+
+> **I**. A la luz del voto de “dejar al padre y a la madre”, podemos entender que el abandono del cónyuge rompe el pacto matrimonial y es, como tal, causal de divorcio.
+
 > **J**. A la luz del voto de “unirse” el uno al otro, podemos entender por qué intentar destruir la vida del cónyuge rompe el pacto matrimonial y, como tal, es motivo de divorcio.
 
 Quisiera señalar aquí que las conclusiones H e I están exactamente en línea con el capítulo 24 de la Confesión de Westminster. Ésta es, por tanto, una posición presbiteriana estándar. Si examina los argumentos de Bahnsen en el documento original, encontrará que también es una posición bíblica.
