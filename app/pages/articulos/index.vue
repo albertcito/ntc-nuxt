@@ -19,7 +19,7 @@ const pageNumber = computed(() => (valid.value.isValid ? valid.value.value : 1))
   <Articulos
     v-model:page="pageNumber"
     path="/articulos"
-    image-path="/img/posts"
+    image-path="/img/articulos"
     :items-per-page="6"
     :title="page.title"
   />

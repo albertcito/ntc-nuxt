@@ -15,7 +15,7 @@ export default defineContentConfig({
         image: z.object({
           src: z.string().min(1),
           alt: z.string().min(1),
-          link: z.string().optional()
+          cc: z.string().optional()
         })
       })
     }),

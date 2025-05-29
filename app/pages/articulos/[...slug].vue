@@ -35,22 +35,23 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
       <figure v-if="page.image" class="mb-4">
         <div class="relative">
           <img
-            :src="`/img/posts/${page.image.src}`"
+            :src="`/img/articulos/${page.image.src}`"
             :alt="page.image.alt"
             class="w-full rounded-lg object-cover object-center"
           >
-          <a
-            v-if="page.image.link"
-            :href="page.image.link"
+          <UButton
+            v-if="page.image.cc"
+            icon="i-lucide-info"
+            size="sm"
+            color="neutral"
+            variant="soft"
+            :href="page.image.cc"
             target="_blank"
             rel="noopener noreferrer"
-            class="absolute bottom-0 right-2"
+            class="absolute bottom-2 right-2 opacity-30 hover:opacity-100 p-0.5"
             title="Creditos de la imagen"
             aria-label="Creditos de la imagen"
-          >
-            <span class="sr-only">Creditos de la imagen</span>
-            <UIcon name="i-lucide-info" class="pt-1" />
-          </a>
+          />
         </div>
         <figcaption class="text-sm text-neutral-500 text-right">
           <span>
