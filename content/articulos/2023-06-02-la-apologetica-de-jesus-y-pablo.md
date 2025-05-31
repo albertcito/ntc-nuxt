@@ -1,10 +1,10 @@
 ---
 title: "La apologética de Jesús y Pablo"
 date: 2023-06-02
-categories: 
+type: 'article'
+categories:
   - "apologetica"
-  - "featured"
-tags: 
+tags:
   - "apologetica"
   - "gordon-clark"
   - "john-w-robbins"
@@ -23,7 +23,7 @@ Los métodos de la apologética cristiana se pueden dividir en dos partes, lógi
 Quizás el mejor lugar para comenzar es con una discusión de la apologética de Jesús en los Evangelios. Comencemos con su apelación constante a las Escrituras. 
 
 > Entonces Jesús fue llevado por el Espíritu al desierto, para ser tentado por el diablo. Y después de haber ayunado cuarenta días y cuarenta noches, tuvo hambre. Y vino a él el tentador, y le dijo: Si eres Hijo de Dios, di que estas piedras se conviertan en pan. Él respondió y dijo: Escrito está: No solo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios. Entonces el diablo le llevó a la santa ciudad, y le puso sobre el pináculo del templo, y le dijo: Si eres Hijo de Dios, échate abajo; porque escrito está: A sus ángeles mandará acerca de ti, y, En sus manos te sostendrán, Para que no tropieces con tu pie en piedra. Jesús le dijo: Escrito está también: No tentarás al Señor tu Dios. Otra vez le llevó el diablo a un monte muy alto, y le mostró todos los reinos del mundo y la gloria de ellos, y le dijo: Todo esto te daré, si postrado me adorares. Entonces Jesús le dijo: Vete, Satanás, porque escrito está: Al Señor tu Dios adorarás, y a él sólo servirás. El diablo entonces le dejó; y he aquí vinieron ángeles y le servían.
-> 
+>
 > Mateo 4:1-11 - RV60
 
 Hay varios puntos importantes a tener en cuenta en este relato. Primero, la única defensa de Cristo en este encuentro apologético de la mayor importancia es la Escritura. En respuesta a los desafíos del diablo, él no apela a nada excepto a las Escrituras.
@@ -33,15 +33,15 @@ En segundo lugar, apela exclusivamente a las Escrituras a pesar de que inmediata
 Tercero, el fracaso de Cristo en apelar a la experiencia o al milagro indica que estos no tienen autoridad en la apologética. No son ni necesarios ni suficientes en la apologética. La Escritura es tanto necesaria como suficiente. Las experiencias pueden ser erróneas y los milagros pueden engañar, pero las Escrituras no pueden ser ni erróneas ni engañosas. Posteriormente durante su ministerio habla de la utilidad apologética de los milagros:
 
 > Había un hombre rico, que se vestía de púrpura y de lino fino, y hacía cada día banquete con esplendidez. <sup>20</sup> Había también un mendigo llamado Lázaro, que estaba echado a la puerta de aquel, lleno de llagas, <sup>21</sup> y ansiaba saciarse de las migajas que caían de la mesa del rico; y aun los perros venían y le lamían las llagas. <sup>22</sup> Aconteció que murió el mendigo, y fue llevado por los ángeles al seno de Abraham; y murió también el rico, y fue sepultado. <sup>23</sup> Y en el Hades alzó sus ojos, estando en tormentos, y vio de lejos a Abraham, y a Lázaro en su seno. <sup>24</sup> Entonces él, dando voces, dijo: Padre Abraham, ten misericordia de mí, y envía a Lázaro para que moje la punta de su dedo en agua, y refresque mi lengua; porque estoy atormentado en esta llama. <sup>25</sup> Pero Abraham le dijo: Hijo, acuérdate que recibiste tus bienes en tu vida, y Lázaro también males; pero ahora este es consolado aquí, y tú atormentado. <sup>26</sup> Además de todo esto, una gran sima está puesta entre nosotros y vosotros, de manera que los que quisieren pasar de aquí a vosotros, no pueden, ni de allá pasar acá. <sup>27</sup> Entonces le dijo: Te ruego, pues, padre, que le envíes a la casa de mi padre, <sup>28</sup> porque tengo cinco hermanos, para que les testifique, a fin de que no vengan ellos también a este lugar de tormento. <sup>29</sup> Y Abraham le dijo: A Moisés y a los profetas tienen; óiganlos. <sup>30</sup> Él entonces dijo: No, padre Abraham; pero si alguno fuere a ellos de entre los muertos, se arrepentirán. <sup>31</sup> Mas Abraham le dijo: Si no oyen a Moisés y a los profetas, tampoco se persuadirán aunque alguno se levantare de los muertos.
-> 
+>
 > Lucas 16:19-31 - RV60
 
 Los apologistas convencionales, a diferencia de Abraham y Cristo, dan mucha importancia a los milagros, incluido el milagro de la propia resurrección de Cristo. Por ejemplo, John Gerstner, RC Sproul y Arthur Lindsley escriben en su libro _Classical Apologetics:_
 
 > ¿Qué les daría Dios a sus mensajeros que todos pudieran ver y que pudiera provenir únicamente de Dios? Dado que el poder del milagro pertenece solo a Dios, los milagros son un vehículo adecuado y adecuado de atestación (144).
-> 
+>
 > Si el infinito poder natural es el último argumento para la existencia de Dios, el infinito poder sobrenatural (milagro) es el último argumento para la revelación de Dios. Si Satanás pudiera hacer milagros, no podríamos probar ni a Dios ni Su revelación. Si Dios o Satanás pudieran hacer verdaderos milagros, no aprenderíamos precisamente nada de ellos (157).
-> 
+>
 > En resumen, enfatizamos nuevamente la indispensabilidad de los milagros genuinos. Ellos y solo ellos finalmente prueban que Cristo es el Hijo de Dios y que la Biblia es la Palabra de Dios (161).
 
 Pero, por supuesto, estos señores yerran al no conocer las Escrituras, porque el poder de hacer milagros no pertenece solo a Dios. Por lo tanto, como Satanás puede hacer milagros, estos señores no pueden probar ni a Dios ni a su revelación.
@@ -49,7 +49,7 @@ Pero, por supuesto, estos señores yerran al no conocer las Escrituras, porque e
 Hace quinientos años, un apologista cristiano, Martín Lutero, no ignoraba tanto las Escrituras. El escribió:
 
 > El asunto de suprema importancia para nosotros es apreciar el valor y el uso de la Escritura, es decir, saber que es un testimonio de todos los artículos de Cristo, y además el testimonio más elevado, el testimonio que supera con mucho a todos los milagros. Cristo se lo indica al rico (_Lucas_ 16:29-31). Tienen a Moisés ya los Profetas, le dijo; si no les creen, ciertamente será menos probable que crean si uno resucitó de entre los muertos. Los muertos pueden engañarnos, pero las Escrituras no. Este, entonces, es el punto que nos obliga a tener la Escritura en alta estima. Y de hecho Cristo mismo aquí lo sostiene como el mejor testigo. Dice en efecto: ¿Leéis los Profetas y sin embargo no creéis? . . . Entonces Cristo quiere enfatizarlo aún más que su apariencia. No dice: ¿Por qué no queréis creer a las mujeres que os dijeron que yo había resucitado? Tampoco dice: ¿Por qué no queréis creer a los ángeles que dieron testimonio de mi resurrección? Simplemente los dirige de sí mismo a la Palabra y la Escritura .
-> 
+>
 > _What Luther Says_ , Plass, ed., 66-67
 
 El Evangelio es más poderoso para condenar a un hombre que todos los milagros para elevarlo; porque el evangelio ni falla ni miente, pero los milagros son muy engañosos. Así, San Pablo dice (2 Tesalonicenses 2:9) que el Anticristo debe tratar con señales falsas para engañar incluso si fuera posible a los elegidos (Mateo 24:24): En Deuteronomio 13:5 Moisés también escribe que simplemente no debemos creer en ningún milagro si tiende a contradecir la Palabra de Dios. Porque las señales son para servir y seguir la Palabra y no para pronunciar la palabra decisiva.
@@ -59,7 +59,7 @@ La Escritura no es simplemente el mejor argumento, es el único fundamento de la
 Cuarto, Cristo apela a las Escrituras, aunque él mismo es Dios. La revelación escrita tiene mayor autoridad que sus propias palabras habladas. También apela a las Escrituras en lugar de a la voz del Cielo. Pedro explica por qué en su segunda carta:
 
 > <sup>18</sup> Y nosotros oímos esta voz enviada del cielo, cuando estábamos con él en el monte santo. <sup>19</sup> Tenemos también la palabra profética más segura, a la cual hacéis bien en estar atentos como a una antorcha que alumbra en lugar oscuro, hasta que el día esclarezca y el lucero de la mañana salga en vuestros corazones; <sup>20</sup> entendiendo primero esto, que ninguna profecía de la Escritura es de interpretación privada, <sup>21</sup> porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo.
-> 
+>
 > 2 Pedro 1:18-21 - RV60
 
 Quinto, Cristo no apela a nada más que a las Escrituras, incluso cuando el mismo diablo cita las Escrituras. Los evidencialistas suelen decir que cuando las interpretaciones de las Escrituras difieren, las diferencias deben resolverse apelando a algo que no sea la Escritura. Cristo no hace nada por el estilo, sin duda otro error apologético desde el punto de vista de los evidencialistas, razón por la cual prefieren a Aristóteles que a Cristo. Cristo responde citando las Escrituras al diablo, corrigiendo su mala interpretación. La Escritura, como dice la Confesión de Westminster, es el único intérprete infalible de la Escritura. No hay mayor autoridad. Cristo no resuelve esta disputa apelando a una autoridad menor que la Palabra escrita de Dios, y nosotros tampoco deberíamos hacerlo.
@@ -87,7 +87,7 @@ En casos específicos, donde la apologética convencional requeriría que Cristo
 Hay tantos ejemplos del uso de la lógica por parte de Cristo como de sus apelaciones a las Escrituras. Sin embargo, permítanme comenzar con la conversación que ocurre en Mateo 22, en la que los saduceos atacan la resurrección:
 
 > <sup>23</sup> Aquel día vinieron a él los saduceos, que dicen que no hay resurrección, y le preguntaron, <sup>24</sup> diciendo: Maestro, Moisés dijo: Si alguno muriere sin hijos, su hermano se casará con su mujer, y levantará descendencia a su hermano. <sup>25</sup> Hubo, pues, entre nosotros siete hermanos; el primero se casó, y murió; y no teniendo descendencia, dejó su mujer a su hermano. <sup>26</sup> De la misma manera también el segundo, y el tercero, hasta el séptimo. <sup>27</sup> Y después de todos murió también la mujer. <sup>28</sup> En la resurrección, pues, ¿de cuál de los siete será ella mujer, ya que todos la tuvieron? <sup>29</sup> Entonces respondiendo Jesús, les dijo: Erráis, ignorando las Escrituras y el poder de Dios. <sup>30</sup> Porque en la resurrección ni se casarán ni se darán en casamiento, sino serán como los ángeles de Dios en el cielo. <sup>31</sup> Pero respecto a la resurrección de los muertos, ¿no habéis leído lo que os fue dicho por Dios, cuando dijo: <sup>32</sup> Yo soy el Dios de Abraham, el Dios de Isaac y el Dios de Jacob? Dios no es Dios de muertos, sino de vivos. <sup>33</sup> Oyendo esto la gente, se admiraba de su doctrina.
-> 
+>
 > Mateo 22:23-33 - RV60
 
 He aquí la situación: Los saduceos no creían en la resurrección porque pensaban que conducía a una conclusión absurda ya un problema insoluble: una esposa resucitada con siete maridos resucitados. Pero Cristo les resuelve el problema citando las Escrituras y usando la lógica. Él les dice primero que están equivocados. No busca conciliar un terreno común con los incrédulos saduceos. Estás equivocado, aseguró. Luego les dice por qué están equivocados: no conocen las Escrituras. Les reprocha no darse cuenta de algo que deberían haber comprendido en su estudio de las Escrituras: el matrimonio termina con la muerte. De hecho, su propio argumento incluía la presunción de que el matrimonio termina con la muerte. Si el matrimonio no terminaba con la muerte, entonces los matrimonios sucesivos de la mujer con los hermanos, mientras aún estaban casados, eran en sí mismos pecaminosos. Pero si el matrimonio termina con la muerte, entonces ¿Por qué la mujer resucitada tendría maridos, y mucho menos siete? Los saduceos debieron darse cuenta de que en la resurrección ni se casan ni se dan en matrimonio. No se dieron cuenta de las implicaciones de sus propias palabras. Cristo los juzga por sus propias palabras. Sus propias palabras los juzgan. Los saduceos tampoco reconocieron las implicaciones lógicas de la afirmación que Cristo cita del Antiguo Testamento: Dios no es Dios de muertos, sino de vivos. Debido a que el verbo está en tiempo presente, Abraham, Isaac y Jacob están vivos, y la muerte no es el fin de la vida, aunque es el fin del matrimonio. Este es un ejemplo del razonamiento deductivo de Cristo. No usa el razonamiento inductivo, por razonamiento inductivo, a menos que la inducción pueda completarse, lo cual es bastante raro, siempre es falaz, y el Logos no argumenta falazmente.
@@ -95,7 +95,7 @@ He aquí la situación: Los saduceos no creían en la resurrección porque pensa
 Otro ejemplo de deducción puede encontrarse en Juan 8:47
 
 > El que es de Dios, las palabras de Dios oye; por esto no las oís vosotros, porque no sois de Dios.
-> 
+>
 > Juan 8:47 - RV60
 
 En forma categórica el argumento aparece así:
@@ -113,7 +113,7 @@ Note el calvinismo completo de la enseñanza de Cristo. Los arminianos tienden 
 Estas deducciones son bastante sencillas, y hay muchas más. Sin embargo, muchos de los argumentos de Cristo se malinterpretan. Toma esta conversación en _Mateo_ 16:1-4:
 
 > Vinieron los fariseos y los saduceos para tentarle, y le pidieron que les mostrase señal del cielo. Mas él respondiendo, les dijo: Cuando anochece, decís: Buen tiempo; porque el cielo tiene arreboles. Y por la mañana: Hoy habrá tempestad; porque tiene arreboles el cielo nublado. ¡Hipócritas! Sabéis distinguir el aspecto del cielo, ¡mas las señales de los tiempos no podéis! La generación mala y adúltera demanda señal; pero señal no le será dada, sino la señal del profeta Jonás. Y dejándolos, se fue.
-> 
+>
 > Mateo 16:1-4 - RV60
 
 Aparentemente Cristo escogió esta ilustración del clima porque los judíos habían pedido una señal del Cielo. Incluso en su ilustración argumentó _ad hominem._ Ahora, algunos comentaristas han malinterpretado esta ilustración como si significara que Cristo aprobó la epistemología empírica y las habilidades de pronóstico del tiempo de los judíos incrédulos. Ahora, dudo que incluso el empirista o evidencialista más entusiasta esté dispuesto a decir que el pronóstico del tiempo produce conocimiento. Es, más bien, uno de los ejemplos más comunes de conjeturas. Y si alguien piensa que Cristo dijo que los judíos adquirieron conocimiento mediante el pronóstico del tiempo, ha entendido completamente mal lo que Cristo dijo.
@@ -123,7 +123,7 @@ Primero, las palabras de Cristo son un argumento apagógico o _ad hominem_. Cr
 Cristo usa repetidamente este método de argumentación frecuentemente mal entendido. Por ejemplo, en _Mateo_ 9:10-13 leemos:
 
 > <sup>10</sup> Y aconteció que estando él sentado a la mesa en la casa, he aquí que muchos publicanos y pecadores, que habían venido, se sentaron juntamente a la mesa con Jesús y sus discípulos. <sup>11</sup> Cuando vieron esto los fariseos, dijeron a los discípulos: ¿Por qué come vuestro Maestro con los publicanos y pecadores? <sup>12</sup> Al oír esto Jesús, les dijo: Los sanos no tienen necesidad de médico, sino los enfermos. <sup>13</sup> Id, pues, y aprended lo que significa: Misericordia quiero, y no sacrificio. Porque no he venido a llamar a justos, sino a pecadores, al arrepentimiento.[](https://www.biblegateway.com/passage/?search=Mateo%209&version=RVR1960){target=blank}
-> 
+>
 > Mateo 9:10-13 - RV60
 
 Ahora, presumiblemente incluso los apologistas convencionales estarían de acuerdo en que Cristo no estaba afirmando que los fariseos eran justos y estaban bien. Estaba simplemente, por el bien del argumento, adoptando su propia visión de sí mismos y explicando, sobre esa base, por qué no comía con ellos: ellos, estando bien, no tenían necesidad de un médico. En este caso, su _ad hominem_ el método de argumentación es muy claro, pero en otros casos, como el del clima, algunos pueden confundirse inicialmente. Sin embargo, no hay versos evidencialistas en las Escrituras, como tampoco hay versos arminianos. Solo hay versículos que, si se leen superficialmente, pueden sonar evidencialistas o arminianos, pero cuando uno entiende lo que se ha escrito, queda claro que ni el evidencialista ni el arminianismo se enseñan en ninguna parte de las Escrituras. Ambos son glosas paganas de las Escrituras, leyendo las Escrituras a través de lentes aristotélicos o pelagianos.
@@ -131,13 +131,13 @@ Ahora, presumiblemente incluso los apologistas convencionales estarían de acuer
 En _Juan_ 9:40-41 encontramos otro argumento apagógico o _ad hominem :_
 
 > Entonces algunos de los fariseos que estaban con él, al oír esto, le dijeron: ¿Acaso nosotros somos también ciegos? Jesús les respondió: Si fuerais ciegos, no tendríais pecado; mas ahora, porque decís: Vemos, vuestro pecado permanece.
-> 
+>
 > Juan 9:40-41 - RV60
 
 Antes de pasar a la apologética de Pablo, permítanme señalar una conversación en la que Cristo “perdió” una discusión. En _Mateo_ 15 leemos:
 
 > Saliendo Jesús de allí, se fue a la región de Tiro y de Sidón. Y he aquí una mujer cananea que había salido de aquella región clamaba, diciéndole: ¡Señor, Hijo de David, ten misericordia de mí! Mi hija es gravemente atormentada por un demonio. Pero Jesús no le respondió palabra. Entonces acercándose sus discípulos, le rogaron, diciendo: Despídela, pues da voces tras nosotros. <sup>24</sup> Él respondiendo, dijo: No soy enviado sino a las ovejas perdidas de la casa de Israel. Entonces ella vino y se postró ante él, diciendo: ¡Señor, socórreme! Respondiendo él, dijo: No está bien tomar el pan de los hijos, y echarlo a los perrillos. Y ella dijo: Sí, Señor; pero aun los perrillos comen de las migajas que caen de la mesa de sus amos. Entonces respondiendo Jesús, dijo: Oh mujer, grande es tu fe; hágase contigo como quieres. Y su hija fue sanada desde aquella hora.
-> 
+>
 > Mateo 15:21-28 - RV60
 
 Esta mujer cananea usó un argumento _ad hominem_ para persuadir a Cristo de sanar a su hija. Cristo alaba su uso del argumento como un acto de gran fe. La fe, la humildad, la fuerza y ​​la inteligencia de la mujer se ven claramente en su discusión con Cristo.
@@ -165,7 +165,7 @@ Pablo continúa: “siendo entendido”: “visibles” es una metáfora de “e
 Quizás el ejemplo más famoso del uso de Pablo del razonamiento deductivo en un argumento _ad hominem_ es, por supuesto, _1 Corintios_ 15:
 
 > <sup>12</sup> Pero si se predica de Cristo que resucitó de los muertos, ¿cómo dicen algunos entre vosotros que no hay resurrección de muertos? <sup>13</sup> Porque si no hay resurrección de muertos, tampoco Cristo resucitó. <sup>14</sup> Y si Cristo no resucitó, vana es entonces nuestra predicación, vana es también vuestra fe. <sup>15</sup> Y somos hallados falsos testigos de Dios; porque hemos testificado de Dios que él resucitó a Cristo, al cual no resucitó, si en verdad los muertos no resucitan. <sup>16</sup> Porque si los muertos no resucitan, tampoco Cristo resucitó; <sup>17</sup> y si Cristo no resucitó, vuestra fe es vana; aún estáis en vuestros pecados. <sup>18</sup> Entonces también los que durmieron en Cristo perecieron. <sup>19</sup> Si en esta vida solamente esperamos en Cristo, somos los más dignos de conmiseración de todos los hombres.
-> 
+>
 > 1 Corintios 15:12-19 - RV60
 
 En este brillante pasaje, Pablo deduce varias consecuencias de la opinión de sus oponentes de que no hay resurrección. Está tratando de hacerles ver las implicaciones lógicas de su punto de vista, y así persuadirlos de que su punto de vista es falso. Estas son las implicaciones que extrae de la proposición de que no hay resurrección:
@@ -191,11 +191,11 @@ Algunas de ellas las deriva por inferencia inmediata; algunos por argumentos ex
 Para cerrar este artículo, permítanme citar primero a John Wycliffe y luego a Martín Lutero.
 
 > Toda la ley, toda la filosofía, toda la lógica y toda la ética están en las Sagradas Escrituras. En la Sagrada Escritura está toda la verdad. Todo cristiano debe estudiar este libro, porque es toda la verdad.
-> 
+>
 > Wycliffe
 
 > Si una persona fuera encarcelada en una casa en la oscuridad de la noche, cuando está completamente oscuro, sería necesario encender una luz para permitirle ver hasta el amanecer. Así resplandece verdaderamente el Evangelio en la oscuridad de la noche y en la oscuridad; pues toda razón humana es mero error y ceguera, y el mundo mismo no es más que un reino de tinieblas. Ahora bien, en estas tinieblas Dios ha encendido la luz, es decir, el Evangelio, para que podamos ver y caminar mientras estemos en la Tierra, hasta que llegue la aurora y despunte el día.
-> 
+>
 > Lutero
 
 Así este texto (Salmos 119:105) también se opone fuertemente a todas las doctrinas humanas; porque siendo la Palabra de Dios la luz en un lugar oscuro y tenebroso, se sigue que todo lo demás es oscuridad. Porque si hubiera otra luz, aparte de la Palabra, San Pedro no habría hablado como lo hizo. Por lo tanto, no consideren cuán inteligentes son los hombres que enseñan una doctrina diferente y cuán impresionantemente presentan su caso. Si no puedes rastrearlo hasta la Palabra de Dios, entonces no dudes que es mera oscuridad, y no dejes que te moleste en absoluto que digan que tienen el Espíritu Santo. ¿Cómo pueden tener el Espíritu de Dios si no tienen su Palabra? Por eso no hacen más que llamar luz a las tinieblas y hacer tinieblas a la luz, como dice Isaías.

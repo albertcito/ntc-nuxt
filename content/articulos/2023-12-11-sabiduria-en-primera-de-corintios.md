@@ -1,16 +1,16 @@
 ---
 title: "Sabiduría en Primera de Corintios"
 date: 2023-12-11
-categories: 
+type: 'article'
+categories:
   - "apologetica"
-  - "featured"
   - "teologia"
-tags: 
+tags:
   - "apologetica"
   - "gordon-clark"
   - "logos"
 image:
-  src: Acaya.jpg
+  src: https://upload.wikimedia.org/wikipedia/commons/2/2e/Achaea_SPQR.png
   alt: Mapa del Imperio Romano durante el año 116, destaca la provincia de Acaya (Península del Peloponeso y otras zonas del sur de la actual Grecia).
   cc: https://en.wikipedia.org/wiki/File:Achaea_SPQR.png
 ---

@@ -1,10 +1,10 @@
 ---
 title: "¿Prohíbe la escritura el interés?"
 date: 2023-07-13
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "economia"
   - "gary-north"
 image:
@@ -14,19 +14,19 @@ image:
 ---
 
 > Cuando prestares dinero a uno de mi pueblo, al pobre que está contigo, no te portarás con él como logrero, ni le impondrás usura
-> 
+>
 > Éxodo 22:25
 
 > Y cuando tu hermano empobreciere y se acogiere a ti, tú lo ampararás; como forastero y extranjero vivirá contigo.  No tomarás de él usura ni ganancia, sino tendrás temor de tu Dios, y tu hermano vivirá contigo.  No le darás tu dinero a usura, ni tus víveres a ganancia.
-> 
+>
 > Levítico 25:35-37
 
 > No exigirás de tu hermano interés de dinero, ni interés de comestibles, ni de cosa alguna de que se suele exigir interés. Del extraño podrás exigir interés, mas de tu hermano no lo exigirás, para que te bendiga Jehová tu Dios en toda obra de tus manos en la tierra adonde vas para tomar posesión de ella.
-> 
+>
 > Deuteronomio 23:19-20
 
 > Por tanto, debías haber dado mi dinero a los banqueros, y al venir yo, hubiera recibido lo que es mío con los intereses.
-> 
+>
 > Mateo 25:27
 
 Estos pasajes parecen ser contradictorios. Los pasajes de Éxodo y Levítico son explícitos: la prohibición de los intereses se aplica a los hermanos en la fe que son pobres. El pasaje en Deuteronomio 23 prohíbe tomar interés de un compañero israelita. No especifica que el israelita debe ser pobre. Parece ser más exhaustivo. \[North, [Deuteronomio](https://www.garynorth.com/InheritanceAndDominion2.pdf){target=blank}, cap. 57\] Pero luego llegamos al pasaje de la parábola de Jesús de los talentos, y aquí no hay prohibición alguna. ¿Cómo vamos a clasificar estos pasajes?
@@ -36,13 +36,13 @@ Levítico 25:35-37 también prohíbe la venta de alimentos con ganancia a una pe
 En Deuteronomio 15, encontramos que la prohibición del interés involucra más que una simple prohibición. La ley tenía que ver con la caridad. \[North, [Deuteronomio](https://www.garynorth.com/InheritanceAndDominion2.pdf){target=blank}, cap. 36\] No era solo que a los israelitas no se les permitiera tomar interés de sus hermanos en la fe que habían caído en la pobreza. Dios les dijo que tenían que prestar a estas personas sin interés:
 
 > Cuando haya en medio de ti menesteroso de alguno de tus hermanos en alguna de tus ciudades, en la tierra que Jehová tu Dios te da, no endurecerás tu corazón, ni cerrarás tu mano contra tu hermano pobre, sino abrirás a él tu mano liberalmente, y en efecto le prestarás lo que necesite.
-> 
+>
 > Deuteronomio 15:7–8
 
 Jesús extendió esta ley:
 
 > Y si prestáis a aquellos de quienes esperáis recibir, ¿qué mérito tenéis? Porque también los pecadores prestan a los pecadores, para recibir otro tanto.  Amad, pues, a vuestros enemigos, y haced bien, y prestad, no esperando de ello nada; y será vuestro galardón grande, y seréis hijos del Altísimo; porque él es benigno para con los ingratos y malos.  Sed, pues, misericordiosos, como también vuestro Padre es misericordioso.
-> 
+>
 > Lucas 6:34–36 - \[Ver North, [Lucas](https://garynorth.com/treasureanddominion.pdf){target=blank}, cap. 10\]
 
 Nunca he leído a un expositor cristiano que tome estas palabras literalmente sin calificación. Si esto fuera obligatorio, entonces los infractores del pacto podrían despojar a los cristianos de todas sus riquezas acudiendo constantemente a ellos, pidiéndoles préstamos y luego negándose a pagar nada, incluido todo su capital. Entonces, ¿Qué tenía en mente Jesús? Estaba hablando de la actitud general hacia la misericordia. Si alguien está realmente en una situación desesperada, y un cristiano está en condiciones de ayudar a esta persona, incluso a costa de perder una oportunidad de inversión, debe hacerlo. Pero debe hacerlo sobre esta base: La persona realmente está necesitada, no tiene adónde ir y es una situación de vida o muerte. Si no significa esto, entonces significa que los cristianos perpetuamente estarán subsidiando los estilos de vida autodestructivos de los que rompen el pacto.
@@ -50,7 +50,7 @@ Nunca he leído a un expositor cristiano que tome estas palabras literalmente si
 Las palabras de Jesús deben interpretarse en términos de su contexto. Le estaba hablando a una nación bajo el yugo del Imperio Romano. Esto es lo que escribí en mi comentario sobre este pasaje. Jesús estaba hablando a personas políticamente oprimidas. Los romanos tenían el control. Israel había sido políticamente oprimido por extranjeros desde los cautiverios asirios y babilónicos. Los israelitas habían vivido durante mucho tiempo en imperios cuyos gobernantes no tenían en mente los mejores intereses de los israelitas. La política significa poder. Había gobernantes judíos que eran ejecutores de bajo nivel del poder romano, pero el judío típico estaba fuera de la estructura de poder. Estaba en el extremo receptor del poder político. Por lo tanto, estaba en una posición de debilidad. ¿Cuál es la respuesta adecuada en tal situación? Jesús aquí describió un plan de acción: da más de lo que esperas recibir. Presentó el mismo mensaje en Mateo:
 
 > Oísteis que fue dicho: Ojo por ojo, y diente por diente. Pero yo os digo: No resistáis al que es malo; antes, a cualquiera que te hiera en la mejilla derecha, vuélvele también la otra; y al que quiera ponerte a pleito y quitarte la túnica, déjale también la capa; y a cualquiera que te obligue a llevar carga por una milla, ve con él dos. Al que te pida, dale; y al que quiera tomar de ti prestado, no se lo rehúses.
-> 
+>
 > Mateo 5:38–42. \[North, [Mateo](https://www.garynorth.com/PrioritiesAndDominion.pdf){target=blank}, cap. 9\]
 
 Estas son reglas para un pueblo cautivo. Seguir estas reglas mantiene a las personas fuera de situaciones de confrontación en las que perderán. Aquí están mis comentarios sobre el pasaje de Mateo y el pasaje de Lucas:
@@ -60,7 +60,7 @@ Estas son reglas para un pueblo cautivo. Seguir estas reglas mantiene a las pers
 Con respecto al trato con los hermanos en la fe, los cristianos no deben prestar dinero con intereses a personas en situación de pobreza. Según la ley mosaica, una persona que recibía un préstamo caritativo sin interés y que luego dejaba de pagar el préstamo era puesta en esclavitud hasta el próximo año sabático. Este no era un préstamo sin riesgo. Deuteronomio 15 fue claro al respecto.
 
 > Si se vendiere a ti tu hermano hebreo o hebrea, y te hubiere servido seis años, al séptimo le despedirás libre. Y cuando lo despidieres libre, no le enviarás con las manos vacías. Le abastecerás liberalmente de tus ovejas, de tu era y de tu lagar; le darás de aquello en que Jehová te hubiere bendecido.  Y te acordarás de que fuiste siervo en la tierra de Egipto, y que Jehová tu Dios te rescató; por tanto yo te mando esto hoy.
-> 
+>
 > Deuteronomio 15:12-15
 
 Esta no era la sanción por no pagar un préstamo con fines de lucro. Esto no es un negocio. Se rige por un conjunto diferente de leyes. El préstamo no estaba garantizado por terrenos u otros bienes. El préstamo fue garantizado por la libertad de un hombre.
@@ -112,7 +112,7 @@ Al hacerlo, necesariamente e ineludiblemente se coloca bajo los términos de la 
 La ley de caridad del inventario formaba parte de las leyes que regían el año sabático y el año jubilar. Como demuestro en el capítulo 50, el año sabático y la ley del jubileo fueron anulados por el ministerio de Cristo. Anunció que Él era el cumplimiento del año del jubileo.
 
 > Vino a Nazaret, donde se había criado; y en el día de reposo entró en la sinagoga, conforme a su costumbre, y se levantó a leer.  Y se le dio el libro del profeta Isaías; y habiendo abierto el libro, halló el lugar donde estaba escrito: El Espíritu del Señor está sobre mí, Por cuanto me ha ungido para dar buenas nuevas a los pobres; Me ha enviado a sanar a los quebrantados de corazón; A pregonar libertad a los cautivos, Y vista a los ciegos; A poner en libertad a los oprimidos; A predicar el año agradable del Señor. Y enrollando el libro, lo dio al ministro, y se sentó; y los ojos de todos en la sinagoga estaban fijos en él. Y comenzó a decirles: Hoy se ha cumplido esta Escritura delante de vosotros.
-> 
+>
 > Lucas 4:16-21
 
 Con la abolición del año jubilar vino la abolición del principio del año sabático. \[North, [Lucas](https://www.garynorth.com/PrioritiesAndDominion.pdf){target=blank}, cap. 6\] Por lo tanto, todo el sistema de préstamos caritativos de interés cero moralmente obligatorios, que fueron abolidos en el séptimo año sabático, también llegó a su fin. Estas leyes tenían que ver con la tierra de Israel como la herencia dada por Dios a la generación de la conquista. Las tierras rústicas se remontan a las familias originarias de la conquista. Esta ley no se aplicaba a las ciudades amuralladas (Levítico 25:29–30). Se aplicaba únicamente a terrenos rústicos. Con la abolición de la tierra de Israel como tierra santa, que se produjo en el año 70 d.C., cesaron las leyes del jubileo.

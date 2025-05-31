@@ -1,10 +1,10 @@
 ---
 title: "1 Timoteo 2:12 y la Mujer que Predica"
 date: 2022-04-11
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "mujer"
   - "predicacion"
   - "timoteo"
@@ -39,7 +39,7 @@ Sabemos que estos dones son dados a todos por un mismo Espíritu (1 Corintios 12
 En el capítulo 14 dice:
 
 > vuestras mujeres callen en las congregaciones; porque no les es permitido hablar, sino que estén sujetas, como también la ley lo dice.  Y si quieren aprender algo, pregunten en casa a sus maridos; porque es indecoroso que una mujer hable en la congregación. 
-> 
+>
 > 1 Corintios 14:34-35
 
 Para quienes creen que es un mandato a que la mujer no puede intervenir en absoluto en el culto, les invito a leer el contexto (al menos desde el versículo 26 al 40) y conciliar lo ya demostrado de la mujer que profetiza.
@@ -57,7 +57,7 @@ Para empezar veamos que la primera epístola a Timoteo era una carta personal de
 Veamos el texto:
 
 > La mujer aprenda en silencio, con toda sujeción.  Porque no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio.  Porque Adán fue formado primero, después Eva;  y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión.
-> 
+>
 > 1 Timoteo 2:11-14
 
 ### αὐθεντεῖν
@@ -66,7 +66,7 @@ Para poder entender las restricciones de Pablo a las mujeres en Éfeso primero d
 
 <figure>
 
-![](images/Screen-Shot-2022-04-10-at-9.33.26-PM.png)
+![Definicion de αὐθεντεῖν](https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/authentein.png)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ La palabra _αὐθεντεῖν_ solo aparece [una vez](https://biblehub.com/gr
 La palabra "_αὐθεντεῖν_" no aparece nuevamente en las escrituras. Pero si hay cartas antiguas donde podemos ver el mismo verbo, por ejemplo en la queja de Bassianos en el Concilio de Calcedonia (451 d.C) que se traduce como "_usar fuerza_".
 
 > Fui nombrado obispo por violencia! ... Los Padres decían: 'Si hay un procedimiento preferido, es hacer una elección para un cargo, y no renunciar'... Cuando se hizo esta temeridad, **_usaron la fuerza_** y ​​entraron en mi habitación y agarraron me.
-> 
+>
 > Concilio universal de Calcedonia año 451 (2.1.3.48.12) - Libro: Paul and Gender. Por Cynthia Long Westfall
 
 Ahora que ya entendemos lo que Pablo esta hablando y corrigiendo en Éfeso. La pregunta es: Si la mujer no debe ejercer dominio sobre el hombre (tal como traduce la Biblia Reina-Valera) ¿Puede el hombre ejercer dominio sobre la mujer? ¿Estaría bien que el hombre lo hiciera pero la mujer no? O ¿En ambos caso es incorrecto?
@@ -93,25 +93,25 @@ Según leo en las escrituras, la relación entre cristianos, que incluye esposo/
 Con "_αὐθεντεῖν = dominio_" en mente quiero empezar a leer los versículos uno a uno.
 
 > La mujer aprenda en silencio, con toda sujeción
-> 
+>
 > 1 Timoteo 2:11
 
 La palabra "silencio" es del griego _ἡσυχίᾳ_ que también es [tranquilidad](https://biblehub.com/1_timothy/2-11.htm){target=blank}. No en medio de discusión acerca de dominar a otro y con toda sujeción ¿Sujeción a quién? A la Palabra de Dios, a las escrituras obviamente.
 
 >  Porque no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio. 
-> 
+>
 > 1 Timoteo 2:12
 
 Pablo no permite a la mujer enseñar en la iglesia de Éfeso. Por lo que ya entendimos es por la falsa doctrina del dominio al hombre, no se le permite esparcir esa falsa doctrina sino que le toca estar tranquila y en silencio en la congregación, y creo que hasta que aprenda y se sujete (obedezca) a la palabra de Dios (v.11).
 
 >  Porque Adán fue formado primero, después Eva; y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión
-> 
+>
 > 1 Timoteo 2:13-14
 
 Por qué vamos a la creación. Por dos razones muy importante. La primera es que en Génesis 1:27-28 esta el mandato cultural el cual dice:
 
 > Creó, pues, Dios al hombre a imagen suya, a imagen de Dios lo creó; varón y hembra los creó. Y los bendijo Dios y les dijo: Sed fecundos y multiplicaos, y llenad la tierra y sojuzgadla; **ejerced dominio** sobre los peces del mar, sobre las aves del cielo y sobre todo ser viviente que se mueve sobre la tierra.
-> 
+>
 > Génesis 1:28 LBLA - Énfasis añadido
 
 El mandado de dominio sobre la creación, no es una dominio entre nosotros los humanos. Entonces las mujeres de Éfeso estaban revirtiendo el mandato de Dios y proclamando que la mujer debe dominar al hombre, esa era la falsa doctrina (1 Timoteo 1:3) a la que Pablo se estaba dirigiendo.
@@ -123,7 +123,7 @@ La segundo, Pablo muestra que la mujer fue engañada. Si leemos las cartas de Pa
 He leído muchas explicaciones de este pasaje como que "_la mujer es engañada por lo cual no puede predicar en el culto publico_". Esto no tiene mucho sentido, primero que todo Pablo no esta hablando del culto necesariamente (1 Tim 2:8 "_oren en todo lugar_"), ademas no puedes llevar a la mujer a la acusación de lo que que paso en el Eden y seguir teniendo consecuencias dentro de la familia de Dios, cuando el Señor pago todo y todas las cosas son hechas nueva, somos una nueva criatura.
 
 > De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas.[](https://www.biblegateway.com/passage/?search=2%20Corintios+5&version=RVR1960){target=blank}
-> 
+>
 > 2 Corintios 5:17
 
 Por lo cual esa explicación del texto, no hace sentido basado en toda la historia de la salvación, de perdón, gracia y nueva oportunidad en la familia de Dios para empezar de nuevo.

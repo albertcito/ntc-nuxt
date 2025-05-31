@@ -60,4 +60,4 @@ El uso que hace Isaías de la ley cherem, por lo tanto, tiene una aplicación pr
 
 * * *
 
-Este artículo es parte de [Cherem en la profecia Biblica](/articles/cherem-en-la-profecia-biblica).
+Este artículo es parte de [Cherem en la profecia Biblica](/articulos/cherem-en-la-profecia-biblica).

@@ -42,4 +42,4 @@ Cualesquiera que sean las intenciones completas de Pablo hablando con los Efesio
 
 * * *
 
-Esta publicación es parte de [Cherem y el Nuevo Testamento](/articles/cherem-en-el-nuevo-testamento).
+Esta publicación es parte de [Cherem y el Nuevo Testamento](/articulos/cherem-en-el-nuevo-testamento).

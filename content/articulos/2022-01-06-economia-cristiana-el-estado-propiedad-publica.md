@@ -1,17 +1,19 @@
 ---
 title: "Economía Cristiana - El Estado - Propiedad Pública"
-date: 2022-01-01
-categories: 
+date: 2022-01-06
+type: 'series'
+categories:
   - "teologia"
-tags: 
+tags:
   - "burocracia"
   - "economia"
   - "estado"
   - "gary-north"
   - "impuestos"
 image:
-  src: washington-dc-g61953901d_1920-1.jpg
-  alt: Capitol Washington DC
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/washington-dc.jpg
+  alt: Capitolio de Washington D.C.
+  descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/
 ---
 
@@ -121,4 +123,4 @@ No existe una teoría libertaria de las carreteras porque las carreteras no se r
 
 * * *
 
-De la seria [Economía Cristiana - El Estado](/articles/economia-cristiana-el-estado-indice)
+De la seria [Economía Cristiana - El Estado](/articulos/2022-01-08-economia-cristiana-el-estado-indice)

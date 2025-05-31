@@ -1,10 +1,10 @@
 ---
 title: "Constantinopla Contra El Odio de La Certeza"
 date: 2022-03-21
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "historia"
-tags: 
+tags:
   - "constantinopla"
   - "credos"
   - "historia"
@@ -71,16 +71,16 @@ La forma original del Credo de Nicea concluye con un anatema. El primer canon de
 
 El Concilio de Constantinopla en el año 381 enunció las certezas de la fe contra los intentos del humanismo para implantar la incertidumbre. El humanismo otra vez está dedicado al mismo propósito,  como siempre, a reducir la Escritura a un laberinto de incertidumbres, mitos, figuras y símbolos. Su  propósito es “librar” al hombre de la fe bíblica, quemar la casa de la fe para que el hombre pueda estar totalmente sin raíces y sin Dios. Pero huir de la certeza de Dios es inútil, ya que cada fibra del ser  humano, al haber sido creado por Dios, da testimonio de Dios (Rom. 1:18-25). El actor Walker dijo:  “Pero si esta casa llega a atarnos ... bueno, la quemamos.” Su plan es inútil. Ningún hombre puede  quemar la creación de Dios. El hombre existencialista es un mito y la única quema que el hombre  existencialista conocerá es el fuego de Dios.
 
-<sup>22</sup> Jack Ryan, “Robert Walker, Jr., The Sorrow Behind The Smile,” in Valley Times Family Weekly, January 22,  
-1967(San Fernando Valley, CA) 10. 
-<sup>23</sup> Theodoret, “Ecclesiastical History,” bk. 1, chap. 6, in Nicene and Post-Nicene Fathers, series 2, vol. 3, 43. 
-<sup>24</sup> Schaff, History of the Christian Church, vol. 3, 643-44. 
-<sup>25</sup> Decrees and Canons of the Seven Ecumenical Councils, 188. 
-<sup>26</sup> Ibid., 189. 
-<sup>27</sup> Athanasius, “Four Discourses Against the Arians,” 3.4, and “Statement of Faith,” 2, in Nicene and PostNicene Fathers, vol. 4, 395, 84. 
-<sup>28</sup> Athanasius, “Four Discourses Against the Arians,” 4.13-14, in ibid., 437-38. 
-<sup>29</sup> John M’Clintock and James Strong, Cyclopaedia of Biblical, Theological, and Ecclesiastical Literature, vol. 9,  
-“Sabellius” (New York, NY: Harper, 1849), 203. 
-<sup>30</sup> Percival, Seven Ecumenical Councils, 172ff.  
-<sup>31</sup> Ibid., 181-73. 
+<sup>22</sup> Jack Ryan, “Robert Walker, Jr., The Sorrow Behind The Smile,” in Valley Times Family Weekly, January 22,
+1967(San Fernando Valley, CA) 10.
+<sup>23</sup> Theodoret, “Ecclesiastical History,” bk. 1, chap. 6, in Nicene and Post-Nicene Fathers, series 2, vol. 3, 43.
+<sup>24</sup> Schaff, History of the Christian Church, vol. 3, 643-44.
+<sup>25</sup> Decrees and Canons of the Seven Ecumenical Councils, 188.
+<sup>26</sup> Ibid., 189.
+<sup>27</sup> Athanasius, “Four Discourses Against the Arians,” 3.4, and “Statement of Faith,” 2, in Nicene and PostNicene Fathers, vol. 4, 395, 84.
+<sup>28</sup> Athanasius, “Four Discourses Against the Arians,” 4.13-14, in ibid., 437-38.
+<sup>29</sup> John M’Clintock and James Strong, Cyclopaedia of Biblical, Theological, and Ecclesiastical Literature, vol. 9,
+“Sabellius” (New York, NY: Harper, 1849), 203.
+<sup>30</sup> Percival, Seven Ecumenical Councils, 172ff.
+<sup>31</sup> Ibid., 181-73.
 <sup>32</sup> Leith, Creeds of the Church, 30-31, 33

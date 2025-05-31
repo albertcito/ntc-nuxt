@@ -1,14 +1,14 @@
 ---
 title: "Biblia, Divorcio y abuso matrimonial"
 date: 2023-12-04
+type: 'article'
 categories:
-  - "featured"
   - "teologia"
 tags:
   - "familia"
   - "greg-bahnsen"
 image:
-  src: https://cdn.pixabay.com/photo/2019/05/16/17/02/violence-4207549_1280.jpg
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/abuso-violencia-mujer.jpg
   alt: Hombre abusando de mujer
   cc: https://pixabay.com/photos/violence-abuse-aggression-bullying-4207549/
 ---

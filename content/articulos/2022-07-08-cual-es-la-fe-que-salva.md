@@ -1,10 +1,10 @@
 ---
 title: "¿Cuál es la fe que salva?"
 date: 2022-07-08
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "fe-sola"
   - "gordon-clark"
   - "justificacion"
@@ -13,7 +13,7 @@ image:
   cc: https://unsplash.com/photos/1MHU3zpTvro
 ---
 
-Empece a traducir artículos acerca de la salvación, específicamente la justificación. Esto es debido a la falta de entendimiento ([Hebreos 5:12-14](https://www.biblegateway.com/passage/?search=Hebreos%205%3A12-14&version=RVR1960){target=blank}) de algo tan elemental como la pregunta "¿Cómo soy justo delante de Dios?". Hoy en día hay una tremenda confusion en la iglesia evangélica, colocan la [seguridad de la salvación principalmente en las obras](/articles/john-piper-y-su-doctrina-de-justificacion-final-por-obras) y no en la buena noticia de que Cristo nos justifica por medio de la fe sola (sin obras). Predican la "buena noticia" de que debo ser muy bueno para poder decir que tengo fe y por esa bondad tengo la seguridad de que mi fe es real. Cambiando el objeto de la fe que es Cristo por mis propias obras. Eso me hace preguntar "¿Qué tan bueno debo ser para saber que soy salvo?" quedamos en el mismo problema de aquellos que predican salvación por fe + obras. Además, no solo en esa parte hay confusión, la misma definición de fe es confusa. Por ejemplo, intenta buscar en español cualquier artículo que hable de Santiago 2 verso por verso y que explique claramente a qué se refiere con la fe, la justificación y la salvación en ese pasaje, yo al menos no lo he encontrado y espero pronto escribir algo acerca de eso.
+Empece a traducir artículos acerca de la salvación, específicamente la justificación. Esto es debido a la falta de entendimiento ([Hebreos 5:12-14](https://www.biblegateway.com/passage/?search=Hebreos%205%3A12-14&version=RVR1960){target=blank}) de algo tan elemental como la pregunta "¿Cómo soy justo delante de Dios?". Hoy en día hay una tremenda confusion en la iglesia evangélica, colocan la [seguridad de la salvación principalmente en las obras](/articulos/john-piper-y-su-doctrina-de-justificacion-final-por-obras) y no en la buena noticia de que Cristo nos justifica por medio de la fe sola (sin obras). Predican la "buena noticia" de que debo ser muy bueno para poder decir que tengo fe y por esa bondad tengo la seguridad de que mi fe es real. Cambiando el objeto de la fe que es Cristo por mis propias obras. Eso me hace preguntar "¿Qué tan bueno debo ser para saber que soy salvo?" quedamos en el mismo problema de aquellos que predican salvación por fe + obras. Además, no solo en esa parte hay confusión, la misma definición de fe es confusa. Por ejemplo, intenta buscar en español cualquier artículo que hable de Santiago 2 verso por verso y que explique claramente a qué se refiere con la fe, la justificación y la salvación en ese pasaje, yo al menos no lo he encontrado y espero pronto escribir algo acerca de eso.
 
 Te dejo con un extracto del libro “[What Is Saving Faith?](https://www.trinitylectures.org/what-is-saving-faith-p-60.html){target=blank}” por Gordon Clark.
 
@@ -34,21 +34,21 @@ Estrictamente hablando, estos dos versículos no muestran que la fe sea necesari
 Ahora…
 
 > El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado.
-> 
+>
 > Marcos 16:16
 
 Enseña no sólo que la fe es suficiente, sino también que sin fe la salvación es imposible. Sin embargo, dado que algunos eruditos no consideran esto como parte del canon, siguen otros tres versículos.
 
 > El que en él cree, no es condenado; pero el que no cree, ya ha sido condenado
-> 
+>
 > Juan 3:18
 
 > El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios está sobre él
-> 
+>
 > Juan 3:36
 
 > Pero sin fe es imposible agradar a Dios;
-> 
+>
 > Hebreos 11:6
 
 Estos versículos son suficientemente explícitos; pero la doctrina general de la justificación por la fe sola es una prueba más fuerte que unos pocos versículos de muestra. Los pasajes sobre la justificación pueden no ser tan explícitos por sí solos: Es necesario combinarlos y sacar inferencias. Pero en vista de la última mitad de Romanos 3, y en cuanto a la última mitad de Romanos 5, la conclusión es más convincente porque la base es más amplia.
@@ -58,7 +58,7 @@ Estos versículos son suficientemente explícitos; pero la doctrina general de l
 Dado que la fe es de tanta importancia, y aunque no fuera de tanta importancia, la teología debe determinar su significado. Quienes deseen hablar de ello deben conocer la naturaleza de esa clase particular de fe que es necesaria para la salvación. Herman Hoeksema comienza su capítulo sobre “La fe salvadora” con este párrafo:
 
 > La fe salvadora es aquella obra de Dios en el elegido, regenerado y llamado pecador, por la cual éste se injerta en Cristo y abraza y se apropia de Cristo y de todos sus beneficios, confiando en él en el tiempo y en la eternidad.
-> 
+>
 > Herman Hoeksema
 
 Aparte del hecho de que algunos de los verbos de esta oración son demasiado vagos para ser útiles, se puede admitir que la oración es verdadera. Pero no es una definición de fe. Decir que la fe nos injerta en Cristo dice menos que decir que la carne asada nos alimenta. Este último no nos dice qué es la carne. El primero tampoco nos dice qué es la fe. Es necesario definir los términos teológicos; necesitan ser entendidos; o bien no sabemos de lo que estamos hablando. Para avanzar hacia una definición, comenzamos con el uso del lenguaje.
@@ -66,46 +66,46 @@ Aparte del hecho de que algunos de los verbos de esta oración son demasiado vag
 El verbo griego significa creer. Así fue traducido en los versos anteriores citados. Aquí seguirán algunos ejemplos de su uso ordinario, tanto en fuentes paganas como en la Biblia. Los versículos bíblicos de la Septuaginta no se eligen porque sean bíblicos, sino que, al igual que las fuentes paganas, muestran cómo se usaba la palabra en tiempos precristianos. Cuando los autores del Nuevo Testamento comenzaron a escribir usaron el lenguaje común.
 
 > Se cree que el Sol es más grande que la Tierra.
-> 
+>
 > Aristóteles, _De Anima_ 428b4
 
 > \[Sobre cierto punto\] es necesario creer a los egipcios.
-> 
+>
 > Aristóteles, _Meteorologica_ 343b10
 
 > Es difícil creer todas las evidencias sobre ellos.
-> 
+>
 > Tucídides I, 20
 
 > “no creían en Dios”
-> 
+>
 > El Salmo 78:22 en la traducción de la Septuaginta dice de los israelitas
 
 > ¿Quién ha creído a nuestro anuncio?
-> 
+>
 > Isaías 53:1
 
 Aunque este es el uso común, y en un momento una gran cantidad de pasajes del Nuevo Testamento mostrarán lo mismo, varios teólogos dan la impresión de que la traducción _creer_ que es engañosa. Quieren hacer de la “fe” algo más que “mera creencia”. La siguiente larga lista tiene algo que ver con esta convicción.
 
-> Juan 2:22: …y creyeron la Escritura y la palabra que Jesús había dicho.  
-> Juan 3:12: Si os he dicho cosas terrenales, y no creéis, ¿cómo creeréis si os dijere las celestiales?  
-> Juan 4:50: Y el hombre creyó la palabra que Jesús le dijo, y se fue  
-> Juan 5:47: Pero si no creéis a sus escritos, ¿cómo creeréis a mis palabras?  
-> Juan 6:69: Y nosotros hemos creído y conocemos que tú eres el Cristo, el Hijo del Dios viviente.  
-> Juan 8:24: porque si no creéis que yo soy, en vuestros pecados moriréis.  
-> Juan 8:45: Y a mí, porque digo la verdad, no me creéis.  
-> Juan 9:18: Pero los judíos no creían que él había sido ciego… había recibido la vista.  
-> Juan 11:26: Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?  
-> Juan 11:27: yo he creído que tú eres el Cristo.  
-> Juan 11:42: para que crean que tú me has enviado.  
-> Juan 12:38: ¿quién ha creído a nuestro anuncio?  
-> Juan 13:19: creáis que yo soy.  
-> Juan 14:29: Y ahora os lo he dicho antes que suceda, para que cuando suceda, creáis.  
-> Juan 16:27: habéis creído que yo salí de Dios.  
-> Juan 16:30: por esto creemos que has salido de Dios.  
-> Juan 17:8: han creído que tú me enviaste.  
-> Juan 17:21: el mundo crea que tú me enviaste.  
-> Juan 20:31: Estas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios  
+> Juan 2:22: …y creyeron la Escritura y la palabra que Jesús había dicho.
+> Juan 3:12: Si os he dicho cosas terrenales, y no creéis, ¿cómo creeréis si os dijere las celestiales?
+> Juan 4:50: Y el hombre creyó la palabra que Jesús le dijo, y se fue
+> Juan 5:47: Pero si no creéis a sus escritos, ¿cómo creeréis a mis palabras?
+> Juan 6:69: Y nosotros hemos creído y conocemos que tú eres el Cristo, el Hijo del Dios viviente.
+> Juan 8:24: porque si no creéis que yo soy, en vuestros pecados moriréis.
+> Juan 8:45: Y a mí, porque digo la verdad, no me creéis.
+> Juan 9:18: Pero los judíos no creían que él había sido ciego… había recibido la vista.
+> Juan 11:26: Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?
+> Juan 11:27: yo he creído que tú eres el Cristo.
+> Juan 11:42: para que crean que tú me has enviado.
+> Juan 12:38: ¿quién ha creído a nuestro anuncio?
+> Juan 13:19: creáis que yo soy.
+> Juan 14:29: Y ahora os lo he dicho antes que suceda, para que cuando suceda, creáis.
+> Juan 16:27: habéis creído que yo salí de Dios.
+> Juan 16:30: por esto creemos que has salido de Dios.
+> Juan 17:8: han creído que tú me enviaste.
+> Juan 17:21: el mundo crea que tú me enviaste.
+> Juan 20:31: Estas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios
 > 1 Corintios 13:7:  Todo lo sufre, todo lo cree
 
 Al leer detenidamente estos versículos, el estudiante debe notar que el objeto del verbo a veces es un sustantivo o pronombre que denota una declaración (_palabra, esto, cosas, escritos_), y a veces una persona (en esta lista, _yo_; en otros versículos, _Dios_), y a veces no hay ningún objeto explícito en absoluto. El significado de esto se hará evidente en un momento.
@@ -120,17 +120,17 @@ Si esto se resuelve ahora, todavía algunas personas afirman que existe una dife
 
 Antes de que se reanude el argumento, es mejor recopilar algunos datos bíblicos más.
 
-> Mateo 18:6 y Marcos 9:42: a uno de estos pequeñitos que creen en mí  
-> Juan 1:12: a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios;  
-> Juan 2:11: sus discípulos creyeron en él.  
-> Juan 2:23: muchos creyeron en su nombre  
-> Juan 7:5: Porque ni aun sus hermanos creían en él.  
-> Juan 9:35-36: ¿Crees tú en el Hijo de Dios? Respondió él y dijo: ¿Quién es, Señor, para que crea en él?  
-> Juan 12:36: creed en la luz  
-> Juan 14:1: creéis en Dios, creed también en mí.  
-> Hechos 16:31: Cree en el Señor Jesucristo, y serás salvo, tú y tu casa.  
-> Romanos 4:18: Él creyó en esperanza contra esperanza.  
-> 1 Timoteo 1:16: los que habrían de creer en él para vida eterna.  
+> Mateo 18:6 y Marcos 9:42: a uno de estos pequeñitos que creen en mí
+> Juan 1:12: a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios;
+> Juan 2:11: sus discípulos creyeron en él.
+> Juan 2:23: muchos creyeron en su nombre
+> Juan 7:5: Porque ni aun sus hermanos creían en él.
+> Juan 9:35-36: ¿Crees tú en el Hijo de Dios? Respondió él y dijo: ¿Quién es, Señor, para que crea en él?
+> Juan 12:36: creed en la luz
+> Juan 14:1: creéis en Dios, creed también en mí.
+> Hechos 16:31: Cree en el Señor Jesucristo, y serás salvo, tú y tu casa.
+> Romanos 4:18: Él creyó en esperanza contra esperanza.
+> 1 Timoteo 1:16: los que habrían de creer en él para vida eterna.
 > 1 Pedro 1:21: que por medio de Él sois creyentes en Dios (LBLA)
 
 La primera referencia en esta última lista habla de niños pequeños. No pueden haber tenido mucha educación teológica. El pasaje, por supuesto, no significa que debamos ser como niños con respecto a su ignorancia, ni, como a veces se supone erróneamente, con respecto a su inocencia. Sino que más bien creían que Jesús de alguna manera los bendeciría. Si alguno quiere decir que los niños _confiaron_ en él, muy bien; confiar es creer _que_ la bendición seguirá.
@@ -146,7 +146,7 @@ Se citan estas referencias porque algunas personas encuentran una gran diferenci
 Además, algunos predicadores que han tenido un año o dos de griego hacen comentarios supuestamente eruditos sobre la diferencia entre una creencia del Nuevo Testamento y una creencia griega pagana. Mejores eruditos, Gerhard Kittel, Gerhard Friedrich y Rudolph Bultmann, tienen estas cosas que decir:
 
 > Desde un punto de vista puramente formal, no hay nada muy distintivo en el uso del NT y los primeros Chr. escritos en comparación con Gr. usado….Πιστεύ είςes equivalente a πιστεύειν ὃτι…“considerar como creíble, como verdadero”. Πιστεύειν είς χριστον ιησοῦν (Col. 2:16), είς αὐτόν y είς ἐμἐ (a menudo en Jn.), Etc., simplemente significa πιστεὐ ειν ὄτι ιidor. En Jn. especialmente πιστεύειν είς y πιστεὐειν se usan constantemente indistintamente en el mismo sentido. \[Nota: Cfr. también Ac. 8:37E…\] Esto también se prueba por la poss. expresión ἐπιστεύθη (sc. Ιησοῦς Χριστός, 1 Tim. 3:16) y el hecho de que πιστις es equivalente, no a πίστις c. dat., pero a πίστις c. gen. objeto….
-> 
+>
 > Gerhard Kittel and Gerhard Friedrich, editors. Theological Dictionary of the New Testament, Volume VI, 203.
 
 Dos páginas más adelante escriben,
@@ -159,7 +159,7 @@ En oposición a estos estudios lingüísticos, algunos teólogos y muchos minist
 
 Berkhof admite que Juan 4:50 usa el verbo pisteuo en el sentido literal de creer que una proposición es verdadera. Naturalmente; porque el objeto explícito es la palabra o frases que Jesús acababa de pronunciar. Similarmente Juan 5:47. Berkhof incluso permite que Hechos 16:34, Romanos 4:3 y 2 Timoteo 1:12 signifique creer en la verdad de una proposición, aunque el objeto explícito del verbo es _Dios_ o _Cristo_.
 
-A pesar de estos casos, donde el predicado es el sustantivo Dios, aunque el objeto real e inmediato es una proposición, y particularmente en contraste con los casos donde el objeto es explícitamente una proposición, Berkhof dice: “En general, esta construcción es más débil que el anterior”, donde _pisteuoo_ significa “confianza segura en una persona”. Pero ¿Por qué es más débil? ¿No sería más exacto decir que esta construcción con una proposición como objeto es más literal y precisa que las expresiones abreviadas precedentes? Berkhof continúa: “En un par de casos, el asunto creído difícilmente llega a la esfera religiosa, Juan 9:18, Hechos 9:26…”. Pero si estos son ejemplos de uso ordinario, y no particularmente religiosos, como "Los judíos no creían que había nacido ciego", debería mostrar con mayor claridad cuál es el significado ordinario de creer. No hay ningún motivo religioso que distraiga la comprensión de uno. Es cierto que el objeto de la creencia en tales casos no se eleva a la esfera religiosa; a veces el objeto puede ser banal o trivial; pero el punto en cuestión no es el objeto de la creencia o la fe, sino la naturaleza de la fe y el significado del verbo _pisteuoo_.  
+A pesar de estos casos, donde el predicado es el sustantivo Dios, aunque el objeto real e inmediato es una proposición, y particularmente en contraste con los casos donde el objeto es explícitamente una proposición, Berkhof dice: “En general, esta construcción es más débil que el anterior”, donde _pisteuoo_ significa “confianza segura en una persona”. Pero ¿Por qué es más débil? ¿No sería más exacto decir que esta construcción con una proposición como objeto es más literal y precisa que las expresiones abreviadas precedentes? Berkhof continúa: “En un par de casos, el asunto creído difícilmente llega a la esfera religiosa, Juan 9:18, Hechos 9:26…”. Pero si estos son ejemplos de uso ordinario, y no particularmente religiosos, como "Los judíos no creían que había nacido ciego", debería mostrar con mayor claridad cuál es el significado ordinario de creer. No hay ningún motivo religioso que distraiga la comprensión de uno. Es cierto que el objeto de la creencia en tales casos no se eleva a la esfera religiosa; a veces el objeto puede ser banal o trivial; pero el punto en cuestión no es el objeto de la creencia o la fe, sino la naturaleza de la fe y el significado del verbo _pisteuoo_.
 A partir de la página 493, Berkhof habla de la siguiente manera. _Pistis_ (el sustantivo) y _pisteuein_ (el verbo) “no siempre tienen exactamente la misma connotación”. Especifica dos significados del sustantivo pistis en griego clásico.
 
 > Denota (a) una convicción basada en la confianza en una persona y en su testimonio, que como tal se distingue del conocimiento basado en la investigación personal; y (b) la confianza misma en la que descansa tal convicción. Esto es más que una mera convicción intelectual de que una persona es confiable; presupone una relación personal con el objeto de la confianza, un salir de uno mismo para descansar en otro.
@@ -172,7 +172,7 @@ Deben distinguirse los siguientes significados especiales \[del sustantivo _pist
 
 ¿Pero por qué? No se da ninguna razón. ¿No es cierto que “una confianza confiada o confidencia” depende de instancias previas de que se les haya dicho la verdad? La primera vez que me encuentro con un hombre y lo escucho hablar, a menos que ya venga muy recomendado, lo que simplemente empuja la ilustración un paso hacia atrás, no puedo razonablemente otorgarle una confianza confiada. Después de haber observado su hábito de decir siempre la verdad, puedo tener confianza en él. Pero esta es también una creencia intelectual de que constantemente dice la verdad. Difiere del primero sólo en la circunstancia de que el objeto de la creencia es una proposición diferente. Primero, creía que la proposición _de una fórmula química haría esto y aquello_; ahora creo en la proposición _él siempre dice la verdad_.
 
-Berkhof citó algunas referencias para respaldar su afirmación. Pero Romanos 3:22 no lo apoya. Simplemente menciona, en cuatro palabras, “fe en Jesucristo”. Las palabras que siguen inmediatamente son “a todos los que creen”. Lo que creen se declara más explícitamente en 3:25, que Berkhof también enumera. La frase es “mediante la fe en su sangre”. Claramente esto no es absolutamente literal. La sangre es un símbolo de la expiación. Ni siquiera puede limitarse a la muerte de Cristo, porque los mismos fariseos creían que Cristo murió. Lo que los fariseos no creían era el significado de la muerte de Cristo, es decir, que pagó la pena de nuestro pecado. Los versículos 25 y 26 son el mejor resumen del Nuevo Testamento del núcleo del Evangelio: la doctrina de la justificación por la fe; y esta doctrina, un conjunto de proposiciones, es el objeto de la creencia. Tampoco las otras citas de Berkhof (Romanos 5:1, 2; 9:30, 32) respaldan su conclusión. No hacen distinciones como las que hace Berkhof. Simplemente hablan de fe. Al decir cinco líneas más abajo que “Lo último \[entregarse a Cristo y confiar en él\] se llama específicamente fe salvadora”, Berkhof implica que la convicción de la verdad del Evangelio y la “confianza intelectual” no es fe salvadora. Romanos es un gran libro, y estamos dispuestos a citarlo, más que dispuestos, ansiosos: Romanos 10:9 dice que “si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos , serás salvo”. Como ha dejado muy claro el Antiguo Testamento ([ver apéndice Corazón Mente](/articles/que-significa-el-termino-corazon-en-las-escrituras)), el corazón es la mente; y creer que Dios resucitó a Cristo de entre los muertos es un ejercicio tan intelectual como creer que dos y dos son cuatro.
+Berkhof citó algunas referencias para respaldar su afirmación. Pero Romanos 3:22 no lo apoya. Simplemente menciona, en cuatro palabras, “fe en Jesucristo”. Las palabras que siguen inmediatamente son “a todos los que creen”. Lo que creen se declara más explícitamente en 3:25, que Berkhof también enumera. La frase es “mediante la fe en su sangre”. Claramente esto no es absolutamente literal. La sangre es un símbolo de la expiación. Ni siquiera puede limitarse a la muerte de Cristo, porque los mismos fariseos creían que Cristo murió. Lo que los fariseos no creían era el significado de la muerte de Cristo, es decir, que pagó la pena de nuestro pecado. Los versículos 25 y 26 son el mejor resumen del Nuevo Testamento del núcleo del Evangelio: la doctrina de la justificación por la fe; y esta doctrina, un conjunto de proposiciones, es el objeto de la creencia. Tampoco las otras citas de Berkhof (Romanos 5:1, 2; 9:30, 32) respaldan su conclusión. No hacen distinciones como las que hace Berkhof. Simplemente hablan de fe. Al decir cinco líneas más abajo que “Lo último \[entregarse a Cristo y confiar en él\] se llama específicamente fe salvadora”, Berkhof implica que la convicción de la verdad del Evangelio y la “confianza intelectual” no es fe salvadora. Romanos es un gran libro, y estamos dispuestos a citarlo, más que dispuestos, ansiosos: Romanos 10:9 dice que “si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos , serás salvo”. Como ha dejado muy claro el Antiguo Testamento ([ver apéndice Corazón Mente](/articulos/que-significa-el-termino-corazon-en-las-escrituras)), el corazón es la mente; y creer que Dios resucitó a Cristo de entre los muertos es un ejercicio tan intelectual como creer que dos y dos son cuatro.
 
 En la página 495, continúa Berkhof, Fe “también se representa como un hambriento y sediento…. Al comer y beber no sólo tenemos la convicción de que el alimento y la bebida necesarios están presentes, sino también la expectativa confiada de que nos satisfará…”.
 
@@ -257,7 +257,7 @@ Aquellos que saben poco sobre la Biblia y menos sobre la historia de la teologí
 A principios de este siglo, J. Gresham Machen defendió y sufrió por la primacía del intelecto.
 
 > Al escepticismo pragmatista del mundo religioso moderno, por lo tanto, la Biblia se opone tajantemente; frente al apasionado anti-intelectualismo de gran parte de la Iglesia moderna mantiene la primacía del intelecto; enseña claramente que Dios ha dado al hombre una facultad de razón que es capaz de aprehender la verdad, incluso la verdad acerca de Dios.
-> 
+>
 > J. Gresham Machen, What Is Faith? 51
 
 Resumir algunos pensamientos de su capítulo introductorio no es tanto un plagio como una recomendación para que la población de esta novena década regrese y lea este clásico de la tercera.
@@ -284,7 +284,7 @@ Además de la educación secular y la Iglesia, el anti-intelectualismo ha invadi
 
 El presente escritor también memorizó el Catecismo Menor a esa edad. Pero “el hecho lamentable es que el hogar cristiano \[dos excepciones son mis hijas y sus hijos\], como institución educativa, ha dejado de funcionar en gran medida”. Ahora, cincuenta años después, el hogar y la familia han sido en gran parte abortados. Machen atribuye este declive educativo, religioso y moral al anti-intelectualismo.
 
-> Él da un ejemplo: la mala traducción de Goodspeed del verbo dikaiōō. Otro ejemplo es la perversión de la historia de Ellwood al decir que "Jesús se preocupó muy poco por la cuestión de la existencia después de la muerte". Luego Machen declara su propósito al escribir su libro:  
+> Él da un ejemplo: la mala traducción de Goodspeed del verbo dikaiōō. Otro ejemplo es la perversión de la historia de Ellwood al decir que "Jesús se preocupó muy poco por la cuestión de la existencia después de la muerte". Luego Machen declara su propósito al escribir su libro:
 > Frente a esta tendencia anti-intelectual del mundo moderno, uno de los propósitos principales del presente librito será defender la primacía del intelecto y, en particular, tratar de derribar la falsa y desastrosa oposición que se ha establecido entre el conocimiento y la fe.
 
 Este capítulo introductorio continúa durante otras veinte páginas, pero estos extractos constituyen una recomendación suficiente para que el libro se lea de nuevo.

@@ -32,7 +32,9 @@ const second = data.value?.slice(1, 7) || []
         :title="post.title"
         :date="post.date"
         :to="post.path"
-        :image="post.image ? `/img/articulos/${post.image.src}` : undefined"
+        :image="post.image.src.substring(0, 4) === 'http'
+          ? post.image.src
+          :`/img/articulos/${post.image.src}`"
       />
     </UBlogPosts>
   </UMain>

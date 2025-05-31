@@ -3,7 +3,6 @@ title: "Diez hechos básicos sobre el canon del NT que todo cristiano debe memor
 date: 2022-02-12
 categories: 
   - "apologetica"
-  - "featured"
 tags: 
   - "apologetica"
   - "canon"
@@ -23,13 +22,13 @@ Por lo cual, el [Dr. Michael J. Kruger](https://www.michaeljkruger.com/about/){
 
 Disponibles para la iglesia de habla hispana, los diez hechos básicos sobre el canon del Nuevo Testamento que todo cristiano debe memorizar:
 
-1. [Los libros del Nuevo Testamento son los primeros escritos cristianos que tenemos](/articles/1-los-libros-del-nuevo-testamento-son-los-primeros-escritos-cristianos-que-tenemos)
-2. [Todos los escritos apócrifos están escritos en el siglo II o más tarde](/articles/2-todos-los-escritos-apocrifos-estan-escritos-en-el-siglo-ii-o-mas-tarde)
-3. [Los libros del Nuevo Testamento son únicos porque son libros apostólicos](/articles/3-los-libros-del-nuevo-testamento-son-unicos-porque-son-libros-apostolicos)
-4. [Algunos escritores del NT citan a otros escritores del NT como Escritura](/articles/4-algunos-escritores-del-nt-citan-a-otros-escritores-del-nt-como-escritura)
-5. [Los cuatro evangelios están bien establecidos a fines del siglo II](/articles/5-los-cuatro-evangelios-estan-bien-establecidos-a-fines-del-siglo-ii)
-6. [A fines del siglo II, el Fragmento Muratoriano enumera 22 de nuestros 27 libros del NT](/articles/6-a-fines-del-siglo-ii-el-fragmento-muratoriano-enumera-22-de-nuestros-27-libros-del-nt)
-7. [Los primeros cristianos solían utilizar escritos no canónicos](/articles/7-los-primeros-cristianos-solian-utilizar-escritos-no-canonicos)
-8. [El canon del NT no se decidió en Nicea, ni en ningún otro concilio de la iglesia](/articles/8-el-canon-del-nt-no-se-decidio-en-nicea-ni-en-ningun-otro-concilio-de-la-iglesia)
-9. [Los cristianos no estaban de acuerdo sobre la canonicidad de algunos libros del NT](/articles/9-los-cristianos-no-estaban-de-acuerdo-sobre-la-canonicidad-de-algunos-libros-del-nt)
-10. [Los primeros cristianos creían que los libros canónicos se autoautenticaban](/articles/10-los-primeros-cristianos-creian-que-los-libros-canonicos-se-autoautenticaban)
+1. [Los libros del Nuevo Testamento son los primeros escritos cristianos que tenemos](/articulos/1-los-libros-del-nuevo-testamento-son-los-primeros-escritos-cristianos-que-tenemos)
+2. [Todos los escritos apócrifos están escritos en el siglo II o más tarde](/articulos/2-todos-los-escritos-apocrifos-estan-escritos-en-el-siglo-ii-o-mas-tarde)
+3. [Los libros del Nuevo Testamento son únicos porque son libros apostólicos](/articulos/3-los-libros-del-nuevo-testamento-son-unicos-porque-son-libros-apostolicos)
+4. [Algunos escritores del NT citan a otros escritores del NT como Escritura](/articulos/4-algunos-escritores-del-nt-citan-a-otros-escritores-del-nt-como-escritura)
+5. [Los cuatro evangelios están bien establecidos a fines del siglo II](/articulos/5-los-cuatro-evangelios-estan-bien-establecidos-a-fines-del-siglo-ii)
+6. [A fines del siglo II, el Fragmento Muratoriano enumera 22 de nuestros 27 libros del NT](/articulos/6-a-fines-del-siglo-ii-el-fragmento-muratoriano-enumera-22-de-nuestros-27-libros-del-nt)
+7. [Los primeros cristianos solían utilizar escritos no canónicos](/articulos/7-los-primeros-cristianos-solian-utilizar-escritos-no-canonicos)
+8. [El canon del NT no se decidió en Nicea, ni en ningún otro concilio de la iglesia](/articulos/8-el-canon-del-nt-no-se-decidio-en-nicea-ni-en-ningun-otro-concilio-de-la-iglesia)
+9. [Los cristianos no estaban de acuerdo sobre la canonicidad de algunos libros del NT](/articulos/9-los-cristianos-no-estaban-de-acuerdo-sobre-la-canonicidad-de-algunos-libros-del-nt)
+10. [Los primeros cristianos creían que los libros canónicos se autoautenticaban](/articulos/10-los-primeros-cristianos-creian-que-los-libros-canonicos-se-autoautenticaban)

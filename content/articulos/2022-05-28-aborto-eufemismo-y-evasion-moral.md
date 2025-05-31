@@ -1,10 +1,10 @@
 ---
 title: "Aborto, eufemismo y evasión moral"
 date: 2022-05-28
-categories: 
+type: 'article'
+categories:
   - "analisis"
-  - "featured"
-tags: 
+tags:
   - "aborto"
 image:
   src: ecografia-bebe.jpg
@@ -12,7 +12,7 @@ image:
   cc: https://www.pexels.com/photo/a-pregnant-woman-holding-an-ultrasound-picture-7055918/
 ---
 
-_  
+_
 “¡Felicitaciones, Sra. Smith! El aborto fue un éxito. ¡Aquí está tu nueva niña!”._
 
 _“¡Gracias, doctora! No quería matarla. . . Simplemente ya no quería estar embarazada. ¡Gracias por hacer que eso suceda!”_ 

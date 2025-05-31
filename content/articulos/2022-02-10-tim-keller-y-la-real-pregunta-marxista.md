@@ -1,10 +1,10 @@
 ---
 title: "Tim Keller y la real pregunta \"marxista\""
 date: 2022-02-10
-categories: 
+type: 'article'
+categories:
   - "analisis"
-  - "featured"
-tags: 
+tags:
   - "izquierda"
   - "marxismo"
   - "tim-keller"
@@ -53,9 +53,9 @@ En resumen, lo que falta en todo esto es la ley de Dios aplicada a todas las ár
 Esto nos lleva de regreso a lo que dijo North sobre las opiniones de Keller en 1991, donde termina llamando a la esclavitud y la dictadura una "bendición":
 
 > Se nos dice que Jose extrajo "todo el tráfico que pudiera soportar", en la línea clásica del villano capitalista en la novela socialista de Frank Norris, El pulpo. Esta fue una bendición de Dios, concluye E. P. Clowney. Para algunos, lo fue; en la historia, cada bendición puede convertirse en una maldición, y cada maldición sobre el que rompe el convenio puede convertirse en una bendición si se arrepiente. Esto no es lo que Clowney tenía en mente. El argumento de Keller llega tan claro como el cristal: la bendición era parte del nuevo Estado de bienestar egipcio. “Estoy seguro de que todos en Egipto habrían calificado el programa como una bendición; la alternativa era el hambre masiva". Esto muestra que el Dr. Keller no comprende la economía. El texto muestra que José hizo que los egipcios pagaran caro para mantenerse con vida. Compró sus tierras a nombre del Estado. Los trajo a la esclavitud permanente. Negoció bruscamente.
-> 
+>
 > Había otra alternativa bastante obvia: Jose simplemente podría haber regalado la comida, año tras año. El pueblo habría conservado su tierra y su estatus legal de hombres libres. Más tarde, José le dio comida a su familia; no los esclavizó. Pero el Dr. Keller no menciona esta alternativa. Por qué no? Ofrezco esta posibilidad: porque es “insensible” a la tiranía del Estado del bienestar. Lo obvio no se le ocurre cuando habla del funcionamiento del Estado de bienestar. Lo mismo ocurre con Clowney. Clowney llega a decir que esta acción de parte de José fue un aspecto de la profecía de que Abraham bendeciría a las naciones.
-> 
+>
 > Gary North
 
 Keller asume cosas similares sobre los programas gubernamentales y las tiranías en su último artículo de opinión. Hemos estado diciendo esto todo el tiempo. Pero el problema real está en otra parte, es decir, en otra parte más cercana a casa.

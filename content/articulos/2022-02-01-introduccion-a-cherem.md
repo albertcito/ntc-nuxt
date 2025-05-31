@@ -1,15 +1,15 @@
 ---
 title: "Introducción a Cherem"
 date: 2022-02-01
-categories: 
-  - "featured"
+categories:
   - "teologia"
-tags: 
+tags:
   - "cherem"
   - "joel-mcdurmon"
   - "teonomia"
 image:
-  src: cherem-prescencia-dios-templo.png
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/cherem-prescencia-dios-templo.png
+  alt: Templo del antiguo testamento
 ---
 
 Antes de comenzar un estudio más detallado de la doctrina bíblica de cherem, o lo que puede traducirse simplemente como “devoción”, alguna definición será útil. Me basaré en esto de dos maneras: el significado básico de la palabra y luego una definición sistemática básica. Después de eso, daré una explicación de esa definición y mostraré cómo explica y se aplica en todas las instancias bíblicas de la palabra.
@@ -54,9 +54,9 @@ Una cosa que aprendemos al estudiar estos principios es que sus designaciones y 
 
 Para comprender la naturaleza y el significado del lugar santísimo, primero debemos comprender la teología bíblica detrás de la separación de la humanidad de Dios y cómo esa separación se manifiesta en grados bajo el sistema mosaico.
 
-- [Acercarse a Dios ¿Por qué hay un lugar santísimo?](/articles/acercarse-a-dios-por-que-hay-un-lugar-santisimo)
-- [Las cosas más santas](/articles/las-cosas-mas-santas)
-- [Experimentando lo más santo](/articles/experimentando-lo-mas-santo)
+- [Acercarse a Dios ¿Por qué hay un lugar santísimo?](/articulos/acercarse-a-dios-por-que-hay-un-lugar-santisimo)
+- [Las cosas más santas](/articulos/las-cosas-mas-santas)
+- [Experimentando lo más santo](/articulos/experimentando-lo-mas-santo)
 
 ## Conclusión
 
@@ -64,4 +64,4 @@ Cherem significa "devoto", pero como existen otros tipos de separación hacia Di
 
 Las enseñanzas de las Escrituras con respecto a lo más santo pertenecen al tabernáculo, el sacerdocio, el arca del pacto, el voto nazareo y más. Todas estas fueron ordenanzas ceremoniales mosaicas, aunque el concepto de una barrera mortal de separación se remonta claramente a los querubines a la entrada del Jardín del Edén. Aunque el Jardín y esos querubines se habían ido hace mucho, fueron conmemorados en el tabernáculo y el sacerdocio levítico, y sus espadas. La muerte que resultaría de violar ese espacio, en una variedad de formas, incluso en las infracciones aparentemente más pequeñas, era igualmente real.
 
-Como veremos en el [próximo capítulo](/articles/cherem-en-la-ley-biblica), una característica adicional de la ley mosaica era la jurisdicción del magistrado civil sobre algunas de estas infracciones ceremoniales.
+Como veremos en el [próximo capítulo](/articulos/cherem-en-la-ley-biblica), una característica adicional de la ley mosaica era la jurisdicción del magistrado civil sobre algunas de estas infracciones ceremoniales.

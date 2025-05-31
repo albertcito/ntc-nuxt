@@ -1,10 +1,10 @@
 ---
 title: "John Piper y su doctrina de justificación final por obras"
 date: 2022-06-14
-categories: 
+type: 'article'
+categories:
   - "analisis"
-  - "featured"
-tags: 
+tags:
   - "evangelio"
   - "fe-sola"
   - "john-piper"
@@ -14,30 +14,30 @@ image:
   alt: John Piper predicando Faith Alone: Cómo (no) usar un eslogan reformado
 ---
 
-En cada generación surgen hombres dentro de la iglesia que tropiezan con el punto de vista católico romano de la justificación y, habiendo tropezado, intentan importar ese error católico romano a la Iglesia de Dios para que los hijos de Dios puedan tropezar con ellos. John Piper es solo el último de una larga lista de hombres así, y no será el último. Sorprendentemente, en la víspera del 500 aniversario de la Reforma, Piper intenta demostrar que ni las Escrituras ni los reformadores se aferraron a la justificación final por la fe sola aparte de las obras. El 25 de septiembre de 2017, Piper publicó “[¿Dios realmente nos salva solo por la fe?](https://www.desiringgod.org/articles/does-god-really-save-us-by-faith-alone){target=blank}” [\[3\]](#footnote_[3]) En el artículo, sostiene que la justificación inicial es solo por la fe, pero introduce un concepto que es completamente extraño a la Biblia: el concepto de “_salvación final_” sobre la base de nuestras _obras y obediencia_. Él escribe: “En la justificación, la fe recibe una obra consumada de Cristo realizada fuera de nosotros y contada como nuestra, imputada a nosotros… En la _salvación final_ en el juicio final, la fe es confirmada por el fruto santificador que ha dado, y _somos salvados por ese fruto y esa fe_.[\[4\]](#footnote_[4])
+En cada generación surgen hombres dentro de la iglesia que tropiezan con el punto de vista católico romano de la justificación y, habiendo tropezado, intentan importar ese error católico romano a la Iglesia de Dios para que los hijos de Dios puedan tropezar con ellos. John Piper es solo el último de una larga lista de hombres así, y no será el último. Sorprendentemente, en la víspera del 500 aniversario de la Reforma, Piper intenta demostrar que ni las Escrituras ni los reformadores se aferraron a la justificación final por la fe sola aparte de las obras. El 25 de septiembre de 2017, Piper publicó “[¿Dios realmente nos salva solo por la fe?](https://www.desiringgod.org/articulos/does-god-really-save-us-by-faith-alone){target=blank}” [\[3\]](#footnote_[3]) En el artículo, sostiene que la justificación inicial es solo por la fe, pero introduce un concepto que es completamente extraño a la Biblia: el concepto de “_salvación final_” sobre la base de nuestras _obras y obediencia_. Él escribe: “En la justificación, la fe recibe una obra consumada de Cristo realizada fuera de nosotros y contada como nuestra, imputada a nosotros… En la _salvación final_ en el juicio final, la fe es confirmada por el fruto santificador que ha dado, y _somos salvados por ese fruto y esa fe_.[\[4\]](#footnote_[4])
 
 En la visión de Piper de la salvación final, hace una distinción entre la justificación y la salvación en la que somos justificados solo por la fe aparte de las obras al principio, pero somos salvos por la fe más las obras al final. El escribe,
 
 > Estas obras de fe y esta _obediencia_ de fe, estos _frutos_ del Espíritu que vienen por la fe, son _necesarios_ para nuestra _salvación final_. Sin santidad, no hay cielo (Hebreos 12:14). Entonces, _no debemos hablar de llegar al cielo solo por fe_ de la misma manera que somos justificados solo por fe.
-> 
+>
 > Esencial para la vida cristiana y necesario para la salvación final es matar el pecado (Romanos 8:13) y la _búsqueda de la santidad_ (Hebreos 12:14).[\[5\]](#footnote_[5])
-> 
+>
 > ¿Dios realmente nos salva solo por la fe? por John Piper
 
 Antes de abordar las declaraciones de Piper en detalle, primero es importante establecer que cuando Piper dice "_salvación final_", quiere decir "_justificación final_" o "_justificación futura_". Por lo tanto, cuando Piper dice que somos justificados solo por la fe y salvos por la fe más las obras, está enseñando que nuestra justificación inicial es solo por la fe, pero que nuestra justificación continua y final es por la fe más nuestras buenas obras. Para Piper, la “salvación final” es la salvación del juicio en el Último Día. Del mismo modo, para Piper, la "justificación final" se justifica a partir del juicio del Último Día. “Salvación final” y “justificación final” son lo mismo. Como evidencia de esto, proporcionamos las enseñanzas de Piper sobre este mismo tema:
 
 > La salvación final del juicio futuro es condicional. No sucederá aparte de nuestra fe perseverante. … “salvación” se refiere a nuestra futura liberación de la ira de Dios en el juicio y entrada a la vida eterna.[\[6\]](#footnote_[6])
-> 
+>
 > \[Jesús\] dice que en el día del juicio… la gente “irá al castigo eterno” porque realmente no amaron a sus hermanos en la fe: “Como no lo hicisteis con uno de estos más pequeños, no lo hicisteis a mí” (Mateo 25:45-46). No hay duda de que Jesús vio cierta medida de obediencia real y vivida a la voluntad de Dios como necesaria para la salvación final.[\[7\]](#footnote_[7])
-> 
+>
 > Aunque puede causar confusión, es posible usar la palabra “justificar” para describir cómo obra el fruto del buen comportamiento en el día del juicio. Los frutos pueden “justificarnos” en el sentido de probar que somos creyentes y pertenecemos a Jesús y tenemos una posición correcta con Dios en él. Así es como entiendo Mateo 12:37, “Porque por tus palabras serás justificado, y por tus palabras serás condenado.”[\[8\]](#footnote_[8]).
-> 
+>
 > No es casualidad que el título de este libro tenga un doble significado. El futuro de la justificación llama la atención no solo hacia dónde puede estar yendo la doctrina en sí, sino también hacia la importancia crítica del futuro acto de juicio de Dios cuando nuestra justificación sea confirmada. ¿Cómo funcionará nuestra obediencia en ese Día?[\[9\]](#footnote_[9])
-> 
+>
 > La presente justificación se basa solo en la obra sustitutiva de Cristo, disfrutada en unión con él solo por la fe. La justificación futura es la confirmación abierta y la declaración de que en Cristo Jesús somos perfectamente irreprensibles ante Dios. Este juicio final concuerda con nuestras obras. Es decir, el fruto del Espíritu Santo en nuestra vida será presentado como evidencia y confirmación de la verdadera fe y unión con Cristo. Sin esa transformación validadora, no habrá salvación futura[\[10\]](#footnote_[10]).
-> 
+>
 > En la salvación final, en el juicio final, la fe se confirma por el fruto santificador que ha dado, y somos salvos por ese fruto y por esa fe[\[11\]](#footnote_[11]).
-> 
+>
 > John Piper
 
 Piper ha expresado durante décadas que “salvación final en el juicio final”, “salvación final del juicio futuro”, “justificación futura” en el “juicio final” y “liberación futura de la ira de Dios en el juicio” son la mismo cosa, mostrando que para él, la salvación final es la absolución en el juicio final, o la justificación final. Como lo deja perfectamente claro su resumen de [Christianity Today](https://www.christianitytoday.com/ct/content/pdf/justification_june09.pdf){target=blank}, la “justificación futura” es “este juicio final” que es la “salvación futura” ... "juicio final acuerdo con nuestras obras". Y para Piper, la salvación final—y por lo tanto la justificación final—es por la fe más las obras. Por lo tanto, cuando Piper respondió la pregunta en "¿Dios realmente nos salva solo por fe?" su respuesta es esencialmente, No, no lo hace; la justificación final no es solo por la fe.
@@ -49,19 +49,19 @@ Presentamos nuestra preocupación con esta explicación extendida de la comprens
 Consideremos primero lo que dice Piper sobre el juicio final, la justificación final y la salvación final. Piper ha presentado la noción de una “justificación final” o una “salvación final en el juicio final \[en el cual\] la fe es confirmada por el fruto santificador que ha producido, y somos salvos a través de ese fruto y esa fe”. Además, ha declarado que las "obras de fe" y la "obediencia de la fe… son necesarias para nuestra salvación final". Piper tiene razón acerca de que hay un juicio final que es un juicio de obras. El Dr. Robert Reymond escribe,
 
 > Ahora bien, no se puede negar que las Escrituras representan uniformemente el juicio final como un juicio por obras. (Sal. 62:12; Eclesiastés 12:14; Mat. 16:27; 25:31-46; Juan 5:29; Rom. 2:5-10; 1 Cor. 3:13, 4:5; 2 Corintios 5:10; Gálatas 6:7-9; 1 Pedro 1:17; véase también Confesión de fe de Westminster, XXXIII/i) y que proclaman la promesa de recompensas por vivir fielmente (Éxodo 20:5). -6, Proverbios 13:13, 25:21-22, Mateo 5:12, 6:1, 2, 4, 16, 18, 20, 10:41, 19:29, Lucas 6:37-38; Col. 3:23-24; 2 Tim. 4:7-8: Heb. 11:26).[\[13\]](#footnote_[13])
-> 
+>
 > Robert L. Reymond, _A New Systematic Theology of The Christian Faith_
 
 Pero mientras Piper tiene razón acerca de que hay un juicio final por obras, se equivoca al sugerir que tiene algo que ver con nuestra "justificación futura" o nuestra "salvación final". Mas bien, las obras por las cuales el creyente debe ser juzgado son simplemente la base de las recompensas. John Murray escribe,
 
 > Debemos mantener… la justificación completa e irrevocable por la gracia mediante la fe y sin las obras, y al mismo tiempo, la recompensa futura según las obras. En referencia a estas dos doctrinas es importante observar lo siguiente: (i) Esta recompensa futura no es justificación y nada contribuye a lo que constituye la justificación. (ii) Esta recompensa futura no es la salvación. La salvación es por gracia y no es como recompensa por las obras que somos salvos.[\[14\]](#footnote_[14])
-> 
+>
 > John Murray, “Justification”. 
 
 Desde el punto de vista bíblico, este juicio final por obras no tiene absolutamente nada que ver con nuestra justificación o nuestra salvación. El concepto de una justificación futura o una salvación final que depende de nuestras obras u obediencia es completamente extraño a la Biblia y la tradición protestante, pero no es extraño al catolicismo romano. En Razonamiento a partir de las Escrituras con los católicos, Ron Rhodes escribe:
 
 > Ciertamente, los católicos niegan que su Iglesia enseñe una salvación por obras. Hablarán de cómo la salvación es imposible sin la gracia de Dios. Pero aunque las cosas comienzan por gracia en el sistema católico romano de salvación… las obras ciertamente se mezclan en el cuadro. En virtud del hecho de que una vida de obras meritorias es necesaria para obtener la salvación final, está claro que, en realidad, la visión católica romana de la salvación está orientada a las obras. La salvación puede involucrar la gracia y la fe, pero no es solo por la gracia (sola gratia) o solo por la fe (sola fide).[\[15\]](#footnote_[15])
-> 
+>
 > Ron Rhodes, _Reasoning from the Scriptures with Catholics_
 
 Como veremos luego de un examen más profundo de Piper, la evaluación de Rhodes del catolicismo romano, "que una vida de obras meritorias es necesaria para obtener la salvación final", también es una refutación adecuada de Piper. Lo que Piper escribe es sorprendente y extrañamente similar a lo que Ron Rhodes identificó correctamente como el sistema de salvación católico romano orientado por las obras. Piper habla de cómo la salvación es imposible aparte de la gracia de Dios, y de hecho habla de la justificación inicial como siendo solo por la fe, aparte de las obras: “Solo la fe obtiene el veredicto, no culpable, cuando nos convertimos en cristianos. Las obras de cualquier tipo no son aceptables en el momento de la justificación inicial.”[\[16\]](#footnote_[16]) Pero aunque las cosas comienzan por la gracia a través de la fe solamente en el sistema de salvación de Piper… las obras se mezclan inmediatamente en el cuadro, porque así es como “uno mantiene\[ s\] una posición correcta permanente y final con Dios.”[\[17\]](#footnote_[17]) Desde el punto de vista de Piper, las obras son “necesarias para obtener la salvación final”, para usar la descripción de Rhodes del catolicismo romano, y las obras serán necesarias para nuestra “justificación futura”. En opinión de Piper, la justificación futura o la salvación final pueden involucrar la gracia y la fe, pero no son solo por gracia (sola gratia) o solo por fe (sola fide). Que Piper diga que “estas obras de fe y esta obediencia de fe… son necesarias para la salvación final” es decir que las obras y la obediencia son necesarias para la justificación y la salvación. Esto es romanismo puro en su corazón y contradice directamente Efesios 2:8-9: “Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe.” Una vez más, el Dr. Reymond escribe: “\[La salvación\] es por la fe, \[aparte de las obras\], para que sea según la gracia” (Rom. 4:16). Si Dios permitiera la intrusión de las obras humanas en la adquisición de la salvación en cualquier grado, la salvación no podría ser solo por gracia.”[\[18\]](#footnote_[18])
@@ -79,7 +79,7 @@ Cuando Jesús dice que el creyente "por tus palabras serás justificado" en el D
 Juan Calvino se pronuncia al respecto en una manera muy diferente a la que Piper describe:
 
 > ¿No es absurdo inferir de esto que los hombres merecen una sola gota de justicia a los ojos de Dios? Por el contrario, este pasaje confirma nuestra doctrina; porque, aunque Cristo no trata aquí del fundamento de nuestra justificación, el contraste entre las dos palabras señala el significado de la palabra justificar. Los papistas consideran absurdo que digamos que un hombre es justificado por la fe, porque explican que la palabra justificado significa que se vuelve y es realmente justo; mientras que entendemos que significa que él es considerado justo y absuelto ante el tribunal de Dios, como es evidente en numerosos pasajes de la Escritura. ¿Y no es lo mismo confirmado por Cristo, cuando establece un contraste entre justificados y condenados?
-> 
+>
 > Juan Calvino - [Comentario al Evangelio Según San Mateo](https://ccel.org/ccel/calvin/calcom32/calcom32.ii.xiv.html){target=blank}
 
 Hombres como Piper también apelan a la separación de las ovejas de las cabras en Mateo 25, deseando que la recitación de las buenas obras de las ovejas pruebe la justificación final por las obras.[\[21\]](#footnote_[21]) El problema con tal apelación a Mateo 25 para la justificación final basada en las obras es que las ovejas y las cabras se separan en dos grupos antes de que se comparen las obras de nadie. En otras palabras, se separan en dos grupos según sean ovejas o cabras. Dado que las ovejas se definen como aquellos que creen (Juan 10:16, 26), la escena del juicio en Mateo 25:31-33 tiene a las ovejas separadas en base a la fe, no a las obras, lo que quiere decir que las ovejas fueron separadas en base a una justicia aparte de las obras. Ni las ovejas ni el Pastor han contemplado obras en la separación de “Sus ovejas” de “las cabras”. Incluso cuando se recitan las obras de las ovejas, las ovejas no las conocen y claramente no habían anticipado una discusión sobre sus obras, es decir, “¿cuándo te vimos…? …¿cuándo te vimos…? …¿cuándo te vimos…?” (Mateo 25:37-39). Las ovejas habían llegado al trono del juicio sin tener en mente su propia santidad personal o mejoramiento moral.
@@ -149,15 +149,15 @@ Piper recibió su Maestría en Divinidad en el Seminario Teológico Fuller en Pa
 Vale la pena señalar que en sus años de formación, Piper estuvo muy influenciado por Daniel Fuller, quien desagradó a O. Palmer Robertson debido a sus formulaciones problemáticas sobre la justificación:
 
 > En sustitución de la distinción bíblicamente clara entre la justicia de la justificación legalmente imputada y la justicia de la santificación infundida vitalmente, \[Daniel\] Fuller opta por los significados flexibles que pueden introducirse en la frase, la "obediencia de la fe". Sin darse cuenta, parece que Fuller juega con una ambigüedad inherente a la frase. Cuando habla de "salvación" por la "obediencia de la fe", quiere decir
-> 
+>
 > 1\. ¿La fe como apego total a Cristo?
-> 
+>
 > 2\. ¿Las acciones obedientes que surgen de la fe?
-> 
+>
 > 3\. ¿La fe considerada en sí misma como un acto de obediencia?
-> 
+>
 > Debido a la ambigüedad inherente a la frase, Fuller puede deslizarse entre sus diversos significados… a veces significando la obediencia que es fe y otras veces significando las acciones obedientes hechas en fe. En otras palabras, el hombre se salva haciendo, guardando la ley reveladora de Moisés, que es la ley de la fe… Fuller… se deja a sí mismo abierto a ser entendido como encomendando las obras de la fe (la "obediencia de la fe") como el camino de justificación.[\[35\]](#footnote_[35])
-> 
+>
 > O. Palmer Robertson, “Daniel Fuller’s _Gospel and Law: Contrast or Continuum?_ A Review Article".
 
 El punto de Robertson es confirmado por el trabajo de Fuller, The Unity of the Bible: Unfolding God’s Plan for Humanity (Zondervan, 1992). Fuller construyó su visión de la justificación en torno al rechazo de Calvino por parte de Jonathan Edwards. Si bien Edwards insistió en la justificación solo por la fe, luchó por comprender cómo un pecador podía ser inicialmente justificado solo por la fe cuando el veredicto sobre su justificación final aún estaba pendiente, esperando el resultado de su perseverancia. Edwards (y Fuller después) concluyó que en realidad no somos salvos solo por la fe, sino que somos "salvos por la perseverancia". Así, en el veredicto inicial de la justificación, Dios “tiene respeto” por la eventual perseverancia del pecador: “Pero \[contrario a Calvino\] somos realmente salvos por la perseverancia…. Porque, aunque un pecador es justificado en su primer acto de fe; sin embargo, incluso entonces, en ese acto de justificación, Dios considera que la perseverancia está virtualmente \[implicada\] en el primer acto.”[\[36\]](#footnote_[36])
@@ -181,7 +181,7 @@ Esa dificultad seguirá surgiendo en Piper mientras lucha con la justicia que Di
 Ahora es 1995 y Piper todavía está avanzando en las construcciones de Fuller sobre la justificación. Si bien Piper no está completamente de acuerdo con Fuller en todo, sin embargo, formuló su propia visión de la justificación basada en la ambigüedad latente en la "obediencia de la fe" de Fuller, la misma construcción que Robertson encontró tan reprobable:
 
 > La visión de Daniel Fuller de la vida cristiana como una “obediencia de la fe” es el jardín en el que han crecido las plantas de mi reflexión. Casi tres décadas de diálogo sobre los temas de este libro han dejado una profunda huella… Su obra principal, La unidad de la Biblia, es el trasfondo explicativo de la mayor parte de lo que escribo.[\[39\]](#footnote_[39])
-> 
+>
 > John Piper, Future Grace.
 
 Para Piper, “\[la\] fe está principalmente orientada hacia el futuro”,[\[40\]](#footnote_[40]) lo que necesariamente hace que el pecador se centre principalmente en su futura transformación en lugar de en la obra pasada que Cristo ya ha realizado por él. Vemos la influencia de Fuller cuando Piper explica su significado: “gracia futura” es la transformación moral del Espíritu Santo en el creyente, y el creyente es justificado por la fe en esa transformación moral: “…el poder que fortalece el corazón que proviene del Espíritu Santo ( Efesios 3:16) es virtualmente lo mismo a lo que me refiero con gracia futura.”[\[41\]](#footnote_[41])“Y esta fe en la gracia futura es la fe por la cual somos justificados.”[\[42\]](#footnote_[42]) Así, para Piper, tanto Dios como el pecador tener en mente la futura mejora moral del pecador en la justificación. Dios contempla la mejora futura del pecador — el pecador cree y Dios prevé — que el pecador mejorará con el tiempo. Tome las propias palabras de Piper de Future Grace y la declaración de Bethlehem Baptist de 1985, y tenemos exactamente el problema que Robertson vio en Fuller: el pecador es justificado por el conocimiento de Dios y la confianza del pecador en su futura mejora moral, "por la fe a través de la cual somos justificados” es la fe en “el poder que fortalece el corazón que proviene del Espíritu Santo”. Como veremos, Piper eventualmente tendrá que revisar la edición de 1995 de Future Grace debido a la “tensión” que existe en sus expresiones de justificación.
@@ -217,7 +217,7 @@ La confusión de Piper se encuentra en su suposición de que las personas rechaz
 Para agravar su confusión, Piper intentó justificar su lectura de los capítulos 7 y 25 de Mateo apelando al capítulo 12. Al hacerlo, Piper interpretó la referencia de Jesús a la fe como una referencia a las obras, y sobre esa base concluyó que los cristianos serán justificados por sus obrar en el último día. Piper explicó su traducción de Mateo 7 y 25, en esta nota al pie:
 
 > Aunque puede causar confusión, es posible usar la palabra “justificar” para describir cómo obra el fruto del buen comportamiento en el día del juicio. Los frutos pueden “justificarnos” en el sentido de probar que somos creyentes y pertenecemos a Jesús y tenemos una posición correcta con Dios en él. Así entiendo Mateo 12:37: “Por tus palabras serás justificado, y por tus palabras serás condenado”[\[49\]](#footnote_[49]).
-> 
+>
 > What Jesus Demands from the World
 
 Aquí Piper ha leído "obras" en "palabras", completamente ajenas al texto. Como mostramos arriba, la referencia de Jesús a las personas siendo justificadas o condenadas por sus “palabras” en el último día fue una referencia a ser justificadas por la fe o condenadas por la incredulidad, no juzgadas por sus “obras”.
@@ -227,7 +227,7 @@ Nuestra preocupación con la posición de Piper en 2006 es doble. Primero, en su
 También es notable que la posición de Piper en 2006 no fuera diferente a la de N. T. Wright. El año después de que publicó Lo que Jesús exige del mundo, la Asamblea General de la Iglesia Presbiteriana en América (PCA) rechazó las formulaciones de Wright por los mismos motivos que Robertson y Godfrey habían rechazado las de Fuller:
 
 > Parecería que Wright es inconsistente cuando se trata de sus medios para recibir la justificación presente y futura. En el presente, Wright argumenta que la insignia de la justificación es solo la fe y que no hay obras involucradas en esto (Wright, What Saint Paul Really Said, 132). Sin embargo, en referencia a la justificación “final”, Wright argumenta que es “sobre la base de toda la vida vivida”. Pero esto es una contradicción: ¿Cómo se puede estar seguro de la “justificación final”, si el veredicto final se basa en toda la vida vivida (es decir, fe más fidelidad/obras)? ¿Existe el caso de una persona que recibe la justificación presente y no la justificación final? Estas inconsistencias parecen cambiar el medio para recibir la justificación a las obras, ya que la única diferencia entre quien recibe la justificación presente y quien recibe la justificación final es que este último trabaja .[\[50\]](#footnote_[50])
-> 
+>
 > 34<sup>th</sup> PCA General Assembly
 
 Le haríamos a Piper las mismas preguntas debido a sus propias inconsistencias. ¿Existe el caso de una persona que recibe la justificación inicial y no mantiene una posición correcta ante Dios a través de las buenas obras? Piper nos asegura que eso nunca podría suceder: "Ninguno que esté ubicado por la fe en el favor invencible de Dios dejará de tener todo lo que es necesario para demostrar esto en la vida". [\[51\]](#footnote_[51]) Si es así, ¿de qué manera Jesús "realmente" enviará a algunos de nuestros “compañeros creyentes” al infierno en el último día?
@@ -237,7 +237,7 @@ Le haríamos a Piper las mismas preguntas debido a sus propias inconsistencias. 
 En su crítica de N. T. Wright, Piper lo criticó irónicamente por su uso ambiguo de "la obediencia de la fe", precisamente por lo que Robertson había criticado a Fuller. Piper escribió,
 
 > A la ambigüedad de cómo funcionan nuestras obras en la justificación se suma la aparente combinación de “fe” de Wright, por un lado, y “fidelidad” (o obediencia fiel), por el otro… La cuestión es si la justificación por la fe realmente significa justificación por obras de cualquier tipo, ya sean provistas por Dios o por el hombre. Ese es el problema, y Wright nuevamente nos deja con la impresión de que la transformación humana y los actos de obediencia obrados por el Espíritu están incluidos en el término “fe” cuando habla de la justificación presente siendo solo por la fe.[\[52\]](#footnote_[52])
-> 
+>
 > Piper, _The Future of Justification_
 
 Le recordamos al lector que solo ocho años antes, en su intento de armonizar a Santiago y Pablo, Piper abogaba por la "justificación solo por la dependencia", como se señaló anteriormente, explicando que nuestra posición correcta inicial con Dios es solo por la fe, pero nuestro continuo y la posición correcta final con Dios se mantiene tanto por la fe como por las obras. Ambos se colapsaron en la construcción única, "dependencia sola". Al igual que Wright, Piper estaba incluyendo "Actos de obediencia obrados por el Espíritu" en el término "dependencia", manteniendo la justificación por "solo dependencia" (es decir, solo fe) al comienzo de la vida cristiana, y la justificación por "solo dependencia" (que significa fe y obras de amor) a lo largo de la vida del creyente. Piper también había estado “aumentando la ambigüedad de cómo funcionan nuestras obras en la justificación” menos de una década antes.
@@ -257,9 +257,9 @@ Lo que es tan notable e irónico acerca de la aceptación de Wilson por parte de
 En 2012, Piper revisó Future Grace, reconociendo exactamente lo que hemos estado destacando en esta línea de tiempo: el anuncio inconsistente y vacilante de la justificación por \[algo\] solo, y el imperativo de Future Grace de la fe con visión de futuro. Debido a las ambigüedades latentes en sus construcciones sobre la justificación en la edición de 1995, y (creemos) debido a la incierta trompeta que había sonado a lo largo de los años, Piper se sintió obligado a aclarar su enseñanza una vez más:
 
 > En la pregunta interminable de cómo los cristianos, que son contados justos en Cristo por la fe sola, deben, sin embargo, buscar la justicia, este libro es mi respuesta. Es mi intento más completo de explicar por qué la fe que justifica también santifica, sin mezclar o confundir esas dos gloriosas obras de Dios.
-> 
+>
 > Desde la publicación de la primera edición de Future Grace en 1995, he recorrido extensas controversias en torno a la naturaleza, la base y el instrumento de la justificación. Estas controversias han agudizado mi comprensión de lo que enseña la Biblia. Parte de esa agudeza se captura en Counted Righteous in Christ (Crossway, 2002), The Future of Justification (Crossway, 2007) y Finalmente Alive (Christian Focus, 2007). Algunas personas han sentido tensiones entre la primera edición de Future Grace y el mensaje de esos libros. Espero que esta edición revisada elimine esas tensiones.[\[55\]](#footnote_[55])
-> 
+>
 > John Piper, Future Grace, Preface to the 2012 edition
 
 Sin embargo, no estamos convencidos de que la Gracia Futura pueda corregirse para solucionar el problema de la justificación y la santificación “mezcladas o confundidas”. Así como el sermón de Piper de 1999 sobre Santiago y Pablo, extraído del capítulo 19 de la Unidad de la Biblia de Fuller, mostró que él todavía estaba en ese momento en el jardín de Fuller, Future Grace, escrito cuatro años antes, se basó en gran medida en el capítulo 18. En el capítulo 18, Fuller intentó resolver las implicaciones de la "orientación futurista de la fe" (249-280). No creemos, sin embargo, que Piper realmente pueda salir del jardín de Fuller mientras continúa consumiendo la fruta que crece allí.
@@ -279,9 +279,9 @@ En la década de 1970, durante la controversia sobre la justificación del Semin
 Proporcionamos aquí tres de las tesis de Shepherd que fueron tan ofensivas para la comunidad reformada, e invitamos a nuestros lectores a determinar en qué se diferencia Piper de Shepherd:
 
 > Tesis 21: El fundamento exclusivo de la justificación del creyente en el estado de justificación es la justicia de Jesucristo, pero su obediencia, que es simplemente la perseverancia de los santos en el camino de la verdad y la justicia, es necesaria para que continúe en un estado de justificación (Hebreos 3:6, 14).
-> 
+>
 > Tesis 22: La justicia de Jesucristo permanece siempre como la base exclusiva de la justificación del creyente, pero la piedad personal del creyente también es necesaria para su justificación en el juicio del último día (Mateo 7:21-23; 25:31-46; Hebreos 12:14).
-> 
+>
 > Tesis 23: Porque la fe que no es fe obediente es fe muerta, y porque el arrepentimiento es necesario para el perdón de los pecados incluido en la justificación, y porque permanecer en Cristo guardando sus mandamientos (Juan 15:5; 10; 1 Juan 3:13; 24) son todas necesarias para continuar en el estado de justificación, las buenas obras, obras hechas con verdadera fe, según la ley de Dios, y para su gloria, siendo la nueva obediencia obrada por el Espíritu Santo en la vida del creyente unida a Cristo, aunque no son la base de su justificación, son sin embargo necesarios para la salvación de la condenación eterna y por lo tanto para la justificación (Rom. 6:16, 22; Gal. 6:7-9).[\[59\]](#footnote_[59])
 
 El problema con Piper es que su posición no difiere en absoluto de la de Shepherd. Esto es por diseño. El proponente de la Visión Federal, Rich Lusk, se complace en que la doctrina de la doble justificación esté avanzando en los círculos evangélicos: “Esta doctrina de la doble justificación (justificación inicial solo por la fe, seguida de una segunda justificación según las obras en el juicio escatológico) es re-surgiendo como una “posición de consenso” entre los principales teólogos bíblicos evangélicos y reformados de la actualidad.”[\[60\]](#footnote_[60])
@@ -289,7 +289,7 @@ El problema con Piper es que su posición no difiere en absoluto de la de Shephe
 La justificación por obras está “resurgiendo” como una “posición de consenso” porque hombres como Piper ahora están predicando “una segunda justificación según las obras” como si fuera la Buena Nueva que Cristo vino a anunciar a Su rebaño. También le recordamos al lector que Gaffin, Piper, Lusk y Shepherd están predicando un evangelio que los católicos romanos se deleitan en escuchar. Jason Stellman, antiguo presbiteriano, se convirtió al catolicismo romano después de adoptar la misma interpretación de Mateo 12 que Norman Shepherd presenta en sus tesis, obligándolo a “concluir que la justificación no es un evento de una vez por todas, sino que de hecho existe tal cosa como la justificación futura… en la que nuestras obras están íntima y causalmente involucradas”. [\[61\]](#footnote_[61]) Muchos años antes, cuando Scott Hahn buscaba descubrir quién más estaba encontrando una segunda justificación por obras en las Escrituras, tropezó con Norman Shepherd y quedó encantado también al descubrir que Shepherd también predicaba el romanismo:
 
 > Estaba tan emocionada con este descubrimiento. Lo compartí con algunos amigos, quienes se sorprendieron de cuánto sentido tenía. Entonces un amigo me detuvo y me preguntó si sabía quién más estaba enseñando de esta manera sobre la justificación. Cuando respondí que no, me dijo que el Dr. Norman Shepherd, profesor del Seminario Teológico de Westminster (el Seminario Presbiteriano Calvinista más estricto de Estados Unidos) estaba a punto de someterse a un juicio por herejía por enseñar el mismo punto de vista de la justificación que yo estaba exponiendo Así que llamé al profesor Shepherd y hablé con él. Dijo que fue acusado de enseñar algo contrario a las enseñanzas de las Escrituras, Lutero y Calvino. Cuando lo escuché describir lo que estaba enseñando, pensé: Oye, eso es lo que estoy diciendo[\[62\]](#footnote_[62]).
-> 
+>
 > Scott Hahn, _Rome, Sweet Home_
 
 A pesar de todas sus protestas en sentido contrario, y todos sus intentos de reformular sus expresiones de justificación, eso es lo que Piper también está diciendo.

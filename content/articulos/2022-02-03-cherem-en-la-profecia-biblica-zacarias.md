@@ -42,4 +42,4 @@ Cuando el templo terminó, también lo hizo el cherem mosaico. El cherem/anatema
 
 * * *
 
-Este artículo es parte de [Cherem en la profecia Biblica](/articles/cherem-en-la-profecia-biblica).
+Este artículo es parte de [Cherem en la profecia Biblica](/articulos/cherem-en-la-profecia-biblica).

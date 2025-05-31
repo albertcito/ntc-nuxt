@@ -1,10 +1,10 @@
 ---
 title: "Libertad, la herramienta perdida del evangelismo"
 date: 2022-02-18
-categories: 
+type: 'article'
+categories:
   - "analisis"
-  - "featured"
-tags: 
+tags:
   - "bojidar-marinov"
   - "evangelio"
   - "evangelismo"

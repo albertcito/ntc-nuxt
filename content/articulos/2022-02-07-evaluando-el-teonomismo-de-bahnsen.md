@@ -1,10 +1,10 @@
 ---
 title: "Evaluando el Teonomismo de Bahnsen"
 date: 2022-02-07
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "greg-bahnsen"
   - "teonomia"
   - "vern-poythress"

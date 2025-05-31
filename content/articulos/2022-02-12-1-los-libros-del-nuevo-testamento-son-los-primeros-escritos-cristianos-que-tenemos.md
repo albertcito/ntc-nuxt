@@ -26,4 +26,4 @@ Al final, todo cristiano debería recordar un hecho básico, a saber, que los li
 
 * * *
 
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articles/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

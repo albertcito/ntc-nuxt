@@ -1,10 +1,10 @@
 ---
 title: "La Biblia como verdad"
 date: 2023-03-22
-categories: 
+type: 'article'
+categories:
   - "apologetica"
-  - "featured"
-tags: 
+tags:
   - "apologetica"
   - "biblia"
   - "gordon-clark"
@@ -33,7 +33,7 @@ En otro artículo, dos colegas de Van Til dicen que es "erróneo" sostener que "
 Como breve respuesta, podemos hacer la observación de que aunque el Evangelio esta oculto para los que están perdidos, el pasaje no afirma que los que están perdidos sean completamente ignorantes y no sepan absolutamente nada. Así también, las multitudes entendieron el significado literal de la parábola, aunque ni ellas ni los discípulos comprendieron lo que Cristo estaba ilustrando. Admitamos que por la regeneración el Espíritu Santo ilumina la mente y nos lleva gradualmente a más verdades, pero la Escritura ciertamente no enseña que los filisteos no entendieron que David había matado a Goliat. Este punto de vista no ha sido común entre los escritores reformados; sin embargo, sólo se citará uno como ejemplo. Abraham Kuyper, en su Enciclopedia de Teología Sagrada,\[[4](#quote_index_4)\] después de especificar ocho puntos en los que estamos sujetos a error a causa del pecado, añade:
 
 > El oscurecimiento del entendimiento... no significa que hayamos perdido la capacidad de pensar lógicamente, pues en la medida en que se cuestiona el impulso de su ley de vida, la lógica no ha sido \[cursiva suya\] debilitada por el pecado. Cuando esto sucede, resulta una condición de locura... el pecado ha debilitado la energía del pensamiento... \[pero\] la conciencia humana universal siempre es capaz de superar la lentitud y corregir estos equívocos en el razonamiento.
-> 
+>
 > Enciclopedia de Teología Sagrada - Abraham Kuyper
 
 Al defender así la capacidad epistemológica del hombre pecador, Kuyper puede incluso haber subestimado los efectos noéticos del pecado. Quizás la conciencia humana no siempre es capaz de superar la pereza y corregir los equívocos en el razonamiento. Lo que quiero destacar es que a veces esto es posible. Un hombre no regenerado puede conocer algunas proposiciones verdaderas y a veces puede razonar correctamente.

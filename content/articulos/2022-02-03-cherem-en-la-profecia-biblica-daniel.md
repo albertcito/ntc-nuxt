@@ -32,4 +32,4 @@ Se podría decir que Herodes, más que cualquier otra figura representativa, est
 
 * * *
 
-Este artículo es parte de [Cherem en la profecia Biblica](/articles/cherem-en-la-profecia-biblica).
+Este artículo es parte de [Cherem en la profecia Biblica](/articulos/cherem-en-la-profecia-biblica).

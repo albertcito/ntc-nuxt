@@ -1,15 +1,17 @@
 ---
 title: "El victorioso avance del Reino de Dios"
 date: 2023-05-20
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "escatologia"
   - "matthew-belleville"
   - "postmilenialismo"
 image:
-  src: Resurrection.jpg
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/luke_24.jpg
+  alt: Jesus resucitado con angeles
+  cc: https://biblepics.co/bible/books/luke/24/
 ---
 
 Para que el Reino de Dios sea victorioso en la historia, a través de la proclamación del Evangelio con el poder del Espíritu y la obediencia de la Iglesia mundial con el poder del Espíritu, Jesús pondrá a todos Sus enemigos debajo de sus pies.
@@ -21,7 +23,7 @@ Después de la crucifixión, sepultura y resurrección de Jesús, Él se reunió
 El principal ejemplo de esto es la Gran Comisión:
 
 > Y cuando le vieron, le adoraron; pero algunos dudaban. Y Jesús se acercó y les habló diciendo: Toda potestad me es dada en el cielo y en la tierra. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén.
-> 
+>
 > Mateo 28:17-21
 
 _Primero_, Jesús dice que ahora toda autoridad es suya. Cualquier autoridad que se encuentra en el cielo y la tierra le ha sido dada a Él para sus propósitos en la historia. ¿Por qué? Una recompensa por su obediencia al Padre. Esta declaración nos dice que todo lo que sucede es para cumplir su voluntad.
@@ -33,13 +35,13 @@ _Tercero_, ¿Cómo desea Jesús, quien tiene toda autoridad en el cielo y en la 
 ## La Ascensión de Cristo
 
 > pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis testigos en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra. Y habiendo dicho estas cosas, viéndolo ellos, fue alzado, y le recibió una nube que le ocultó de sus ojos.
-> 
+>
 > Hechos 1:8-9 Reina-Valera 1960
 
 Después de la resurrección, Jesús ya había recibido toda autoridad en el Cielo y en la Tierra. Después de 40 días de enseñanza sobre el Reino de Dios, subió al cielo para sentarse a la “diestra” del Padre. ¿Qué significa Jesús subiendo al Padre para los Apóstoles, nosotros, las naciones, la historia y el Reino de Dios?
 
 > Miraba yo en la visión de la noche, y he aquí con las nubes del cielo venía uno como un hijo de hombre, que vino hasta el Anciano de días, y le hicieron acercarse delante de él. Y le fue dado dominio, gloria y reino, para que todos los pueblos, naciones y lenguas le sirvieran; su dominio es dominio eterno, que nunca pasará, y su reino uno que no será destruido.
-> 
+>
 > Daniel 7:13-14 Reina-Valera 1960
 
 Lamentablemente, este versículo, que es tan útil para enseñarnos sobre el futuro, ha sido distorsionado por los premilenialistas. Explican que este versículo se trata de la segunda venida física de Jesús cuando Él establecerá Su Reino físico en Jerusalén y reinará por 1000 años hasta que Satanás sea liberado de sus cadenas. Luego, hay una rebelión final antes de la batalla de Gog y Magog, el Juicio del Gran Trono Blanco y los Nuevos Cielos y la Nueva Tierra.
@@ -49,7 +51,7 @@ Con respecto a la vista anterior, hay un punto crítico perdido. Cuando se encue
 Ahora que hemos establecido que la venida de Jesús en Daniel 7:13 se cumple en la ascensión de Jesús, debemos preguntarnos cuál es el resultado de Su ascensión.
 
 > Y le fue dado dominio, gloria y reino, para que todos los pueblos, naciones y lenguas le sirvieran; su dominio es dominio eterno, que nunca pasará, y su reino uno que no será destruido.
-> 
+>
 > Daniel 7:14 - Reina-Valera 1960
 
 Esto coincide precisamente con el objetivo de Mateo 28:18-20. Jesús ya ha recibido Su Reino. Él está en el proceso de traer a todos los pueblos, naciones y lenguas a Su servicio.
@@ -59,13 +61,13 @@ Esto coincide precisamente con el objetivo de Mateo 28:18-20. Jesús ya ha recib
 ¿Qué está haciendo Cristo ahora como Rey de Reyes sentado a la diestra de Dios?
 
 > Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies.
-> 
+>
 > Salmos 110:1 Reina-Valera 1960
 
 Este es el Salmo más citado en el NT. Aquí hay una cita del NT que hace que la posición posmilenial sea incuestionable:
 
 > Luego el fin, cuando entregue el reino al Dios y Padre, cuando haya suprimido todo dominio, toda autoridad y potencia. Porque preciso es que él reine hasta que haya puesto a todos sus enemigos debajo de sus pies. Y el postrer enemigo que será destruido es la muerte. Porque todas las cosas las sujetó debajo de sus pies. Y cuando dice que todas las cosas han sido sujetadas a él, claramente se exceptúa aquel que sujetó a él todas las cosas. Pero luego que todas las cosas le estén sujetas, entonces también el Hijo mismo se sujetará al que le sujetó a él todas las cosas, para que Dios sea todo en todos.
-> 
+>
 > 1 Corintios 15:24-28 Reina-Valera 1960
 
 _Primero_, se nos dice que el fin de la historia, cuando Jesús le devuelva su Reino al Padre, no ocurrirá hasta que se destruya todo otro gobierno, autoridad y poder.
@@ -93,7 +95,7 @@ Las otras parábolas de Jesús (trigo y cizaña, red barredera) están en sinton
 ### Negar escatológicamente la Expiación
 
 > Después de las sesenta y dos semanas el Mesías [_\[o, el ungido\]_](https://www.biblegateway.com/passage/?search=Daniel+9%3A26&version=NBLA#fes-NBLA-22015a) será muerto [_\[o, cortado\]_](https://www.biblegateway.com/passage/?search=Daniel+9%3A26+&version=LBLA#fes-LBLA-22015b) y no tendrá nada [_\[o, a nadie\]_](https://www.biblegateway.com/passage/?search=Daniel+9%3A26+&version=LBLA#fes-LBLA-22015c), y el pueblo del príncipe que ha de venir destruirá la ciudad y el santuario. Su fin vendrá con inundación. Aun hasta el fin habrá guerra; las desolaciones están determinadas [_\[o, guerra será decretada a las desolaciones\]_](https://www.biblegateway.com/passage/?search=Daniel+9%3A26+&version=LBLA#fes-LBLA-22015d).
-> 
+>
 > Daniel 9:26 - La Biblia de las Américas
 
 Hay tres grupos de semanas en Daniel 9. Siete, sesenta y dos y una semana. La “semana” más pertinente a nuestra conversación es la semana 62 después de las primeras 7 semanas (es decir, la semana 69 de aquí en adelante). Este minúsculo pasaje de revelación bíblica ha sido campo de batalla de muchas escuelas escatológicas.
@@ -111,19 +113,19 @@ Forzar una semana 69 siempre presente en el texto es una negación de la redenci
 En segundo lugar, otro punto de vista sostiene que hay una brecha entre las semanas 69 y 70. Los defensores de este punto de vista lo llaman una era entre paréntesis, que difiere bastante de lo que la escritura dice. Esta vista tiene un problema. El “corte” (muerte) de Jesucristo no solo ocurre después de la semana 69, sino que sucede a mediados de la semana 70.
 
 > Y por otra semana confirmará el pacto con muchos; a la mitad de la semana hará cesar el sacrificio y la ofrenda. Después con la muchedumbre de las abominaciones vendrá el desolador, hasta que venga la consumación, y lo que está determinado se derrame sobre el desolador.
-> 
+>
 > Daniel 9:27 Reina-Valera 1960
 
 Este versículo nos dice que la crucifixión de Jesús ocurrió después de la 69 semana, pero “a la mitad de las 'siete' hará cesar el sacrificio y la ofrenda”. ¿Cuándo se puso fin al sistema de sacrificios? Cuando Cristo fue crucificado, sepultado y resucitó de la tumba. Si no estamos en la semana 70, obtenemos el mismo problema anterior. No hay redención, perdón o expiación. Con respecto al final de la septuagésima semana, Pierre Courthial escribe:
 
 > Concluyamos estos comentarios sobre el Libro de Daniel al notar los apéndices al final del versículo 26 y en el versículo 27, que hablan de la destrucción de la ciudad, el fin del sacrificio y la ofrenda, etc. Estos versículos declaran los trágicos acontecimientos del año 70 dC (la destrucción de Jerusalén y del Templo) que vendrán en breve como consecuencia de la confirmación de la alianza renovada.
-> 
+>
 >  Pierre Courthial, [A New Day of Small Beginnings](https://www.zurichpublishing.org/product-page/a-new-day-of-small-beginnings){target=blank}, pp 58.
 
 R. J. Rushdoony señala dos razones para este juicio. Él escribe,
 
 > Mediante esta destrucción, se pronuncia un juicio no sólo sobre los moralismos de la historia institucionalizados en el culto del Templo, sino también sobre la función legítima del Templo en su intento de perpetuarse como el único vehículo de la revelación. La exclusividad de la revelación no puede ser arrogada por el instrumento histórico en una arrogancia y orgullo en el que la vasija se atribuye a sí misma la vida del alfarero. Dios, siempre celoso de su honor, no permitirá que la historia se eternice.
-> 
+>
 > R.J. Rushdoony, [Thy Kingdom Come: Studies in Daniel and Revelation](https://chalcedon.edu/resources/books/thy-kingdom-come-studies-in-daniel-and-revelation){target=blank}, pp 66-67.
 
 ¿Qué llena el resto del tiempo después de completar la semana setenta? Lea nuevamente la sección titulada “[La autoridad y la voluntad de Cristo](#la-autoridad-y-voluntad-de-cristo)” y siga leyendo.

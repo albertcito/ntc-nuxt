@@ -40,4 +40,4 @@ Por lo tanto, el juicio cherem mencionado en Jeremías 50:21, 26 y 51:3 no es un
 
 * * *
 
-Este artículo es parte de [Cherem en la profecia Biblica](/articles/cherem-en-la-profecia-biblica).
+Este artículo es parte de [Cherem en la profecia Biblica](/articulos/cherem-en-la-profecia-biblica).

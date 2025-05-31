@@ -44,4 +44,4 @@ Asimismo, como han señalado otros, la ética cristiana nos llama a dar y no esp
 
 * * *
 
-Esta publicación es parte de [Cherem y el Nuevo Testamento](/articles/cherem-en-el-nuevo-testamento).
+Esta publicación es parte de [Cherem y el Nuevo Testamento](/articulos/cherem-en-el-nuevo-testamento).

@@ -1,11 +1,11 @@
 ---
 title: "La imagen de Dios en el hombre"
 date: 2023-04-06
-categories: 
+type: 'article'
+categories:
   - "apologetica"
-  - "featured"
   - "teologia"
-tags: 
+tags:
   - "apologetica"
   - "gordon-clark"
   - "logica"
@@ -16,10 +16,10 @@ image:
 
 Los principales y más explícitos Datos Bíblicos sobre el tema son los siguientes pasajes. Génesis 1:26-27, "Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza", etc. Génesis 5:1, "A la semejanza de Dios lo hizo. Génesis 9:6, "A la imagen de Dios hizo al hombre". Corintios 11:7, "El hombre… es la imagen y gloria de Dios." Colosenses 3:10, "Renovados en el conocimiento conforme a la imagen del que lo creó." Santiago 3:9, "Hombres hechos según el semejanza de Dios".
 
-Además de estas referencias explícitas a la imagen de Dios en el hombre,  
+Además de estas referencias explícitas a la imagen de Dios en el hombre,
 hay muchos pasajes, quizás incluso algunos aún no reconocidos como tales, que tienen alguna relación con el tema. Hebreos 2:6-8, con su apelación al Salmo 8, y cualquier analogía que pueda encontrarse en otros lugares entre Cristo como la imagen de Dios (cf. Hebreos 1:3 y la imagen en el hombre serían tales pasajes, útiles para desarrollar la doctrina. Hechos 17:26-29 también tiene implicaciones; por ejemplo, con el apoyo de Romanos 1:23 y otros pasajes, da la razón de la prohibición divina de la idolatría. Cuando, también, los filósofos empíricos niegan las ideas innatas, la corrupción heredada Romanos 2:15 y Salmo 51:5 agudizan el contraste, formas a priori de la mente y el énfasis en el medio ambiente hasta la exclusión de la herencia.
 
-Paradójicamente hay algunos versos que no hacen referencia, tampoco  
+Paradójicamente hay algunos versos que no hacen referencia, tampoco
 explícita o implícitamente, a la imagen de Dios, pero que por su completo silencio contribuyen no obstante a la doctrina. Principalmente este material está en el primer capítulo de Génesis, concerniente a la creación de animales. Estos no fueron creados a la imagen de Dios; el hombre era De ahí que la característica de la humanidad, a diferencia de la mera animalidad, se encuentre de algún modo en la imagen divina. De todo el material bíblico debe derivarse la doctrina.
 
 La doctrina de la imagen de Dios ha sido estudiada a lo largo de la historia de la teología. Los romanistas finalmente llegaron a una posición, que se discutirá más adelante, que se originó en una exégesis fantasiosa y finalmente se alejó de las Escrituras. G. C. Berkouwer en su libro "Man: The Image of God" (pp. 37ff. et passim) describe la frágil pedantería de algunos teólogos holandeses; y cualquier historia sustancial de la doctrina informará las complejidades de la discusión. Ahora, debe admitirse, de hecho debe enfatizarse que esta doctrina tiene que ser consistente con todo el sistema de teología; y por lo tanto, ya que tiene implicaciones para la doctrina del pecado, la expiación, la santificación, la glorificación, las complicaciones no pueden evitarse. No obstante, una comprensión sustancial del asunto no es demasiado difícil, y los elementos básicos son bastante fáciles de entender. Por lo tanto, la doctrina se enunciará ahora brevemente con un mínimo de defensa histórica y polémica.
@@ -33,7 +33,7 @@ La razón por la que los teólogos han afirmado una dualidad de la imagen, en lu
 En este punto de la exposición es necesario aclarar la segunda verdad apelando a la Escritura. En cuanto a la extensión e intensidad del pecado, Romanos 3:10-18 recoge una serie de declaraciones del Antiguo Testamento, principalmente de los Salmos.
 
 > No hay justo, ni aun uno... No hay quien busque a Dios... No hay quien haga lo bueno... No hay quien haga lo bueno, no hay ni siquiera uno... No hay temor de Dios delante de sus ojos
-> 
+>
 > Romanos 3:10-18 - RV60
 
 Seguro que no Stalin; seguro que no los fariseos; pero tampoco la oscura gente común que no es tan brutal como la una ni tan hipócrita como la otra. Los pasajes del Antiguo Testamento incluyen a todos, y Romanos 8:7 indica el estado de la naturaleza humana en general al decir: "la mente carnal es enemistad contra Dios; porque no se sujeta a la ley de Dios, ni tampoco puede". Los hombres están "muertos en pecado", como dice varias veces el Nuevo Testamento. Jeremías 17:9 dice: "Engañoso es el corazón más que todas las cosas, y desesperadamente perverso". Incluso se podría admitir que Sigmund Freud tenía una idea más correcta estimación de la maldad humana, la racionalización y la hipocresía que la que tienen los romanistas semipelagianos; aunque, por supuesto, no vio este mal como una ofensa contra Dios.
@@ -54,7 +54,7 @@ La identificación de la imagen como motivo explica o se sustenta por un comenta
 
 Por tales razones, la caída y sus efectos, que tanto han desconcertado a algunos teólogos mientras estudiaban la doctrina de la imagen, se comprenden más fácilmente al identificar la imagen con la mente del hombre.
 
-Dado que los juicios morales son una especie de juicio, incluidos en la actividad intelectual general, un resultado de la caída es la ocurrencia de evaluaciones incorrectas por medio de un pensamiento erróneo. Adán pensó, incorrectamente, que sería mejor unirse a Eva en su pecado que obedecer a Dios y separarse de ella. Así que comió del fruto prohibido. El acto externo siguió al pensamiento. "Del corazón salen los malos pensamientos". Nótese que en la Biblia el término corazón suele designar el intelecto, y sólo una de cada diez veces las emociones: es el corazón el que piensa (Puede revisar el articulo: [¿Qué significa el término corazón en las escrituras?](/articles/que-significa-el-termino-corazon-en-las-escrituras)). El pecado interfiere así con nuestro pensamiento. Sin embargo, no nos impide pensar. El pecado no erradica ni aniquila la imagen. Provoca un mal funcionamiento, pero el hombre sigue siendo hombre.
+Dado que los juicios morales son una especie de juicio, incluidos en la actividad intelectual general, un resultado de la caída es la ocurrencia de evaluaciones incorrectas por medio de un pensamiento erróneo. Adán pensó, incorrectamente, que sería mejor unirse a Eva en su pecado que obedecer a Dios y separarse de ella. Así que comió del fruto prohibido. El acto externo siguió al pensamiento. "Del corazón salen los malos pensamientos". Nótese que en la Biblia el término corazón suele designar el intelecto, y sólo una de cada diez veces las emociones: es el corazón el que piensa (Puede revisar el articulo: [¿Qué significa el término corazón en las escrituras?](/articulos/que-significa-el-termino-corazon-en-las-escrituras)). El pecado interfiere así con nuestro pensamiento. Sin embargo, no nos impide pensar. El pecado no erradica ni aniquila la imagen. Provoca un mal funcionamiento, pero el hombre sigue siendo hombre.
 
 La Biblia enfatiza el mal funcionamiento de la mente en asuntos obviamente morales debido a su importancia. Pero el pecado extiende su influencia depravadora a asuntos que generalmente no se consideran asuntos de moralidad. Aritmética, por ejemplo. No es necesario sostener que Adán y Eva entendieron cálculo; pero seguramente contó hasta diez. Cualquiera que sea la aritmética que hizo, lo hizo correctamente. Pero el pecado causa una falla en el pensamiento, con el resultado de que ahora cometemos errores en la simple suma. Tales errores son usualmente llamados los efectos "noéticos" del pecado. Pero los errores morales son igualmente noéticos. Cuando los hombres se envanecieron en sus imaginaciones y sus necios corazones fueron oscurecidos; cuando profesaron ser sabios, pero se volvieron necios; cuando Dios los entregó a una mente reprobada, su pecado fue ante todo un mal funcionamiento noético, intelectual, mental.
 
@@ -72,7 +72,7 @@ La diferencia entre naturalismo y teísmo entre las últimas opiniones "científ
 
 ## Diversidad teológica
 
-La diversidad teológica con respecto a la imagen de Dios en el hombre caracteriza la historia de la iglesia visible. Algunos ejemplos deben  
+La diversidad teológica con respecto a la imagen de Dios en el hombre caracteriza la historia de la iglesia visible. Algunos ejemplos deben
 satisfacer.
 
 La ortodoxia oriental enfatiza la naturaleza racional del hombre e insiste en que el hombre sigue siendo hombre después de la caída. Hasta ahora, todo bien. Pero el valor de esta sólida posición viciada por la incapacidad de las iglesias orientales para reconocer el alcance de la caída y, por lo tanto, su incapacidad para ver la plena necesidad de la gracia. Algunos de sus teólogos juegan con una analogía verbalmente agradable: así como Dios se hizo hombre, así el hombre se volverá Dios. Esto es similar a la noción gnóstica de que la salvación es deificación. En parte debido a esto, algunos protestantes muy conservadores han reaccionado contra la identificación de la imagen como razón, creyendo que esta identificación implica una visión superficial del pecado. La implicación, sin embargo, es falaz y la reacción extrema.

@@ -1,10 +1,10 @@
 ---
 title: "La historia detrás de la guerra Rusia-Ucrania"
 date: 2022-03-11
-categories: 
+type: 'article'
+categories:
   - "analisis"
-  - "featured"
-tags: 
+tags:
   - "guerra"
   - "rusia"
   - "ucrania"
@@ -88,9 +88,9 @@ Muchos halcones de la Guerra Fría, como el exasesor de seguridad nacional del p
 En una carta abierta firmada por la nieta del presidente Eisenhower, Susan, y 50 de estos importantes líderes del establishment de la política exterior, advirtieron en parte:
 
 > _"**El esfuerzo actual liderado por Estados Unidos para expandir la OTAN... es un error de política de proporciones históricas.** Creemos que la expansión de la OTAN disminuirá la seguridad aliada y perturbará la estabilidad europea por las siguientes razones:_
-> 
+>
 > _"En Rusia, la expansión de la OTAN, a la que continúa oponiéndose todo el espectro político, fortalecerá a la oposición no democrática, socavará a quienes favorecen la reforma y la cooperación con Occidente, hará que los rusos cuestionen todo el acuerdo posterior a la Guerra Fría y galvanizará resistencia en la Duma a los tratados START II y III; En Europa, la expansión de la OTAN trazará una nueva línea de división entre los "dentro" y los "fuera", fomentará la inestabilidad y, en última instancia, disminuirá la sensación de seguridad de aquellos países que están no incluido;_
-> 
+>
 > _"En la OTAN, la expansión, que la Alianza ha indicado que es abierta, inevitablemente degradará la capacidad de la OTAN para llevar a cabo su misión principal e implicará garantías de seguridad de EE. ."_
 
 El presidente Clinton había dicho que "construirían y asegurarían una Nueva Europa, pacífica, democrática e indivisa por fin". Pero él no estaba uniendo a Europa. Lo estaba redividiendo. embajador Matlock advirtió que si excluye a Rusia de la alianza ampliada, necesariamente será en su contra. Aquí la Guerra Fría ya había pasado dos años antes del fin definitivo de la URSS, y EE. UU. ya estaba en el camino de reiniciarla nuevamente.
@@ -102,9 +102,9 @@ Kennan escribió en el **_New York Times_ en 1997:**
 Kennan se quejó con Thomas L. Friedman del _Times_ en 1998,
 
 > _"Creo que \[la expansión de la OTAN\] es el comienzo de una nueva Guerra Fría. Creo que los rusos reaccionarán gradualmente de manera bastante adversa y afectará sus políticas. Creo que es un error trágico. No había ninguna razón para esto en absoluto. Nadie amenazaba a nadie más. Esta expansión haría que los Padres Fundadores de este país se revolvieran en sus tumbas. Nos hemos comprometido a proteger a toda una serie de países, aunque no tenemos los recursos ni la intención de hacerlo de manera seria. ._
-> 
+>
 > _"¿Es que la gente no entiende? Nuestras diferencias en la Guerra Fría eran con el régimen comunista soviético. Y ahora le estamos dando la espalda a las mismas personas que organizaron la mayor revolución incruenta de la historia para derrocar a ese régimen soviético._
-> 
+>
 > _"Por supuesto que va a haber una mala reacción de Rusia, y luego \[los expansores de la OTAN\] dirán que siempre les dijimos que así son los rusos, pero esto está mal"._
 
 Su predicción; nuestro presente.
@@ -112,9 +112,9 @@ Su predicción; nuestro presente.
 El presidente Joe Biden afirma que las acciones recientes de Rusia no tienen nada que ver con la expansión de la OTAN, que esto es simplemente una excusa débil invocada por el gobierno de Vladimir Putin. Bueno, en 2016, el ex-secretario de defensa de Bill Clinton, William Perry, admitió a _The Guardian_ que,
 
 > "En los últimos años, la mayor parte de la culpa puede atribuirse a las acciones que ha tomado Putin. Pero en los primeros años debo decir que Estados Unidos merece gran parte de la culpa. Nuestra primera acción que realmente nos puso en marcha una mala dirección fue cuando la OTAN comenzó a expandirse, incorporando naciones de Europa del Este, algunas de ellas fronterizas con Rusia.
-> 
+>
 > "En ese momento, trabajábamos de cerca con Rusia y se estaban empezando a acostumbrar a la idea de que la OTAN podría ser un amigo en lugar de un enemigo... pero se sentían muy incómodos con tener a la OTAN justo en su frontera e hicieron una fuerte pide que no sigamos adelante con eso...
-> 
+>
 > "No fue que escuchamos su argumento y dijimos que no estábamos de acuerdo con ese argumento. Básicamente, la gente con la que estaba discutiendo cuando traté de exponer el punto de vista ruso... la respuesta que obtuve fue realmente: '¿A quién le importa lo que piensen? Son un poder de tercera categoría'. Y, por supuesto, ese punto de vista también se transmitió a los rusos. Fue entonces cuando comenzamos a deslizarnos por ese camino".
 
 El secretario Perry casi renunció por la expansión de la OTAN en ese entonces. En la entrevista, también culpó a EE. UU. por los sistemas de defensa de misiles provocadores en Europa y las revoluciones codificadas por colores en el extranjero cercano de Rusia por envenenar las relaciones con la Rusia de Putin. De hecho, dijo que Putin estaba seguro de que Estados Unidos también estaba conspirando para derrocarlo, algo que Perry no pareció pensar que fuera demasiado descabellado:
@@ -130,7 +130,7 @@ Julian Assange sacrificó su libertad en las mazmorras más oscuras del Imperio 
 En el memorando, Burns escribió:
 
 > "Durante su revisión anual de la política exterior de Rusia del 22 al 23 de enero, el Ministro de Relaciones Exteriores Lavrov enfatizó que Rusia tenía que ver la expansión continua de la OTAN hacia el este, particularmente a Ucrania y Georgia, como una amenaza militar potencial. Si bien Rusia podría creer las declaraciones de Occidente de que La OTAN no estaba dirigida contra Rusia, cuando uno miraba las actividades militares recientes en los países de la OTAN (establecimiento de ubicaciones de operaciones avanzadas de EE. UU., etc.) tenían que ser evaluadas no por las intenciones declaradas sino por el potencial. Lavrov enfatizó que mantener la "esfera de influencia" de Rusia " en el vecindario era anacrónico y reconocía que Estados Unidos y Europa tenían "intereses legítimos" en la región. Pero, argumentó, aunque los países eran libres de tomar sus propias decisiones sobre su seguridad y a qué estructuras político-militares unirse, necesitaban tener en cuenta el impacto en sus vecinos. …
-> 
+>
 > "Las aspiraciones de la OTAN de Ucrania y Georgia no solo tocan un nervio sensible en Rusia, sino que generan serias preocupaciones sobre las consecuencias para la estabilidad en la región. Rusia no solo percibe el cerco y los esfuerzos para socavar la influencia de Rusia en la región, sino que también teme consecuencias impredecibles y descontroladas que afectarían seriamente los intereses de seguridad rusos. Los expertos nos dicen que Rusia está particularmente preocupada de que las fuertes divisiones en Ucrania sobre la membresía en la OTAN, con gran parte de la comunidad étnica rusa en contra de la membresía, puedan conducir a una división importante, que involucre violencia o en el peor de los casos, una guerra civil. En esa eventualidad, Rusia tendría que decidir si interviene, una decisión que Rusia no quiere tener que enfrentar".
 
 Burns elaboró ​​más en sus memorias, The Back Channel, que ya había notado en 1995 que "la hostilidad hacia la expansión temprana de la OTAN se siente casi universalmente en todo el espectro político interno aquí". En otro memorando a la Secretaria de Estado Condoleezza Rice en 2008, escribió que,
@@ -152,7 +152,7 @@ El testimonio ante el Congreso de septiembre de 1999 de la ex reportera del _Wa
 El periodista estadounidense Matt Taibbi, que entonces vivía en Rusia, escribió recientemente:
 
 > _"La clase oligarca se formalizó de un plumazo a través de un acuerdo negociado en Davos, \[Suiza\] en 1996. Un puñado de empresarios recibiría los obsequios de préstamos por acciones a cambio de la promesa de financiar la campaña de Yeltsin contra los comunistas. Los banqueros tenían motivos para preocuparse. Nada menos que una fuente como la actual ministra de Finanzas de Canadá y ex_ escritora del Financial Times _, Chrystia Freeland, informó que George Soros les había advertido. Soros, dijo Freeland, les dijo a los oligarcas que Yeltsin, que inicialmente obtuvo un 7% en las encuestas. a nivel nacional, perdería en 1996 ante el comunista Gennady Zyuganov, quien sin duda recuperaría sus riquezas."Muchachos, se les acabó el tiempo", dijo según se informa._
-> 
+>
 > _"En lugar de huir, acordaron apoyar a Yeltsin, poniendo a Chubais, amigo de Occidente, a cargo de la campaña. Mi buen amigo Leonid Krutakov fue despedido de Izvestia por informar sobre la tarifa que se pagó a Chubais por este servicio: un interés- Préstamo gratuito de 3 millones de dólares otorgado por el banco Stolichny"._
 
 Taibbi escribe que Putin fue llevado originalmente a Moscú por estos gángsteres e hizo su mayor avance hacia el poder cuando ayudó a su mentor, el alcalde de San Petersburgo, Anatoly Sobchak, a escapar del país hacia Occidente para evitar ser procesado por corrupción. El hombre de Estados Unidos, Boris Yeltsin, tomó simpatía instantáneamente por él y su ascenso en las filas estaba en movimiento. “Putin seguiría ayudando a todo el clan Yeltsin a salir de Rusia con sus millones robados”, escribió.
@@ -368,11 +368,11 @@ Una vez más, no es que justifique lo que Putin ha hecho aquí o el empeoramient
 La televisión dice que Putin es solo un caso psicópata que quiere ser un gran zar en la historia o algo así. Definitivamente es un problema personal que se manifiesta de esta manera. Condoleezza Rice se pregunta públicamente si tiene una enfermedad mental. ¿Por qué más podría estar actuando de esta manera? Creo que vale la pena citar esta parte de su discurso:
 
 > _“Muchos aeródromos ucranianos están ubicados cerca de nuestras fronteras. Los aviones tácticos de la OTAN estacionados aquí, incluidos los portadores de armas de alta precisión, podrán atacar nuestro territorio hasta la profundidad de la línea Volgogrado-Kazan-Samara-Astrakhan. El despliegue de radar Los activos de reconocimiento en el territorio de Ucrania permitirán a la OTAN controlar estrictamente el espacio aéreo de Rusia hasta los Urales. …_
-> 
+>
 > _"Después de que Estados Unidos destruyera el Tratado INF, el Pentágono ha estado desarrollando abiertamente muchas armas de ataque terrestres, incluidos misiles balísticos que son capaces de alcanzar objetivos a una distancia de hasta 5.500 km._
-> 
+>
 > _"Si se implementan en Ucrania, tales sistemas podrán alcanzar objetivos en toda la parte europea de Rusia. El tiempo de vuelo de los misiles de crucero Tomahawk a Moscú será de menos de 35 minutos; los misiles balísticos de Kharkiv tardarán de siete a ocho minutos; y el ataque hipersónico armas, de cuatro a cinco minutos._
-> 
+>
 > _"Es como un cuchillo en la garganta"._
 
 Todo esto le proporcionó una narrativa convincente a su audiencia nacional de que la independencia de Ucrania fue un error porque simplemente no puede ser sin que Occidente se haga cargo. Haciéndose eco deliberadamente de los argumentos de Bill Clinton, George W. Bush y Barack Obama, Putin invocó una amenaza ilusoria de armas nucleares, "armas de destrucción masiva", de Ucrania y su determinación de proteger a la gente del Donbass del llamado "genocidio". Afirmó que Ucrania ha sido "reducida a una colonia con un régimen títere" por parte de Estados Unidos, y nuevamente argumentó esencialmente que estaría justificado conquistar todo el país. Nuevamente, no estoy diciendo que sus acciones sean razonables. Ellos no son. Pero su argumento es racional aunque enojado, más sustancia que bravuconería.
@@ -404,13 +404,13 @@ El 14 de enero, el _New York Times_ publicó una historia llamada "Estados Uni
 Citó al excomandante supremo aliado de las fuerzas de la OTAN en Europa y asesor de Hillary Clinton, el almirante retirado James Stavridis:
 
 > _"Si Putin invade Ucrania con una gran fuerza militar, la asistencia militar de Estados Unidos y la OTAN (inteligencia, armas cibernéticas, antiblindaje y antiaéreas, misiles navales ofensivos) aumentaría significativamente. Y si se convirtiera en una insurgencia ucraniana, Putin debería darnos cuenta de que después de luchar nosotros mismos contra las insurgencias durante dos décadas, sabemos cómo armarlas, entrenarlas y energizarlas"._
-> 
+>
 > _"El nivel de apoyo militar haría que nuestros esfuerzos en Afganistán contra la Unión Soviética \[en la década de 1980\] parecieran insignificantes en comparación"._
 
 Todas las armas para Ucrania habían sido supuestamente "calibradas", dijeron, "para no provocar al señor Putin", dijeron los funcionarios al _New York Times_ . Tal vez armar una insurgencia realmente sea el Plan B después de una invasión que realmente pretendían disuadir y estos demócratas son muy malos en la "calibración". Pero seguro que parecen estar pensando en cómo una invasión podría dañar a Rusia, con los pobres ucranianos sirviendo como un mero instrumento contra ellos.
 
 > _“Un asesor militar occidental de los ucranianos dijo que los detalles de una resistencia específica seguían siendo un secreto muy guardado. Pero ya, particularmente en el oeste, los ucranianos se están uniendo a las fuerzas de defensa territorial que se entrenan en tácticas de guerrilla._
-> 
+>
 > _“La administración Biden y sus aliados de la OTAN quieren capitalizar cualquier disgusto que el cuerpo político ruso pueda tener por las bajas de tropas, dijeron funcionarios estadounidenses y europeos en entrevistas”._
 
 La ex funcionaria del departamento de defensa de la era Obama, Evelyn Farkas, le dijo al _Times_ : "Creo que deberían quitarse los guantes". Cuando se le preguntó sobre la participación de los neonazis amantes de Hitler, incluidos los estadounidenses, entre las fuerzas nacionalistas ucranianas, Farkas dijo a _Newsweek_ : "Los grupos de extrema derecha están ayudando a defender Ucrania... el gobierno ucraniano necesita toda la ayuda que pueda obtener de sus ciudadanos, independientemente de su ideología".
@@ -418,9 +418,9 @@ La ex funcionaria del departamento de defensa de la era Obama, Evelyn Farkas, le
 La reciente actuación de la exsecretaria de Estado Hillary Clinton en MSNBC da más razones para sospechar que este resultado fue bienvenido, si no preferido. Oye, ella es Hillary Clinton, así que la dejaron parlotear al respecto:
 
 > _"Recuerde, los rusos invadieron Afganistán en 1980. Y aunque ningún país entró, ciertamente tenían muchos países que suministraban armas y consejos e incluso algunos asesores para aquellos que fueron reclutados para luchar contra Rusia. No terminó bien para los Los rusos Y hubo otras consecuencias no deseadas, como sabemos, pero el hecho es que una insurgencia muy motivada, y luego financiada y armada básicamente expulsó a los rusos de Afganistán._
-> 
+>
 > _"Obviamente, las similitudes no son en las que debamos confiar porque el terreno, el desarrollo en las áreas urbanas es muy diferente, pero creo que ese es el modelo que la gente está mirando ahora. Y si puede haber suficientes armamentos que puedan entrar, y deberían poder ingresar a lo largo de algunas de las fronteras entre otras naciones y Ucrania, y mantener a los ucranianos, tanto a sus militares como a sus ciudadanos, soldados voluntarios, suministros, Eso puede continuar bloqueando a Rusia._
-> 
+>
 > _"Ahora, dejemos claro que Rusia tiene una fuerza militar abrumadora. Pero, por supuesto, también la tuvieron en Afganistán. También trajeron mucho poder aéreo a Siria. Tomó años derrotar finalmente a Siria en términos de insurgencias, democracia fuerzas, así como otras, que lucharon contra los rusos, los sirios y los iraníes"._
 
 Por otros se refiere a los terroristas respaldados por Estados Unidos y sus aliados, como Jaysh al Islam, Arar al Sham y Jabhat al Nusra, también conocido como Hayat Tahrir al Sham.

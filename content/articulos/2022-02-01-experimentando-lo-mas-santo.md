@@ -1,15 +1,16 @@
 ---
 title: "Experimentando lo más santo"
 date: 2022-02-01
-categories: 
+categories:
   - "general"
   - "teologia"
-tags: 
+tags:
   - "cherem"
   - "joel-mcdurmon"
   - "teonomia"
 image:
-  src: cherem-prescencia-dios-templo.png
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/cherem-prescencia-dios-templo.png
+  alt: Templo del antiguo testamento
 ---
 
 Es necesario comprender la naturaleza y el significado de "santísimo" en la ley mosaica para comprender las aplicaciones de cherem que cubriremos en los próximos capítulos. Las penas de muerte y la destrucción de algunas propiedades que se solicitan son el resultado, cuando es necesario, de la transferencia de las personas o cosas judicialmente a través del límite "santísimo", como si estuvieran en la presencia inmediata de Dios.
@@ -38,4 +39,4 @@ Aquellos que no tienen esa fe, no obstante, un día estarán ante el trono de Di
 
 * * *
 
-Esta publicación es parte de [Introducción a Cherem](/articles/introduccion-a-cherem).
+Esta publicación es parte de [Introducción a Cherem](/articulos/introduccion-a-cherem).

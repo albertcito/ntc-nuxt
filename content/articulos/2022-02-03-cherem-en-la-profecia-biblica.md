@@ -2,7 +2,6 @@
 title: "Cherem en la profecia Biblica"
 date: 2022-02-03
 categories: 
-  - "featured"
   - "teologia"
 tags: 
   - "antiguo-testamento"
@@ -21,7 +20,7 @@ Los profetas estaban comprometidos no solo en entablar una demanda del pacto con
 
 ### Isaías
 
-Isaías se refiere a cherem cinco veces. De estos, solo tres son importantes para nuestro estudio; uno es metafórico (11:15) y otro ocurre en la repetición de Isaías de la historia de Ezequías y Senaquerib (compare Isaías 37:11 con 2 Reyes 19:11). Dos aparecen juntos en el capítulo 34, versículos 2 y 5. [Leer sección completa](/articles/cherem-en-la-profecia-biblica-isaias)
+Isaías se refiere a cherem cinco veces. De estos, solo tres son importantes para nuestro estudio; uno es metafórico (11:15) y otro ocurre en la repetición de Isaías de la historia de Ezequías y Senaquerib (compare Isaías 37:11 con 2 Reyes 19:11). Dos aparecen juntos en el capítulo 34, versículos 2 y 5. [Leer sección completa](/articulos/cherem-en-la-profecia-biblica-isaias)
 
 ### Jeremias
 
@@ -29,7 +28,7 @@ Jeremías registra una devoción directa de Israel incluso más explícita que l
 
 > Por tanto, así ha dicho Jehová de los ejércitos: Por cuanto no habéis oído mis palabras, he aquí enviaré y tomaré a todas las tribus del norte, dice Jehová, y a Nabucodonosor rey de Babilonia, mi siervo, y los traeré contra esta tierra y contra sus moradores, y contra todas estas naciones en derredor; y los destruiré, y los pondré por escarnio y por burla y en desolación perpetua.
 
-[Leer sección completa](/articles/cherem-en-la-profecia-biblica-jeremias)
+[Leer sección completa](/articulos/cherem-en-la-profecia-biblica-jeremias)
 
 ### Ezequiel
 
@@ -37,7 +36,7 @@ Cherem aparece de nuevo en medio de la visión de Ezequiel de un templo restable
 
 > La ofrenda y la expiación y el sacrificio por el pecado comerán, y toda cosa consagrada \[cherem\] en Israel será de ellos.
 
-[Leer sección completa](/articles/cherem-en-la-profecia-biblica-ezequiel)
+[Leer sección completa](/articulos/cherem-en-la-profecia-biblica-ezequiel)
 
 ### Daniel
 
@@ -51,11 +50,11 @@ Cherem aparece en Miqueas 4:13:
 
 > Levántate y trilla, hija de Sion, porque haré tu cuerno como de hierro, y tus uñas de bronce, y desmenuzarás a muchos pueblos; y consagrarás a Jehová su botín, y sus riquezas al Señor de toda la tierra.
 
-[Leer sección completa](/articles/cherem-en-la-profecia-biblica-miqueas)
+[Leer sección completa](/articulos/cherem-en-la-profecia-biblica-miqueas)
 
 ### Zacarías
 
-La profecía de Zacarías es similar a la de Miqueas en que tiene indicadores claros de que los capítulos relevantes son un contexto profético unificado y citas claras en el Nuevo Testamento que establecen su enfoque en el primer siglo y la generación de Jesús. Asimismo, una serie de profecías en Zacarías se aplican al terrenal ministerio de Cristo. Estos incluyen la entrada triunfal de Jesús montado en un burro (Zacarías 9: 9; Mateo 21: 5; Juan 12:15), la venta de Jesús por 30 piezas de plata (Zacarías 11:12; Mateo 26:15). ; 27: 9), el uso de ese precio para comprar el campo del alfarero (Zacarías 13:11; Mateo 26:15; 27: 9-11), la profecía de herir al pastor y dispersar las ovejas (Zacarías 13 : 7; Mateo 26:31; Marcos 14:27). [Leer sección completa](/articles/cherem-en-la-profecia-biblica-zacarias)
+La profecía de Zacarías es similar a la de Miqueas en que tiene indicadores claros de que los capítulos relevantes son un contexto profético unificado y citas claras en el Nuevo Testamento que establecen su enfoque en el primer siglo y la generación de Jesús. Asimismo, una serie de profecías en Zacarías se aplican al terrenal ministerio de Cristo. Estos incluyen la entrada triunfal de Jesús montado en un burro (Zacarías 9: 9; Mateo 21: 5; Juan 12:15), la venta de Jesús por 30 piezas de plata (Zacarías 11:12; Mateo 26:15). ; 27: 9), el uso de ese precio para comprar el campo del alfarero (Zacarías 13:11; Mateo 26:15; 27: 9-11), la profecía de herir al pastor y dispersar las ovejas (Zacarías 13 : 7; Mateo 26:31; Marcos 14:27). [Leer sección completa](/articulos/cherem-en-la-profecia-biblica-zacarias)
 
 ### Malaquías
 
@@ -63,7 +62,7 @@ La última palabra profecía del Antiguo Pacto (quizás incluso la revelación c
 
 > He aquí, yo os envío el profeta Elías, antes que venga el día de Jehová, grande y terrible.El hará volver el corazón de los padres hacia los hijos, y el corazón de los hijos hacia los padres, no sea que yo venga y hiera la tierra con maldición \[cherem\] (Malaquías 4:5-6).
 
-[Leer sección completa](/articles/cherem-en-la-profecia-biblica-malaquias)
+[Leer sección completa](/articulos/cherem-en-la-profecia-biblica-malaquias)
 
 ## Conclusión
 
@@ -75,4 +74,4 @@ Dado lo que entendemos de la ley cherem y su vínculo con la tierra, el sacerdoc
 
 Comprender la expansión del “santísimo” y la naturaleza espiritual del templo de Ezequiel nos lleva más lejos. La ley de Cherem todavía existe, pero ya no se administra con sacerdotes terrenales, un templo, etc. Es administrada por el único verdadero sumo sacerdote, Jesucristo, desde la única sala del trono celestial, el verdadero lugar santísimo en el cielo. Las únicas manifestaciones terrenales de cherem hoy pueden venir a través de la verdadera voz profética del cuerpo de Cristo militante. Además, dado que la única espada de la iglesia es espiritual, ese es el único cherem que pueden administrar hombres o mujeres en la tierra hoy. La iglesia puede declarar anatema al excomulgar a la gente, y potencialmente podría declarar anatema en la sociedad, en la plaza pública, invocando el juicio de Dios. Entonces, sin embargo, quedaría al juicio de Dios traer alguna forma de castigo: desastre natural, plaga, guerra, muerte (piense en Herodes comido con gusanos), etc. Las entidades no creyentes aumentan su riesgo de tal juicios públicos cuando imponen sus manos sobre las cosas más santas de Dios, el nombre de Cristo y los miembros de su cuerpo.
 
-Veremos más ejemplos de esto cuando miremos a [cherem en el Nuevo Testamento](/articles/introduccion-a-cherem).
+Veremos más ejemplos de esto cuando miremos a [cherem en el Nuevo Testamento](/articulos/introduccion-a-cherem).

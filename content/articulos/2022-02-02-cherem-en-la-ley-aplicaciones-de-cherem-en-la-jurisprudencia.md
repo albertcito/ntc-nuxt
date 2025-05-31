@@ -94,4 +94,4 @@ Debemos prestar más atención al hecho de que la ciudad a la que se refiere Deu
 
 * * *
 
-Está publicación es parte de [Cherem en la ley Biblica](/articles/cherem-en-la-ley-biblica).
+Está publicación es parte de [Cherem en la ley Biblica](/articulos/cherem-en-la-ley-biblica).

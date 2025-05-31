@@ -48,4 +48,4 @@ En la guerra ordinaria, se aplican las reglas para buscar la paz, permitir impue
 
 * * *
 
-Está publicación es parte de [Cherem en la ley Biblica](/articles/cherem-en-la-ley-biblica).
+Está publicación es parte de [Cherem en la ley Biblica](/articulos/cherem-en-la-ley-biblica).

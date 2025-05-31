@@ -1,10 +1,10 @@
 ---
 title: "Construcción del primer hospital del mundo: La Basilia"
 date: 2024-11-04
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "historia"
-tags: 
+tags:
   - "basilio-el-grande"
   - "cultura"
   - "gregorio-nacianceno"

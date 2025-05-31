@@ -1,15 +1,16 @@
 ---
 title: "Creación y absoluta propiedad de Dios"
 date: 2022-01-10
-categories: 
+type: 'series'
+categories:
   - "teologia"
-tags: 
+tags:
   - "caida"
   - "creacion"
   - "economia"
   - "gary-north"
 image:
-  src: sunrise-g58e639c09_1280-1.jpg
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/sunrise.jpg
   alt: Tierra vista desde el espacio
   cc: https://pixabay.com/photos/sunrise-space-outer-space-globe-1765027/
 ---
@@ -120,4 +121,4 @@ Esto nos lleva a una discusión más detallada de lo que llamo el pacto de domin
 
 * * *
 
-Esta publicación es parte de [La Creación](/articles/la-creacion-desde-una-perspectiva-economica) revisa el indice [aquí](/articles/la-creacion-desde-una-perspectiva-economica).
+Esta publicación es parte de [La Creación](/articulos/2022-01-17-la-creacion-desde-una-perspectiva-economica) revisa el indice [aquí](/articulos/2022-01-17-la-creacion-desde-una-perspectiva-economica).

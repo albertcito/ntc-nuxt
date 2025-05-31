@@ -66,7 +66,7 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
           v-if="page.body"
           :value="page"
           :prose="true"
-          class="text-xl font-karma"
+          class="text-xl font-karma max-w-2xl ml-20"
         />
         <USeparator />
       </UPageBody>

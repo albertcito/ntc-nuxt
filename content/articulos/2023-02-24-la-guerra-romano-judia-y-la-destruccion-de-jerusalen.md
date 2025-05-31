@@ -1,10 +1,10 @@
 ---
 title: "La guerra romano-judía y la destrucción de Jerusalén"
 date: 2023-02-24
-categories: 
+type: 'article'
+categories:
   - "datacion"
-  - "featured"
-tags: 
+tags:
   - "datacion"
   - "historia"
   - "nuevo-testamento"
@@ -17,7 +17,7 @@ La guerra romano-judía del 66 al 70 d.C., que culminó con la destrucción de J
 
 ## Historia de la Guerra
 
-La guerra entre Roma y Judea estalló en Cesarea en el año 66 d.C., cuando los griegos sacrificaron pájaros frente a la sinagoga judía allí, lo que provocó un violento motín. Los judíos de Jerusalén se rebelaron y organizaron un ataque exitoso contra la guarnición romana en Jerusalén. El legado romano de Siria, Cestius Gallus, marchó a Jerusalén para atacarla, pero después de la resistencia inicial, le fallaron los nervios y ordenó la retirada. La armadura romana no estaba diseñada para luchar en una batalla en retirada en un terreno difícil, y la persecución judía convirtió la retirada en una derrota, con casi toda la duodécima legión romana siendo destruida. Este intento inicial fallido de los romanos en Jerusalén puede figurar en un pasaje del Nuevo Testamento, y volveremos a él más adelante. En términos políticos y militares, esta derrota convenció a los romanos de la seriedad de la revuelta judía. Por esta época, la comunidad cristiana de Jerusalén se evacuó a Pella en Jordania. Eusebio declara: "Pero a la gente de la iglesia en Jerusalén se le había ordenado por revelación, dada a hombres aprobados allí antes de la guerra, que salieran de la ciudad y habitaran en cierta ciudad de Perea llamada Pella". \[Eusebio, Historia de la Iglesia, 3.5.3\]  
+La guerra entre Roma y Judea estalló en Cesarea en el año 66 d.C., cuando los griegos sacrificaron pájaros frente a la sinagoga judía allí, lo que provocó un violento motín. Los judíos de Jerusalén se rebelaron y organizaron un ataque exitoso contra la guarnición romana en Jerusalén. El legado romano de Siria, Cestius Gallus, marchó a Jerusalén para atacarla, pero después de la resistencia inicial, le fallaron los nervios y ordenó la retirada. La armadura romana no estaba diseñada para luchar en una batalla en retirada en un terreno difícil, y la persecución judía convirtió la retirada en una derrota, con casi toda la duodécima legión romana siendo destruida. Este intento inicial fallido de los romanos en Jerusalén puede figurar en un pasaje del Nuevo Testamento, y volveremos a él más adelante. En términos políticos y militares, esta derrota convenció a los romanos de la seriedad de la revuelta judía. Por esta época, la comunidad cristiana de Jerusalén se evacuó a Pella en Jordania. Eusebio declara: "Pero a la gente de la iglesia en Jerusalén se le había ordenado por revelación, dada a hombres aprobados allí antes de la guerra, que salieran de la ciudad y habitaran en cierta ciudad de Perea llamada Pella". \[Eusebio, Historia de la Iglesia, 3.5.3\]
 Roma respondió a su revés inicial enviando a la provincia un ejército mucho más grande al mando de Vespasiano, quien optó por dejar un segundo ataque a Jerusalén para el final. Vespasiano se concentró primero en reducir la resistencia judía en el área de Galilea, y allí se libraron varias batallas extremadamente violentas. La guerra se interrumpió durante un año en el 68 d.C. cuando Nerón murió, y la subsiguiente lucha por la sucesión finalmente llevó a Vespasiano al trono, y su hijo Tito se hizo cargo de la campaña militar en Judea. Después de sofocar la rebelión judía en otros lugares, Tito regresó a Jerusalén en la primavera del 70 d. C. Una lucha violenta por el liderazgo dentro de la comunidad judía en Jerusalén había debilitado enormemente la ciudad, que cayó en manos de los romanos el 29 y 30 de julio de ese año. Jerusalén y el templo en ella fueron quemados. Las bajas entre los judíos fueron masivas, con Josefo citando una cifra de 1,1 millones muertos en toda la campaña. \[Josefo, Guerras de los judíos, 6.9.3\] Después de que Jerusalén fue destruida, a los judíos no se les permitió reconstruirla ni habitarla. El templo nunca fue reconstruido. La destrucción de Jerusalén y del templo marcó el fin permanente de la religión del judaísmo sacrificial, junto con el papel de los sacerdotes y levitas. El judaísmo sobreviviría a través de los años en las comunidades judías dispersas como una religión dirigida por rabínicos/sinagogas.
 
 ### El Arco de Tito cerca del Coliseo en Roma representa la conquista romana de Jerusalén en el año 70 d.C.

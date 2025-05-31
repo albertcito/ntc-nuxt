@@ -1,10 +1,10 @@
 ---
 title: "Samuel Hopkins y el legado paradójico de Jonathan Edwards Sr."
 date: 2023-05-15
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "historia"
-tags: 
+tags:
   - "esclavitud"
   - "historia"
   - "jonathan-edwards-sr"
@@ -46,7 +46,7 @@ Hopkins registró que Newport se había convertido en un gran centro comercial p
 Al igual que Edwards, Hopkins estaba consternado por la crueldad del comercio de esclavos. Pero yendo donde Edwards no lo haría, Hopkins aplicó sus argumentos en contra de la trata de esclavos a la institución de la esclavitud como un todo. Como proclamó Hopkins:
 
 > Por lo tanto, se ha convertido en un pecado nacional y un pecado de primera magnitud, un pecado que el justo Cielo nunca ha permitido que pase sin castigo en este mundo.
-> 
+>
 > Hopkins, The Slave Trade and Slavery
 
 ## Hopkins y la Revolución
@@ -56,7 +56,7 @@ Aunque Jonathan Edwards murió en 1758, décadas antes de la Revolución America
 Mientras las trece colonias se preparaban para la rebelión, la Nueva Divinidad vio su oportunidad de introducir argumentos contra la esclavitud en el discurso revolucionario. Que los colonos estadounidenses blancos hicieran la guerra contra su supuesto opresor y al mismo tiempo oprimieran a los africanos, dijo Hopkins, era una “perversa contradicción”. Vincular la causa estadounidense de la libertad a la difícil situación de las personas esclavizadas, argumentó:
 
 > ¿Es posible que los americanos, después de todo esto, y frente a esta luz y convicción, y después de haber obtenido la libertad y la independencia para sí mismos, continúen manteniendo a cientos de miles de sus semejantes en la más despreciable esclavitud?
-> 
+>
 > Hopkins, Slave Trade and the Slavery of the Africans.
 
 Hopkins esperaba que una victoria estadounidense condujera a la emancipación generalizada de las personas esclavizadas. Decepcionado cuando la esclavitud continuó después de la guerra, continuó criticando abiertamente la esclavitud y la hipocresía de los estadounidenses que elogiaban la Declaración de Independencia y al mismo tiempo poseían esclavos.
@@ -70,7 +70,7 @@ Hopkins esperaba que una victoria estadounidense condujera a la emancipación ge
 Los puntos de vista anti-esclavistas de Hopkins, como su denuncia del robo de hombres y su creencia en los ideales revolucionarios de libertad e igualdad, fueron el resultado de una doctrina fundamental que Edwards llamó benevolencia. Edwards conceptualizó la benevolencia como amor. En su obra La caridad y sus frutos, describió el amor como la “Suma de todas las virtudes”. Por ejemplo, Edwards analizó el pasaje bíblico en 1 Corintios 13:1-3:
 
 > Si yo hablase lenguas humanas y angélicas, y no tengo caridad, vengo á ser como metal que resuena, ó címbalo que retiñe. Y si tuviese profecía, y entendiese todos los misterios y toda ciencia; y si tuviese toda la fe, de tal manera que traspasase los montes, y no tengo caridad, nada soy. Y si repartiese toda mi hacienda para dar de comer a pobres, y si entregase mi cuerpo para ser quemado, y no tengo caridad, de nada me sirve.[](https://www.biblegateway.com/passage/?search=1%20Corintios%2013&version=RVR1960){target=blank}
-> 
+>
 > 1 Corintios 13:1-3 (RVA)
 
 Edwards argumentó que la palabra griega original (ἀγάπη), que aquí se traduce como 'caridad', podría haberse traducido mejor como 'amor'. Edwards argumentó que la caridad significaba mostrar el amor de uno por Dios, y escribió: el primer verso, se llama amar a Dios en el tercero, porque evidentemente se habla de lo mismo en los dos lugares \[en el pasaje\].” En su obra True Virtue, Edwards escribió que “la virtud consiste esencialmente en amor” y que “la naturaleza general de la verdadera virtud es el amor”
@@ -80,13 +80,13 @@ Para Edwards, el amor de Dios era la fuente de la verdadera virtud, y la verdade
 Hopkins apoyó plenamente la doctrina de la benevolencia de Edwards. Sin embargo, Hopkins amplió la teología de Edwards al explicar que el verdadero amor, o la verdadera virtud, se manifestaba en el “amor a Dios y al prójimo”. Para Hopkins, el amor al prójimo tenía que ser desinteresado. El amor desinteresado buscaría el bienestar de otras personas, no solo de uno mismo:
 
 > El amor al prójimo, que exige la ley de Dios, es ciertamente buena voluntad universal y desinteresada, ya que es un amor que nos dispondrá a hacer el bien a todos.
-> 
+>
 > Hopkins, True Holiness, WSH 3:35
 
 Una forma de mostrar un sentido de benevolencia desinteresada era defender la libertad y la vida de las personas esclavizadas. Al promover la emancipación sobre la base del principio cristiano, Hopkins predicó:
 
 > El siguiente precepto de nuestro Señor y Salvador: “Todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos”, que incluye amar a nuestro prójimo como a nosotros mismos, pondrá en libertad a todo esclavo.
-> 
+>
 > Hopkins, Slave Trade and the Slavery of the Africans WSH 2:601
 
 Hopkins se basó en la doctrina de la benevolencia desinteresada de Edwards al expandir su definición para incluir a todas las personas. Esta definición inclusiva, en lugar de exclusiva, incorporó a los africanos y afroamericanos esclavizados. Hopkins creía que glorificar a Dios requería luchar por los oprimidos.

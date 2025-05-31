@@ -1,10 +1,10 @@
 ---
 title: "La visión bíblica de la verdad"
 date: 2023-03-20
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "apologetica"
   - "gordon-clark"
   - "john-w-robbins"
@@ -23,17 +23,17 @@ Permítanme decir también que no tengo la intención de discutir lo que general
 El asunto que deseo abordar esta noche es aún más fundamental en la discusión de la verdad que estas teorías, ya que en el siglo pasado, más o menos, la naturaleza proposicional de la verdad misma ha sido ampliamente negada, especialmente en asuntos religiosos. Siempre ha habido una corriente influyente en la teología que enseña y enfatiza la incognoscibilidad de Dios, remontándose al menos a Dionisio el Areopagita, cuyas obras del siglo V, Teología Mística y Nombres Divinos, en parte un plagio del pagano Proclo, fueron ampliamente aceptadas y marcó el comienzo de la Edad Media. Según Dionisio, Dios ni siquiera se conoce a sí mismo: "Dios no sabe lo que él mismo es porque no es un qué". Gordon Clark explica:
 
 > La causa suprema no puede ser verdaderamente designada por ningún nombre; todas nuestras expresiones son sólo simbólicas. Metafóricamente, Dios puede llamarse Verdad, Bien, Esencia, Luz, Sol, Estrella, Aliento, Agua y una infinidad de cosas más. Pero Dios está realmente por encima de todos estos predicados, porque cada uno de ellos tiene una contradicción: la verdad y la falsedad, el bien y el mal, la luz y la oscuridad, pero Dios no tiene ninguna contradicción. Es superesencial, superbueno, etc., como decía Dionisio.
-> 
+>
 > Gordon H. Clark, _Thales to Dewey_: _A History of Philosophy_. The Trinity Foundation \[1957\] 2000, 198.
 
 Aquí hay ejemplos de la teología de Dionisio:
 
 > Tríada suprema, a la vez super-Dios y super-bien, Guardiana de la teosofía de los hombres cristianos, dirígenos directamente a la cumbre super-desconocida y super-brillante y más alta de los oráculos místicos, donde los misterios simples, absolutos e inmutables de la teología yacen ocultos dentro de la penumbra superluminosa del silencio, revelando cosas ocultas, que en su oscuridad más profunda brilla sobre lo más superbrillante, y en lo totalmente impalpable e invisible llena hasta rebosar las mentes sin ojos con glorias de incomparable belleza.
-> 
+>
 > _Mystic Theology_, 1:1.
 
 > Deidad de nuestro Señor Jesús, causa y consumación de todo, que conserva las partes en concordancia con el todo, y no es ni parte ni todo, ni todo y parte, como abarcando en sí todo el todo y las partes y estando por encima y delante, perfecto ciertamente en lo imperfecto como fuente de perfección, pero imperfecto en lo perfecto como superperfecto y pre-perfecto, forma produciendo forma en cosas sin forma como fuente de forma, sin forma en las formas como sobre la forma, esencia penetrando sin mancha las esencias en todo , y supraesencial, exaltado por encima de toda esencia, fijando límites a todos los principados y órdenes y establecido en cada principado y orden.
-> 
+>
 > _Divine Names,_ 2:10.
 
 Este tipo de jerigonza mojigata ha sido repetido por teólogos de todas las tendencias, no solo por aquellos que son clasificados como místicos, a lo largo de los siglos, incluido, como veremos en unos momentos, el calvinista holandés Herman Bavinck, cuyos cuatro volúmenes el trabajo sobre la dogmática reformada aparece en inglés por primera vez.
@@ -79,7 +79,7 @@ _Dios en sí mismo o en su revelación como Palabra y palabras, nunca es realmen
 Esto, por supuesto, es una afirmación común de los místicos, quienes generalmente describen la unión con Dios como una experiencia inefable. Es también una afirmación de la teología neo-ortodoxa, que dice que la revelación de Dios no está en proposiciones sino en eventos, especialmente el evento de un encuentro de personas. También es la posición de pensadores reformados como Herman Bavinck, quien en su libro La Doctrina de Dios pasa las primeras 25 páginas más o menos afirmando que
 
 > el conocimiento adecuado de Dios no existe. No hay nombre que nos haga conocer su ser. Ningún concepto lo abraza por completo. Ninguna descripción le hace justicia… Las palabras Padre, Dios, Señor no son nombres reales, sino "apelativos derivados de sus buenas obras y funciones"…. Es exaltado sobre todo ser y sobre el pensamiento humano… En consecuencia, siempre que queremos designar a Dios, usamos un lenguaje metafórico… No podemos formarnos una concepción de ese ser unitario, desconocido, trascendente sobre todo ser, sobre la bondad, sobre todo nombre y palabra y pensamiento… El declaraciones "Dios no puede ser definido; no tiene nombre; lo finito no puede captar lo infinito” se encuentran en las obras de todos los teólogos. Afirman unánimemente que Dios está muy exaltado por encima de nuestra comprensión, nuestra imaginación y nuestro lenguaje… Cualquier cosa que se diga de Dios no es Dios, porque Dios es inefable.
-> 
+>
 > The Doctrine of God. The Banner of Truth Trust \[1951\] 1977, 13-37.
 
 Estas palabras, por supuesto, son incompatibles con la visión bíblica de la verdad, con la doctrina de la revelación proposicional y con la idea bíblica de que Dios comunica la verdad sobre sí mismo, el hombre y el mundo a los hombres en palabras y proposiciones.
@@ -91,41 +91,41 @@ Las palabras de Bavinck son, sin embargo, compatibles con las religiones orienta
 Este irracionalismo, tal vez anti-racionalidad sería un mejor término, se inculca en nuestros llamados colegios cristianos. El periódico de Grove City College, The Collegian, en su edición del 4 de abril de 2003, publicó un diálogo de segundo año de un tal Matthew Litwa. Aquí está la parte relevante de ese diálogo:
 
 > En este punto \[después de haber dicho que tenía la verdad absoluta\] mi amigo preguntó si no era más apropiado decir que Jesús mismo era y es la Verdad (Juan 14:6). Es decir, que Jesucristo encarnó la fidelidad y la sabiduría de Dios, y que se convirtió en nuestra redención (1 Corintios 1:30).
-> 
+>
 > Eso parecía más preciso. “Pero”, insistí, “¿No dijo nuestro Salvador muchas cosas verdaderas acerca de la salvación?”.
-> 
+>
 > “Seguramente”, respondió David. “Sin embargo, ¿En qué forma estaban?”
-> 
+>
 > “Principalmente aforismo, parábola, metáfora, ilustración, a veces Cristo basando lo que dijo en milagros que había hecho previamente”.
-> 
+>
 > "Y el objetivo de estos dichos", amplió mi amigo, "incluidos los dichos 'Yo soy', era señalar una realidad que trascendía el habla misma".
-> 
+>
 > Hice una pausa para reflexionar. Entonces David dijo: “¿En última instancia, nuestro Salvador reveló verdad formulada y proposicional a Sus discípulos, o se reveló Él mismo?”.
-> 
+>
 > Eso despertó un pensamiento en mí. La teología sistemática, la comunicación de proposiciones en forma lógica estricta, no era la forma en que nuestro Señor se comunicaba. Los credos proposicionales también parecieron venir más tarde, junto con los tratados teológicos sobre, digamos, la justificación por la fe. Expresé estos pensamientos a mi amigo.
-> 
+>
 > “A veces creo que los protestantes”, sonrió David, “hablamos más de la justificación por la fe que de Aquel en quien tenemos fe”.
-> 
+>
 > Estuve de acuerdo, y luego mi amigo resumió nuestra discusión hasta ese punto: “Hasta donde yo sé”, dijo, “la única verdad absoluta que tenemos está en Jesús diciéndonos cómo ser salvos. ¿Y cómo somos salvos?”
-> 
+>
 > Automáticamente, llegó mi respuesta: “Confiando en la Persona de Cristo”.
-> 
+>
 > “¿No a través de creer proposiciones?”
-> 
+>
 > “Bueno, en parte, supongo. Pero como sugerí antes, las proposiciones solo están diseñadas para llevarnos a la Persona, y la Persona es la Verdad”.
-> 
+>
 > “¿Poseemos a esta Persona?”
-> 
+>
 > "Algo así como. Él está en nuestros corazones y mentes. No obstante, ¡seguramente no poseemos ni controlamos a Jesús! Tampoco podemos dividir a Jesús en pequeñas fórmulas de verdad absoluta e inscribirlas en una página”.
-> 
+>
 > "Ciertamente." dijo David. “De hecho, proponer la salvación en Jesús, en mi opinión, sería intentar hacer que la salvación sea como las matemáticas. Y, no me malinterpreten, ¡me encantan las matemáticas! Las matemáticas dicen: "Usa esta fórmula y obtén este producto". Pero ¿salvación matemática? ¡Qué concepto tan horrible!”
-> 
+>
 > “En mi opinión”, prosiguió mi amigo, “la salvación científica cancela la salvación real. Porque la verdadera salvación está en una Persona, Jesús, 'sangrando y muriendo en una cruz'. Como muchos de mis amigos evangélicos han sostenido: el cristianismo no es una religión, sino una relación. ¡Una relación! Una cosa desordenada, compleja, indefinible, fangosa. Sin embargo, ¡oh, cuán rico es, y cuán maravilloso y gozoso puede ser!”.
-> 
+>
 > "Entonces", le pregunté a mi amigo, "¿No poseemos ni controlamos la Verdad?"
-> 
+>
 > “No, si te refieres a Jesús”, respondió. “No le decimos a Jesús qué hacer. Él salva a quien Él quiere, se relaciona con quien Él quiere.”
-> 
+>
 > Este diálogo, que podría haber aparecido en cualquier periódico universitario o eclesiástico "cristiano" estadounidense, expresa opiniones religiosas comunes y explica por qué el presidente Bush dio las respuestas que dio a las preguntas de Charles Gibson en el programa Good Morning America de ABC News el 26 de octubre de 2004: “¿Adoramos al mismo Dios, cristiano y musulmán?” Bush: “Creo que sí”. Gibson preguntó: "¿En tu mente, los cristianos, los no cristianos y los musulmanes van al cielo?" Bush respondió: “Sí, lo hacen. Tenemos diferentes rutas para llegar allí… El Dios Todopoderoso decide quién va al Cielo”.
 
 En este diálogo vemos el menosprecio de la verdad proposicional, la noción de que la verdad es personal, no proposicional, la noción de que Cristo habló casi exclusivamente en metáforas y parábolas, la noción de que "la realidad trasciende el habla", todo lo cual está en consonancia con la teología hindú pero es antitético a la teología cristiana. También vemos la afirmación de que "Jesús está en nuestros corazones y mentes", pero no hay explicación de lo que significa esta declaración, pero no significa que pensemos y creamos las proposiciones de Jesús.
@@ -147,15 +147,15 @@ _“La Escritura es la historia de experiencias extáticas dadas contenido verba
 Esto, por supuesto, es una declaración bastante clara de un principio de la teología neo-ortodoxa. Pero también se hace eco de la figura principal de la Alianza Cristiana y Misionera a mediados del siglo XX, A. W. Tozer, en un sermón reimpreso en The Presbyterian Journal el 11 de febrero de 1970. El Presbyterian Journal, ahora desaparecido, profesaba ser un publicación calvinista conservadora que representa el ala más bíblica de la Iglesia Presbiteriana del Sur. En ese sermón, Tozer, dificilmente un calvinista, afirmó que había dos tipos de verdad. El primer tipo es el tipo que tenían los judíos incrédulos. Es, en sus palabras,
 
 > meramente intelectual… Deduzco esto no sólo del versículo 17 \[Juan 7:17, “Si alguno escoge hacer la voluntad de Dios, sabrá si mi enseñanza es de Dios, o si hablo por mi propia cuenta”\], sino del todo el evangelio de Juan. Para estas personas, la verdad era algo intelectual, tal como sabemos que dos por dos es cuatro.
-> 
+>
 > Dos por dos es cuatro: Eso es verdad, pero es sólo una verdad intelectual… Ellos \[los judíos\] creían que si tenías las palabras de verdad, si podías repetir el código de verdad, tenías la Verdad. Que si vivías de la palabra de verdad, vivías en la Verdad.
-> 
+>
 > La línea de batalla, la guerra actual, no es necesariamente entre fundamentalistas y liberales. Hay una diferencia entre ellos, por supuesto. El fundamentalista dice que Dios hizo el cielo y la tierra. El liberal dice: Bueno, esa es una forma poética de decirlo; en realidad surgió por evolución. El fundamentalista dice que Jesucristo fue el mismo Hijo de Dios. El liberal dice: Bueno, ciertamente fue un hombre maravilloso y es el Maestro, pero no sé muy bien acerca de su deidad. Así que hay una división, pero no creo que la guerra sea más por estos asuntos. La batalla se ha trasladado a otro campo más importante. La guerra y la línea divisoria de hoy es entre los racionalistas evangélicos y los místicos evangélicos….
-> 
+>
 > Tu racionalista evangélico… dice lo que los fariseos, los peores enemigos que Jesús tuvo mientras estuvo en la Tierra, dijeron: Bueno, la verdad es la verdad, y si crees en la verdad, la tienes.
-> 
+>
 > Hay algo detrás del texto que tienes que entender… ¿Es suficiente el cuerpo de la verdad cristiana? ¿O la verdad tiene alma además de cuerpo? El racionalista evangélico dice que todo hablar del alma de la verdad es un disparate poético. El cuerpo de la verdad es todo lo que necesitas; si crees en el cuerpo de la verdad, estás en camino al cielo y no puedes recaer y todo estará bien y obtendrás una corona en el último día… Tal como Colosenses argumenta en contra del maniqueísmo y Gálatas argumenta en contra El legalismo judío, entonces el libro de Juan es un libro largo, inspirado, apasionadamente derramado que intenta salvarnos del racionalismo evangélico, la doctrina que dice que el texto es suficiente. El textualismo es tan mortal como el liberalismo.
-> 
+>
 > For a thorough discussion of Tozer’s errors, see Gordon H. Clark, What Is Saving Faith? The Trinity Foundation, 2004, 133-140.
 
 Desafortunadamente, Tozer no nos dice qué es el "alma de la verdad", en oposición al cuerpo de la verdad, es decir, el texto, la revelación proposicional misma, que él menosprecia. Dado que el "alma de la verdad" no se puede explicar en un lenguaje literal, de hecho es una tontería poética. Además, dado que Tozer piensa que todo el Evangelio de Juan es un argumento apasionado contra lo que él llama racionalismo evangélico, comencemos nuestro estudio de una visión bíblica de la verdad mirando el Evangelio de Juan.
@@ -181,13 +181,13 @@ Es importante comprender la relación entre las proposiciones y la creencia, que
 El hecho de que los dibujos e imágenes per se, e incluso las palabras sueltas sin contexto, no expresen ninguna verdad puede verse muy claramente en los primeros seis capítulos del libro de Daniel. En el capítulo 2 se describe el sueño de Nabucodonosor:
 
 > <sup>1</sup> En el segundo año del reinado de Nabucodonosor, tuvo Nabucodonosor sueños, y se perturbó su espíritu, y se le fue el sueño. <sup>2</sup> Hizo llamar el rey a magos, astrólogos, encantadores y caldeos, para que le explicasen sus sueños. Vinieron, pues, y se presentaron delante del rey. <sup>3</sup> Y el rey les dijo: He tenido un sueño, y mi espíritu se ha turbado por saber el sueño. <sup>4</sup> Entonces hablaron los caldeos al rey en lengua aramea: Rey, para siempre vive; di el sueño a tus siervos, y te mostraremos la interpretación. <sup>5</sup> Respondió el rey y dijo a los caldeos: El asunto lo olvidé; si no me mostráis el sueño y su interpretación, seréis hechos pedazos, y vuestras casas serán convertidas en muladares.
-> 
+>
 > Daniel 2:1-5 - RV
 
 Para abreviar la larga historia, Daniel intervino con el capitán de la guardia para evitar ser asesinado con el resto de los sabios de Babilonia, y oró para que Dios le revelara el sueño y su significado. Dios así lo hizo, y Daniel le agradeció:
 
 > <sup>20</sup> Y Daniel habló y dijo: Sea bendito el nombre de Dios de siglos en siglos, porque suyos son el poder y la sabiduría. <sup>21</sup> Él muda los tiempos y las edades; quita reyes, y pone reyes; da la sabiduría a los sabios, y la ciencia a los entendidos. <sup>22</sup> Él revela lo profundo y lo escondido; conoce lo que está en tinieblas, y con él mora la luz. <sup>23</sup> A ti, oh Dios de mis padres, te doy gracias y te alabo, porque me has dado sabiduría y fuerza, y ahora me has revelado lo que te pedimos; pues nos has dado a conocer el asunto del rey.
-> 
+>
 > Daniel 2:20-23 RV
 
 Daniel procede a describir la imagen que el rey vio en su sueño. El rey no entendió el significado de la imagen de oro, plata, bronce, hierro y arcilla. Supuso, porque el sueño se repitió, pero no sabía, que había un significado. Aparentemente una imagen no vale más que mil palabras. Una imagen, un cuadro, no es verdad y no es una verdad. Es opaco al entendimiento y requiere una explicación en palabras y proposiciones. Sólo las proposiciones pueden ser verdaderas.
@@ -199,7 +199,7 @@ En el capítulo 5, otro rey, Belsasar, ve la escritura en la pared y no la entie
 Una vez más Daniel es convocado, y lee la escritura: "Mene, mene, tekel, uparsin" (vs.25). Las palabras sueltas son tan opacas para Belsasar y los demás presentes en su banquete como lo fueron la imagen del sueño y los eventos para Nabucodonosor, y por lo mismo razón: No son proposicionales. Como dije antes, las palabras sueltas sin contexto o explicación no son verdaderas ni falsas. Son literalmente sin sentido. Pero Dios le dice a Daniel las proposiciones requeridas, y Daniel habla esas proposiciones al rey Belsasar:
 
 > Esta es la interpretación del asunto: MENE: Contó Dios tu reino, y le ha puesto fin. TEKEL: Pesado has sido en balanza, y fuiste hallado falto.  PERES: Tu reino ha sido roto, y dado a los medos y a los persas.
-> 
+>
 > Daniel 5: 26-28
 
 Daniel le dice al rey tres verdades, es decir, tres proposiciones. Ahora por primera vez el rey entiende y sabe. Antes había estado muy emocionado; sus rodillas chocaban juntas; y él estaba gritando y llorando. Nada de esta vívida experiencia, ninguna de esta emoción, le dio la verdad; las solas palabras no le dieron la verdad; el milagro visible de la mano escribiendo en la pared no le dio la verdad; sólo las proposiciones reveladas pronunciadas por Daniel eran inteligibles y verdaderas. Los primeros seis capítulos de Daniel nos brindan lecciones invaluables en epistemología y la doctrina de la revelación proposicional, pero ningún comentarista que haya leído parece captar ese punto.

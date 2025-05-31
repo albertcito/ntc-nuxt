@@ -1,9 +1,9 @@
 ---
 title: "La teología bíblica del Nuevo Testamento y el santísimo"
 date: 2022-02-04
-categories: 
+categories:
   - "teologia"
-tags: 
+tags:
   - "cherem"
   - "joel-mcdurmon"
   - "nuevo-testamento"
@@ -48,4 +48,4 @@ En lugar de intentar un tratamiento completo de cada uno de los casos del Nuevo 
 
 * * *
 
-Esta publicación es parte de [Cherem y el Nuevo Testamento](/articles/cherem-en-el-nuevo-testamento).
+Esta publicación es parte de [Cherem y el Nuevo Testamento](/articulos/cherem-en-el-nuevo-testamento).

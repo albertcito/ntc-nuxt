@@ -1,10 +1,10 @@
 ---
 title: "El Concilio de Calcedonia: El Fundamento de La Libertad En Occidente"
 date: 2022-03-02
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "calcedonia"
   - "credos"
   - "estado"
@@ -109,33 +109,33 @@ La libertad de Occidente comenzó cuando se le negó al Estado la afirmación de
 
 * * *
 
-<sup>104</sup> Ethelbert Stauffer, Christ and the Caesars, (Philadelphia, PA: Westminster Press, 1955), 81-89. 
-<sup>105</sup>Francis Legge, Forerunners and Rivals of Christianity Front 330 B.C. to 330 A.D., vol. 1 (New York, NY:  
-University Books, \[1915\] 1964), xxiv.  
-<sup>106</sup>Trevor Jalland, The Life and Times of St. Leo the Great (London, England: Society for Promoting Christian  
-Knowledge, 1941), 420. 
-<sup>107</sup>Gerhart B. Ladner, “Origin and Significance of the Byzantine Iconoclastic Controversy” in Pontifical  
-Institute of Mediaeval Studies, Mediaeval Studies, vol. 2 (New York, NY: Sheed and Ward, 1940), 127-49. 
-<sup>108</sup> Eugen Rosenstock-Huessy, Out of Revolution (New York, NY: William Morrow, 1938), 437, 503ff.  
-<sup>109</sup>Ibid., 91-92. 
-<sup>110</sup>Cornelious Van Til, The Defense of the Faith (Philadelphia, PA: Presbyterian and Reformed Publishing Co.,  
-1955), 32. 
-<sup>111</sup> J. N. W. B. Robertson, ed., The Divine Liturgies of John Chrysostom and Basil the Great (London, England:  
-David Nutt, 1894), 157, 195, 453-54. 
-<sup>112</sup> George H. Williams, The Norman Anonymous of A.D. 1100, Harvard Theological Studies 18 (Cambridge,  
-MA: Harvard University Press, 1951), 127-28. 
-<sup>113</sup>Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology (Princeton, NJ:  
-Princeton University Press, 1957), 227. 
-<sup>114</sup> Ibid., 229. 
-<sup>115</sup>Thomas J. J. Altizer, Mircea Eliade and the Dialectic of the Sacred (Philadelphia, PA: Westminster Press, 1963),  
-23, 26. 
-<sup>116</sup>In Percival, Seven Ecumenical Councils, 9. 
-<sup>117</sup> Fustel De Coulanges, The Ancient City, (Garden City, NY: Doubleday Anchor Books, \[1864\] 1936), 141,  
-219-20. 
-<sup>118</sup>Ibid., 221. 
-<sup>119</sup>Ibid., 224. 
-<sup>120</sup> Nicene and Post-Nicene Fathers, series 2, vol. 12, 133. 
-<sup>121</sup>Ibid., 190. 
-<sup>122</sup>Ibid., 132. 
-<sup>123</sup>Ibid., 178. 
+<sup>104</sup> Ethelbert Stauffer, Christ and the Caesars, (Philadelphia, PA: Westminster Press, 1955), 81-89.
+<sup>105</sup>Francis Legge, Forerunners and Rivals of Christianity Front 330 B.C. to 330 A.D., vol. 1 (New York, NY:
+University Books, \[1915\] 1964), xxiv.
+<sup>106</sup>Trevor Jalland, The Life and Times of St. Leo the Great (London, England: Society for Promoting Christian
+Knowledge, 1941), 420.
+<sup>107</sup>Gerhart B. Ladner, “Origin and Significance of the Byzantine Iconoclastic Controversy” in Pontifical
+Institute of Mediaeval Studies, Mediaeval Studies, vol. 2 (New York, NY: Sheed and Ward, 1940), 127-49.
+<sup>108</sup> Eugen Rosenstock-Huessy, Out of Revolution (New York, NY: William Morrow, 1938), 437, 503ff.
+<sup>109</sup>Ibid., 91-92.
+<sup>110</sup>Cornelious Van Til, The Defense of the Faith (Philadelphia, PA: Presbyterian and Reformed Publishing Co.,
+1955), 32.
+<sup>111</sup> J. N. W. B. Robertson, ed., The Divine Liturgies of John Chrysostom and Basil the Great (London, England:
+David Nutt, 1894), 157, 195, 453-54.
+<sup>112</sup> George H. Williams, The Norman Anonymous of A.D. 1100, Harvard Theological Studies 18 (Cambridge,
+MA: Harvard University Press, 1951), 127-28.
+<sup>113</sup>Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology (Princeton, NJ:
+Princeton University Press, 1957), 227.
+<sup>114</sup> Ibid., 229.
+<sup>115</sup>Thomas J. J. Altizer, Mircea Eliade and the Dialectic of the Sacred (Philadelphia, PA: Westminster Press, 1963),
+23, 26.
+<sup>116</sup>In Percival, Seven Ecumenical Councils, 9.
+<sup>117</sup> Fustel De Coulanges, The Ancient City, (Garden City, NY: Doubleday Anchor Books, \[1864\] 1936), 141,
+219-20.
+<sup>118</sup>Ibid., 221.
+<sup>119</sup>Ibid., 224.
+<sup>120</sup> Nicene and Post-Nicene Fathers, series 2, vol. 12, 133.
+<sup>121</sup>Ibid., 190.
+<sup>122</sup>Ibid., 132.
+<sup>123</sup>Ibid., 178.
 <sup>124</sup>Ibid., 145-47.

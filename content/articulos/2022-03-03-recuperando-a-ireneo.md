@@ -1,10 +1,10 @@
 ---
 title: "Recuperando a Ireneo"
 date: 2022-03-03
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "historia"
-tags: 
+tags:
   - "cena-del-senor"
   - "historia"
   - "icar"
@@ -26,7 +26,7 @@ Pero la leyenda es pura ficción, producto de imaginaciones fértiles, lecturas 
 El desafío historiográfico que enfrentamos al leer a Ireneo es triple: primero, su estilo de escritura puede ser tedioso y difícil; segundo, sus obras griegas originales sobreviven solo en fragmentos; y tercero, el manuscrito completo de su tratado más valioso, la compilación de cinco libros Contra las herejías, sobrevive solo en latín de un traductor no identificado que se sabe que no está a la altura de su tarea. El Dr. Alexander Roberts, quien tradujo Against Heresies al inglés, observó:
 
 > Ireneo, incluso en el griego original, es a menudo un escritor muy oscuro. A veces se expresa con notable claridad y concisión; pero, en general, su estilo es muy complicado y prolijo. Y la versión latina se suma a estas dificultades del original, por ser ella misma del carácter más bárbaro. De hecho, a menudo es necesario hacer una retraducción conjetural al griego, para obtener una idea de lo que escribió \[Ireneo\]… Se desconoce su autor, pero ciertamente estaba poco calificado para su tarea… \[ No son pocos los pasajes en los que sólo se puede hacer una conjetura en cuanto al significado probable.<sup>5</sup>
-> 
+>
 > Dr. Alexander Roberts
 
 Es a esa traducción latina "bárbara" de los originales griegos perdidos o fragmentados de Ireneo a la que ahora debemos dirigir nuestra atención. Los argumentos católicos romanos de Ireneo se basan no solo en esa bárbara traducción latina cuando el griego no está disponible, sino también en las reescrituras "preferidas" del poco griego que poseemos. Sin embargo, un análisis cuidadoso supera fácilmente tanto el desafío historiográfico como la fértil imaginación del apologista romano.
@@ -70,11 +70,11 @@ Ireneo elaboró ​​considerablemente sobre los sacrificios, insistiendo, “l
 Al igual que Justino Mártir, Ireneo sostuvo que “la nueva oblación” tuvo lugar en el marco de la liturgia semanal, en forma de acción de gracias (ε?χαριστ?ω, ¿eucaristía?) por “las primicias de Sus propias criaturas, ” incluyendo el pan cocido y el vino mezclado por los cuales Cristo había dado gracias, y de los cuales había seleccionado los elementos de la Cena. La exposición más detallada de Ireneo de “la nueva oblación” se encuentra en Contra las Herejías Libro IV, capítulos 17 y 18, y es notable que mientras coloca la “nueva oblación” en el contexto de la Cena del Señor, en ningún momento referirse al cuerpo y la sangre de Cristo como la nueva oblación. Cada referencia explícita a la sustancia de “la nueva oblación” (en cursiva a continuación) indica la ofrenda del diezmo de las primicias de la cosecha para los pobres y, por extensión, nuestras buenas obras. Ireneo en realidad nunca se refiere al cuerpo y la sangre de Cristo como “la nueva oblación”:
 
 > Nuevamente, dando instrucciones a Sus discípulos para que ofrecieran a Dios las primicias de Sus propias cosas creadas, no como si Él tuviera necesidad de ellas, sino para que ellas mismas no fueran infructuosas ni ingratas, tomó esa cosa creada, el pan. , y dio gracias, y dijo: "Esto es mi cuerpo". Y la copa igualmente, que es parte de esa creación a la que pertenecemos, confesó ser su sangre, y enseñó la nueva oblación del nuevo pacto; que la Iglesia que recibe de los apóstoles, ofrece a Dios en todo el mundo, a Aquel que nos da como medio de subsistencia las primicias de sus propios dones en el nuevo testamento, del cual así habló Malaquías, entre los doce profetas de antemano… indicando de la manera más clara, con estas palabras, que el pueblo anterior \[los judíos\] ciertamente dejará de hacer ofrendas a Dios, sino que en todo lugar se le ofrecerá sacrificio, y uno puro; y su nombre es glorificado entre los gentiles. (17.5)
-> 
+>
 > Así pues, en la medida en que la Iglesia ofrece con determinación, su donación se considera con justicia un sacrificio puro para con Dios. Como dice también Pablo a los filipenses: “Estoy lleno, habiendo recibido de Epafrodito lo que enviasteis, olor fragante, sacrificio acepto, agradable a Dios”. \[Filipenses 4:18\] Porque nos conviene hacer una ofrenda a Dios, y ser hallados en todo agradecidos a Dios nuestro Hacedor, en una mente pura, en una fe sin hipocresía, en una esperanza fundada, en un amor ferviente , ofreciendo las primicias de sus propias criaturas. Y la Iglesia sola ofrece esta oblación pura al Creador, ofreciéndole, con acción de gracias, \[las cosas tomadas\] de Su creación. (18.4)
-> 
+>
 > Porque Dios, que no tiene necesidad de nada, toma para Sí nuestras buenas obras con este propósito, para darnos una recompensa de Sus propias cosas buenas, como dice nuestro Señor: “…Porque tuve hambre, y me disteis de comer: tuve sed, y me disteis de beber…”. \[Mateo 25:34, etc.\] Como, por lo tanto, Él no tiene necesidad de estos, sin embargo, desea que los demos para nuestro propio beneficio, para que no seamos estériles; así la Palabra dio al pueblo el mismo precepto de hacer oblaciones, aunque Él no las necesitaba, para que aprendieran a servir a Dios: así es, pues, también Su voluntad que nosotros también ofrecer una ofrenda en el altar, con frecuencia y sin interrupción. El altar, pues, está en el cielo (porque hacia ese lugar se dirigen nuestras oraciones y oblaciones). (18.6)
-> 
+>
 > Ireneo de Lyon
 
 El lector notará con qué frecuencia Ireneo se refiere a la ofrenda agradecida del alimento creado como la sustancia de la oblación. Solo tenemos el latín "bárbaro" para estas citas, pero podemos estar seguros de que en el griego original, Ireneo vio la "oblación de la nueva alianza" eucarística instituida en el momento en que Cristo "dio gracias" (ε?χαριστ?ω) , en lugar del momento en que dijo "esto es mi cuerpo" y "sangre", porque Ireneo habría citado las Escrituras en griego. El Nuevo Testamento griego consistentemente tiene a Cristo “eucaristiendo” (ε?χαριστ?σας) el pan y el vino (Mateo 26:27; Marcos 14:23; Lucas 22:17,19; 1 Corintios 11:24) antes de llamarlo Su cuerpo y sangre Está claro que la iglesia primitiva ofrecía oblaciones eucarísticas de acuerdo con las instrucciones escritas de los apóstoles. Que la “nueva oblación” de Ireneo consistía en dar gracias al Padre por el alimento (por ejemplo, Lucas 22:17,19), proveer para las necesidades de los pobres (Proverbios 19:17), los santos (Filipenses 4:18), y el hambriento y sediento (Mateo 25:35) también es claro. Que Él tenía a Cristo ofreciendo gracias a Su Padre por el pan y el vino creados, y nosotros, a imitación de Él, siendo “ni infructuosos ni desagradecidos”, ofreciéndole las cosas creadas como un diezmo en un altar celestial, también es claro. Cuando Ireneo escribe así que Cristo dio "instrucciones a sus discípulos para que ofrecieran a Dios las primicias de sus propias cosas creadas", y luego "tomó lo creado, el pan, y dio gracias", y "la copa también, que es parte de esa creación a la que pertenecemos”, y “enseñó la nueva oblación de la nueva alianza” (17,5), la oblación a la que se refiere es la ofrenda de acción de gracias del diezmo de la cosecha de las “cosas creadas”. Lo que no hizo Ireneo, aunque la religión romana desea mucho que lo hiciera, es decir que Cristo ofreció su cuerpo y su sangre como “la nueva oblación” y enseñó a los apóstoles a hacer lo mismo.
@@ -96,7 +96,7 @@ Su mensaje constante cuando contrarrestó a los gnósticos fue que solo es razon
 Como el pan mezclado y el vino mezclado, Dios se había mezclado con Su Creación de dos maneras importantes: Dios el Hijo se había mezclado con la carne a través de la encarnación, y Dios el Espíritu se había mezclado con la carne cuando fue derramado sobre los hombres. Por su propia mano, es en esas dos mezclas donde se resumiría la suma de sus argumentos contra los gnósticos:
 
 > Ya que el Señor así nos ha redimido por su propia sangre, dando su alma por nuestras almas, y su carne por nuestra carne, y también ha derramado el Espíritu del Padre para la unión y comunión de Dios y el hombre, impartiendo verdaderamente Dios a hombres por medio del Espíritu, y, por otro lado, unir al hombre a Dios por Su propia encarnación, y otorgándonos en Su venida inmortalidad duradera y verdadera, por medio de la comunión con Dios, todas las doctrinas de los herejes caen en ruina. (AH.V.1.1)
-> 
+>
 > Ireneo de Lyon - Contra las Herejías
 
 Debido a que la comida creada demostró tan claramente a Ireneo que Dios se había mezclado con Su propia creación, fue el uso de la comida creada durante la eucaristía lo que anuló con tanta eficacia el error gnóstico. El propio resumen de ocho capítulos de Ireneo de todo su trabajo contra ellos se centró en la comida creada y, con mayor frecuencia, en el pan y el vino en cada etapa de la producción, desde el grano hasta la hogaza, desde el racimo hasta la taza, tan significativo fue el uso de la comida creada para él. (AH.V.29-36).
@@ -114,7 +114,7 @@ Notamos, no es de poca importancia, y el lector debe prestar atención a ello, q
 Con eso en mente, Ireneo creía que la inconsistencia de los gnósticos podía corregirse fácilmente de dos maneras:
 
 > Que, por lo tanto,<sup>1</sup> cambien de opinión, o<sup>2</sup> dejen de ofrecer las cosas que acabamos de mencionar. Pero nuestra opinión está de acuerdo con la Eucaristía, y la Eucaristía a su vez establece nuestra opinión. Porque le ofrecemos los suyos, anunciando consecuentemente la comunión y unión de la carne y el Espíritu. (AH.IV.18.5)
-> 
+>
 > Ireneo de Lyon - Contra las Herejías
 
 Como hemos mostrado, es el alimento creado de la oblación eucarística el que anuncia la “unión de la carne y el Espíritu”. Lo que se contrasta aquí es la oblación gnóstica del alimento creado al no-creador al que no pertenecía, con la oblación cristiana del “suyo” alimento creado al Creador al que sí pertenecía. La inconsistencia gnóstica podría resolverse fácilmente arrepintiéndose de la opinión de que Cristo no era el Hijo del Creador y que la carne creada no podía salvarse. O, salvo eso, podría resolverse dejando de ofrecer alimentos creados a Su Padre en primer lugar. Realmente fue así de simple. Nunca se trató de ofrecer el cuerpo y la sangre de Cristo al Padre. Ni Ireneo ni los gnósticos sabían de tal sacrificio eucarístico y, por lo tanto, el centro de su argumento en contra de ellos permaneció de lleno en la inconsistencia de su uso del alimento creado.
@@ -132,7 +132,7 @@ En varias de sus referencias a la Cena del Señor, Ireneo destaca el punto de la
 El orden de la iglesia primitiva de la oblación eucarística antes de la epíclesis, antes de que se llame el cuerpo y la sangre de Cristo, es problemático para el catolicismo romano por razones obvias. La epíclesis es la clave del sacrificio católico romano de la misa que requiere que la oblación eucarística ocurra después de la epíclesis, es decir, después de que el pan y el vino se llamen Su cuerpo y sangre:
 
 > La epíclesis (“invocación a”) es la intercesión en la que el sacerdote suplica al Padre que envíe el Espíritu Santo, el Santificador, para que las ofrendas se conviertan en el cuerpo y la sangre de Cristo… (CIC, 1105)
-> 
+>
 > Catechism of the Catholic Church
 
 La epíclesis, que Roma también llama la “consagración” (CCC, 1376), es la bisagra sobre la que supuestamente gira el ministerio de reconciliación de la religión romana, porque “la epíclesis está en el corazón… de la Eucaristía” (CCC, 1106). ), y “La Eucaristía es 'fuente y cumbre de la vida cristiana'” (CIC, 1324). Para probar que la Iglesia primitiva ofrecía el sacrificio en la misa, el catolicismo romano requiere que Ireneo coloque “la nueva oblación” en la “epiclesis”, y por esta razón, la liturgia eucarística de Ireneo ha sufrido grandes abusos a manos de Roma.
@@ -142,7 +142,7 @@ Es relevante aquí, así que repetiremos lo que notamos al principio: los primer
 Migne volvió a su locura en el Libro IV de Against Heresies, cometiendo lo que podría decirse que es uno de los errores de traducción más ofensivos en toda la literatura eucarística patrística. Todavía incapaz de encontrar la “fuente y cumbre” de su religión en Ireneo, Migne intentó nuevamente mostrar que la “nueva oblación del nuevo pacto” de Ireneo ocurre en la epíclesis. En el Libro IV, ahí es exactamente donde Ireneo parece colocarlo al describir la ofrenda de pan después de haber recibido la invocación:
 
 > Pero nuestra opinión está de acuerdo con la Eucaristía, y la Eucaristía a su vez establece nuestra opinión. Porque le ofrecemos los suyos, anunciando consecuentemente la comunión y unión de la carne y el Espíritu. Porque como el pan que se produce de la tierra, _**cuando recibe la invocación de Dios**_, ya no es pan común, sino Eucaristía, que consta de dos realidades, terrena y celestial; así también nuestros cuerpos, cuando reciben la Eucaristía, ya no son corruptibles, teniendo la esperanza de la resurrección a la eternidad. (AH.IV.18.5, énfasis agregado)
-> 
+>
 > Por Jacques-Paul Migne. Traducción "Contra las Herejías".
 
 La expresión de Ireneo de que la ofrenda del pan consiste en “dos realidades, terrenal y celestial” después de “la invocación” se toma así como una referencia a un cambio del pan en la epíclesis, momento en el cual se convierte en una ofrenda celestial de la carne de Cristo a la Padre. Migne, al parecer, finalmente había encontrado su sacrificio en la misa.
@@ -152,7 +152,7 @@ El problema, como bien sabía Migne, es que **Ireneo no escribió nada sobre "la
 La lectura fraudulenta de Migne del pasaje se basa en la traducción latina “bárbara”, “terra panis, percipiens invocationem Dei (pan terrenal, cuando recibe la invocación de Dios)”.<sup>\[37\]</sup> Pero no hay necesidad de confiar en el “ bárbaro” latín cuando el griego está en nuestra posesión. En su lengua nativa, Ireneo escribió que el pan terrenal adquiere una realidad celestial no en el “επικλυσιν (epiclisin) de Dios”, sino en el “?κκλησιν (ecclisin) de Dios”: “Ως γ?ρ ?π? γ?ς ?ρτος προσλαμβαν?μενος τ?ν ?**κκλησιν** του Θεο?….”<sup>\[38\]</sup> Esa palabra en negrita, ?κκλησιν (ecclisin), significa "llamar" o "apelar"<sup>\[39\]</sup> y, por lo tanto, la declaración de Ireneo se traduce correctamente,
 
 > Porque como el pan que se produce de la tierra, cuando recibe la llamada de Dios, ya no es pan común, sino Eucaristía, compuesta de dos realidades, terrena y celestial…\[40\]
-> 
+>
 > Ireneo de Lyon
 
 Un simple análisis de este capítulo de Ireneo saca el verdadero significado de las sombras medievales en las que Migne intentó ocultarlo. La Iglesia primitiva vio la ofrenda de acción de gracias de las primicias no solo profetizada en Malaquías 1:11, sino también prefigurada en las ofrendas de pan bajo el rito levítico. Esa ofrenda de pan era “olor grato a Jehová” (Levítico 2:2, 6:21) y una ofrenda de “primicias” (Levítico 23:17). Ireneo los vio unidos en el regalo de los filipenses a Pablo, “un olor fragante, un sacrificio acepto, agradable a Dios” (Filipenses 4:18), y en la gratitud de Cristo por el pan y el vino en la Cena. Es esa ofrenda a la que se refirió Ireneo cuando dijo que el pan “recibe el llamado de Dios” Quien en el Antiguo Testamento llamó ese pan para sí mismo como un diezmo: “lo traerás” (Levítico 6:21; compárese con Levítico 2:8, 23:17; Deuteronomio 12:6, 11; 14:28, Nehemías 10:37; Amós 4:4). El Señor convocó el diezmo para el uso del “levita” así como para el pobre, “el extranjero, el huérfano y la viuda” (Deuteronomio 26:12). En Malaquías, el mismo lugar del pensamiento de Ireneo sobre la “nueva oblación”, el Señor vuelve a invocar el diezmo: “Traed todos los diezmos…” (Malaquías 3:10). En el griego original de Ireneo, por lo tanto, no es la invocación de Dios (επικλυσιν του Θεο?), sino más bien el llamamiento de Dios (?κκλησιν του Θεο?), lo que produce la realidad “celestial” en el pan.

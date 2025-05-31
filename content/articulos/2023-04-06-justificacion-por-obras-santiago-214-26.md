@@ -1,17 +1,17 @@
 ---
 title: "Justificación por Obras - Santiago 2:14-26"
 date: 2023-04-06
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "fe-sola"
 image:
   src: ayudando.jpg
   cc: https://pixabay.com/es/photos/ni%c3%b1a-lodo-correr-pendiente-ayuda-1186895/
 ---
 
-Si alguna vez ha predicado que la justificación es por la fe aparte de las obras.  
+Si alguna vez ha predicado que la justificación es por la fe aparte de las obras.
 Es muy probable que alguien le haya pedido que explique Santiago 2:14-26. ¿Qué quiso decir Santiago cuando dijo que "la fe sin obras es muerta" (Santiago 2:17, 20, 26) y que "el hombre es justificado por las obras" (Santiago 2:24; Santiago 2:21, 25)? ¿Cómo reconcilias a Santiago con Pablo?
 
 ## Sumario
@@ -19,25 +19,25 @@ Es muy probable que alguien le haya pedido que explique Santiago 2:14-26. ¿Qué
 Santiago habla de una persona que "_dice que tiene fe_", que hace una profesión publica de lo que él dice tener. Y evalúa esa profesión publica de fe de una persona, lo que sale de su boca.
 
 > Hermanos míos, ¿De qué aprovechará si alguno dice que tiene fe, y no tiene obras? ¿Podrá la fe salvarle?
-> 
+>
 > Santiago 2:14 - RV60
 
 Y la forma de evaluar/mostrar públicamente esa fe (que él dice tener) es a través de ver sus obras.
 
 > Pero alguno dirá: Tú tienes fe, y yo tengo obras. Muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras. 
-> 
+>
 > Santiago 2:28 - RV60
 
 Y esa persona es justificada delante de los hombres a través de sus obras.
 
 > Vosotros veis, pues, que el hombre es justificado por las obras, y no solamente por la fe.
-> 
+>
 > Santiago 2:24 - RV60
 
 Pero si no tiene obras, su fe (que él dice tener) es muerta en acción (improductiva e inútil) y muerta delante de los hombres (Su fe no es justificada delante de los hombres).
 
 > Así también la fe, si no tiene obras, es muerta en sí misma.
-> 
+>
 > Santiago 2:17 - RV60
 
 ## Santiago no está hablando de la salvación eterna
@@ -45,7 +45,7 @@ Pero si no tiene obras, su fe (que él dice tener) es muerta en acción (improdu
 El primer paso para obtener una comprensión adecuada del argumento de Santiago en 2:14-26 es entender lo que quiso decir con “salvación”.
 
 > Hermanos míos, ¿de qué aprovechará si alguno dice que tiene fe, y no tiene obras? ¿Podrá la fe salvarle?
-> 
+>
 > Santiago 2:14 - RV60
 
 ¿De qué tipo de salvación estaba hablando Santiago? La mayoría de los cristianos asumen que estaba hablando de la salvación eterna. Pero la mayoría de los cristianos también tienden a sobre-espiritualizar la Biblia. Si la Biblia dice "vida", pensamos "cielo". Si dice “muerte”, pensamos “infierno”. Y cuando Santiago dice “salvar”, la mayoría de la gente asume que debe estar hablando de la salvación del infierno. Pero, ¿y si Santiago tuviera en mente un tipo de salvación más realista?
@@ -55,11 +55,11 @@ Si tuviera que hacer un estudio de palabras sobre los usos bíblicos de "salvar"
 En lugar de leer a Santiago como un tratado de evangelización que explica cómo evitar la condenación eterna, debemos leerlo como una pieza de literatura de sabiduría judía, en la tradición de Proverbios, que advierte contra las consecuencias del pecado que amenazan la vida:
 
 > El temor de Jehová aumentará los días; Mas los años de los impíos serán acortados.
-> 
+>
 > Proverbios 10:27 - RV60
 
 > Como la justicia conduce a la vida, Así el que sigue el mal lo hace para su muerte.
-> 
+>
 > Proverbios 11:19 - RV60. Compare con 12:28; 13:14
 
 Santiago tiene las mismas preocupaciones que Proverbios. Quería que sus lectores tuvieran sabiduría (Santiago 1:5). Les advirtió acerca de las consecuencias mortales del pecado (Santiago 1:14-15) y los instó a dejar de lado la maldad y acoger la palabra de Dios con mansedumbre. ¿Por qué? Porque podría salvarles la vida de la muerte (Santiago 1:21). ¿Qué tipo de muerte? El mismo del que habló Salomón en Prov 19:16: “El que guarda los mandamientos guarda su vida. Pero el que se desvía de sus caminos, morirá” (Prov 19:16). Salomón se refería a la muerte física. También lo era Santiago, ya fuera por el castigo divino (Santiago 1:21; 2:14), el tiempo de Dios (Santiago 4:12), la enfermedad (Santiago 5:15) o una vida pecaminosa (Santiago 5:20). Cuando sobre-espiritualizamos este pasaje, perdemos de vista la profunda preocupación hebraica de Santiago con la vida y la muerte.

@@ -1,12 +1,12 @@
 ---
 title: "¿La Biblia aprueba el Homosexualismo 🏳️‍🌈?"
 date: 2023-11-15
-categories: 
+type: 'article'
+categories:
   - "analisis"
   - "apologetica"
-  - "featured"
   - "teologia"
-tags: 
+tags:
   - "apologetica"
   - "historia"
   - "lgtbiq"
@@ -20,19 +20,19 @@ En 2017 vine por primera vez a EEUU al Estado de Massachusetts, vi algo muy raro
 
 Empecemos por la base, el texto bíblico.
 
-Levítico 18:22  
+Levítico 18:22
 No te echarás con varón como con mujer; es abominación.
 
-Levítico 20:13   
+Levítico 20:13 
 Si alguno se ayuntare con varón como con mujer, abominación hicieron; ambos han de ser muertos; sobre ellos será su sangre.
 
-Romanos 1:26-27  
+Romanos 1:26-27
 Por esto Dios los entregó a pasiones vergonzosas; pues aun sus mujeres cambiaron el uso natural por el que es contra naturaleza, y de igual modo también los hombres, dejando el uso natural de la mujer, se encendieron en su lascivia unos con otros, cometiendo hechos vergonzosos hombres con hombres, y recibiendo en sí mismos la retribución debida a su extravío.
 
-1 Corintios 6:9  
+1 Corintios 6:9
 ¿No sabéis que los injustos no heredarán el reino de Dios? No erréis; ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los que se echan con varones
 
-1 Timoteo 1:10  
+1 Timoteo 1:10
 para los fornicarios, para los sodomitas, para los secuestradores, para los mentirosos y perjuros, y para cuanto se oponga a la sana doctrina
 
 Una simple lectura de las Escrituras y de estos pasajes nos da una conclusión clara: las Escrituras condenan la homosexualidad. Pero, entonces, ¿Cómo es posible que estas iglesias afirmen que la escritura ve positivamente la homosexualidad o las ideas LGTBIQ?
@@ -40,7 +40,7 @@ Una simple lectura de las Escrituras y de estos pasajes nos da una conclusión c
 Hablando con un pastor luterano y leyendo los argumentos de Reformation Project<sup>[^24134ce4-9ee5-4f2c-a62b-42a3815c77c7]</sup>, la razón principal para sostener este punto de vista es:
 
 > En los tiempos de Pablo las relaciones duraderas de amor monogamo homosexual no existian, por lo cual lo que condena la escritura es el tipo de relacion homosexual que existia en ese tiempo solamente: pederastia y abuso sexual. Por lo cual si Pablo hubiera conocido las parejas homosexuales, fieles y amorosas de hoy él las hubiera aceptado
-> 
+>
 > Pastor Luterano (ELCA) en EEUU
 
 Hay dos puntos clave de esta declaración para revisar:
@@ -54,19 +54,19 @@ Hay dos puntos clave de esta declaración para revisar:
 T. K. Hubbard en el libro “Percepciones populares de la homosexualidad de élite en la Atenas clásica” nos dice que normalmente cuando leemos sobre este tema hay una suposición básica sobre las relaciones sexuales entre hombres.
 
 > “Los hombres de Atenas en el siglo V a.C. no fueron juzgados por si tuvieron relaciones sexuales con otros hombres, sólo si fueron vistos como el penetrador o el penetrado”. De hecho, esta creencia se ha acercado al estatus de dogma en el discurso posfoucaultiano sobre la sexualidad antigua. Y como ocurre con muchos dogmas, está equivocado.
-> 
+>
 > Popular Perceptions of Elite Homosexuality in Classical Athens ([→](https://www.jstor.org/stable/20163707){target=blank})
 
 Si interpretamos los hechos históricos con esa suposición, rechazaremos toda evidencia histórica de parejas monógamas del mismo sexo como anecdótica, no real o simplemente inexacta. Y sólo tendremos una visión truncada de la historia, nada útil para entender los tiempos bíblicos.
 
 > De hecho, no había más consenso sobre la homosexualidad en la antigua Grecia y Roma que hoy. En estas culturas fuertemente orientadas al discurso, como en la nuestra, la disidencia sexual fue un punto de inflamación de la discordia ideológica.
-> 
+>
 > Homosexuality in Greece and Rome: A Sourcebook of Basic Documents - Varieties of Moral Judgment by Thomas Hubbard ([→](https://www.amazon.com/Homosexuality-Greece-Rome-Sourcebook-Documents-ebook/dp/B0C7PFH11T/){target=blank})
 
 Respecto a Roma:
 
 > A pesar de que las leyes romanas muestran un panorama de estricto control de las prácticas consideradas más abiertamente infamantes, entre los últimos años de la República y los primeros del Imperio la situación fue cambiando hacia una mayor flexibilización de estos límites, hasta un olvido casi completo de la _Lex Scantinia_ que, aunque siguió vigente, aparentemente no era en absoluto respetada. Se produjo una apertura y se volvieron mucho más visibles tanto las relaciones con muchachos que  no eran esclavos sino ciudadanos, como la existencia de adultos que asumían el rol pasivo y mostraban públicamente su afeminamiento. Las sátiras de Marcial y Juvenal constituyen el testimonio más ácido de esta realidad que se percibía cada vez más difundida y menos censurada. A tal punto, que hasta los mismos emperadores han podido obtener una reputación de amados pasivos. Esta nueva situación no podía dejar de notarse también en las provincias más orientales del Imperio y, en consecuencia, no podía resultar ajena a Filón, quien en su discurso dirige su crítica justamente hacia la evidente tolerancia y difusión del fenómeno en su contexto social contemporáneo. 
-> 
+>
 > La regulación de la sexualidad en Las leyes particulares de Filón de Alejandría, Laura Pérez. Pages 509-510 ([→](https://repositoriodigital.uns.edu.ar/handle/123456789/2690){target=blank})
 
 ## Relaciones homosexuales en la Grecia antigua
@@ -76,13 +76,13 @@ Empecemos con el contexto histórico y analizemos si el amor monogamo homosexual
 Platón escribió el "Simposio" (385-370 a. C.), un libro que aborda preguntas: qué es el amor; las relaciones a través del amor; qué tipos de amor son dignos de elogio; el propósito del amor, etc. Pausanias divide el amor en ordinario y celestial, atribuyendo este último a las relaciones masculinas exclusivamente homosexuales.
 
 > “Aquellos a quienes  \[el amor celestial\] inspira no aman más que al sexo masculino naturalmente más fuerte y más inteligente… No se sienten atraídos por una gran juventud, sino por jóvenes cuya inteligencia comienza a desenvolverse… Sería verdaderamente deseable que existiera una ley que prohibiera amar a mancebos demasiado jóvenes... El amor no es bello ni feo por sí mismo. Es bello si se ama obedeciendo a las leyes de la honorabilidad… Pero el amante de un alma bella permanece fiel toda la vida porque ama lo que es duradero”
-> 
+>
 > Symposium by Plato. Pages 12-17 ([→](https://www.elejandria.com/libro/el-banquete/platon/1682){target=blank})
 
 Aristófanes comenta:
 
 > “las mujeres que provienen de la separación de las mujeres primitivas no prestan gran atención a los hombres y más bien se interesan por las mujeres...  Los hombres primitivos buscan de igual manera el sexo masculino... Éstos hombres que pasan toda la vida juntos. .. encuentra tanta dulzura en vivir así... de tal manera que cesaréis de ser dos personas para no ser más que una y mientras viváis viviréis una vida común, como una sola persona, y cuando muráis estaréis unidos de tal manera que no seréis dos personas, sino también una sola”
-> 
+>
 > Symposium by Plato. Pages 24-25 ([→](https://www.elejandria.com/libro/el-banquete/platon/1682){target=blank})
 
 Vemos claramente que Platón describe las relaciones amorosas homosexuales monógamas de larga duración (no explotadoras, no coercitivas, del mismo estatus) como algo totalmente aceptable. Alguien puede objetar: “Es sólo un libro, eso no sucedió en la antigua Grecia”, pero sí sucedió allí.
@@ -90,7 +90,7 @@ Vemos claramente que Platón describe las relaciones amorosas homosexuales monó
 En Tebas, una ciudad vecina a Corintios (con quien tuvieron una alianza político-militar), se formó “El batallón sagrado de Tebas” una de las más famosas unidades militares de la antigüedad. Estaba conformada solamente por parejas homosexuales que se amaban, Plutarco explica:
 
 > Un vínculo que se mantiene unido por la amistad entre amantes es indisoluble y no debe romperse, ya que los amantes se avergüenzan de hacerse cobardes ante su amado, y el amado ante su amante, y ambos se mantienen firmes en el peligro para protegerse mutuamente..
-> 
+>
 > Plutarco, Pelopidas ( chapter 18 [→](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:abo:tlg,0007,021:18){target=blank})
 
 En Atenas, observadores como Jenofonte observaron que los amantes varones entre los beocios (un grupo étnico que incluía a los tebanos) vivían juntos “como compañeros de yugo”, una metáfora utilizada para referirse al matrimonio. Aristóteles, en una obra ahora perdida pero citada por Plutarco, describió cómo las parejas masculinas se juraban fidelidad entre sí junto a las tumbas de Heracles y Yolao (en Tebas), una pareja de héroes míticos que la mayoría de los griegos sabían que habían sido compañeros sexuales<sup>[^813ae4bd-a33f-452d-b216-a756816d0703]</sup>.
@@ -103,7 +103,7 @@ Pero, hablando con un amigo al respecto, me dijo que las leyes levíticas no son
 
 Para no alargar tanto este artículo. Me referiré sólo a 1 Corintios 6:9, porque Corintios está en Grecia, muy cerca de Tebas, culturalmente similar y podemos ver la ley levítica siendo utilizada por Pablo.
 
-1 Corintios 6:9  
+1 Corintios 6:9
 ¿No sabéis que los injustos no heredarán el reino de Dios? No erréis; ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados (**_malakoi_**), ni los que se echan con varones (**_arsenokoitai_**)
 
 La palabra _malakoi_ significa “[afeminado](https://biblehub.com/greek/3120.htm){target=blank}”_._ La explicación de las iglesias progresivas es que esa palabra significa “falta de autocontrol, debilidad, cobardía, y pereza” (En cualquier caso, esto causa problema a las escrituras, ya que Pablo sería machista patriarcal, usa el ser femenino - a las mujeres - como algo malo).
@@ -113,13 +113,13 @@ Pero, ¿Qué significa? ¿Cómo lo sabemos? ¿Cuando un judio usaba _malakoi_ a 
 P. Peréz<sup>[^cite_perez_malakoi]</sup> y R. Gagnon<sup>[^cite_gagnon_malakoi]</sup> notan que _Malakoi_ es usado dos veces por el judio Filón de Alejandría<sup>[^c4abb188-7032-4095-8ea3-fff888119295]</sup> en su libro titulado “Leyes Especiales” (3:37-42) en el contexto de hombres que visten como mujeres para satisfacer a sus amantes.
 
 > acostumbrados a soportar la aflicción de ser tratados como mujeres, se consumen tanto en el alma como en el cuerpo, no llevando a su alrededor una sola chispa de carácter varonil para encenderla en llamas, pero teniendo incluso el cabello de sus cabezas visiblemente rizado y adornado, y sus caras pintadas con bermellón, pintura y cosas de esa clase, y teniendo sus ojos pintados debajo, y con la piel ungida con perfumes fragantes (pues en personas como éstas un olor dulce es una cualidad sumamente seductora), y estando bien preparados en todo lo que tiende a la belleza o la elegancia, no se avergüenzan de dedicar su constante estudio y se esfuerza en la tarea de cambiar su carácter varonil por uno afeminado… algunas de estas personas incluso han llevado su admiración por estos delicados placeres de la juventud hasta el punto de querer cambiar totalmente su condición por la de mujeres, y se han castrado y se han vestido con ropas de púrpura
-> 
+>
 > The Works of Philo - The special laws 3:37-42 ([→](https://www.earlychristianwritings.com/yonge/book29.html){target=blank})
 
 Además, del contexto histórico por este judio podemos leer el contexto del libro de Corintios. Pablo se refiere a algo similar sin usar la palabra _malakoi._ En 1 Corintios 11 respecto al velo (un elemento femenino que daba status a la mujer<sup>[^baf54aec-7ace-43c8-a480-a79825653ede]</sup>) Pablo dice:
 
 > Todo varón que ora o profetiza con la cabeza cubierta, afrenta su cabeza… Porque el varón no debe cubrirse la cabeza, pues él es imagen y gloria de Dios; pero la mujer es gloria del varón.
-> 
+>
 > 1 Corintios 11:4-7
 
 Pablo está aplicando Deuteronomio 22:5
@@ -135,11 +135,11 @@ Con esto se concluye claramente que Pablo está citando la ley Levítica. Aunque
 En el capítulo 5 Pablo condena a la iglesia por sentirse orgullosa de tener una una persona que tenía una relación con su madrastra. La pregunta es ¿De dónde obtuvo Pablo que la relación es pecaminosa? ¿Al final son dos adultos que se aman? Pablo lo sabe porque está aplicando
 
 > La desnudez de la mujer de tu padre no descubrirás; es la desnudez de tu padre.
-> 
+>
 > Levítico 18:8
 
 > Cualquiera que yaciere con la mujer de su padre, la desnudez de su padre descubrió; ambos han de ser muertos; su sangre será sobre ellos
-> 
+>
 > Levítico 20:11
 
 Entonces, Pablo aplica la ley de Dios en Levítico 18 y 20 en 1 Corintios 5. Sería extraño concluir que no aplica la misma ley en 1 Corintios 6:9 cuando también usa las mismas palabras y los mismos capítulos de Levítico. Además, el uso que hace Pablo de los capítulos de Levítico hace que esas leyes (Levítico 18:22; 20:13) sean vinculantes para los cristianos ahora, incluso si no creemos que _arsenokoitai_ sea una cita de esas leyes.
@@ -161,7 +161,7 @@ La Escritura muestra claramente que está prohibido que un cristiano tenga relac
 En contraste, la iglesia primitiva obedeció las Escrituras en este tema. Podemos leer a Clemente de Alejandría, un padre de la iglesia de los siglos II y III.
 
 > Los hombres desempeñan el papel de mujeres y las mujeres el de hombres, contrariamente a la naturaleza; las mujeres son a la vez esposas y maridos: ningún paso está cerrado a la libidinosa; y su promiscua lascivia es una institución pública, y el lujo está domesticado. ¡Oh espectáculo miserable! ¡Horrible conducta!
-> 
+>
 > The Paedagogus. Chapter 3. Against Men Who Embellish Themselves ([→](https://www.newadvent.org/fathers/02093.htm){target=blank})
 
 Pero las iglesias progresistas modernas dicen que Clemente tiene una visión distópica de la realidad, porque si hay evidencia contraria a sus presuposiciones, esas no pueden ser válidas. En contraste, la iglesia primitiva fue perseguida, encarcelada y martirizada por la alteración del comportamiento sexual y económico, debido a la fidelidad a la doctrina cristiana.

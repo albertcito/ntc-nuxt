@@ -1,9 +1,9 @@
 ---
 title: "Cherem en la historia bíblica"
 date: 2022-02-02
-categories: 
+categories:
   - "teologia"
-tags: 
+tags:
   - "antiguo-testamento"
   - "cherem"
   - "joel-mcdurmon"
@@ -92,4 +92,4 @@ En la providencia de Dios, esto fue simplemente el comienzo de una fase de trans
 
 * * *
 
-Está publicación es parte de [Cherem en la ley Biblica](/articles/cherem-en-la-ley-biblica).
+Está publicación es parte de [Cherem en la ley Biblica](/articulos/cherem-en-la-ley-biblica).

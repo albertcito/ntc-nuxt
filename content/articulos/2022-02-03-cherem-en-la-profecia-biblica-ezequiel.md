@@ -34,4 +34,4 @@ Estos cambios en la tierra santa y especialmente en el lugar santísimo también
 
 * * *
 
-Este artículo es parte de [Cherem en la profecia Biblica](/articles/cherem-en-la-profecia-biblica).
+Este artículo es parte de [Cherem en la profecia Biblica](/articulos/cherem-en-la-profecia-biblica).

@@ -1,10 +1,10 @@
 ---
 title: "El argumento de la verdad de Gordon Clark"
 date: 2023-06-03
-categories: 
+type: 'article'
+categories:
   - "apologetica"
-  - "featured"
-tags: 
+tags:
   - "apologetica"
   - "gordon-clark"
   - "ronald-nash"
@@ -41,7 +41,7 @@ La explicación de Gordon Clark del argumento de la verdad utiliza seis pasos:
 4\. “**La verdad es mental**”. La existencia de la verdad presupone la existencia de las mentes. “Sin una mente, la verdad no podría existir. El objeto del conocimiento es una proposición, un sentido, una significación; es un pensamiento.” Para Clark, la existencia de la verdad es incompatible con cualquier visión materialista del hombre. Si el materialista admite la existencia de la conciencia, la considera como un efecto y no como una causa. Para un materialista, los pensamientos son siempre el resultado de cambios corporales. Este materialismo implica que todo pensamiento, incluido el razonamiento lógico, es meramente el resultado de una necesidad mecánica. Pero los cambios corporales no pueden ser ni verdaderos ni falsos. Un conjunto de movimientos físicos no puede ser más cierto que otro. Por lo tanto, si no hay mente, no puede haber verdad; y si no hay verdad, el materialismo no puede ser verdad. Asimismo, si no hay mente, no puede haber tal cosa como un razonamiento lógico del que se siga que ningún materialista puede proporcionar un argumento válido para su posición. No se puede dar ninguna razón para justificar la aceptación del materialismo. Por lo tanto, para Clark, cualquier negación de la naturaleza mental de la verdad es un autoengaño. En palabras de Clark:
 
 > Si una verdad, una proposición o un pensamiento fueran algún movimiento físico en el cerebro, dos personas no podrían tener el mismo pensamiento. Un movimiento físico es un evento fugaz numéricamente distinto de todos los demás. Dos personas no pueden tener el mismo movimiento, ni una persona puede tenerlo dos veces. Si esto fuera el pensamiento, la memoria y la comunicación serían imposibles... Es una peculiaridad de la mente y no del cuerpo que el pasado pueda hacerse presente. En consecuencia, si uno puede pensar el mismo pensamiento dos veces, la verdad debe ser mental o espiritual. No solo \[la verdad\] desafía al tiempo; también desafía el espacio, porque para que la comunicación sea posible, la misma verdad debe estar en dos mentes a la vez. Si, por el contrario, alguien quisiera negar que una idea inmaterial pueda existir en dos mentes a la vez, su negación debe concebirse como que existe sólo en su propia mente;
-> 
+>
 > Gordon Clark
 
 Para resumir el argumento de Clark hasta el momento, la verdad existe y es eterna e inmutable. Además, la verdad sólo puede existir en alguna mente.

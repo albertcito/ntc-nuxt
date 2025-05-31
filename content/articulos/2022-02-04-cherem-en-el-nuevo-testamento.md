@@ -2,7 +2,6 @@
 title: "Cherem en el Nuevo Testamento"
 date: 2022-02-04
 categories: 
-  - "featured"
   - "teologia"
 tags: 
   - "cherem"
@@ -41,11 +40,11 @@ El principio cherem continúa en el Nuevo Testamento, pero con las condiciones m
 
 Con respecto al término cherem mismo, el Nuevo Testamento recoge el término equivalente de la LXX (Antiguo Testamento griego), anatema. Se usa con moderación, pero lo suficiente como para tener la sensación de que la práctica israelita post-exilio continuó. Como veremos, esto es por una razón similar, pero un ejemplo mucho más poderoso de ello.
 
-- [Textos de Cherem/Anathema en el Nuevo Testamento](/articles/el-significado-de-cherem-en-el-nuevo-testamento)
-- [La teología bíblica del Nuevo Testamento y el santísimo](/articles/la-teologia-biblica-del-nuevo-testamento-y-el-santisimo)
-- [Ciertas expresiones](/articles/ciertas-expresiones)
-- [Otras expresiones](/articles/otras-expresiones)
-- [El significado de cherem en el Nuevo Testamento](/articles/el-significado-de-cherem-en-el-nuevo-testamento)
+- [Textos de Cherem/Anathema en el Nuevo Testamento](/articulos/el-significado-de-cherem-en-el-nuevo-testamento)
+- [La teología bíblica del Nuevo Testamento y el santísimo](/articulos/la-teologia-biblica-del-nuevo-testamento-y-el-santisimo)
+- [Ciertas expresiones](/articulos/ciertas-expresiones)
+- [Otras expresiones](/articulos/otras-expresiones)
+- [El significado de cherem en el Nuevo Testamento](/articulos/el-significado-de-cherem-en-el-nuevo-testamento)
 
 ## Conclusion
 

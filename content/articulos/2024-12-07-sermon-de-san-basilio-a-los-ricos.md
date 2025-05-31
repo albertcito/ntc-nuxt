@@ -1,16 +1,17 @@
 ---
 title: "Sermón de San Basilio a los ricos"
 date: 2024-12-07
-categories: 
-  - "featured"
-tags: 
+type: 'article'
+categories:
+  - "historia"
+tags:
   - "basilio-el-grande"
 image:
   src: sermon-de-San-Basilio-a-losricos.jpg
 ---
 
 > Entonces vino uno y le dijo: Maestro bueno, ¿qué bien haré para tener la vida eterna? Él le dijo: ¿Por qué me llamas bueno? Ninguno hay bueno sino uno: Dios. Mas si quieres entrar en la vida, guarda los mandamientos. Le dijo: ¿Cuáles? Y Jesús dijo: No matarás. No adulterarás. No hurtarás. No dirás falso testimonio.  Honra a tu padre y a tu madre; y, Amarás a tu prójimo como a ti mismo. El joven le dijo: Todo esto lo he guardado desde mi juventud. ¿Qué más me falta? Jesús le dijo: Si quieres ser perfecto, anda, vende lo que tienes, y dalo a los pobres, y tendrás tesoro en el cielo; y ven y sígueme. Oyendo el joven esta palabra, se fue triste, porque tenía muchas posesiones.
-> 
+>
 > Mateo 19:16-22
 
 Anteayer oímos hablar de este joven y, si habéis escuchado con atención, ahora deberíais recordar lo que entonces estábamos examinando. En primer lugar, que no se trata del mismo intérprete de la ley del que habla Lucas (Lc 10,25). Pues aquel era un tentador que preguntaba con insinceridad; pero éste pregunta con sensatez, aunque no acepta la respuesta con una obediencia pronta. Pues no se habría marchado triste después de recibir tal respuesta del Señor si hubiera planteado sus preguntas con cinismo al principio. Por tanto, nos pareció que la conducta de este hombre era confusa: en parte loable, como muestra el pasaje, y en parte miserable y totalmente desesperada. Porque conocer al verdadero Maestro y, haciendo caso omiso de las posturas de los fariseos, de la opinión de los intérpretes de la ley y de la multitud de escribas, atribuir este nombre a aquel que es el único Maestro verdadero y bueno, es digno de alabanza. Y además es digno de consideración el preocuparse por cómo se hereda la vida eterna: esto también debe aceptarse. Pero lo que de hecho demuestra que su intención no era buscar lo que es verdaderamente bueno, sino sólo curiosear en busca de lo que agradaría a la multitud, es esto: cuando hubo aprendido del verdadero Maestro verdades salvadoras, no las escribió en su corazón ni las puso en práctica, sino que se fue deprimido, nublado por una educación en la avaricia. Esto demuestra una vez más inconsistencia moral y autocontradicción. ¿Le llamas maestro y no haces sus lecciones? ¿Reconoces que es bueno y tiras a la basura lo que te da? Pero, sin duda, el que es bueno proporciona cosas buenas; esto es obvio. Aunque lo que pides es la vida eterna, das pruebas de estar completamente adicto al disfrute de esta vida presente. Después de todo, ¿Qué es esta palabra dura, pesada y gravosa que el maestro ha propuesto? "Vende lo que tienes y dáselo a los pobres". Si te hubiera impuesto trabajos agrícolas, o arriesgadas empresas comerciales, o tantas otras molestias que son incidentales a la vida de los ricos, entonces habrías tenido motivo de tristeza, tomando mal la orden; pero cuando te llama por un camino tan fácil, sin trabajo ni sudor, para demostrar que eres heredero de la vida eterna, no te alegras por la facilidad de la salvación, sino que te vas con el corazón afligido y de luto, haciendo inútil para ti todo lo que habías trabajado antes. Porque si, como dices, no has asesinado, ni cometido adulterio, ni robado, ni has dado falso testimonio contra alguien, haces que tales esfuerzos sean inútiles para ti cuando no agregas lo restante, por el cual podrías ser capaz de entrar en el reino de Dios. Y si un médico te hubiera dicho que podía curarte por completo de alguna deformidad física que tuvieras por naturaleza o enfermedad, ¿no lo habrías escuchado de buena gana? Pero cuando el gran Médico de las almas desea sanarte de tus deficiencias en las cosas que más importan, no aceptas el favor, sino que te lamentas y pones cara triste.

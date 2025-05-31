@@ -1,10 +1,10 @@
 ---
 title: "El Naturalismo: Una Falacia de Autonomía"
 date: 2022-03-07
-categories: 
+type: 'article'
+categories:
   - "apologetica"
-  - "featured"
-tags: 
+tags:
   - "apologetica"
   - "joel-mcdurmon"
   - "naturalismo"
@@ -31,7 +31,7 @@ Esto muestra que incluso los propios criterios de juicio del naturalista – es 
 Jesús habla de tal problema con los incrédulos. En la parábola del rico y Lázaro (Lucas 16:19-31), Jesús enseña sobre un rico que ignoró a Dios durante su vida, y quien después de la muerte se halla sufriendo en el infierno. Gritándole a lo lejos a Abraham, el hombre rogó que se enviara a alguien para advertirles a sus hermanos del tormento que les esperaba. El diálogo que sigue conlleva una lección importante acerca de las limitaciones de la evidencia milagrosa:
 
 > “Y Abraham le dijo: A Moisés y a los profetas tienen; óiganlos. Él entonces dijo: No, padre Abraham; pero si alguno fuere a ellos de entre los muertos, se arrepentirán. Mas Abraham le dijo: Si no oyen a Moisés y a los profetas, tampoco se persuadirán aunque alguno se levantare de los muertos.”
-> 
+>
 > Lucas 16:29-31
 
 Según Abraham, un hombre no conmovido por el poder sobrenatural de la palabra de Dios también seguirá sin ser conmovido por las intervenciones sobrenaturales en la naturaleza, incluso tan drásticas como una resurrección. La evidencia no los conmoverá, pues su compromiso fundamental no es con la naturaleza, sino contra el Dios Creador Personal.
@@ -86,20 +86,20 @@ Por lo tanto, este entendimiento del naturalismo expone el hecho que, a pesar de
 
 Así que, hemos visto que el naturalismo descansa en nociones no comprobadas con respecto a la naturaleza (ni siquiera la naturaleza en sí) para poder sostener su cosmovisión. Estas nociones hacen inútil casi cualquier crítica o contradicción de la posición dado que el naturalista reinterpretará aún la evidencia más excepcional contra su perspectiva como algo que se ajusta en su visión. De modo que, la única manera de confrontar al naturalista es atacar el carácter defectuoso de la noción que ha asumido desde el principio – exponer las falacias de la noción en sí. Finalmente, reconocemos que sus nociones arbitrarias y su tratamiento inconsistente de la evidencia señalan ambas al subjetivismo inherente en su cosmovisión: su cosmovisión se origina y termina con su propia mente y no conlleva ninguna autenticidad o autoridad adicionales. A partir de aquí nos movemos de su autoridad falaz para ver sus efectos falaces en la totalidad de la vida.
 
-1\. Por ejemplo, ver las obras de Robert Morey, Walter Martin, Hank Hanegraaff, Ravi Zacharias, James White y muchos otros.  
-2\. Daniel C. Dennett, Darwin’s Dangerous Idea: Evolution and the Meanings of Life (New York: Simon and Schuster, 1995), 74. 
-3\. Daniel C. Dennett, Darwin’s Dangerous Idea, 74. 
-4\. Daniel C. Dennett, Darwin’s Dangerous Idea, 75. 
-5\. Daniel C. Dennett, Darwin’s Dangerous Idea, 75. 
-6\. Daniel C. Dennett, Darwin’s Dangerous Idea, 76. 
-7\. Richard Dawkins, The God Delusion (Boston and New York: Houghton Miffin, Co., 2006), 155. 
-8\. Richard Dawkins, The God Delusion (Boston and New York: Houghton Miffin, Co., 2006), 156. 
-9\. Richard Dawkins, The God Delusion, 73. 
-10\. Richard Dawkins, Período de preguntas y respuestas luego de la lectura de un libro en la Randolph Macon Woman’s University, Lynchburg, VA, Octubre 23, 2006. 
-11\. Richard Dawkins, Período de preguntas y respuestas luego de la lectura de un libro en la Randolph Macon Woman’s University, Lynchburg, VA, Octubre 23, 2006. 
-12 Richard Dawkins, The God Delusion, 158. 
-13\. Ver [American Humanist Manifiesto II](http://www.americanhumanist.org/who_we_are/about_humanism/Humanist_Manifesto_II){target=blank} (visitado el 24 de marzo de 2009).  
-14\. Ver [American Humanist Manifiesto II](http://www.americanhumanist.org/who_we_are/about_humanism/Humanist_Manifesto_II){target=blank} (visitado el 24 de marzo de 2009).  
-15\. Richar Carrier, Sense and Goodness Without God: A Defense of Metaphysical Naturalism (Bloomington, IN: AuthorHouse, 2005), 67. 
-16\. Richar Carrier, Sense and Goodness Without God, 67-68. 
+1\. Por ejemplo, ver las obras de Robert Morey, Walter Martin, Hank Hanegraaff, Ravi Zacharias, James White y muchos otros.
+2\. Daniel C. Dennett, Darwin’s Dangerous Idea: Evolution and the Meanings of Life (New York: Simon and Schuster, 1995), 74.
+3\. Daniel C. Dennett, Darwin’s Dangerous Idea, 74.
+4\. Daniel C. Dennett, Darwin’s Dangerous Idea, 75.
+5\. Daniel C. Dennett, Darwin’s Dangerous Idea, 75.
+6\. Daniel C. Dennett, Darwin’s Dangerous Idea, 76.
+7\. Richard Dawkins, The God Delusion (Boston and New York: Houghton Miffin, Co., 2006), 155.
+8\. Richard Dawkins, The God Delusion (Boston and New York: Houghton Miffin, Co., 2006), 156.
+9\. Richard Dawkins, The God Delusion, 73.
+10\. Richard Dawkins, Período de preguntas y respuestas luego de la lectura de un libro en la Randolph Macon Woman’s University, Lynchburg, VA, Octubre 23, 2006.
+11\. Richard Dawkins, Período de preguntas y respuestas luego de la lectura de un libro en la Randolph Macon Woman’s University, Lynchburg, VA, Octubre 23, 2006.
+12 Richard Dawkins, The God Delusion, 158.
+13\. Ver [American Humanist Manifiesto II](http://www.americanhumanist.org/who_we_are/about_humanism/Humanist_Manifesto_II){target=blank} (visitado el 24 de marzo de 2009).
+14\. Ver [American Humanist Manifiesto II](http://www.americanhumanist.org/who_we_are/about_humanism/Humanist_Manifesto_II){target=blank} (visitado el 24 de marzo de 2009).
+15\. Richar Carrier, Sense and Goodness Without God: A Defense of Metaphysical Naturalism (Bloomington, IN: AuthorHouse, 2005), 67.
+16\. Richar Carrier, Sense and Goodness Without God, 67-68.
 17\. Richar Carrier, Sense and Goodness Without God, 68.

@@ -1,10 +1,10 @@
 ---
 title: "Una respuesta histórico-teológica a la pregunta de John Piper ¿Qué es la fe salvadora?"
 date: 2023-12-01
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "evangelio"
   - "fe-sola"
   - "john-piper"
@@ -22,9 +22,9 @@ El pastor y teólogo John Piper ha publicado recientemente su libro ¿Qué es la
 En su respuesta más reciente a la reseña de su libro realizada por Harrison Perkins en [TGC](https://www.thegospelcoalition.org/article/john-piper-response-faith/){target=blank}, Piper cita a Juan Calvino como un ejemplo de alguien que incluye los afectos como parte de la fe: "En una palabra, la fe es. . . un cálido abrazo de Cristo. Incluso el aspecto de la fe llamado asentimiento… consiste en un afecto piadoso." Este es un ejemplo de la forma inexacta en la que Piper cita los textos, ya que Piper no se da cuenta de que Calvino no está hablando aquí de la fe justificadora sino santificadora:
 
 > Y como sobre esto no es posible duda alguna, concluyo en resumen, que los que afirman que la fe es formada cuando le sobreviene cualquier buen afecto, no hacen más que decir desatinos, puesto que semejante asentimiento no puede darse sin buena disposición afectiva; por lo menos como la Escritura lo muestra.
-> 
+>
 > Pero existe aún otro argumento más claro. Corno quiera que la fe llega a Jesucristo, según el Padre nos lo presenta, y El no nos es presentado únicamente para justicia, remisión de los pecados y reconciliación, sino también para santificación y fuente de agua viva, nadie podrá jamás conocerlo y creer en Él como debe, sin que alcance a la vez la santificación del Espíritu. O bien, de una manera más clara: La fe se funda en el conocimiento de Cristo, y Cristo no puede ser conocido sin la santificación de su Espíritu; por tanto se sigue que de ninguna manera se puede separar la fe de la buena disposición afectiva.
-> 
+>
 > Juan Calvino, Institución de la Religión Cristiana [III.ii.8](http://www.iglesiareformada.com/Calvino_Institucion_3_2.html){target=blank}.
 
 De hecho, Calvino es muy claro en que la fe produce amor y discrepa con Peter Lombard, quien afirma que el amor tiene prioridad sobre la fe: “Porque lo que dicen los escolásticos sobre la prioridad del amor sobre la fe y la esperanza es un mero sueño (ver Enviados .III.xxv, &c.) ya que es sólo la fe la que engendra primero el amor.”<sup>[^c0b15c2b-b352-483a-ba45-55c364b5dd46]</sup>
@@ -32,7 +32,7 @@ De hecho, Calvino es muy claro en que la fe produce amor y discrepa con Peter Lo
 Calvino también es explícito al delimitar entre el papel de la fe en la justificación y la santificación, cuando explica Gálatas 5:6, “porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión, sino la fe que obra por el amor”:
 
 > Con respecto al presente pasaje, Pablo no discute si el amor coopera con la fe en la justificación; pero, para evitar la apariencia de representar a los cristianos como ociosos y parecidos a bloques de madera, señala cuáles son los verdaderos ejercicios de los creyentes. Cuando estéis ocupados en discutir la cuestión de la justificación, guardaos de permitir que se haga mención alguna del amor o de las obras, pero adhiérete resueltamente a la partícula exclusiva. Pablo no trata aquí la justificación ni asigna ninguna parte de su alabanza al amor. Si lo hubiera hecho, el mismo argumento probaría que la circuncisión y las ceremonias, en un período anterior, tenían cierta participación en la justificación del pecador. Así como en Cristo Jesús encomia la fe acompañada de amor, así antes de la venida de Cristo se requerían ceremonias. Pero esto no tiene nada que ver con obtener la justicia, como lo permiten los propios papistas.
-> 
+>
 > Juan Calvino. Comentario a las epistolas de Pablo a Galatas y Efesios.
 
 ## Owen
@@ -40,7 +40,7 @@ Calvino también es explícito al delimitar entre el papel de la fe en la justif
 Un patrón similar se desarrolla con la cita de Piper sobre Owen en su respuesta a Perkins. Piper hace la siguiente cita: “\[La fe\] es recibir al Señor Jesús en su hermosura y eminencia. . . Recibímoslo en todas sus excelencias, . . . comparándolo con otros amados,. . . y prefiriéndolo a él antes que a ellos, considerándolos todos pérdida y estiércol en comparación con él”.<sup>[^7e513dbb-5176-407f-9af5-e25ee8b894d4]</sup> Una vez más, el contexto de esta declaración es crucial para comprender lo que Owen está diciendo. Dentro del corpus más amplio de Owen, él es muy claro acerca de la naturaleza de la fe justificadora. En su escrito _La Doctrina de la Justificación por la Fe_, Owen apunta a la visión católica romana: “Otros abogan por que la obediencia, la caridad y el amor de Dios sean incluidos en la naturaleza de la fe; pero no afirmemos directamente que esta obediencia es la forma de la fe, sino lo que pertenece a su perfección, ya que es justificante.”<sup>[^c7745393-63cf-4ae6-8470-d126824a6022]</sup> ¿Cuál es, entonces, el contexto de la cita de Owen por parte de Piper? Cita a Owen de su Comunión, donde el contexto no es la justificación sino la comunión con Cristo:
 
 > Cuando el alma consiente en tomar a Cristo en sus propios términos, para salvarlo a su manera, y dice: “Señor, te hubiera tenido a ti y a la salvación en mi camino, para que fuera en parte de mis esfuerzos, y como fueron por las obras de la ley; Ahora estoy dispuesto a recibirte y ser salvo en tu camino, simplemente por gracia; y aunque hubiera caminado según mi propia mente, ahora me entrego por completo a ser gobernado por tu Espíritu: porque en ti tengo Yo justicia y fuerza, en ti soy justificado y me glorío”; - entonces mantiene la comunión con Cristo en cuanto a la gracia de su persona. Esto es recibir al Señor Jesús en su hermosura y eminencia. Que los creyentes ejerciten abundantemente sus corazones para esto. Ésta es la comunión selecta con el Hijo Jesucristo.
-> 
+>
 > John Owen, De la comunión con Dios Padre, Hijo y Espíritu Santo, en The Works of John Owen, vol. 2, ed. William H. Goold (1850-53; Edimburgo: Banner of Truth, 1997), 58-59.
 
 Owen pasa de la justificación a la comunión, que es “recibir al Señor Jesús en su hermosura y eminencia”. Por lo tanto, el amor no es, como afirma Piper, lo que es la fe. Más bien, es fruto de una fe justificadora.
@@ -64,7 +64,7 @@ En su libro, Piper defiende la “naturaleza afectiva de la fe salvadora” porq
 En opinión de Piper, el quinto acto de Turretin es el más importante porque es el acto mediante el cual los pecadores abrazan a Cristo y lo reconocen como un “bien supremo ofrecido y un tesoro inestimable”. Piper comenta:
 
 > Si Turretin tiene razón, comprenderás por qué tengo tantas ganas de escribir este libro. ¿Qué significa ser cristiano? Significa creer en Cristo, no simplemente por la decisión de afirmar que Cristo puede rescatarnos del infierno y hacer que nuestro futuro se parezca más a un campo de golf que a un incendio forestal. Eso no es fe salvadora. Convertirse en cristiano, ser justificado y finalmente salvo, es “abrazar a Cristo”. ¡Abrazar!
-> 
+>
 > Piper, _Saving Faith_, 63.
 
 La exposición que hace Piper de la visión de Turretin es precisa, en sí misma, pero da una comprensión errónea del significado del argumento de Turretin. En otras palabras, sí, dice Turretin, las personas abrazan a Cristo por la fe y lo reciben como un tesoro. Sin embargo, Piper ignora otros puntos importantes que plantea Turretin y malinterpreta las declaraciones de Turretin para que se ajusten a su propio punto de vista. Tres puntos revelan el error de Piper.
@@ -80,7 +80,7 @@ En tercer lugar, Piper pasa por alto las importantes distinciones de Turretin, p
 Cuando Piper recurre a Edwards, cree que tiene una de sus pruebas más sólidas. Piper cita los comentarios de Edwards sobre 1 Juan 5:1-4: “‘El amor \[a Dios\] es lo principal en la fe salvadora.’ ¡Lo principal! ¿De verdad? Edwards no es el tipo de pensador que podemos descartar fácilmente”<sup>[^df43bbac-3640-49b2-843b-c958a696b6f8]</sup>. En su exposición de 1 Juan 5:1-4, Piper afirma que “en la mente de Juan, la fe salvadora incluye la dimensión afectiva de amar a Dios. . . . No digo que la fe en Cristo y el amor a Dios sean _idénticos_. Estoy diciendo que la fe salvadora es una combinación de diferentes maneras en que el alma nacida de nuevo recibe a Cristo”. Pero Piper estipula: “No llego tan lejos como Jonathan Edwards en su conclusión de este texto, aunque puede que tenga razón”<sup>[^ce3f2872-201a-4b1d-8e22-ac74426d3650]</sup>. Piper luego cita la explicación de Edwards: “Este \[v. 4\] está explicando lo que había dicho antes \[v. 3\], que nuestro amor a Dios nos permite superar las dificultades que conlleva guardar los mandamientos de Dios; lo cual muestra que _el amor es lo principal en la fe salvadora, la vida y el poder de la misma_, por el cual produce sus grandes efectos”<sup>[^fb1501ba-a96f-4e75-ab54-9626c18acc0b]</sup>. Piper es consciente de que Edwards era “demasiado independiente y idiosincrásico en sus puntos de vista”, y que su doctrina de la justificación “es una de sus posiciones más conflictivas”<sup>[^0226e439-4335-4b23-b8ac-c1e5d268a460]</sup>. También reconoce que es discutible si debemos decir que el amor es lo principal en la fe salvadora<sup>[^1ea352b3-99e4-4f1e-b697-90c052bc497a]</sup>. Sin embargo, sin dudas, Piper concluye:
 
 > Edwards está diciendo (y en esto estoy de acuerdo) que la razón por la que la fe que justifica tiene este efecto extraordinario de producir siempre el fruto de la santidad (Heb. 12:14) no es sólo que aquellos que son justificados por la fe han nacido de nuevo y reciben el Espíritu Santo, pero también que la fe justificadora es en sí misma de tal naturaleza que vence el deseo del mundo por el pecado y transforma los pesados mandamientos en felices corredores de obediencia. Y l_o hace porque en él está el amor a Dios como algo sumamente valioso y satisfactorio_
-> 
+>
 > Piper, Saving Faith, 195, énfasis añadido.
 
 En otras palabras, Piper puede negarse a decir que el amor “es lo principal en la fe salvadora”, pero está de acuerdo con Edwards en que la fe contiene amor. A diferencia de su apelación reformulada a Turretin, aquí Piper entiende correctamente a Edwards incluso si se aleja de la descripción de Edwards. Sin embargo, donde Piper falla es en no profundizar lo suficiente en la visión de Edwards para comprender por qué caracteriza el amor como “lo principal para salvar la fe, su vida y su poder”<sup>[^94c88e65-851a-4deb-be40-6b6c8e0301b1]</sup>.

@@ -30,4 +30,4 @@ Por lo tanto, el fragmento de Muratorian se erige como un recordatorio de dos he
 
 * * *
 
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articles/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).
+De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

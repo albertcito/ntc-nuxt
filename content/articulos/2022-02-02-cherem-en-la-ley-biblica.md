@@ -2,7 +2,6 @@
 title: "Cherem en la ley Biblica"
 date: 2022-02-02
 categories: 
-  - "featured"
   - "teologia"
 tags: 
   - "antiguo-testamento"
@@ -27,15 +26,15 @@ Por tanto, hay dos variedades de cherem: voluntario y obligatorio. Cuando Dios d
 
 ## Aplicaciones de cherem en la jurisprudencia
 
-Las leyes de casos bíblicos que involucran a cherem aparecen tanto en aplicaciones normativas como especiales, aunque están relacionadas por el mismo principio subyacente. Por “normativo” me refiero a normativo para Israel bajo la ley mosaica. Las aplicaciones especiales se refieren a la conquista cananea y otros casos irrepetibles construidos, como veremos, sobre la ley cherem, pero especialmente revelados por Dios. [Leer sección completa](/articles/cherem-en-la-ley-aplicaciones-de-cherem-en-la-jurisprudencia).
+Las leyes de casos bíblicos que involucran a cherem aparecen tanto en aplicaciones normativas como especiales, aunque están relacionadas por el mismo principio subyacente. Por “normativo” me refiero a normativo para Israel bajo la ley mosaica. Las aplicaciones especiales se refieren a la conquista cananea y otros casos irrepetibles construidos, como veremos, sobre la ley cherem, pero especialmente revelados por Dios. [Leer sección completa](/articulos/cherem-en-la-ley-aplicaciones-de-cherem-en-la-jurisprudencia).
 
 ## "Guerra Santa" (pero también de objetos)
 
-El área de la ley cherem que ha atraído la mayor atención de los eruditos modernos es su relevancia para la desheredación de las tribus cananeas de Tierra Santa, el llamado “genocidio cananeo”. Se han escrito libros enteros sobre este aspecto durante décadas, algunos por destacados teólogos académicos del Antiguo Testamento y de la Sistemática, seculares, liberales y conservadores. Existe una actividad saludable que trata al cherem como un área de apologética. Los evangélicos modernos y conservadores, los católicos romanos y algunos eruditos judíos encuentran la necesidad de defender la eliminación de las “siete tribus” contra los ataques a la ética del Antiguo Testamento. Entre otros, existe una sólida discusión en torno a la teología bíblica de la violencia, entre otras cosas. La mayor parte de esto ha surgido directamente del estudio de cherem como un fenómeno de “guerra santa”. [Leer sección completa](/articles/pero-tambien-de-objetos).
+El área de la ley cherem que ha atraído la mayor atención de los eruditos modernos es su relevancia para la desheredación de las tribus cananeas de Tierra Santa, el llamado “genocidio cananeo”. Se han escrito libros enteros sobre este aspecto durante décadas, algunos por destacados teólogos académicos del Antiguo Testamento y de la Sistemática, seculares, liberales y conservadores. Existe una actividad saludable que trata al cherem como un área de apologética. Los evangélicos modernos y conservadores, los católicos romanos y algunos eruditos judíos encuentran la necesidad de defender la eliminación de las “siete tribus” contra los ataques a la ética del Antiguo Testamento. Entre otros, existe una sólida discusión en torno a la teología bíblica de la violencia, entre otras cosas. La mayor parte de esto ha surgido directamente del estudio de cherem como un fenómeno de “guerra santa”. [Leer sección completa](/articulos/pero-tambien-de-objetos).
 
 ## Cherem en la historia bíblica
 
-Cherem aparece en muchos lugares en los libros históricos del Antiguo Testamento. Debemos tener algo de cuidado al reconocer que, si bien la palabra de Dios y los límites de Dios son claros, a veces las personas no ejecutan las leyes de Dios de manera completa o fiel. Sin embargo, también suelen hacerlo. [Leer sección completa](/articles/cherem-en-la-historia-biblica).
+Cherem aparece en muchos lugares en los libros históricos del Antiguo Testamento. Debemos tener algo de cuidado al reconocer que, si bien la palabra de Dios y los límites de Dios son claros, a veces las personas no ejecutan las leyes de Dios de manera completa o fiel. Sin embargo, también suelen hacerlo. [Leer sección completa](/articulos/cherem-en-la-historia-biblica).
 
 ## Conclusión
 
@@ -43,4 +42,4 @@ En este capítulo, hemos visto numerosos ejemplos de cherem en la ley bíblica. 
 
 A lo largo de esta discusión hasta ahora, las características señaladas al principio de este capítulo son ciertas. Los ejemplos exhiben diversamente el factor más sagrado en la ley cherem, la provisión de servicio en oposición a la destrucción (en casos raros, sin embargo), la clara distinción entre la guerra israelita normal y la ejecución de cherem, tanto voluntario como obligatorio cherem y la singularidad de cherem bajo la administración mosaica y levítica. Tomados en conjunto, vemos el papel dominante del lugar santísimo bajo la administración mosaica.
 
-En el [próximo capítulo](/articles/cherem-en-la-profecia-biblica), veremos estos mismos temas aplicados y desarrollados en la profecía bíblica. Veremos una combinación única, también exhibida en el Nuevo Testamento, de la ley bíblica para los israelitas bajo el Pacto Mosaico y la perspectiva de un mayor cumplimiento espiritual en el Nuevo Pacto.
+En el [próximo capítulo](/articulos/cherem-en-la-profecia-biblica), veremos estos mismos temas aplicados y desarrollados en la profecía bíblica. Veremos una combinación única, también exhibida en el Nuevo Testamento, de la ley bíblica para los israelitas bajo el Pacto Mosaico y la perspectiva de un mayor cumplimiento espiritual en el Nuevo Pacto.

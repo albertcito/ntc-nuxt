@@ -42,4 +42,4 @@ Cuando agregamos a esto el final profetizado por Zacarías y su cumplimiento en 
 
 * * *
 
-Esta publicación es parte de [Cherem y el Nuevo Testamento](/articles/cherem-en-el-nuevo-testamento).
+Esta publicación es parte de [Cherem y el Nuevo Testamento](/articulos/cherem-en-el-nuevo-testamento).

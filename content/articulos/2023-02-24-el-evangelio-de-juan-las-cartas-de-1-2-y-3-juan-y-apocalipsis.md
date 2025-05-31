@@ -1,10 +1,10 @@
 ---
 title: "El Evangelio de Juan, las Cartas de 1, 2 y 3 Juan y Apocalipsis"
 date: 2023-02-24
-categories: 
+type: 'article'
+categories:
   - "datacion"
-  - "featured"
-tags: 
+tags:
   - "datacion"
   - "nuevo-testamento"
 image:
@@ -28,7 +28,7 @@ Muchos de estos temas en 1-3 Juan también están presentes en el Evangelio de J
 
 Algunos eruditos han abogado por diferentes autores para Juan y Apocalipsis debido a las diferencias en cómo se usa el idioma griego en los dos libros. Sin embargo, esto probablemente puede explicarse por las circunstancias de la escritura. Juan, el pescador galileo, habría aprendido el griego no como lengua materna sino como segunda o tercera lengua. El griego de Apocalipsis es diferente y no estándar, probablemente porque Juan lo escribió como una carta sin ayuda. El Evangelio de Juan, aunque claramente proviene de Juan, parece que fue un esfuerzo colaborativo. Juan 21:24 dice: "Este es el discípulo que da testimonio de estas cosas, y escribió estas cosas; y sabemos que su testimonio es verdadero". El "el discípulo" en este versículo al final del libro es probablemente Juan, y el "sabemos" es casi seguro que la comunidad cristiana está trabajando con él para darle al libro su forma final. Una referencia similar ocurre en Juan 19:35. Además, se debe hacer un punto importante sobre toda la literatura joánica: es muy fácil de leer, mucho más que cualquier obra de Pedro, Pablo, Lucas o Hebreos (¡Pregúntele a un estudiante principiante de griego!) Esto es comprensible si se considera que el griego no era el primer idioma de Juan.
 
-Identificar al apóstol como el autor de todos los escritos de Juan hace que su fecha de escritura se remonte al primer siglo d.C. Sin embargo, la perspectiva que el Evangelio de Juan y Apocalipsis tienen sobre la ciudad de Jerusalén hace que sus fechas sean aún anteriores, como se analiza en la página sobre la [destrucción de Jerusalén](/articles/la-guerra-romano-judia-y-la-destruccion-de-jerusalen).
+Identificar al apóstol como el autor de todos los escritos de Juan hace que su fecha de escritura se remonte al primer siglo d.C. Sin embargo, la perspectiva que el Evangelio de Juan y Apocalipsis tienen sobre la ciudad de Jerusalén hace que sus fechas sean aún anteriores, como se analiza en la página sobre la [destrucción de Jerusalén](/articulos/la-guerra-romano-judia-y-la-destruccion-de-jerusalen).
 
 ## El Evangelio de Juan
 

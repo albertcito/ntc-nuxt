@@ -1,14 +1,15 @@
 ---
 title: "Acercarse a Dios ¿Por qué hay un lugar santísimo?"
 date: 2022-02-01
-categories: 
+categories:
   - "teologia"
-tags: 
+tags:
   - "cherem"
   - "joel-mcdurmon"
   - "teonomia"
 image:
-  src: cherem-prescencia-dios-templo.png
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/cherem-prescencia-dios-templo.png
+  alt: Templo del antiguo testamento
 ---
 
 Antes de su caída en el pecado, la humanidad tenía comunión con Dios en el Jardín del Edén. Dios había creado el Jardín especialmente para la humanidad y le había encargado que lo trabajara y lo cuidara. Tenían acceso a todos los frutos del Jardín, incluido el Árbol de la Vida. En este escenario original, Dios podía morar con el hombre y tener comunión directa con él.
@@ -51,4 +52,4 @@ Nuevamente, debemos enfatizar que cualquiera que intente acercarse a Dios de cua
 
 * * *
 
-Esta publicación es parte de [Introducción a Cherem](/articles/introduccion-a-cherem), ver la continuación ["Las cosas más santas"](/articles/las-cosas-mas-santas).
+Esta publicación es parte de [Introducción a Cherem](/articulos/introduccion-a-cherem), ver la continuación ["Las cosas más santas"](/articulos/las-cosas-mas-santas).

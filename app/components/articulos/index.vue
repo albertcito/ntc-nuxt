@@ -12,12 +12,13 @@ const totalSkip = computed(() => (page.value - 1) * props.itemsPerPage)
 const { data } = await useAsyncData(
   computed(() => `${collection}_${page.value}_${props.itemsPerPage}`),
   () => queryCollection(collection)
+    .where('type', '<>', 'series')
     .order('date', 'DESC')
     .skip(totalSkip.value)
     .limit(props.itemsPerPage)
     .all()
 )
-const { data: total } = await useAsyncData('total', () => queryCollection(collection)
+const { data: total } = await useAsyncData('total', () => queryCollection(collection).where('type', '<>', 'series')
   .count())
 </script>
 
@@ -56,7 +57,7 @@ const { data: total } = await useAsyncData('total', () => queryCollection(collec
           :key="index"
           v-bind="post"
           :to="post.path"
-          :image="post.image ? `${imagePath}/${post.image.src}` : undefined"
+          :image="post.image.src.substring(0, 4) === 'http' ? post.image.src : `${imagePath}/${post.image.src}`"
         />
       </UBlogPosts>
       <UPagination

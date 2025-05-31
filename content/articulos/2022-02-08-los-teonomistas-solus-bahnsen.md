@@ -1,9 +1,10 @@
 ---
 title: "Los teonomistas \"Solus Bahnsen\""
 date: 2022-02-08
-categories: 
+type: 'article'
+categories:
   - "analisis"
-tags: 
+tags:
   - "greg-bahnsen"
   - "joel-mcdurmon"
   - "teonomia"

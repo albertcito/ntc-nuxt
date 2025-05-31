@@ -20,4 +20,4 @@ En lugar de intentar un tratamiento completo de cada uno de los casos del Nuevo 
 
 * * *
 
-Esta publicación es parte de [Cherem y el Nuevo Testamento](/articles/cherem-en-el-nuevo-testamento).
+Esta publicación es parte de [Cherem y el Nuevo Testamento](/articulos/cherem-en-el-nuevo-testamento).

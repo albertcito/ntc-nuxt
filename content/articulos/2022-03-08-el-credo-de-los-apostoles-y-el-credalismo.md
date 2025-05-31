@@ -1,10 +1,10 @@
 ---
 title: "El Credo de Los Apóstoles Y el Credalismo"
 date: 2022-03-08
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "teologia"
-tags: 
+tags:
   - "apostoles"
   - "credos"
   - "historia"
@@ -23,42 +23,42 @@ Un credo es más que el estándar de la iglesia. En la mayoría de los casos, el
 
 Es interesante contrastar diversos textos del Credo de los Apóstoles. La forma romana antigua dada por Rufino en Latín, 390 D. de C., y por Marcelo en griego, 336-341: 
 
-> Creo en DIOS EL PADRE todopoderoso.   
-> Y en JESUCRISTO, Su único Hijo, nuestro Señor;  
-> Quién nació por el Espíritu Santo de la Virgen María;   
-> Fue crucificado bajo Poncio Pilato y fue sepultado;   
-> El tercer día resucitó de entre los muertos;   
-> Subió a los cielos, y está sentado a la diestra del Padre;   
-> Desde allí ha de venir a juzgar a los vivos y a los muertos.   
-> Y en el ESPÍRITU SANTO;   
-> La Santa Iglesia;   
+> Creo en DIOS EL PADRE todopoderoso. 
+> Y en JESUCRISTO, Su único Hijo, nuestro Señor;
+> Quién nació por el Espíritu Santo de la Virgen María; 
+> Fue crucificado bajo Poncio Pilato y fue sepultado; 
+> El tercer día resucitó de entre los muertos; 
+> Subió a los cielos, y está sentado a la diestra del Padre; 
+> Desde allí ha de venir a juzgar a los vivos y a los muertos. 
+> Y en el ESPÍRITU SANTO; 
+> La Santa Iglesia; 
 > El perdón de los pecados; La resurrección del cuerpo (la carne).<sup>4</sup>
 
 La forma Recibida o _Textus Receptus_, se adoptó por el 700 d.C. Se lee, con las adiciones en paréntesis a  la forma antigua romana añadidas por Schaff: 
 
-> Creo en DIOS EL PADRE Todopoderoso.   
-> (Creador del cielo y de la tierra).   
-> Creo en JESUCRISTO, su único Hijo, nuestro Señor;   
-> ¿Quién fue (_concebido_) por el Espíritu Santo, nacido de la virgen María;   
-> (_Sufrió_) bajo el poder de Poncio Pilato, fue crucificado (_muerto_) y sepultado   
-> (_Él descendió al Infierno \[Hades\]_);   
-> El tercer día resucitó de entre los muertos;   
-> Subió a los cielos, y está sentado a la diestra de (Dios) el Padre (Todopoderoso); Desde allí ha de venir a juzgar a los vivos y a los muertos.   
-> (Creo) en el ESPÍRITU SANTO;   
-> La Santa Iglesia (_Católica_)   
-> (_La comunión de los santos_);   
-> El perdón de los pecados;   
+> Creo en DIOS EL PADRE Todopoderoso. 
+> (Creador del cielo y de la tierra). 
+> Creo en JESUCRISTO, su único Hijo, nuestro Señor; 
+> ¿Quién fue (_concebido_) por el Espíritu Santo, nacido de la virgen María; 
+> (_Sufrió_) bajo el poder de Poncio Pilato, fue crucificado (_muerto_) y sepultado 
+> (_Él descendió al Infierno \[Hades\]_); 
+> El tercer día resucitó de entre los muertos; 
+> Subió a los cielos, y está sentado a la diestra de (Dios) el Padre (Todopoderoso); Desde allí ha de venir a juzgar a los vivos y a los muertos. 
+> (Creo) en el ESPÍRITU SANTO; 
+> La Santa Iglesia (_Católica_) 
+> (_La comunión de los santos_); 
+> El perdón de los pecados; 
 > La resurrección del cuerpo (la carne); (_Y la vida eterna_)<sup>5</sup>
 
 Una forma en Inglés arcaico del credo, que data de mucho antes de la conquista normanda y en uso  oficial de la iglesia, es de gran interés, ya que la traducción refleja una clara comprensión de algunos  artículos, como la comunión de los santos. 
 
-> Creo en Dios Padre Todopoderoso, hacedor de los cielos y la tierra.   
-> Creo en el Señor Cristo, su Único Hijo Unigénito nuestro Señor,   
-> que fue concebido del Espíritu Santo y nacido de María la virgen,   
-> Sufrió bajo Poncio Pilatos, en la cruz colgado, fue muerto y sepultado y decendió hasta el infierno. Y él se levantó de la muerte en el tercer día.   
-> Y él subió a los cielos y está sentado ahora a la diestra de Dios el Padre Todopoderoso. Desde allí ha de venir a juzgar a los Vivos y Muertos. Y creo en el Espíritu Santo. Y en la congregación santa.   
-> Y en la sociedad de los santos.   
-> Y en el perdón de los pecados.   
+> Creo en Dios Padre Todopoderoso, hacedor de los cielos y la tierra. 
+> Creo en el Señor Cristo, su Único Hijo Unigénito nuestro Señor, 
+> que fue concebido del Espíritu Santo y nacido de María la virgen, 
+> Sufrió bajo Poncio Pilatos, en la cruz colgado, fue muerto y sepultado y decendió hasta el infierno. Y él se levantó de la muerte en el tercer día. 
+> Y él subió a los cielos y está sentado ahora a la diestra de Dios el Padre Todopoderoso. Desde allí ha de venir a juzgar a los Vivos y Muertos. Y creo en el Espíritu Santo. Y en la congregación santa. 
+> Y en la sociedad de los santos. 
+> Y en el perdón de los pecados. 
 > Y en el levantamiento de la carne. Y en la vida eterna.<sup>6</sup>
 
 El credo de los Apóstoles es diferente de todas las demás creencias de otras religiones, ya sea  humanista, budista, musulmana, hindú o de cualquier otra. La fe de todas las otras religiones se  encuentra en un _cuerpo de ideas o reclamos relativos a la realidad_. Puede que sea la creencia en la ultimidad del hombre o la ultimidad de la nada, en el oficio de un hombre (Mahoma como profeta) o un dualismo o monismo final pero en todo caso exige la creencia en ciertas ideas o reclamaciones. El  Credo de los Apóstoles es radicalmente diferente: se ofrece como una sinopsis de la historia, creada por Dios Padre Todopoderoso, que requiere la salvación por medio de Jesucristo, su Hijo unigénito, quien  entró, vivió, murió y resucitó en la historia y ahora es el Señor y Juez de la historia. Su santa  congregación es operativa en la historia y que culmina con la resurrección general y la vida eterna. Por  lo tanto, todo el credo es una declaración relativa a la historia. 
@@ -89,18 +89,18 @@ La última oración es particularmente relevante. Todos los primeros credos de l
 
 El credo comienza diciendo: “Creo”, pero, como hemos visto, no es una afirmación de ciertas ideas y  conceptos, sino _un asentimiento a la historia_ como Dios la creó, la redime y la gobierna. El Credalismo Extrabíblico está activo: se trata de la decisión de la persona en relación con un conjunto de ideas y  conceptos. El Credalismo bíblico es un asentimiento a la creación de Dios, la redención, y el gobierno,  El credalismo bíblico es pasivo, ya que afirma el hecho de la redención por el Dios trino de la que el hombre no es más que el destinatario de la gracia. Pero esta pasividad es el fundamento de la verdadera actividad: uno debajo de Dios se mueve ahora en términos de la ley verdadera, en términos del canon  de la Escritura, para ejercer dominio sobre la tierra en el nombre del Dios trino. El Credalismo cristiano es, pues, fundamental para el activismo Occidental, para el constitucionalismo y para la esperanza  sobre la historia.
 
-1\. John J. Moment, We Believe (New York, NY: Macmillan, 1942), 91. 
-2\. John H. Leith, Creeds of the Church (Chicago, IL: Aldine, 1963), 22. 
-3\. Philip Schaff, The Creeds of Christendom, vol. 1 (New York, NY: Harper, \[1887\] 1919), 20. See also Schaff,  
-History of the Christian Church, vol. 2 rev. ed. (New York, NY: Scribner’s, 1884, rev. ed.), 528-37. 
-4\. Schaff, Creeds, vol. 1, 21-22. 
-5\. Ibid.  
-6\. Thomson, ed., Select Monuments of the Doctrine and Worship of the Catholic Church in England Before the Norman  
-Conquest (n.p., John Russell Smith, 1875), 85-86. 
-7\. Tertullian, “Apology,” 5, in Ante-Nicene Fathers, vol. 11, Writings of Tertullian, vol. 1 (Edinburgh, Scotland: T.  
-& T. Clark, 1872), 63. 
-8\. Irenaeus, Against Heresies, in Ante-Nicene Fathers, vol. 5, Irenaeus, vol. 1, bk. 4, chap. 15, sec. 1, 419. 
-9\. Henry R. Percival, “An Excursus on the History of the Roman Law and Its Relation to the Canon Law,” in  
-Percival, The Seven Ecumenical Councils, Their Canons and Decrees, in Nicene and Post-Nicene Fathers, 2nd series,  
-vol. 14, chap. 29. 
+1\. John J. Moment, We Believe (New York, NY: Macmillan, 1942), 91.
+2\. John H. Leith, Creeds of the Church (Chicago, IL: Aldine, 1963), 22.
+3\. Philip Schaff, The Creeds of Christendom, vol. 1 (New York, NY: Harper, \[1887\] 1919), 20. See also Schaff,
+History of the Christian Church, vol. 2 rev. ed. (New York, NY: Scribner’s, 1884, rev. ed.), 528-37.
+4\. Schaff, Creeds, vol. 1, 21-22.
+5\. Ibid.
+6\. Thomson, ed., Select Monuments of the Doctrine and Worship of the Catholic Church in England Before the Norman
+Conquest (n.p., John Russell Smith, 1875), 85-86.
+7\. Tertullian, “Apology,” 5, in Ante-Nicene Fathers, vol. 11, Writings of Tertullian, vol. 1 (Edinburgh, Scotland: T.
+& T. Clark, 1872), 63.
+8\. Irenaeus, Against Heresies, in Ante-Nicene Fathers, vol. 5, Irenaeus, vol. 1, bk. 4, chap. 15, sec. 1, 419.
+9\. Henry R. Percival, “An Excursus on the History of the Roman Law and Its Relation to the Canon Law,” in
+Percival, The Seven Ecumenical Councils, Their Canons and Decrees, in Nicene and Post-Nicene Fathers, 2nd series,
+vol. 14, chap. 29.
 10\. Schaff, History of the Christian Church, vol. 2, 540.

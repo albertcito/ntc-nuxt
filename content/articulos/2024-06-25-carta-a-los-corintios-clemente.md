@@ -1,10 +1,10 @@
 ---
 title: "Carta a los Corintios (Clemente)"
 date: 2024-06-25
-categories: 
-  - "featured"
+type: 'article'
+categories:
   - "historia"
-tags: 
+tags:
   - "padres-de-la-iglesia"
 image:
   src: clemente-de-roma.jpg

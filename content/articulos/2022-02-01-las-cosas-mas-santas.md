@@ -1,15 +1,16 @@
 ---
 title: "Las cosas más santas"
 date: 2022-02-01
-categories: 
+categories:
   - "general"
   - "teologia"
-tags: 
+tags:
   - "cherem"
   - "joel-mcdurmon"
   - "teonomia"
 image:
-  src: cherem-prescencia-dios-templo.png
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/cherem-prescencia-dios-templo.png
+  alt: Templo del antiguo testamento
 ---
 
 Si bien muchas cosas se describen como “santas” en las Escrituras, un número limitado de cosas específicas se describen como “santísimas”. El primero es el "lugar santísimo" en sí mismo dentro del tabernáculo, y luego el templo. La primera vez que la frase “santísimo” aparece en las Escrituras es Éxodo 26:33–34, que describe el velo creado para separar el lugar santísimo del lugar santo dentro del tabernáculo. El escritor de Hebreos luego describe esta realidad claramente:
@@ -34,4 +35,4 @@ La mayoría de las cosas santas fueron designadas para uso sacerdotal únicament
 
 * * *
 
-Esta publicación es parte de [Introducción a Cherem](/articles/introduccion-a-cherem), ver la continuación ["Experimentando lo más santo"](/articles/experimentando-lo-mas-santo).
+Esta publicación es parte de [Introducción a Cherem](/articulos/introduccion-a-cherem), ver la continuación ["Experimentando lo más santo"](/articulos/experimentando-lo-mas-santo).

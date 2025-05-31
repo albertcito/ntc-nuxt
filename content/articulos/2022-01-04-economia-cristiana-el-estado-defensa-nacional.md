@@ -1,17 +1,19 @@
 ---
 title: "Economía Cristiana - El Estado - Defensa Nacional"
-date: 2022-01-01
-categories: 
+date: 2022-01-04
+type: 'series'
+categories:
   - "teologia"
-tags: 
+tags:
   - "burocracia"
   - "economia"
   - "estado"
   - "gary-north"
   - "impuestos"
 image:
-  src: washington-dc-g61953901d_1920-1.jpg
-  alt: Capitol Washington DC
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/washington-dc.jpg
+  alt: Capitolio de Washington D.C.
+  descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/
 ---
 
@@ -99,4 +101,4 @@ La teoría judicial cristiana enseña que el estado tiene una función legítima
 
 * * *
 
-De la seria [Economía Cristiana - El Estado](/articles/economia-cristiana-el-estado-indice)
+De la seria [Economía Cristiana - El Estado](/articulos/2022-01-08-economia-cristiana-el-estado-indice)

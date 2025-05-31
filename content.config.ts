@@ -9,7 +9,7 @@ export default defineContentConfig({
         title: z.string().min(1),
         description: z.string().min(1),
         date: z.string().min(1),
-        type: z.enum(['blog', 'book', 'page']),
+        type: z.enum(['article', 'series']),
         category: z.string().optional(),
         tags: z.array(z.string()).optional(),
         image: z.object({
