@@ -35,6 +35,8 @@ const { data: total } = await useAsyncData('total', () => queryCollection(collec
             v-model:page="page"
             :items-per-page="itemsPerPage"
             :total="total"
+            :show-controls="false"
+            show-edges
             :sibling-count="1"
             size="sm"
             :to="(pageSelected) => ({
@@ -60,6 +62,8 @@ const { data: total } = await useAsyncData('total', () => queryCollection(collec
         v-if="total"
         v-model:page="page"
         :items-per-page="itemsPerPage"
+        show-edges
+        :sibling-count="1"
         :total="total"
         :to="(pageSelected) => ({
           path,

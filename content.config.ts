@@ -10,14 +10,16 @@ export default defineContentConfig({
         description: z.string().min(1),
         date: z.string().min(1),
         type: z.enum(['article', 'series', 'subseries']),
-        serie: z.string(), // if a article is "subseries" it should have the serie name
+        // if a article is "subseries" it should have the serie path
+        serie: z.string(),
         category: z.string().optional(),
         tags: z.array(z.string()).optional(),
         image: z.object({
           src: z.string().min(1),
           alt: z.string().min(1),
           descr: z.string().optional(),
-          cc: z.string().optional()
+          cc: z.string().optional(),
+          hide: z.boolean().default(false)
         })
       })
     }),
