@@ -1,7 +1,8 @@
 ---
 title: "Construcción del primer hospital del mundo: La Basilia"
 date: 2024-11-04
-type: 'article'
+type: series
+translation: true
 categories:
   - "historia"
 tags:

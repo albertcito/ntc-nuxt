@@ -1,7 +1,8 @@
 ---
 title: "Justificación por Obras - Santiago 2:14-26"
 date: 2023-04-06
-type: 'article'
+type: series
+translation: true
 categories:
   - "teologia"
 tags:

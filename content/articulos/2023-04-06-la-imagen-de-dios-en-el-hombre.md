@@ -1,7 +1,8 @@
 ---
 title: "La imagen de Dios en el hombre"
 date: 2023-04-06
-type: 'article'
+type: series
+translation: true
 categories:
   - "apologetica"
   - "teologia"

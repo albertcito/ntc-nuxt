@@ -2,6 +2,7 @@
 title: "Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar"
 date: 2022-02-12
 type: series
+translation: true
 categories:
   - "apologetica"
 tags:

@@ -1,7 +1,8 @@
 ---
 title: "Propósito individual y el Reino de Dios"
 date: 2022-02-18
-type: 'article'
+type: series
+translation: true
 categories:
   - "teologia"
 tags:

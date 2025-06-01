@@ -1,7 +1,8 @@
 ---
 title: "El Evangelio de Juan, las Cartas de 1, 2 y 3 Juan y Apocalipsis"
 date: 2023-02-24
-type: 'article'
+type: series
+translation: true
 categories:
   - "datacion"
 tags:

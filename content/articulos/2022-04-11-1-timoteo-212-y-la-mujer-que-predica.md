@@ -1,7 +1,8 @@
 ---
 title: "1 Timoteo 2:12 y la Mujer que Predica"
 date: 2022-04-11
-type: 'article'
+type: series
+translation: true
 categories:
   - "teologia"
 tags:

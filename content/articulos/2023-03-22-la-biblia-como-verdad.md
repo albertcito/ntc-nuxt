@@ -1,7 +1,8 @@
 ---
 title: "La Biblia como verdad"
 date: 2023-03-22
-type: 'article'
+type: series
+translation: true
 categories:
   - "apologetica"
 tags:

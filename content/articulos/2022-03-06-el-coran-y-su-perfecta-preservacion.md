@@ -1,7 +1,8 @@
 ---
 title: "El Corán y su \"perfecta preservación\""
 date: 2022-03-06
-type: 'article'
+type: series
+translation: true
 categories:
   - "islam"
 tags:

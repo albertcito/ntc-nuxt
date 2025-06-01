@@ -1,7 +1,8 @@
 ---
 title: "La visión bíblica de la verdad"
 date: 2023-03-20
-type: 'article'
+type: series
+translation: true
 categories:
   - "teologia"
 tags:

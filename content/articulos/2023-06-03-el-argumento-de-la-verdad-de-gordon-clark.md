@@ -1,7 +1,8 @@
 ---
 title: "El argumento de la verdad de Gordon Clark"
 date: 2023-06-03
-type: 'article'
+type: series
+translation: true
 categories:
   - "apologetica"
 tags:

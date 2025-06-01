@@ -2,6 +2,7 @@
 title: "Cherem en el Nuevo Testamento"
 date: 2022-02-04
 type: series
+translation: true
 categories:
   - "teologia"
 tags:

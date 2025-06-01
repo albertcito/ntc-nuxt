@@ -2,6 +2,7 @@
 title: "Economía Cristiana: El Estado"
 date: 2022-01-08
 type: series
+translation: true
 categories:
   - "teologia"
 tags:

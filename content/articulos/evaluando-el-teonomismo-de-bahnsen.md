@@ -1,7 +1,8 @@
 ---
 title: "Evaluando el Teonomismo de Bahnsen"
 date: 2022-02-07
-type: article
+type: series
+translation: true
 translation: true
 categories:
   - "teologia"

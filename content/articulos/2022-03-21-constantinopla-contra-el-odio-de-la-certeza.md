@@ -1,7 +1,8 @@
 ---
 title: "Constantinopla Contra El Odio de La Certeza"
 date: 2022-03-21
-type: 'article'
+type: series
+translation: true
 categories:
   - "historia"
 tags:

@@ -2,6 +2,7 @@
 title: "Introducción a Cherem"
 date: 2022-02-01
 type: series
+translation: true
 categories:
   - "teologia"
 tags:

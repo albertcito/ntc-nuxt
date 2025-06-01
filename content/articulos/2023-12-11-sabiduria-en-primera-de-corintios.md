@@ -1,7 +1,8 @@
 ---
 title: "Sabiduría en Primera de Corintios"
 date: 2023-12-11
-type: 'article'
+type: series
+translation: true
 categories:
   - "apologetica"
   - "teologia"

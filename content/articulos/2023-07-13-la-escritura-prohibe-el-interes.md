@@ -1,7 +1,8 @@
 ---
 title: "¿Prohíbe la escritura el interés?"
 date: 2023-07-13
-type: 'article'
+type: series
+translation: true
 categories:
   - "teologia"
 tags:

@@ -1,7 +1,8 @@
 ---
 title: "Carta a los Corintios (Clemente)"
 date: 2024-06-25
-type: 'article'
+type: series
+translation: true
 categories:
   - "historia"
 tags:

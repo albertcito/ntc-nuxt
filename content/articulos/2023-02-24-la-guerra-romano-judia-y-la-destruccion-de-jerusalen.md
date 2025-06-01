@@ -1,7 +1,8 @@
 ---
 title: "La guerra romano-judía y la destrucción de Jerusalén"
 date: 2023-02-24
-type: 'article'
+type: series
+translation: true
 categories:
   - "datacion"
 tags:

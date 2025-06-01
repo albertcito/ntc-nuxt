@@ -1,7 +1,8 @@
 ---
 title: "Una respuesta histórico-teológica a la pregunta de John Piper ¿Qué es la fe salvadora?"
 date: 2023-12-01
-type: 'article'
+type: series
+translation: true
 categories:
   - "teologia"
 tags:

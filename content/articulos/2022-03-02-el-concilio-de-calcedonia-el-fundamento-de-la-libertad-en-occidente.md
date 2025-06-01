@@ -1,7 +1,8 @@
 ---
 title: "El Concilio de Calcedonia: El Fundamento de La Libertad En Occidente"
 date: 2022-03-02
-type: 'article'
+type: series
+translation: true
 categories:
   - "teologia"
 tags:

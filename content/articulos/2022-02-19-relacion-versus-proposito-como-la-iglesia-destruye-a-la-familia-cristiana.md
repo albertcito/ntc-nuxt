@@ -1,7 +1,8 @@
 ---
 title: "Relación versus propósito, cómo la iglesia destruye a la familia cristiana"
 date: 2022-02-19
-type: 'article'
+type: series
+translation: true
 categories:
   - "analisis"
 tags:

@@ -1,7 +1,8 @@
 ---
 title: "Alone | El declive de la familia  la epidemia de la soledad"
 date: 2022-02-11
-type: 'article'
+type: series
+translation: true
 categories:
   - "analisis"
 tags:

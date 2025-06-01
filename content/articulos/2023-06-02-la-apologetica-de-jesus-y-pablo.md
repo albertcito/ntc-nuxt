@@ -1,7 +1,8 @@
 ---
 title: "La apologética de Jesús y Pablo"
 date: 2023-06-02
-type: 'article'
+type: series
+translation: true
 categories:
   - "apologetica"
 tags:

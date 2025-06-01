@@ -2,6 +2,7 @@
 title: "Cherem en la ley Biblica"
 date: 2022-02-02
 type: series
+translation: true
 categories:
   - "teologia"
 tags:

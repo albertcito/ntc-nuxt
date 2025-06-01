@@ -1,7 +1,8 @@
 ---
 title: "Sermón de San Basilio a los ricos"
 date: 2024-12-07
-type: 'article'
+type: series
+translation: true
 categories:
   - "historia"
 tags:

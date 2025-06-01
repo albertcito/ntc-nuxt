@@ -1,7 +1,8 @@
 ---
 title: "La Iglesia que fue expulsada por ser fiel - Canadá"
 date: 2022-02-18
-type: 'article'
+type: series
+translation: true
 categories:
   - "analisis"
 tags:

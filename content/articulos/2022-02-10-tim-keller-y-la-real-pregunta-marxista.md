@@ -1,7 +1,8 @@
 ---
 title: "Tim Keller y la real pregunta \"marxista\""
 date: 2022-02-10
-type: 'article'
+type: series
+translation: true
 categories:
   - "analisis"
 tags:

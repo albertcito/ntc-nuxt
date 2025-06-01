@@ -1,7 +1,8 @@
 ---
 title: "Facciones en teonomía ¿Penas de muerte \"ceremoniales\"?"
 date: 2022-02-08
-type: 'article'
+type: series
+translation: true
 categories:
   - "teologia"
 tags:

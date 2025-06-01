@@ -1,7 +1,7 @@
 ---
 title: "¿La Biblia aprueba el Homosexualismo 🏳️‍🌈?"
 date: 2023-11-15
-type: 'article'
+type: series
 categories:
   - "analisis"
   - "apologetica"
