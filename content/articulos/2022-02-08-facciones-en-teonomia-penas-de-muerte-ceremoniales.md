@@ -12,7 +12,7 @@ image:
   src: pena-capital-antiguo.testamento.png
 ---
 
-En un [artículo anterior](/articulos/los-teonomistas-solus-bahnsen), mencioné que la Reconstrucción Cristiana y la Teonomía siempre han sufrido divisiones y facciones. ¡Por supuesto, **necesitamos más unidad! Y sostengo que debe provenir de un mayor énfasis y productividad en la exégesis**. Aquí es donde he formado mi trabajo en Teonomía. Pero aún quedan facciones, y debemos entenderlas.
+La Reconstrucción Cristiana y la Teonomía siempre han sufrido divisiones y facciones. ¡Por supuesto, **necesitamos más unidad! Y sostengo que debe provenir de un mayor énfasis y productividad en la exégesis**. Aquí es donde he formado mi trabajo en Teonomía. Pero aún quedan facciones, y debemos entenderlas.
 
 El lector astuto también señalará que mis artículos que critican a Greg Bahnsen y otros, así como mis controvertidas contribuciones exegéticas (_cherem_, etc.), solo han creado más división y se han sumado a las facciones. Una vez más, es un problema de "los puritanos se van a purificar". Cuanto más refinamos, más fracturamos. Traté de evitar esto con una amplia tolerancia en la definición de Teonomía. Sin embargo, también escribí el capítulo 7 en Bounds of Love, en el que mostré que muchas de las tradiciones cristianas que tomaron en serio la influencia “cristiana” en el derecho civil, sin embargo, lo hicieron explícitamente en contra de los principios teonómicos fundamentales. En cambio, adoptaron una posición de Constantino. Estas tradiciones también fueron seguidas por la mayoría de los reformadores. **Sostengo además que un buen número de los que hoy en día usarían la etiqueta de Teonomía son, sin embargo, más constantinianos o romanos en su enfoque que bíblica y exegéticamente teonómicos.**
 

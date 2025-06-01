@@ -64,17 +64,9 @@ Veamos el texto:
 
 Para poder entender las restricciones de Pablo a las mujeres en Éfeso primero debemos comprender que significa el texto _"**ejercer dominio**"_ y para ello vamos a ver qué dice el original.
 
-<figure>
-
-![Definicion de αὐθεντεῖν](https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/authentein.png)
-
-<figcaption>
-
+::MdImage{ src="https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/authentein.png" alt="Definicion de αὐθεντεῖν"}
 1 Timothy 2:12 - [BibleHub.com](https://biblehub.com/1_timothy/2-12.htm){target=blank}
-
-</figcaption>
-
-</figure>
+::
 
 La palabra _αὐθεντεῖν_ solo aparece [una vez](https://biblehub.com/greek/strongs_831.htm){target=blank} en todo el Nuevo Testamento y el significado en español seria: "**Dominar, gobernar, tener dominio sobre**". Esto significa más que autoridad, es dominar o tener dominio ("mastery" en inglés sería como un amo y un esclavo) es una relación de gobierno de alguien sobre otro.
 

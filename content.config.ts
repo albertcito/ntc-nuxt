@@ -4,12 +4,13 @@ export default defineContentConfig({
   collections: {
     articulos: defineCollection({
       type: 'page',
-      source: 'articulos/*.md',
+      source: 'articulos/**/*.md',
       schema: z.object({
         title: z.string().min(1),
         description: z.string().min(1),
         date: z.string().min(1),
-        type: z.enum(['article', 'series']),
+        type: z.enum(['article', 'series', 'subseries']),
+        serie: z.string(), // if a article is "subseries" it should have the serie name
         category: z.string().optional(),
         tags: z.array(z.string()).optional(),
         image: z.object({

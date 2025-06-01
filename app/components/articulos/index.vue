@@ -12,13 +12,13 @@ const totalSkip = computed(() => (page.value - 1) * props.itemsPerPage)
 const { data } = await useAsyncData(
   computed(() => `${collection}_${page.value}_${props.itemsPerPage}`),
   () => queryCollection(collection)
-    .where('type', '<>', 'series')
+    .where('type', '<>', 'subseries')
     .order('date', 'DESC')
     .skip(totalSkip.value)
     .limit(props.itemsPerPage)
     .all()
 )
-const { data: total } = await useAsyncData('total', () => queryCollection(collection).where('type', '<>', 'series')
+const { data: total } = await useAsyncData('total', () => queryCollection(collection).where('type', '<>', 'subseries')
   .count())
 </script>
 
@@ -41,10 +41,6 @@ const { data: total } = await useAsyncData('total', () => queryCollection(collec
               path,
               query: { page: pageSelected }
             })"
-            :ui="{
-              first: 'hidden',
-              last: 'hidden'
-            }"
             variant="ghost"
           />
         </div>

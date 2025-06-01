@@ -11,7 +11,7 @@ tags:
   - "justificacion"
 image:
   src: John-Piper-Faith-Alone-How-Not-to-Use-a-Reformed-Slogan.jpg
-  alt: John Piper predicando Faith Alone: Cómo (no) usar un eslogan reformado
+  alt: "John Piper predicando Faith Alone: Cómo (no) usar un eslogan reformado"
 ---
 
 En cada generación surgen hombres dentro de la iglesia que tropiezan con el punto de vista católico romano de la justificación y, habiendo tropezado, intentan importar ese error católico romano a la Iglesia de Dios para que los hijos de Dios puedan tropezar con ellos. John Piper es solo el último de una larga lista de hombres así, y no será el último. Sorprendentemente, en la víspera del 500 aniversario de la Reforma, Piper intenta demostrar que ni las Escrituras ni los reformadores se aferraron a la justificación final por la fe sola aparte de las obras. El 25 de septiembre de 2017, Piper publicó “[¿Dios realmente nos salva solo por la fe?](https://www.desiringgod.org/articulos/does-god-really-save-us-by-faith-alone){target=blank}” [\[3\]](#footnote_[3]) En el artículo, sostiene que la justificación inicial es solo por la fe, pero introduce un concepto que es completamente extraño a la Biblia: el concepto de “_salvación final_” sobre la base de nuestras _obras y obediencia_. Él escribe: “En la justificación, la fe recibe una obra consumada de Cristo realizada fuera de nosotros y contada como nuestra, imputada a nosotros… En la _salvación final_ en el juicio final, la fe es confirmada por el fruto santificador que ha dado, y _somos salvados por ese fruto y esa fe_.[\[4\]](#footnote_[4])

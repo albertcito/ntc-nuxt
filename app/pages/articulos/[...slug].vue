@@ -17,13 +17,12 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
 
 <template>
   <UPage v-if="page">
-    <UPageHeader :ui="{ root: 'border-none' }">
+    <UPageHeader
+      :ui="{ root: 'border-none' }"
+      :title="page.title"
+    >
       <template #headline>
         <UBreadcrumb :items="breadcrumb" />
-      </template>
-
-      <template #title>
-        {{ page.title }}
       </template>
 
       <template v-if="page.date" #description>
@@ -66,7 +65,7 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
           v-if="page.body"
           :value="page"
           :prose="true"
-          class="text-xl font-karma max-w-2xl ml-20"
+          class="text-xl font-karma max-w-2xl lg:ml-20"
         />
         <USeparator />
       </UPageBody>

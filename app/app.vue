@@ -2,6 +2,7 @@
 import type { NavigationMenuItem } from '@nuxt/ui'
 
 const { data: navigation } = await useAsyncData('navigation', () => queryCollectionNavigation('articulos'))
+provide('navigation', navigation)
 const { data: files } = useLazyAsyncData('search', () => queryCollectionSearchSections('articulos'), { server: false })
 
 const route = useRoute()

@@ -10,7 +10,7 @@ export default defineNuxtConfig({
     '@nuxt/fonts',
     '@nuxtjs/google-fonts'
   ],
-  // ssr: false,
+  ssr: false,
 
   devtools: {
     enabled: true

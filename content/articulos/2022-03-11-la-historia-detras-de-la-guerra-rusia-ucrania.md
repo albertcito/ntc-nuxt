@@ -11,7 +11,7 @@ tags:
   - "usa"
 image:
   src: support-ucrania-stop-putin.jpg
-  alt: Niñnas con pancartas: Support Ucrania y stop Putin
+  alt: "Niñas con pancartas: Support Ucrania y stop Putin"
   cc: https://www.pexels.com/photo/girls-with-signs-on-protest-against-russian-war-on-ukraine-11291271/
 ---
 
