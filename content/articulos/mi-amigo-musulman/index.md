@@ -1,7 +1,7 @@
 ---
 title: "Mi amigo Musulmán"
 date: 2022-02-09
-type: 'series'
+type: series
 categories:
   - "islam"
 tags:

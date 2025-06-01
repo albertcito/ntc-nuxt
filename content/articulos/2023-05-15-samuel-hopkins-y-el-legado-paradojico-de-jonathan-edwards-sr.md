@@ -1,7 +1,7 @@
 ---
 title: "Samuel Hopkins y el legado paradójico de Jonathan Edwards Sr."
 date: 2023-05-15
-type: series
+type: article
 translation: true
 categories:
   - "historia"

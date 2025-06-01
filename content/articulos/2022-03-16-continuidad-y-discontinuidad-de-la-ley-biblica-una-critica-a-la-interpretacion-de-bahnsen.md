@@ -1,7 +1,7 @@
 ---
 title: "Continuidad y Discontinuidad de la Ley Bíblica - Una Crítica a la Interpretación de Bahnsen"
 date: 2022-02-05
-type: series
+type: article
 translation: true
 categories:
   - "teologia"

@@ -1,7 +1,7 @@
 ---
 title: "La Cruzada de los Niños Transgénero"
 date: 2023-06-05
-type: series
+type: article
 translation: true
 categories:
   - "analisis"

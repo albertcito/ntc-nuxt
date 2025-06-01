@@ -1,7 +1,7 @@
 ---
 title: "¿Qué significa el término corazón en las escrituras?"
 date: 2022-07-05
-type: series
+type: article
 translation: true
 categories:
   - "teologia"

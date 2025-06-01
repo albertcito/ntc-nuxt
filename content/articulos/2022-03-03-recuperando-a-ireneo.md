@@ -1,7 +1,7 @@
 ---
 title: "Recuperando a Ireneo"
 date: 2022-03-03
-type: series
+type: article
 translation: true
 categories:
   - "historia"

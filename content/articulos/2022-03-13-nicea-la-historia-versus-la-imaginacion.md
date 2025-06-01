@@ -1,7 +1,7 @@
 ---
 title: "Nicea: La Historia versus la Imaginación"
 date: 2022-03-13
-type: series
+type: article
 translation: true
 categories:
   - "historia"

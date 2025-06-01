@@ -1,7 +1,7 @@
 ---
 title: "Aborto, eufemismo y evasión moral"
 date: 2022-05-28
-type: series
+type: article
 translation: true
 categories:
   - "analisis"

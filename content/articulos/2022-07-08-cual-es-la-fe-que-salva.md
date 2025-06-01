@@ -1,7 +1,7 @@
 ---
 title: "¿Cuál es la fe que salva?"
 date: 2022-07-08
-type: series
+type: article
 translation: true
 categories:
   - "teologia"

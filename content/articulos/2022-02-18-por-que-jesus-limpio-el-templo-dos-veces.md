@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué Jesús limpió el templo dos veces?"
 date: 2022-02-18
-type: series
+type: article
 translation: true
 categories:
   - "teologia"

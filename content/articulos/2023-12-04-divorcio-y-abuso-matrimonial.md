@@ -1,7 +1,7 @@
 ---
 title: "Biblia, Divorcio y abuso matrimonial"
 date: 2023-12-04
-type: series
+type: article
 translation: true
 categories:
   - "teologia"

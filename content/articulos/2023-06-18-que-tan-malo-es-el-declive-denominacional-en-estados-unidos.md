@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tan malo es el declive denominacional en Estados Unidos?"
 date: 2023-06-18
-type: series
+type: article
 translation: true
 categories:
   - "analisis"

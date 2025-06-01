@@ -1,9 +1,11 @@
 ---
 title: "Comentarios respecto a: \"Mi amigo Musulmán y ... \""
 date: 2022-02-09
-categories: 
+type: subseries
+serie: mi-amigo-musulman
+categories:
   - "islam"
-tags: 
+tags:
   - "conversacion"
   - "justificacion"
   - "musulman"

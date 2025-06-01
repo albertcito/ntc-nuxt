@@ -1,7 +1,7 @@
 ---
 title: "El Naturalismo: Una Falacia de Autonomía"
 date: 2022-03-07
-type: series
+type: article
 translation: true
 categories:
   - "apologetica"

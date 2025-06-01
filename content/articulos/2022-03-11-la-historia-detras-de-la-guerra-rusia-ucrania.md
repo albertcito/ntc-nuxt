@@ -1,7 +1,7 @@
 ---
 title: "La historia detrás de la guerra Rusia-Ucrania"
 date: 2022-03-11
-type: series
+type: article
 translation: true
 categories:
   - "analisis"

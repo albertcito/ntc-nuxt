@@ -1,7 +1,7 @@
 ---
 title: "Teonomía: Una definición simple"
 date: 2023-06-19
-type: series
+type: article
 translation: true
 categories:
   - "teologia"

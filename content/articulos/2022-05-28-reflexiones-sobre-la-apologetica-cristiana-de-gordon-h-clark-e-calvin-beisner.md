@@ -1,7 +1,7 @@
 ---
 title: "Reflexiones sobre la apologética cristiana de Gordon H. Clark – E. Calvin Beisner"
 date: 2022-05-28
-type: series
+type: article
 translation: true
 categories:
   - "apologetica"

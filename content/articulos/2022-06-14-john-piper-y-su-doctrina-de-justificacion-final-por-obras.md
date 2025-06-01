@@ -1,7 +1,7 @@
 ---
 title: "John Piper y su doctrina de justificación final por obras"
 date: 2022-06-14
-type: series
+type: article
 translation: true
 categories:
   - "analisis"

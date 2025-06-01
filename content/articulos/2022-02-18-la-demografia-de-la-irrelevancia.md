@@ -1,7 +1,7 @@
 ---
 title: "La demografía de la irrelevancia"
 date: 2022-02-18
-type: series
+type: article
 translation: true
 categories:
   - "teologia"
