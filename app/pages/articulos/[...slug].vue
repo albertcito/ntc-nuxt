@@ -30,6 +30,8 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
       </template>
     </UPageHeader>
 
+    <SeriesParent v-if="page.serie" :serie="page.serie" />
+
     <UPageBody class="mt-0">
       <figure v-if="page.image" class="mb-4">
         <div class="relative">
@@ -72,7 +74,7 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
     </UPageBody>
     <template #right>
       <UContentToc
-        v-if="page?.body?.toc?.links?.length"
+        v-if="page?.body?.toc?.links?.length && page.body.toc.links.length > 1"
         :links="page.body.toc.links"
         class="z-[2]"
       />

@@ -14,6 +14,7 @@ export default defineContentConfig({
         serie: z.string(),
         category: z.string().optional(),
         tags: z.array(z.string()).optional(),
+        translation: z.boolean().default(false),
         image: z.object({
           src: z.string().min(1),
           alt: z.string().min(1),

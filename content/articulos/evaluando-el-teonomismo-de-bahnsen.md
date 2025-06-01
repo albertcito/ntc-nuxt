@@ -1,7 +1,8 @@
 ---
 title: "Evaluando el Teonomismo de Bahnsen"
 date: 2022-02-07
-type: 'article'
+type: article
+translation: true
 categories:
   - "teologia"
 tags:
@@ -9,10 +10,11 @@ tags:
   - "teonomia"
   - "vern-poythress"
 image:
-  src: evaluando-teonomismo.png
+  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/evaluando-teonomismo.png
+  alt: Greg Bahnsen
 ---
 
-Nota del traductor: No rechazamos el teonomismo, mas bien lo abrazamos, creemos y compartimos. Pero como todo movimiento de estudio bíblico, este debe ser examinado a la luz de la palabra. Yo adhiero firmemente a la teonomía donde la ley de Dios es el estándar para una sociedad civil, cuando lo rechazamos otra ley, otra religión, se hace el estándar; no hay escape posible. Este post solo quiere establecer el "por qué" de nuestras diferencias con Greg Bahnsen.
+Nota del traductor: No rechazamos el teonomismo, mas bien lo abrazamos, creemos y compartimos. Pero como todo movimiento de estudio bíblico, este debe ser examinado a la luz de la palabra. Yo adhiero firmemente a la teonomía donde la ley de Dios es el estándar para una sociedad civil, cuando lo rechazamos otra ley, otra religión, se hace el estándar; no hay escape posible. Este post solo quiere establecer el "porque" de nuestras diferencias con Greg Bahnsen.
 
 * * *
 
@@ -389,3 +391,7 @@ Espero que mis propias reflexiones en este libro, por imperfectas que sean, pued
 ## Nota del traductor
 
 Creo que puedo concordar casi plenamente con Vern Poythress respecto a sus desacuerdos con Bahnsen. Los desacuerdos con Poythress es en la exactitud de la interpretacion de Deut 13, donde Joel McDurmon hizo un excelente trabajo en "[A Consuming Fire](/books/consumido-por-fuego-el-lugar-santisimo-en-la-ley-biblica)" explicando con mas detalle la continuidad/descontinuidad de la ley mosaica, que te invito a leer.
+
+::note
+Extracto “[Appendix B Evaluating Theonomy](https://frame-poythress.org/ebooks/the-shadow-of-christ-in-the-law-of-moses-part-2/)”  del libro [The Shadow of Christ in the Law of Moses](https://frame-poythress.org/ebooks/the-shadow-of-christ-in-the-law-of-moses/) de Vern Sheridan Poythress.
+::
