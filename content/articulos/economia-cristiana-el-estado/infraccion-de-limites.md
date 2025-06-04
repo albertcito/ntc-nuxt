@@ -16,6 +16,7 @@ image:
   alt: Capitolio de Washington D.C.
   descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/
+  hide: true
 ---
 
 > Si alguno hiciere pastar en campo o viña, y metiere su bestia en campo de otro, de lo mejor de su campo y de lo mejor de su viña pagará. Cuando se prendiere fuego, y al quemar espinos quemare mieses amontonadas o en pie, o campo, el que encendió el fuego pagará lo quemado. (Éxodo 22: 5-6)
@@ -118,6 +119,3 @@ Tiene que haber un sistema de regulación gubernamental, que incluya la cuarente
 
 En términos del costo total del gobierno, estos son gastos menores. Las sociedades los han utilizado a lo largo de la historia. La mayoría de la gente los acepta. No existe una oposición bien organizada a su uso. En comparación con los gastos masivos del estado moderno en proyectos que están claramente prohibidos por la Biblia, estas excepciones no constituyen una amenaza para la libertad de las personas que guardan el pacto. Además, los economistas del libre mercado que negarían cualquiera de estos gastos no han desarrollado monografías completas sobre cómo el libre mercado podría alcanzar estos objetivos. Son objetivos legítimos. Los economistas del libre mercado deben enfrentarse a este hecho: no pueden vencer a algo sin nada.
 
-* * *
-
-De la seria [Economía Cristiana - El Estado](/articulos/2022-01-08-economia-cristiana-el-estado-indice)

@@ -16,6 +16,7 @@ image:
   alt: Capitolio de Washington D.C.
   descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/
+  hide: true
 ---
 
 > Levantándose, pues, aquellos varones, fueron; y mandó Josué a los que iban para delinear la tierra, diciéndoles: Id, recorred la tierra y delineadla, y volved a mí, para que yo os eche suertes aquí delante de Jehová en Silo. Fueron, pues, aquellos varones y recorrieron la tierra, delineándola por ciudades en siete partes en un libro, y volvieron a Josué al campamento en Silo. Y Josué les echó suertes delante de Jehová en Silo; y allí repartió Josué la tierra a los hijos de Israel por sus porciones. (Josué 18:8--10)
@@ -122,6 +123,3 @@ Los servicios públicos son subproductos del sistema de carreteras del estado. P
 
 No existe una teoría libertaria de las carreteras porque las carreteras no se rigen por el principio de las altas ofertas. La distribución de la tierra asociada a la construcción de una carretera no puede realizarse mediante el funcionamiento del proceso de mercado. Eso se debe al aumento del valor de mercado del terreno que queda por comprar para ampliar la carretera. El estado puede comprar la tierra requerida de todos los participantes a una tarifa plana. Esto no es posible para una empresa con ánimo de lucro.
 
-* * *
-
-De la seria [Economía Cristiana - El Estado](/articulos/2022-01-08-economia-cristiana-el-estado-indice)

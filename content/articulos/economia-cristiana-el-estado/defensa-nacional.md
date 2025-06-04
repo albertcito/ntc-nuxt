@@ -1,5 +1,6 @@
 ---
 title: Defensa Nacional
+description: "La ley mosaica y los límites de la guerra: una perspectiva bíblica sobre la defensa, el voluntariado y el antiimperialismo"
 date: 2022-01-04
 type: 'subseries'
 serie: economia-cristiana-el-estado
@@ -16,6 +17,7 @@ image:
   alt: Capitolio de Washington D.C.
   descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/
+  hide: true
 ---
 
 > Y cuando saliereis a la guerra en vuestra tierra contra el enemigo que os molestare, tocaréis alarma con las trompetas; y seréis recordados por Jehová vuestro Dios, y seréis salvos de vuestros enemigos. (Numeros 10:9)
@@ -100,6 +102,3 @@ La ley mosaica puso límites a la expansión del sistema de defensa nacional del
 
 La teoría judicial cristiana enseña que el estado tiene una función legítima para llevar a cabo la guerra. La defensa nacional es un gasto fiscal legítimo. Pero la autoridad del estado no es ilimitada. Los varones tienen derecho a rechazar la llamada para servir en las fuerzas armadas. Tienen derecho a vetar ese llamamiento en sus propias vidas. Mises estaba equivocado cuando escribió esto: "Aquel que en nuestra época se opone a los armamentos y al servicio militar obligatorio es, tal vez sin que él lo sepa, un cómplice de aquellos que apuntan a la esclavitud de todos".
 
-* * *
-
-De la seria [Economía Cristiana - El Estado](/articulos/2022-01-08-economia-cristiana-el-estado-indice)

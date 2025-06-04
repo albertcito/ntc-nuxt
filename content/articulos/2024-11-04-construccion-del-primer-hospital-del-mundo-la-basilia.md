@@ -1,8 +1,11 @@
 ---
-title: "Construcción del primer hospital del mundo: La Basilia"
+title: "Construcción del primer hospital del mundo"
+description: "La Basilia: La visión de San Basilio para el primer hospital del mundo y la justicia social en la Capadocia del siglo IV"
 date: 2024-11-04
 type: article
-translation: true
+translation:
+  summary: "Artículo original “Reconstructing the world’s first hospital: The Basiliad” por Thomas Heyne."
+  url: https://hekint.org/2017/02/24/reconstructing-the-worlds-first-hospital-the-basiliad/
 categories:
   - "historia"
 tags:

@@ -56,6 +56,7 @@ const { data: total } = await useAsyncData('total', () => queryCollection(collec
           v-bind="post"
           :to="post.path"
           :image="post.image.src.substring(0, 4) === 'http' ? post.image.src : `${imagePath}/${post.image.src}`"
+          :badge="post.type === 'series' ? 'Serie' : undefined"
         />
       </UBlogPosts>
       <UPagination

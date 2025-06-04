@@ -16,6 +16,7 @@ image:
   alt: Capitolio de Washington D.C.
   descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/
+  hide: true
 ---
 
 > La misma ley será para el natural, y para el extranjero que habitare entre vosotros. (Exodo 12:49)
@@ -126,6 +127,3 @@ La gente está dispuesta a soportar injusticias menores si puede lograr la paz. 
 
 La tiranía tiene límites incorporados: fronteras. Esto no es visible para quienes viven en sociedades tiránicas, pero los regímenes tiránicos no sobreviven. El mundo social es un mundo creado y Dios está a cargo de él. Lo ha creado de tal manera que hay limitaciones inherentes a la extensión del poder estatal. La famosa declaración de 1887 de Lord Acton es inteligente: "Todo poder corrompe y el poder absoluto corrompe absolutamente". Era una frase en una carta privada. Es incorrecto. No todo el poder corrompe, si por poder nos referimos a la autoridad delegada. Además, mucho antes de que el poder político se vuelva absoluto, su propia corrupción lo socava. Dios tiene poder absoluto; nadie más lo hace. Dios es digno de confianza. El poder absoluto no lo corrompe. La búsqueda del poder absoluto por parte de los que rompen el pacto siempre resulta contraproducente. No conozco ninguna obra literaria del mundo antiguo que compita con el capítulo quinto de Amós en este sentido. Si alguna vez siente la tentación de desesperarse por la deriva de la política, lea ese capítulo. Mientras tanto, este es nuestro mandamiento: "Pero corra el juicio como las aguas, y la justicia como impetuoso arroyo." (Amós 5:24). Aquí está el resultado bíblico del quebrantamiento sistemático del pacto por parte de los que tienen poder: "La palabra, pues, de Jehová les será mandamiento tras mandamiento, mandato sobre mandato, renglón tras renglón, línea sobre línea, un poquito allí, otro poquito allá; hasta que vayan y caigan de espaldas, y sean quebrantados, enlazados y presos."(Isaías 28:13).
 
-* * *
-
-De la seria [Economía Cristiana - El Estado](/articulos/2022-01-08-economia-cristiana-el-estado-indice)

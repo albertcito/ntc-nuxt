@@ -1,5 +1,6 @@
 ---
 title: "¿La Biblia aprueba el Homosexualismo 🏳️‍🌈?"
+description: "Análisis Bíblico sobre la homosexualidad: Perspectivas y debates en torno al contexto histórico cultura y la interpretación de textos clave"
 date: 2023-11-15
 type: article
 categories:
@@ -14,6 +15,7 @@ image:
   src: lgtb-church.jpg
   alt: Una bandera LGTB que cuelga de una iglesia local de Boston en apoyo del matrimonio homosexual y los derechos civiles
   cc: https://www.flickr.com/photos/b-tal/65347879
+  descr: Bandera LGTB que cuelga de una iglesia local de Boston
 ---
 
 En 2017 vine por primera vez a EEUU al Estado de Massachusetts, vi algo muy raro para mí: La mayoría de las iglesias grandes y hermosas tenían la bandera 🏳️‍🌈 LGTB. Fui a una iglesia luterana (ELCA), muchos de ellos creen firmemente que el estilo de vida LGTB es totalmente compatible con las escrituras. Después de eso en la iglesia a la que comencé a asistir (ECC) los pastores no se ponen de acuerdo por lo que se aceptaron ambas posiciones \[realmente significa que la iglesia será pro-LGBT\]. Por eso escribí este artículo evaluando si esa postura es bíblica o no.

@@ -16,6 +16,7 @@ image:
   alt: Capitolio de Washington D.C.
   descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/
+  hide: true
 ---
 
 > Si hubiere pleito entre algunos, y acudieren al tribunal para que los jueces los juzguen, éstos absolverán al justo, y condenarán al culpable.  Y si el delincuente mereciere ser azotado, entonces el juez le hará echar en tierra, y le hará azotar en su presencia; según su delito será el número de azotes.  Se podrá dar cuarenta azotes, no más; no sea que, si lo hirieren con muchos azotes más que éstos, se sienta tu hermano envilecido delante de tus ojos. (Deuteronomio 25: 1-3)
@@ -34,6 +35,3 @@ Es una buena idea que un economista cristiano comprenda lo que enseña la Biblia
 
 Convencer a las personas para que cambien su perspectiva suele ser una tarea infructuosa. Es caro cambiar incluso una idea. Esta regla es cierta: no podemos cambiar solo una cosa. Esto es especialmente cierto en el caso de las ideas, al menos para las personas que se toman las ideas en serio. Nuestra primera tarea es siempre cambiar nuestras propias ideas. Tenemos que calcular el costo. Luego tenemos que desarrollar materiales educativos que sientan las bases para que otras personas cambien sus ideas cuando sea el momento adecuado. La palabra griega del Nuevo Testamento para ese tiempo es kairos. Se contrasta con cronos. Chronos se trata de calendarios. Kairos trata sobre momentos especiales de oportunidad. Se unifican en momentos únicos de cambios significativos.
 
-* * *
-
-De la seria [Economía Cristiana - El Estado](/articulos/2022-01-08-economia-cristiana-el-estado-indice)

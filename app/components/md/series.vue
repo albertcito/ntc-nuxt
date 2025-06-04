@@ -14,11 +14,16 @@ const { data } = await useAsyncData(
 </script>
 
 <template>
-  <UBlogPost
-    v-for="(post, index) in data"
-    :key="index"
-    :to="post.path"
-    :title="post.title"
-    orientation="horizontal"
-  />
+  <div class="flex flex-col gap-4">
+    <UBlogPost
+      v-for="(post, index) in data"
+      :key="index"
+      :to="post.path"
+      :title="post.title"
+      :description="post.description"
+      :ui="{
+        body: 'sm:p-4 justify-center'
+      }"
+    />
+  </div>
 </template>

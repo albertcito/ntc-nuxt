@@ -26,3 +26,4 @@ Acabamos de traducir la sección del Estado del volumen 4 de la obra magna de Ga
 
 ::MdSeries{ serie="economia-cristiana-el-estado" }
 ::
+

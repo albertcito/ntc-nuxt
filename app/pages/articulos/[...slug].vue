@@ -3,6 +3,7 @@ import dayjs from 'dayjs'
 import type { ContentNavigationItem } from '@nuxt/content'
 
 import { findPageBreadcrumb, mapContentNavigation } from '#ui-pro/utils'
+import { ArticleHeaderBar } from '#components'
 
 definePageMeta({ layout: 'docs' })
 
@@ -20,57 +21,55 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
     <UPageHeader
       :ui="{ root: 'border-none' }"
       :title="page.title"
+      :description="page.description"
     >
       <template #headline>
         <UBreadcrumb :items="breadcrumb" />
       </template>
-
-      <template v-if="page.date" #description>
-        {{ dayjs(page.date).format('MMMM D, YYYY') }}
-      </template>
     </UPageHeader>
 
-    <SeriesParent v-if="page.serie" :serie="page.serie" />
-
-    <UPageBody class="mt-0">
-      <figure v-if="page.image" class="mb-4">
-        <div class="relative">
-          <img
-            :src="page.image.src.substring(0, 4) === 'http'
-              ? page.image.src
-              :`/img/articulos/${page.image.src}`"
-            :alt="page.image.alt"
-            class="w-full rounded-lg object-cover object-center"
-          >
-          <UButton
-            v-if="page.image.cc"
-            icon="i-lucide-info"
-            size="sm"
-            color="neutral"
-            variant="soft"
-            :href="page.image.cc"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="absolute bottom-2 right-2 opacity-30 hover:opacity-100 p-0.5"
-            title="Creditos de la imagen"
-            aria-label="Creditos de la imagen"
-          />
-        </div>
-        <figcaption class="text-sm text-neutral-500 text-right">
-          <span>
-            {{ page.image.descr }}
-          </span>
-        </figcaption>
-      </figure>
-      <UPageBody>
-        <ContentRenderer
-          v-if="page.body"
-          :value="page"
-          :prose="true"
-          class="text-xl font-karma max-w-2xl lg:ml-20"
+    <div>
+      <ArticleHeaderBar
+        :date="page.date"
+        :translation="page.translation"
+      />
+      <div class="bg-elevated/50 p-1">
+        <Image
+          v-if="page.image && !page.image.hide"
+          :src="page.image.src"
+          :alt="page.image.alt"
+          :cc="page.image.cc"
+          :descr="page.image.descr"
         />
-        <USeparator />
-      </UPageBody>
+      </div>
+    </div>
+
+    <UPageBody class="space-y-0 mt-0">
+      <div class="sm:flex gap-4">
+        <div class="max-w-2xl flex flex-col gap-8">
+          <ContentRenderer
+            v-if="page.body"
+            :value="page"
+            :prose="true"
+            class="text-xl font-karma"
+          />
+          <ArticleParent
+            v-if="page.serie"
+            :serie="page.serie"
+          />
+          <div class="sm:hidden flex justify-center items-center bg-(--ui-bg-muted)">
+            <ArticleShareIcons
+              :url="`${route.path}`"
+              :text="page.title"
+              hide-label
+              tooltip
+            />
+          </div>
+        </div>
+        <div class="hidden sm:block">
+          <ArticleShareVertical :url="`${route.path}`" :text="page.title" />
+        </div>
+      </div>
     </UPageBody>
     <template #right>
       <UContentToc
