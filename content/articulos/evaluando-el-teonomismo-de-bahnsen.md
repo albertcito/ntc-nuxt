@@ -7,6 +7,7 @@ translation:
   summary: "Extracto \"Appendix B Evaluating Theonomy\" del libro \"The Shadow of Christ in the Law of Moses\" de Vern Sheridan Poythress"
   url: https://frame-poythress.org/ebooks/the-shadow-of-christ-in-the-law-of-moses/
   by: albert
+author: vern-poythress
 category: teologia
 tags:
   - "greg-bahnsen"
@@ -15,7 +16,6 @@ tags:
 image:
   src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/evaluando-teonomismo.png
   alt: Greg Bahnsen
-author: vern-poythress
 ---
 
 Las culturas estadounidense y europea están perdiendo sus raíces en la Biblia. Como resultado, la cultura se está desintegrando y los pecados y sufrimientos terribles surgen a nuestro alrededor. ¿Qué se puede hacer para detener este declive? El movimiento llamado “reconstrucción cristiana” encuentra la respuesta en el regreso a la Biblia como nuestro estándar para toda la vida. La reconstrucción cristiana está teniendo actualmente un gran impacto en los círculos evangélicos e incluso más allá en el mundo secular. ¿Cómo lo evaluaremos?
