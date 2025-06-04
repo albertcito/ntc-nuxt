@@ -1,8 +1,11 @@
 ---
 title: "Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar"
+description: "Desmiente afirmaciones sensacionalistas: mini serie que te empodera a comprender y defender la verdad bíblica con confianza, equiparándote para cualquier debate"
 date: 2022-02-12
 type: series
-translation: true
+translation:
+  summary: "Artículo \"New Blog Series: Ten Basic Facts about the NT Canon Every Christian Should Memorize\" escrito por Michael J. Kruger c"
+  url: https://michaeljkruger.com/new-blog-series-ten-basic-facts-about-the-nt-canon-every-christian-should-memorize/
 categories:
   - "apologetica"
 tags:

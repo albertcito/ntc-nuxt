@@ -11,11 +11,14 @@ const { url, text } = defineProps<{
 }>()
 
 const copied = ref(false)
+const interval = ref<NodeJS.Timeout | null>(null)
 function onCopy() {
+  if (interval.value) {
+    clearTimeout(interval.value)
+  }
   navigator.clipboard.writeText(url)
   copied.value = true
-
-  setTimeout(() => {
+  interval.value = setTimeout(() => {
     copied.value = false
   }, 2000)
 }
