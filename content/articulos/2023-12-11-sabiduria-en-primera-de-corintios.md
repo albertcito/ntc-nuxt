@@ -3,9 +3,7 @@ title: "Sabiduría en Primera de Corintios"
 date: 2023-12-11
 type: article
 translation: true
-categories:
-  - "apologetica"
-  - "teologia"
+category: "apologetica"
 tags:
   - "apologetica"
   - "gordon-clark"

@@ -3,13 +3,13 @@ title: "3. Los libros del Nuevo Testamento son únicos porque son libros apostó
 date: 2022-02-12 15:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 Uno de los hechos más básicos sobre el canon del Nuevo Testamento que todos los cristianos deben entender es que el canon está íntimamente conectado con las actividades de los apóstoles.
@@ -27,7 +27,3 @@ De hecho, la dependencia abierta de la iglesia de los escritos apostólicos es p
 Por supuesto, algunos eruditos modernos disputan la autoría apostólica de algunos de los libros del Nuevo Testamento, alegando que fueron escritos por autores posteriores que solo pretendían ser los apóstoles. Sin embargo, estas afirmaciones no están probadas de ninguna manera, y muchos otros estudiosos las disputan. Además, no debe olvidarse que la iglesia primitiva estaba en una mejor posición para determinar la autoría y los orígenes de estos libros que los eruditos modernos dos mil años después.
 
 Al final, el canon del Nuevo Testamento existe debido a una creencia cristiana primitiva de que los apóstoles hablaban por Cristo. Esa creencia llevó a los cristianos a valorar los libros apostólicos. Y esos libros apostólicos eventualmente formaron el Nuevo Testamento que conocemos hoy.
-
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

@@ -4,10 +4,9 @@ description: "Desmiente afirmaciones sensacionalistas: mini serie que te empoder
 date: 2022-02-12
 type: series
 translation:
-  summary: "Artículo \"New Blog Series: Ten Basic Facts about the NT Canon Every Christian Should Memorize\" escrito por Michael J. Kruger c"
+  summary: "Artículo \"New Blog Series: Ten Basic Facts about the NT Canon Every Christian Should Memorize\" escrito por Michael J. Kruger"
   url: https://michaeljkruger.com/new-blog-series-ten-basic-facts-about-the-nt-canon-every-christian-should-memorize/
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
@@ -18,6 +17,7 @@ image:
   alt: Evangelio de Juan - Codex Sinaiticus
   descr: Evangelio de Juan - Codex Sinaiticus
   cc: https://codexsinaiticus.org/en/manuscript.aspx?book=36&lid=en&side=r&zoomSlider=0#36-1-1-5
+author: michael-kruger
 ---
 
 Cada cierto tiempo suelen haber afirmaciones sensacionales, hechas por eruditos o laicos, de que se ha descubierto algo definitivamente “nuevo” sobre el Jesús histórico. Como por ejemplo, el llamado Evangelio de la esposa de Jesús fue "descubierto" y supuestamente enseñó que Jesús tenía una esposa, el Evangelio de Judas y se dijo que los Evangelios tradicionales pueden no haber dado toda la historia. Y, por supuesto, todos recordamos el fenómeno del Código Da Vinci y más.

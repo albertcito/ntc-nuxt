@@ -3,13 +3,13 @@ title: "7. Los primeros cristianos solían utilizar escritos no canónicos"
 date: 2022-02-12 19:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 Para los cristianos que luchan por comprender el desarrollo del canon del Nuevo Testamento, uno de los hechos más confusos (y quizás preocupantes) es que los primeros escritores cristianos a menudo citaron y usaron escritos no canónicos. En otras palabras, los primeros cristianos no solo usaban libros de nuestro Nuevo Testamento actual, sino que también leían libros como el Pastor de Hermas, el Evangelio de Pedro y la Epístola de Bernabé.
@@ -32,6 +32,3 @@ J.A. Brooks, por ejemplo, ha observado que Clemente cita los libros canónicos �
 
 En resumen, los cristianos deben memorizar este simple hecho sobre el canon del Nuevo Testamento: los primeros cristianos usaron muchos otros libros además de los que se incluyeron en nuestras Biblias. Pero esto no debería sorprendernos. Porque, de hecho, todavía hacemos lo mismo hoy a pesar de que tenemos un Nuevo Testamento que ha sido establecido por más de 1600 años.
 
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

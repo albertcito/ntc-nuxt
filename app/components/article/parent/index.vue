@@ -17,7 +17,9 @@ const { data: page } = await useAsyncData(
     date="Este artículo es parte de la serie:"
     :title="page.title"
     :image="{
-      src: page.image.src,
+      src: page.image.src.substring(0, 4) === 'http'
+        ? page.image.src
+        :`/img/articulos/${page.image.src}`,
       alt: page.image.alt
     }"
     :to="path"

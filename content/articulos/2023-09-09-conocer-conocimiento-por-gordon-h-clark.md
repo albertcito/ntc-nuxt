@@ -3,8 +3,7 @@ title: "Conocer, conocimiento por Gordon H. Clark"
 date: 2023-09-09
 type: article
 translation: true
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "gordon-clark"

@@ -1,15 +1,19 @@
 ---
 title: "2. Todos los escritos apócrifos están escritos en el siglo II o más tarde"
+description: "Descubre por qué los escritos apócrifos, al ser del siglo II o posteriores, carecen de la fiabilidad del Nuevo Testamento. Entiende por qué no ofrecen una versión más auténtica del cristianismo."
+translation:
+  summary: "Artículo \"Apocryphal Writings are All Written in the Second Century or Later\" escrito por Michael J. Kruger"
+  url: https://michaeljkruger.com/ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize-2-apocryphal-writings-are-all-written-in-the-second-century-or-later/
 date: 2022-02-12 14:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 En la publicación anterior, discutimos el primer hecho básico sobre el canon del Nuevo Testamento, a saber, que los escritos del Nuevo Testamento son los primeros textos cristianos que poseemos. Tuvimos cuidado de dejar en claro que la fecha temprana de estos libros no los hace canónicos, pero la fecha temprana muestra que estos libros fueron escritos durante un período de tiempo cuando los testigos oculares de Jesús todavía estaban vivos.
@@ -29,7 +33,3 @@ Por un lado, sabemos que muchos de estos escritos apócrifos son falsificaciones
 Para ser claros, esto no sugiere que sea imposible, en principio, que una escritura apócrifa sea del primer siglo (es solo que aún no hemos encontrado ninguna). Esto tampoco sugiere que los escritos apócrifos no pudieran (o no contengan) nunca una tradición confiable de Jesús. Sabemos que los primeros cristianos a veces apelaron a los evangelios apócrifos por contener algún material verdadero (más sobre esto en una publicación posterior). Pero, y este es el punto clave, los fragmentos de literatura apócrifa que pueden ser confiables no presentan una versión del cristianismo que no esté sincronizada con lo que encontramos en los libros del Nuevo Testamento, y ciertamente no están en posición de reemplazar lo que que encontramos en los libros del Nuevo Testamento.
 
 Al final, los escritos apócrifos constituyen una fuente interesante y fascinante para el estudio del cristianismo primitivo. Pero, en gran parte debido a su fecha tardía, no ofrecen una versión más convincente del cristianismo que los propios escritos del Nuevo Testamento.
-
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

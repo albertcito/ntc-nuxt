@@ -3,9 +3,7 @@ title: "La imagen de Dios en el hombre"
 date: 2023-04-06
 type: article
 translation: true
-categories:
-  - "apologetica"
-  - "teologia"
+category: "apologetica"
 tags:
   - "apologetica"
   - "gordon-clark"

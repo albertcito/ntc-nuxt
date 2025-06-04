@@ -3,13 +3,13 @@ title: "4. Algunos escritores del NT citan a otros escritores del NT como Escrit
 date: 2022-02-12 16:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 Uno de los temas más controvertidos en el estudio del canon del Nuevo Testamento es la fecha en que estos libros fueron considerados Escritura. ¿Cuándo se utilizaron por primera vez estos libros como guía autorizada para la iglesia? Los eruditos críticos argumentarán que estos libros no fueron escritos para ser Escritura y ni siquiera se usaron como Escritura hasta fines del siglo II.
@@ -31,7 +31,3 @@ Aunque Pablo podría estar citando algún evangelio apócrifo desconocido (que r
 Por supuesto, debido a que estos dos pasajes parecen citar otros libros del NT como Escritura, los eruditos han argumentado que estos libros son falsificaciones, y tienen una fecha tardía probablemente alrededor del cambio de siglo (c.100). No podemos ahondar aquí en estos debates académicos, pero cabe señalar que estos debates no están resueltos de ninguna manera. Además, incluso si se concede la fecha tardía de estos libros (por el bien de la argumentación), eso todavía coloca la fecha del canon en un momento notablemente temprano.
 
 Si los escritores del NT estaban citando a otros escritores del NT como Escritura, entonces eso sugiere que el canon no fue un desarrollo eclesiástico posterior, sino algo temprano e innato de la fe cristiana primitiva. Y ese es un hecho básico que todos los cristianos deberían saber.
-
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

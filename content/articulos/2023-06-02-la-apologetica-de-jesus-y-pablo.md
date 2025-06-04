@@ -3,8 +3,7 @@ title: "La apologética de Jesús y Pablo"
 date: 2023-06-02
 type: article
 translation: true
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "gordon-clark"

@@ -3,13 +3,13 @@ title: "6. A fines del siglo II, el Fragmento Muratoriano enumera 22 de nuestros
 date: 2022-02-12 18:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 Esta serie está diseñada para presentar a los cristianos laicos los hechos básicos de cómo se desarrolló el canon del Nuevo Testamento. Uno de los puntos de datos clave en cualquier discusión sobre el canon es algo llamado el fragmento de Muratorian (también conocido como el canon de Muratorian). Este fragmento, que lleva el nombre de su descubridor Ludovico Antonio Muratori, contiene nuestra lista más antigua de los libros del Nuevo Testamento. Si bien el fragmento en sí data del siglo VII o VIII, la lista que contiene se escribió originalmente en griego y se remonta a finales del siglo II (c. 180).
@@ -29,7 +29,3 @@ En segundo lugar, si había una colección central de libros del Nuevo Testament
 Por lo tanto, el fragmento de Muratorian se erige como un recordatorio de dos hechos importantes. Primero, los cristianos no estaban de acuerdo con los libros de vez en cuando. Eso fue inevitable, particularmente en las primeras etapas. Pero esta lista también nos recuerda un segundo hecho (y más fundamental), a saber, que hubo un acuerdo generalizado sobre el núcleo desde muy temprano.
 
 \[1\] Verheyden, "Canon Muratori", 556.
-
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

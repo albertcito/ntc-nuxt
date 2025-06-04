@@ -3,8 +3,7 @@ title: "Reflexiones sobre la apologética cristiana de Gordon H. Clark – E. Ca
 date: 2022-05-28
 type: article
 translation: true
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "calvin-beisner"
   - "cornelius-van-til"

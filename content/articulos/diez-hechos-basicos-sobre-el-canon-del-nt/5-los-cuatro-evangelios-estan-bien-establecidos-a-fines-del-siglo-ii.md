@@ -3,13 +3,13 @@ title: "5. Los cuatro evangelios están bien establecidos a fines del siglo II"
 date: 2022-02-12 17:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 Cuando se trata de hechos básicos sobre el canon del NT que los cristianos deben memorizar, uno de los más críticos es la declaración de Ireneo, obispo de Lyon, alrededor del año 180 d.C.: “No es posible que los evangelios puedan ser más o menos que los número que son. Porque, dado que hay cuatro zonas del mundo en las que vivimos y cuatro vientos principales ... \[y\] los querubines también tenían cuatro caras ”. \[1\]
@@ -44,6 +44,3 @@ Al final, existen amplias razones para rechazar la idea de que Ireneo fue el inv
 
 \[7\] Haer 3.1.1.
 
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

@@ -3,13 +3,13 @@ title: "10. Los primeros cristianos creían que los libros canónicos se autoaut
 date: 2022-02-12 22:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 ¿Cómo sabemos qué libros son de Dios y cuáles no? Hay muchas respuestas a esa pregunta, algunas de las cuales hemos cubierto en publicaciones anteriores. Ciertamente, los orígenes apostólicos de un libro pueden ayudar a identificarlo como proveniente de Dios. Y, el consenso general de la iglesia sobre un libro puede ser parte de cómo lo identificamos como proveniente de Dios.
@@ -43,7 +43,3 @@ Además, no es tan diferente de la realidad de que algunas personas son sordas a
 Al final, los padres de la iglesia nos enseñan una verdad muy importante. El canon del NT que poseemos hoy no se debe a las maquinaciones de los líderes eclesiásticos posteriores, ni a la influencia política de Constantino, sino al hecho de que estos libros se impusieron en la iglesia a través de sus cualidades internas.
 
 O, como solía decir el profesor de Harvard Arthur Darby Nock sobre la formación del canon: “Las carreteras más transitadas de Europa son las mejores; por eso viajan tanto ”. \[9\]
-
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

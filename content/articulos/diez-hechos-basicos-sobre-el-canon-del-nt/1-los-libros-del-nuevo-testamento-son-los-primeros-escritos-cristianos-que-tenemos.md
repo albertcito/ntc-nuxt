@@ -1,15 +1,19 @@
 ---
 title: "1. Los libros del Nuevo Testamento son los primeros escritos cristianos que tenemos"
+description: "Descubre por qué los libros del Nuevo Testamento son nuestros escritos cristianos más antiguos y confiables, conectándonos directamente con Jesús y la iglesia primitiva."
+translation:
+  summary: "Artículo \"The New Testament Books are the Earliest Christian Writings We Possess\" escrito por Michael J. Kruger"
+  url: https://michaeljkruger.com/ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize-1-the-new-testament-books-are-the-earliest-christian-writings-we-possess/
 date: 2022-02-12 13:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 Esta nueva serie de blogs está diseñada para ayudar al creyente a aprender algunos hechos básicos sobre el canon del Nuevo Testamento, el tipo de hechos que pueden ser útiles en una conversación con un amigo escéptico o inquisitivo. El primero de estos hechos es tan básico que a menudo se pasa por alto. Es simplemente que los libros del Nuevo Testamento son los primeros escritos cristianos que poseemos.
@@ -25,7 +29,3 @@ En segundo lugar, algunos pueden señalar que 1 Clemente es un escrito cristiano
 Para ser claros, no estamos argumentando aquí que los libros sean canónicos simplemente porque tengan una fecha del primer siglo. En el primer siglo existieron otros escritos cristianos que no eran canónicos, y tal vez descubramos algunos de ellos en el futuro. Nuestro punto no es que todos los libros del primer siglo sean canónicos, sino que todos nuestros libros canónicos son del primer siglo. Y ese es un punto que vale la pena destacar.
 
 Al final, todo cristiano debería recordar un hecho básico, a saber, que los libros del Nuevo Testamento son distintivos porque, en términos generales, son los primeros escritos cristianos que poseemos. Ninguno es anterior. Si es así, entonces parece que los libros incluidos en el Nuevo Testamento no son tan arbitrarios como algunos quieren hacernos creer. Al contrario, parece que estos son precisamente los libros que incluiríamos si quisiéramos acceder al cristianismo auténtico.
-
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

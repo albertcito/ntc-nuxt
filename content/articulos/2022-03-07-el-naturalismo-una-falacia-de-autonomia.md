@@ -3,8 +3,7 @@ title: "El Naturalismo: Una Falacia de Autonomía"
 date: 2022-03-07
 type: article
 translation: true
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "joel-mcdurmon"

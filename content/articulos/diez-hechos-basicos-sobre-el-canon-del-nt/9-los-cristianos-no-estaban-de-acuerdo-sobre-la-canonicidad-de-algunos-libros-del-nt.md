@@ -3,13 +3,13 @@ title: "9. Los cristianos no estaban de acuerdo sobre la canonicidad de algunos 
 date: 2022-02-12 21:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 Cuando se trata de hechos básicos que todos los cristianos deben conocer sobre el canon, es importante que reconozcamos que el desarrollo del canon no siempre fue limpio y ordenado. No fue un proceso prístino y sin problemas en el que todos estuvieron de acuerdo en todo desde el principio.
@@ -39,7 +39,3 @@ Pero, más aún, tenemos buenas razones para pensar que alguna disputa entre cri
 Siempre que alguien muestra angustia por estos primeros desacuerdos canónicos, a menudo hago una pregunta simple: "¿Cómo esperabas que fuera el proceso?" Es en este punto que las personas a menudo se dan cuenta de que tienen una expectativa demasiado prístina sobre cómo Dios entregaría sus libros, una expectativa que es completamente suya y no deriva de las Escrituras o de la historia.
 
 Todo esto nos recuerda que Dios a veces usa procesos históricos normales para lograr sus fines. Y esos procesos históricos no siempre son pulcros y prolijos. Pero, esto no debe restar valor a la realidad de que los fines siguen siendo de Dios.
-
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).

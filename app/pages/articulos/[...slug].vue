@@ -33,9 +33,8 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
         :date="page.date"
         :translation="page.translation"
       />
-      <div class="bg-elevated/50 p-1">
+      <div v-if="page.image && !page.image.hide" class="bg-elevated/50 px-1">
         <Image
-          v-if="page.image && !page.image.hide"
           :src="page.image.src"
           :alt="page.image.alt"
           :cc="page.image.cc"

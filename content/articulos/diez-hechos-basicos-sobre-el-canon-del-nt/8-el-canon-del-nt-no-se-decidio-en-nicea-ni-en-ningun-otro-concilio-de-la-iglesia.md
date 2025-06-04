@@ -3,13 +3,13 @@ title: "8. El canon del NT no se decidió en Nicea, ni en ningún otro concilio 
 date: 2022-02-12 20:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
-categories:
-  - "apologetica"
+category: "apologetica"
 tags:
   - "apologetica"
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
+author: michael-kruger
 ---
 
 Por alguna serie de razones, existe una creencia generalizada (Internet, libros populares) de que el canon del Nuevo Testamento se decidió en el Concilio de Nicea en el 325 d.C., bajo la influencia conspirativa de Constantino. El hecho de que esta afirmación se haya hecho en el best-seller de Dan Brown, El Código Da Vinci, muestra lo generalizado que está realmente. Brown no se inventó esta creencia; simplemente lo usó en su libro.
@@ -27,7 +27,3 @@ Esto plantea un hecho importante sobre el canon del Nuevo Testamento que todo cr
 Lo mismo ocurrió con el canon del Antiguo Testamento. Jesús mismo usó y citó los escritos del Antiguo Testamento sin ninguna indicación en ninguna parte de que hubiera incertidumbre sobre a qué libros pertenecían. De hecho, responsabilizó a su audiencia por conocer estos libros. Pero, en todo esto, no hubo un concilio de la iglesia del Antiguo Testamento que los escogiera oficialmente (ni siquiera Jamnia). Ellos también fueron el resultado de un consenso antiguo y generalizado.
 
 Al final, ciertamente podemos reconocer que los humanos jugaron un papel en el proceso canónico. Pero no el papel que se les atribuye tan comúnmente. Los humanos no determinaron el canon, respondieron a él. En este sentido, podemos decir que el canon realmente se eligió a sí mismo.
-
-* * *
-
-De la serie [Diez hechos básicos sobre el canon del NT que todo cristiano debe memorizar](/articulos/diez-hechos-basicos-sobre-el-canon-del-nt-que-todo-cristiano-debe-memorizar).
