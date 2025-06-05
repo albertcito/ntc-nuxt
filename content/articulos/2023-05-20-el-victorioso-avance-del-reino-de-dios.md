@@ -3,8 +3,7 @@ title: "El victorioso avance del Reino de Dios"
 date: 2023-05-20
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "escatologia"
   - "matthew-belleville"

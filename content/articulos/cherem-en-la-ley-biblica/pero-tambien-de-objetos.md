@@ -3,8 +3,7 @@ title: "\"Guerra Santa\" (pero también de objetos)"
 date: 2022-02-02
 type: subseries
 serie: cherem-en-la-ley-biblica
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "antiguo-testamento"
   - "cherem"

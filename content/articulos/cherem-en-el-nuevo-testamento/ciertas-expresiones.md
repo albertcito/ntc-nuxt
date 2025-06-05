@@ -3,8 +3,7 @@ title: "Ciertas expresiones"
 date: 2022-02-04
 type: subseries
 serie: cherem-en-el-nuevo-testamento
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "cherem"
   - "joel-mcdurmon"

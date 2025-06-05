@@ -3,8 +3,7 @@ title: "Acercarse a Dios ¿Por qué hay un lugar santísimo?"
 date: 2022-02-01
 type: subseries
 serie: cherem-introduccion
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "cherem"
   - "joel-mcdurmon"

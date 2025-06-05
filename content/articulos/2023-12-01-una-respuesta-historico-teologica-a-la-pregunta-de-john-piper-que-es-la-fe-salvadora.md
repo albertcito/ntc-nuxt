@@ -3,8 +3,7 @@ title: "Una respuesta histórico-teológica a la pregunta de John Piper ¿Qué e
 date: 2023-12-01
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "evangelio"
   - "fe-sola"

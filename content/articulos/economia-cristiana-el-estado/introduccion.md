@@ -3,8 +3,7 @@ title: Introducción
 date: 2022-01-01
 type: 'subseries'
 serie: economia-cristiana-el-estado
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "burocracia"
   - "economia"

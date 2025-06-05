@@ -1,9 +1,8 @@
 <script setup lang="ts">
-import dayjs from 'dayjs'
 import type { ContentNavigationItem } from '@nuxt/content'
 
 import { findPageBreadcrumb, mapContentNavigation } from '#ui-pro/utils'
-import { ArticleHeaderBar } from '#components'
+import { ArticleCategory, ArticleHeaderBar } from '#components'
 
 definePageMeta({ layout: 'docs' })
 
@@ -33,7 +32,10 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
         :date="page.date"
         :translation="page.translation"
       />
-      <div v-if="page.image && !page.image.hide" class="bg-elevated/50 px-1">
+      <div
+        v-if="page.image && !page.image.hide"
+        :class="['bg-elevated/50 px-2', { 'pb-2': !page.image.descr }]"
+      >
         <Image
           :src="page.image.src"
           :alt="page.image.alt"
@@ -71,11 +73,34 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
       </div>
     </UPageBody>
     <template #right>
-      <UContentToc
-        v-if="page?.body?.toc?.links?.length && page.body.toc.links.length > 1"
-        :links="page.body.toc.links"
-        class="z-[2]"
-      />
+      <div>
+        <UContentToc
+          v-if="page?.body?.toc?.links?.length && page.body.toc.links.length > 1"
+          :links="page.body.toc.links"
+          class="z-[2]"
+          highlight
+          highlight-color="neutral"
+          color="neutral"
+        >
+          <template #bottom>
+            <USeparator v-if="page.body?.toc?.links?.length" type="dashed" />
+
+            <div>
+              {{ page.category ? 'Categoría: ' + page.category : '' }}
+              <ArticleCategory
+                v-if="page.category"
+                :category="page.category"
+                :tags="page.tags ?? []"
+                :path="route.path"
+              />
+            </div>
+
+            <USeparator type="dashed" />
+
+            <AdsCarbon />
+          </template>
+        </UContentToc>
+      </div>
     </template>
   </UPage>
 </template>

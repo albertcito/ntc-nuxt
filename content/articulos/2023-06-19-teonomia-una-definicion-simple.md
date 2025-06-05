@@ -3,8 +3,7 @@ title: "Teonomía: Una definición simple"
 date: 2023-06-19
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "joel-mcdurmon"
   - "teonomia"

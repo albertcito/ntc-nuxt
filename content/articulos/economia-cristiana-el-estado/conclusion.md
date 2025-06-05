@@ -3,8 +3,7 @@ title: Conclusión
 date: 2022-01-07
 type: 'subseries'
 serie: economia-cristiana-el-estado
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "burocracia"
   - "economia"

@@ -3,8 +3,7 @@ title: "¿Prohíbe la escritura el interés?"
 date: 2023-07-13
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "economia"
   - "gary-north"

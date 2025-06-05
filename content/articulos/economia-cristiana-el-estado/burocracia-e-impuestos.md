@@ -3,8 +3,7 @@ title: Burocracia e Impuestos
 date: 2022-01-03
 type: 'subseries'
 serie: economia-cristiana-el-estado
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "burocracia"
   - "economia"

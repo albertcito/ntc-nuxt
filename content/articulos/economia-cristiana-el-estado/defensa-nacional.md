@@ -4,8 +4,7 @@ description: "La ley mosaica y los límites de la guerra: una perspectiva bíbli
 date: 2022-01-04
 type: 'subseries'
 serie: economia-cristiana-el-estado
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "burocracia"
   - "economia"

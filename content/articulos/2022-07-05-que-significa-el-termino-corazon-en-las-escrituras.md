@@ -3,8 +3,7 @@ title: "¿Qué significa el término corazón en las escrituras?"
 date: 2022-07-05
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "gordon-clark"
 image:

@@ -3,8 +3,7 @@ title: Justicia
 date: 2022-01-02
 type: 'subseries'
 serie: economia-cristiana-el-estado
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "burocracia"
   - "economia"

@@ -3,8 +3,7 @@ title: Propiedad Pública
 date: 2022-01-06
 type: 'subseries'
 serie: economia-cristiana-el-estado
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "burocracia"
   - "economia"

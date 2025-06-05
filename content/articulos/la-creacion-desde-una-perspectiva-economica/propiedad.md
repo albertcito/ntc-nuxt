@@ -3,8 +3,7 @@ title: "Propiedad"
 date: 2022-01-12
 type: 'subseries'
 serie: la-creacion-desde-una-perspectiva-economica
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "caida"
   - "creacion"

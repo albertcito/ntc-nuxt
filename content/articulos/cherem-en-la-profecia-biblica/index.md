@@ -3,8 +3,7 @@ title: "Cherem en la profecia Biblica"
 date: 2022-02-03
 type: series
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "antiguo-testamento"
   - "cherem"

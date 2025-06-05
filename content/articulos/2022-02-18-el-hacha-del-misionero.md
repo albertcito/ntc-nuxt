@@ -3,8 +3,7 @@ title: "El hacha del misionero"
 date: 2022-02-18
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "bojidar-marinov"
   - "cultura"

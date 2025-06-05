@@ -3,8 +3,7 @@ title: "Biblia, Divorcio y abuso matrimonial"
 date: 2023-12-04
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "familia"
   - "greg-bahnsen"

@@ -3,8 +3,7 @@ title: "Facciones en teonomía ¿Penas de muerte \"ceremoniales\"?"
 date: 2022-02-08
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "greg-bahnsen"
   - "joel-mcdurmon"

@@ -3,8 +3,7 @@ title: "Ezequiel"
 date: 2022-02-03
 type: subseries
 serie: cherem-en-la-profecia-biblica
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "antiguo-testamento"
   - "cherem"

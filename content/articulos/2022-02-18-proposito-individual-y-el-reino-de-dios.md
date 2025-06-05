@@ -3,8 +3,7 @@ title: "Propósito individual y el Reino de Dios"
 date: 2022-02-18
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "bojidar-marinov"
   - "educacion"

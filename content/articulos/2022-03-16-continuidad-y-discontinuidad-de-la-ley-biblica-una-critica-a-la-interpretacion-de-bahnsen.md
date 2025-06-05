@@ -3,8 +3,7 @@ title: "Continuidad y Discontinuidad de la Ley Bíblica - Una Crítica a la Inte
 date: 2022-02-05
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "cherem"
   - "greg-bahnsen"

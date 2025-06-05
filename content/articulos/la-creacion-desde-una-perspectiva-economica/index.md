@@ -3,8 +3,7 @@ title: "La Creación desde una perspectiva económica"
 date: 2022-01-17
 type: series
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "caida"
   - "creacion"

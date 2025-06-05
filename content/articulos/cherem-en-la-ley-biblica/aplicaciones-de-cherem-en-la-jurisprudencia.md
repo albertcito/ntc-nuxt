@@ -3,8 +3,7 @@ title: "Cherem en la ley - Aplicaciones de cherem en la jurisprudencia"
 date: 2022-02-02
 type: subseries
 serie: cherem-en-la-ley-biblica
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "antiguo-testamento"
   - "cherem"

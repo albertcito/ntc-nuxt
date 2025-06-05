@@ -3,8 +3,7 @@ title: "¿Cuál es la fe que salva?"
 date: 2022-07-08
 type: article
 translation: true
-categories:
-  - "teologia"
+category: teologia
 tags:
   - "fe-sola"
   - "gordon-clark"
