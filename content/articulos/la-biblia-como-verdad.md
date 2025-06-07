@@ -13,6 +13,8 @@ tags:
   - "apologetica"
   - "biblia"
   - "gordon-clark"
+  - "logica"
+  - "logos"
   - "verdad"
 image:
   src: biblia-salmos.jpg
@@ -72,7 +74,6 @@ Los escolásticos y neoescolásticos han intentado disfrazar el escepticismo de 
 ::
 
 Si Dios tiene la verdad y si el hombre sólo tiene una analogía, se deduce que no tiene la verdad. Una analogía de la verdad no es la verdad; incluso si el conocimiento del hombre no se llama analogía de la verdad sino verdad analógica, la situación no es mejor. Una verdad analógica, a menos que contenga un punto unívoco de significado coincidente, simplemente no es la verdad. En particular (y la respuesta más abrumadora de todas), si la mente humana estuviese limitada a las verdades analógicas, nunca podría conocer la verdad unívoca a la que está limitada las analogías. Aunque fuera cierto que el contenido del conocimiento humano son las analogías, un hombre nunca podría conocer este hecho; sólo podría tener la analogía de que su conocimiento es analógico. Esta teoría, por lo tanto, que se encuentra en Tomás de Aquino, Emil Brunner, o los profesos conservadores es un escepticismo no atenuado y es incompatible con la aceptación de una revelación divina de la verdad. Este escepticismo no atenuado se manifiesta claramente en una declaración realizada en una reunión pública y recogida en una carta fechada el 1 de marzo de 1948 dirigida a los directores de Covenant House. Uno de los escritores mencionados afirmó, cuestionó y reafirmó la afirmación de que la mente humana es incapaz de recibir cualquier verdad; la mente del hombre nunca recibe realmente ninguna verdad. Este escepticismo debe ser completamente repudiado si se quiere salvaguardar una doctrina de la revelación verbal.
-
 
 ::ArticleQuote{quote="Estamos hechos a imagen de Dios, siendo Cristo la luz que ilumina a todos los hombres" position="right"}
 ::

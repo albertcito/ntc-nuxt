@@ -77,13 +77,15 @@ const env = getConfig(useRuntimeConfig())
             <span class="text-sm font-semibold hidden sm:block">
               Tags
             </span>
-            <UBadge
+            <UButton
               v-for="tag in page.tags"
               :key="tag"
               :label="tag.replaceAll('-', ' ')"
               variant="outline"
               color="neutral"
+              size="sm"
               class="capitalize"
+              :href="`/tags/${tag}`"
             />
           </div>
         </div>

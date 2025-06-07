@@ -15,9 +15,11 @@ const { data } = await useAsyncData(
       .limit(limit)
 
     if (tags.length) {
-      query.orWhere((q) => {
-        tags.forEach(tag => q.where('tags', 'LIKE', `%${tag}%`))
-        return q
+      query.orWhere((subQuery) => {
+        for (const tag of tags) {
+          subQuery.where('tags', 'LIKE', `%${tag}%`)
+        }
+        return subQuery
       })
     }
 

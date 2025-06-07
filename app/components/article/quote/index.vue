@@ -12,7 +12,7 @@ const url = window.location.href
       'text-3xl/tight',
       '[&>p]:text-3xl/tight [&>p]:mb-0',
       {
-        'sm:float-right sm:pl-5 sm:max-w-xs sm:-mr-20': position === 'right',
+        'sm:float-right sm:pl-5 sm:max-w-xs': position === 'right',
         'sm:float-left sm:pr-5 sm:max-w-xs xl:-ml-20': position === 'left',
         'float-center': position === 'center',
         'inline-block': position === 'inline'
