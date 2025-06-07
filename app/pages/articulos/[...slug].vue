@@ -2,6 +2,7 @@
 import type { ContentNavigationItem } from '@nuxt/content'
 
 import { findPageBreadcrumb, mapContentNavigation } from '#ui-pro/utils'
+import { getConfig } from '~/config/constants'
 
 definePageMeta({ layout: 'docs' })
 
@@ -12,6 +13,7 @@ const { data: page } = await useAsyncData(
 )
 const navigation = inject<Ref<ContentNavigationItem[]>>('navigation')
 const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(navigation?.value, page.value)).map(({ icon, ...link }) => link))
+const env = getConfig(useRuntimeConfig())
 </script>
 
 <template>
@@ -65,21 +67,29 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
           />
           <div class="sm:hidden flex justify-center items-center bg-(--ui-bg-muted)">
             <ArticleShareIcons
-              :url="`${route.path}`"
+              :url="`${env.siteUrl}${route.path}`"
               :text="page.title"
               hide-label
               tooltip
             />
           </div>
-          <div>
-            <h3>
-              Obtenga contenido de "No te conformes".
-            </h3>
+          <div class="flex gap-2 items-center">
+            <span class="text-sm font-semibold">
+              Tags
+            </span>
+            <UBadge
+              v-for="tag in page.tags"
+              :key="tag"
+              :label="tag.replaceAll('-', ' ')"
+              variant="outline"
+              color="neutral"
+              class="capitalize"
+            />
           </div>
         </div>
         <div class="hidden sm:block">
           <ArticleShareVertical
-            :url="`${route.path}`"
+            :url="`${env.siteUrl}${route.path}`"
             :text="page.title"
           />
         </div>
