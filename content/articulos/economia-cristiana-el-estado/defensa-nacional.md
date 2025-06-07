@@ -1,6 +1,6 @@
 ---
 title: Defensa Nacional
-description: "La ley mosaica y los límites de la guerra: una perspectiva bíblica sobre la defensa, el voluntariado y el antiimperialismo"
+description: "La ley mosaica y los límites de la guerra: una perspectiva bíblica sobre la defensa, el voluntariado y el anti-imperialismo"
 date: 2022-01-04
 type: 'subseries'
 serie: economia-cristiana-el-estado
@@ -59,11 +59,11 @@ Hubo grandes propósitos del corazón. Galaad se quedó al otro lado del Jordán
 
 ¿Qué pasa con los ciudadanos y residentes que no desean pagar impuestos para apoyar al establecimiento militar? No hay ningún ejemplo bíblico del derecho a negarse a pagar que yo sepa. Al cumplir los 20 años, todo varón hebreo tenía que pagar medio siclo para el templo (Éxodo 30:13), pero este no era un pago de impuestos impuesto por el gobierno civil. Era un pago a los sacerdotes sobre esta base: la membresía del hombre en el ejército santo de Dios. \[North, [Éxodo](https://www.garynorth.com/AuthorityAndDominion4.pdf){target=blank}, cap. 58\] El gobierno civil tenía el derecho de enumerar las tribus en preparación para una guerra (Números 1: 1-4). \[North, [Números](https://www.garynorth.com/SanctionsAndDominion.pdf){target=blank}, cap. 1\] El dinero de los impuestos se habría utilizado para realizar esta encuesta. El gobierno civil tenía derecho a tener implementos de guerra (Jueces 20: 18--48). Por lo tanto, los oportunistas de la sociedad no tenían derecho a rebelarse contra los impuestos simplemente porque los impuestos financiaban a los militares.
 
-## B. Antiimperio
+## B. Anti-imperio
 
 Bajo la ley mosaica, las reglas de la guerra hicieron imposible la creación de un imperio militar siempre que el gobierno nacional obedeciera estas leyes. Las leyes de la guerra eran parte de las leyes territoriales de Israel. Estas leyes cesaron con la expulsión de los israelitas de la tierra durante el exilio. Después de su regreso, siempre estuvieron bajo el dominio de un imperio extranjero.
 
-### 1. Laws of Warfare
+### 1. Leyes de la guerra
 
 Antes de esto, Deuteronomio 20 estableció las leyes básicas de la guerra. "Cuando te acerques a una ciudad para combatirla, le intimarás la paz. Y si respondiere: Paz, y te abriere, todo el pueblo que en ella fuere hallado te será tributario, y te servirá. Mas si no hiciere paz contigo, y emprendiere guerra contigo, entonces la sitiarás. Luego que Jehová tu Dios la entregue en tu mano, herirás a todo varón suyo a filo de espada. Solamente las mujeres y los niños, y los animales, y todo lo que haya en la ciudad, todo su botín tomarás para ti; y comerás del botín de tus enemigos, los cuales Jehová tu Dios te entregó. Así harás a todas las ciudades que estén muy lejos de ti, que no sean de las ciudades de estas naciones.
 

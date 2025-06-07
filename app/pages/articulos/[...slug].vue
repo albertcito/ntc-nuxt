@@ -73,8 +73,8 @@ const env = getConfig(useRuntimeConfig())
               tooltip
             />
           </div>
-          <div class="flex gap-2 items-center">
-            <span class="text-sm font-semibold">
+          <div class="flex gap-2 items-center justify-center sm:justify-start">
+            <span class="text-sm font-semibold hidden sm:block">
               Tags
             </span>
             <UBadge
