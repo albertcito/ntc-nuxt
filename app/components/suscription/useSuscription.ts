@@ -5,7 +5,7 @@ interface AddContactProps {
   name: string
 }
 
-const onSend = async (props: AddContactProps, brevo: { key: string, url: string }) => {
+const onSend = async (props: AddContactProps, brevo: { key: string, url: string, listId: number }) => {
   const names = props.name.split(' ')
   const body = {
     email: props.email,
@@ -15,7 +15,7 @@ const onSend = async (props: AddContactProps, brevo: { key: string, url: string 
     },
     emailBlacklisted: false,
     smsBlacklisted: false,
-    listIds: 2,
+    listIds: [brevo.listId],
     updateEnabled: true
   }
   const response = await fetch(`${brevo.url}/contacts`, {
@@ -27,6 +27,9 @@ const onSend = async (props: AddContactProps, brevo: { key: string, url: string 
     }),
     body: JSON.stringify(body)
   })
+  if (response.status !== 200) {
+    throw new Error('Lo sentimos, no se pudo suscribirte al newsletter. Por favor, intenta nuevamente.')
+  }
   return response
 }
 

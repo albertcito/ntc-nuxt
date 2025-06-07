@@ -21,7 +21,7 @@ export const getConfig = (allEnv: any) => {
     brevo: {
       key: getValue(env, 'brevoKey'),
       url: getValue(env, 'brevoUrl'),
-      listId: getValue(env, 'brevoListId')
+      listId: Number(getValue(env, 'brevoListId'))
     }
   }
   return config

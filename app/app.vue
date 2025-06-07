@@ -72,21 +72,23 @@ const items = computed<NavigationMenuItem[]>(() => [
           </p>
           <Suscription>
             <template #default="{ onSave, loading, success, error }">
-              <UAlert
-                v-if="success"
-                color="success"
-                variant="outline"
-                title="Gracias por suscribirte"
-                class="mb-4 py-2"
-                icon="i-lucide-check-circle"
-              />
-              <SuscriptionForm
-                v-else
-                class="flex flex-col sm:flex-row gap-2"
-                :loading="loading"
-                :error="error"
-                :on-save="onSave"
-              />
+              <div class=" max-w-md mx-auto">
+                <UAlert
+                  v-if="success"
+                  color="success"
+                  variant="outline"
+                  title="Gracias por suscribirte"
+                  class="mb-4 py-2"
+                  icon="i-lucide-check-circle"
+                />
+                <SuscriptionForm
+                  v-else
+                  class="flex flex-col sm:flex-row gap-2"
+                  :loading="loading"
+                  :error="error"
+                  :on-save="onSave"
+                />
+              </div>
             </template>
           </Suscription>
         </div>
