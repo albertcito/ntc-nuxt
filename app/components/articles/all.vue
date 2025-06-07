@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import type { PageHeaderProps } from '@nuxt/ui-pro'
+
 interface ArticulosCollectionItem {
   title: string
   path: string
@@ -9,19 +11,25 @@ interface ArticulosCollectionItem {
 }
 
 defineProps<{
-  title: string
+  title?: string
   path: string
   imagePath: string
   itemsPerPage: number
   total: number
   articles: ArticulosCollectionItem[]
+  uiPageHeader?: PageHeaderProps['ui']
 }>()
 const page = defineModel<number>('page', { required: true })
 </script>
 
 <template>
   <UPage>
-    <UPageHeader :title="title">
+    <UPageHeader :ui="uiPageHeader">
+      <template #title>
+        <slot name="title">
+          {{ title }}
+        </slot>
+      </template>
       <template #links>
         <div class="flex justify-between items-center gap-2">
           <div>

@@ -2,7 +2,7 @@
 import { getArticulos, type GetArticlesResult } from './getArticles'
 
 const props = defineProps<{
-  title: string
+  title?: string
   path: string
   imagePath: string
   itemsPerPage: number
@@ -33,5 +33,11 @@ watch([page, () => props.tags, () => props.itemsPerPage], async () => {
     :items-per-page="itemsPerPage"
     :total="data.total ?? 0"
     :articles="data.articles?.data ?? []"
-  />
+  >
+    <template #title>
+      <slot name="title">
+        {{ title }}
+      </slot>
+    </template>
+  </ArticlesAll>
 </template>
