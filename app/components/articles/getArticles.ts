@@ -30,7 +30,7 @@ export const getArticulos = async ({ page, itemsPerPage, tags }: UseArticlesProp
     }
   )
   const { data: total } = await useAsyncData(
-    'total',
+    computed(() => `total_${collection}_${tagsString.value}`),
     () => {
       const query = queryCollection(collection).where('type', '<>', 'subseries')
       if (tags?.value.length) {

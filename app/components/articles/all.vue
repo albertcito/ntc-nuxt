@@ -32,8 +32,8 @@ const page = defineModel<number>('page', { required: true })
       </template>
       <template #links>
         <div class="flex justify-between items-center gap-2">
-          <div>
-            {{ itemsPerPage }} de {{ total }} artículos
+          <div class="opacity-50 text-xs">
+            {{ articles.length }} de {{ total }} artículos
           </div>
           <UPagination
             v-if="total"
