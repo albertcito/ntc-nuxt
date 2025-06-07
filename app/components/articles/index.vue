@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { getArticulos } from './getArticles'
+import { useArticles } from './getArticles'
 
 const props = defineProps<{
   title: string
@@ -9,9 +9,10 @@ const props = defineProps<{
 }>()
 
 const page = defineModel<number>('page', { required: true })
-const { articles: { data: articles }, total } = await getArticulos({
+
+const { articles, total } = await useArticles({
   page,
-  itemsPerPage: computed(() => props.itemsPerPage)
+  itemsPerPage: computed(() => props.itemsPerPage),
 })
 </script>
 
@@ -23,6 +24,6 @@ const { articles: { data: articles }, total } = await getArticulos({
     :image-path="imagePath"
     :items-per-page="itemsPerPage"
     :total="total ?? 0"
-    :articles="articles ?? []"
+    :articles="articles.data.value ?? []"
   />
 </template>

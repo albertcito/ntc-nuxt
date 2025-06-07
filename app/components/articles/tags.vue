@@ -21,7 +21,6 @@ watch([page, () => props.tags, () => props.itemsPerPage], async () => {
   data.articles = values.articles as any
   data.total = values.total.value ?? 0
   data.totalSkip = values.totalSkip.value ?? 0
-
 }, { immediate: true })
 </script>
 
