@@ -6,6 +6,7 @@ defineProps<{
   translation?: {
     summary: string
     url?: string
+    by?: string
   }
   autor?: string
 }>()
@@ -35,7 +36,11 @@ defineProps<{
           </UButton>
           <template #content>
             <div class=" max-w-80">
-              <ArticleTranslation :url="`${translation.url}`" :text="translation.summary" />
+              <ArticleTranslation
+                :url="translation.url"
+                :text="translation.summary"
+                :by="translation.by"
+              />
             </div>
           </template>
         </UPopover>

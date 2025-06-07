@@ -17,7 +17,8 @@ export default defineContentConfig({
         tags: z.array(z.string()).optional(),
         translation: z.object({
           summary: z.string().min(1),
-          url: z.string()
+          url: z.string(),
+          by: z.string()
         }),
         image: z.object({
           src: z.string().min(1),
@@ -35,5 +36,5 @@ export default defineContentConfig({
         title: z.string().min(1)
       })
     })
-  }
+  },
 })

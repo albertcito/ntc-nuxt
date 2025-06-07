@@ -61,8 +61,39 @@ const items = computed<NavigationMenuItem[]>(() => [
       <NuxtPage />
     </NuxtLayout>
     <USeparator class="h-px" />
-    <UFooter>
-      © 2025 - No te Conformes
+    <UFooter class="bg-muted">
+      <div class="flex flex-col items-center gap-8">
+        <div class="flex flex-col items-center gap-4">
+          <h5 class="text-lg font-semibold">
+            Suscríbete al boletín
+          </h5>
+          <p class="text-sm text-neutral-500">
+            Recibe artículos, libros y recursos directamente en tu bandeja de entrada.
+          </p>
+          <Suscription>
+            <template #default="{ onSave, loading, success, error }">
+              <UAlert
+                v-if="success"
+                color="success"
+                variant="outline"
+                title="Gracias por suscribirte"
+                class="mb-4 py-2"
+                icon="i-lucide-check-circle"
+              />
+              <SuscriptionForm
+                v-else
+                class="flex flex-col sm:flex-row gap-2"
+                :loading="loading"
+                :error="error"
+                :on-save="onSave"
+              />
+            </template>
+          </Suscription>
+        </div>
+        <div class="text-sm text-muted">
+          © 2025 - No te Conformes
+        </div>
+      </div>
     </UFooter>
 
     <ClientOnly>

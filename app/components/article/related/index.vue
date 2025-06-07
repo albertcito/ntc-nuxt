@@ -1,9 +1,9 @@
 <script setup lang="ts">
 const {
-  category,
   path,
-  tags
-} = defineProps<{ category: string, tags: string[], path: string }>()
+  tags,
+  limit
+} = defineProps<{ tags: string[], path: string, limit: number }>()
 
 const { data } = await useAsyncData(
   computed(() => `articulos-${JSON.stringify(tags)}`),
@@ -12,7 +12,7 @@ const { data } = await useAsyncData(
       .where('type', '<>', 'subseries')
       .where('path', '<>', path)
       .order('date', 'DESC')
-      .limit(5)
+      .limit(limit)
 
     if (tags.length) {
       query.orWhere((q) => {
@@ -27,12 +27,5 @@ const { data } = await useAsyncData(
 </script>
 
 <template>
-  <div v-if="data && data.length > 0" class="flex flex-col gap-4">
-    <div
-      v-for="item in data"
-      :key="item.path"
-    >
-      {{ item.title }}
-    </div>
-  </div>
+  <slot v-if="data && data.length > 0" :items="data" />
 </template>

@@ -1,7 +1,8 @@
 <script setup lang="ts">
 defineProps<{
   text: string
-  url: string
+  url?: string
+  by?: string
 }>()
 </script>
 
@@ -12,11 +13,11 @@ defineProps<{
         <div class="font-semibold">
           Este artículo es una traducción
         </div>
-        <UTooltip text="Ir al artículo original">
+        <UTooltip v-if="url" text="Ir al artículo original">
           <UButton
             :href="url"
             target="_blank"
-            color="neutral"
+            color="primary"
             variant="link"
             size="sm"
           >
@@ -25,8 +26,19 @@ defineProps<{
         </UTooltip>
       </div>
     </template>
-    <p>
-      {{ text }}
-    </p>
+    {{ text }}
+    <!-- <template v-if="by" #footer>
+      <div class="text-right text-sm text-muted">
+        Traducido por <UTooltip text="Ver más artículos de este autor">
+          <NuxtLink
+            :to="`/autors/${by}`"
+            class="capitalize font-semibold text-primary hover:underline"
+            :aria-label="`Ver más artículos de ${by}`"
+          >
+            {{ by }}
+          </NuxtLink>
+        </UTooltip>
+      </div>
+    </template> -->
   </UCard>
 </template>

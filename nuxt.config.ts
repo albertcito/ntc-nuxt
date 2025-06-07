@@ -17,6 +17,14 @@ export default defineNuxtConfig({
   },
 
   css: ['~/assets/css/main.css'],
+  runtimeConfig: {
+    public: {
+      siteUrl: process.env.NUXT_PUBLIC_SITE_URL,
+      brevoKey: process.env.NUXT_PUBLIC_BREVO_KEY,
+      brevoUrl: process.env.NUXT_PUBLIC_BREVO_URL,
+      brevoListId: process.env.NUXT_PUBLIC_BREVO_LIST_ID
+    }
+  },
 
   routeRules: {
     '/api/**': {

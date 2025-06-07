@@ -2,7 +2,6 @@
 import type { ContentNavigationItem } from '@nuxt/content'
 
 import { findPageBreadcrumb, mapContentNavigation } from '#ui-pro/utils'
-import { ArticleCategory, ArticleHeaderBar } from '#components'
 
 definePageMeta({ layout: 'docs' })
 
@@ -16,7 +15,13 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
 </script>
 
 <template>
-  <UPage v-if="page">
+  <UPage
+    v-if="page"
+    :ui="{
+      center: 'lg:col-span-7',
+      right: 'lg:col-span-3'
+    }"
+  >
     <UPageHeader
       :ui="{ root: 'border-none' }"
       :title="page.title"
@@ -66,38 +71,47 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
               tooltip
             />
           </div>
+          <div>
+            <h3>
+              Obtenga contenido de "No te conformes".
+            </h3>
+          </div>
         </div>
         <div class="hidden sm:block">
-          <ArticleShareVertical :url="`${route.path}`" :text="page.title" />
+          <ArticleShareVertical
+            :url="`${route.path}`"
+            :text="page.title"
+          />
         </div>
       </div>
     </UPageBody>
     <template #right>
       <div>
         <UContentToc
-          v-if="page?.body?.toc?.links?.length && page.body.toc.links.length > 1"
-          :links="page.body.toc.links"
+          :links="page.body.toc?.links && page.body.toc?.links.length > 1 ? page.body.toc.links : []"
           class="z-[2]"
           highlight
           highlight-color="neutral"
           color="neutral"
         >
-          <template #bottom>
-            <USeparator v-if="page.body?.toc?.links?.length" type="dashed" />
-
+          <template v-if="page.tags && page.tags.length > 0" #bottom>
+            <USeparator v-if="page.body.toc?.links && page.body.toc?.links.length > 1" type="dashed" />
             <div>
-              {{ page.category ? 'Categoría: ' + page.category : '' }}
-              <ArticleCategory
-                v-if="page.category"
-                :category="page.category"
-                :tags="page.tags ?? []"
+              <div class="group text-sm font-semibold flex-1 items-center gap-1.5 py-1.5 -mt-1.5 focus-visible:outline-primary hidden lg:flex">
+                <div class="truncate">
+                  Artículos relacionados
+                </div>
+              </div>
+              <ArticleRelated
+                :tags="page.tags"
                 :path="route.path"
-              />
+                :limit="page.body.toc?.links && page.body.toc?.links.length > 1 ? 4 : 5"
+              >
+                <template #default="{ items }">
+                  <ArticleRelatedArticles :items="items" />
+                </template>
+              </ArticleRelated>
             </div>
-
-            <USeparator type="dashed" />
-
-            <AdsCarbon />
           </template>
         </UContentToc>
       </div>

@@ -390,4 +390,4 @@ Espero que mis propias reflexiones en este libro, por imperfectas que sean, pued
 
 ## Nota del traductor
 
-Creo que puedo concordar casi plenamente con Vern Poythress respecto a sus desacuerdos con Bahnsen. Los desacuerdos con Poythress es en la exactitud de la interpretacion de Deut 13, donde Joel McDurmon hizo un excelente trabajo en "[A Consuming Fire](/libros/consumido-por-fuego-el-lugar-santisimo-en-la-ley-biblica)" explicando con mas detalle la continuidad/descontinuidad de la ley mosaica, que te invito a leer.
+Agregar un libro gratis recomendado!

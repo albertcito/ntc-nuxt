@@ -6,7 +6,7 @@ defineProps<{
 </script>
 
 <template>
-  <div class="flex justify-end sticky top-32 lg:top-15 p-4">
+  <div class="flex justify-end sticky top-16 lg:top-24 p-4">
     <div class="flex flex-col divide-y divide-(--ui-border-muted)">
       <ArticleShareIcons
         :text="text"
