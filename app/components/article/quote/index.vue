@@ -22,7 +22,7 @@ const url = window.location.href
     <div>
       {{ quote }}
     </div>
-    <div class="flex items-center gap-2 text-sm font-semibold justify-end">
+    <div class="flex items-center gap-2 text-sm font-semibold justify-left">
       Comparté: <UButton
         variant="outline"
         color="neutral"
