@@ -10,7 +10,7 @@ categories:
 tags:
   - "apologetica"
   - "historia"
-  - "lgtbiq"
+  - "LGTBIQ"
 image:
   src: lgtb-church.jpg
   alt: Una bandera LGTB que cuelga de una iglesia local de Boston en apoyo del matrimonio homosexual y los derechos civiles
@@ -185,3 +185,7 @@ Para terminar, con toda esta evidencia estoy realmente convencido de que esta es
 [^f5acf425-4f5f-427f-b122-c7db89dd634a]: Isaias 5:20 "¡Ay de los que a lo malo dicen bueno, y a lo bueno malo; que hacen de la luz tinieblas, y de las tinieblas luz; que ponen lo amargo por dulce, y lo dulce por amargo!"
 
 [^df7ba21d-bb06-4e06-9de7-fe628fb0d330]: Isaias 30:10-11 "que dicen a los videntes: No veáis; y a los profetas: No nos profeticéis lo recto, decidnos cosas halagüeñas, profetizad mentiras; <sup>1</sup>dejad el camino, apartaos de la senda, quitad de nuestra presencia al Santo de Israel."
+
+[^cite_perez_malakoi]: La regulación de la sexualidad en Las leyes particulares de Filón de Alejandría, Laura Pérez. P. 527
+
+[^cite_gagnon_malakoi]:  The Bible and the homosexual practice, Robert Gagnon  Ch 4 - The meaning of malakoi in 1 Cor 6:9

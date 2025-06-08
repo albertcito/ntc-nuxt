@@ -25,7 +25,17 @@ watch([page, () => props.tags, () => props.itemsPerPage], async () => {
 </script>
 
 <template>
+  <template v-if="!tags.length || (data?.articles?.status === 'success' && !data.articles?.data?.length)">
+    <UError
+      :error="{
+        statusCode: 404,
+        statusMessage: 'Página no encontrada',
+        message: 'La página que estás buscando no existe.'
+      }"
+    />
+  </template>
   <ArticlesAll
+    v-else
     v-model:page="page"
     :title="title"
     :path="path"

@@ -17,11 +17,15 @@ const env = getConfig(useRuntimeConfig())
 </script>
 
 <template>
-  <div v-if="status === 'success' && !page">
-    <div>
-      404
-    </div>
-  </div>
+  <template v-if="status === 'success' && !page">
+    <UError
+      :error="{
+        statusCode: 404,
+        statusMessage: 'Página no encontrada',
+        message: 'La página que estás buscando no existe.'
+      }"
+    />
+  </template>
   <UPage
     v-if="page"
     :ui="{
@@ -78,7 +82,7 @@ const env = getConfig(useRuntimeConfig())
               tooltip
             />
           </div>
-          <div class="flex gap-2 items-center justify-center sm:justify-start">
+          <div class="flex gap-2 flex-wrap items-center justify-center sm:justify-start">
             <span class="text-sm font-semibold hidden sm:block">
               Tags
             </span>

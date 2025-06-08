@@ -3,11 +3,12 @@ import { isValidInteger } from '~/util/getIntegerOrDefault'
 
 const route = useRoute()
 const valid = computed(() => isValidInteger(route.query.page))
+const tag = computed(() => `${route.params.tag}`)
 if (!valid.value.isValid && valid.value.value) {
   navigateTo(`/tags/${route.params.tag}`, { replace: true })
 }
 const pageNumber = computed(() => (valid.value.isValid ? valid.value.value : 1))
-const title = computed(() => (route.params.tag as string).replaceAll('-', ' '))
+const title = computed(() => (tag.value).replaceAll('-', ' '))
 
 useHead({ title: `Tag: ${title.value}` })
 </script>
@@ -15,10 +16,10 @@ useHead({ title: `Tag: ${title.value}` })
 <template>
   <ArticlesTags
     v-model:page="pageNumber"
-    :path="`/tags/${route.params.tag}`"
+    :path="`/tags/${tag}`"
     image-path="/img/articulos"
     :items-per-page="6"
-    :tags="[route.params.tag] as string[]"
+    :tags="[tag]"
   >
     <template #title>
       <div class="flex items-center gap-2">
