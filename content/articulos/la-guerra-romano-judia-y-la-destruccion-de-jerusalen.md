@@ -1,8 +1,12 @@
 ---
 title: "La guerra romano-judía y la destrucción de Jerusalén"
+description: "Ninguno de los libros del N.T fueron escritos después de la guerra romano-judía del 66 al 70 d.C, y muchos de los libros muestran evidencia de que fueron escritos antes de este evento. "
 date: 2023-02-24
 type: article
-translation: true
+translation:
+  summary: "Escrito en Dating the New Testament"
+  url: http://www.datingthenewtestament.com/Jerusalem.htm
+  by: albert
 categories:
   - "datacion"
 tags:
