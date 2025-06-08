@@ -68,7 +68,7 @@ const env = getConfig(useRuntimeConfig())
             v-if="page.body"
             :value="page"
             :prose="true"
-            class="text-xl font-karma"
+            class="text-xl font-karma wrap-anywhere"
           />
           <ArticleParent
             v-if="page.serie"
