@@ -12,7 +12,7 @@ const page = defineModel<number>('page', { required: true })
 
 const { articles, total } = await useArticles({
   page,
-  itemsPerPage: computed(() => props.itemsPerPage),
+  itemsPerPage: computed(() => props.itemsPerPage)
 })
 </script>
 

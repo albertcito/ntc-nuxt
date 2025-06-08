@@ -7,7 +7,7 @@ import { getConfig } from '~/config/constants'
 definePageMeta({ layout: 'docs' })
 
 const route = useRoute()
-const { data: page } = await useAsyncData(
+const { data: page, status } = await useAsyncData(
   route.path,
   () => queryCollection('articulos').path(route.path).first()
 )
@@ -17,6 +17,11 @@ const env = getConfig(useRuntimeConfig())
 </script>
 
 <template>
+  <div v-if="status === 'success' && !page">
+    <div>
+      404
+    </div>
+  </div>
   <UPage
     v-if="page"
     :ui="{
