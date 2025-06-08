@@ -1,14 +1,21 @@
 ---
 title: "Sermón de San Basilio a los ricos"
+description: "El siguiente sermón “A los ricos” probablemente fue pronunciado en el año 368, cuando la mayor parte de Asia Menor se vio afectada por una grave sequía que causó grandes penurias, intensificadas por la avaricia de algunos que retenían el grano. En ese momento, San Basilio era sacerdote en la diócesis de Cesarea y supervisaba un ministerio muy activo en favor de los pobres y enfermos; San Gregorio el Teólogo describe el hospital de Basilio a las puertas de Cesarea como una “ciudad” virtual (or. 43.63)"
 date: 2024-12-07
 type: article
-translation: true
+translation:
+  summary: "El texto griego del sermón de Basilio se encuentra en la Patrologia Graeca de J.-P. Migne, vol. 31, cols. 277C-304C. Traducido al español del artículo original \"St. Basil’s Sermon to the Rich\""
+  url: https://bekkos.wordpress.com/st-basils-sermon-to-the-rich/
+  by: albert
+author: basilio-el-grande
 categories:
   - "historia"
 tags:
   - "basilio-el-grande"
+  - padres-de-la-iglesia
 image:
-  src: sermon-de-San-Basilio-a-losricos.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749414168/San_Basilio_el_grande_-_Sermon_a_los_ricos_j1reg9.jpg
+  alt: Sermón de San Basilio a los ricos
 ---
 
 > Entonces vino uno y le dijo: Maestro bueno, ¿qué bien haré para tener la vida eterna? Él le dijo: ¿Por qué me llamas bueno? Ninguno hay bueno sino uno: Dios. Mas si quieres entrar en la vida, guarda los mandamientos. Le dijo: ¿Cuáles? Y Jesús dijo: No matarás. No adulterarás. No hurtarás. No dirás falso testimonio.  Honra a tu padre y a tu madre; y, Amarás a tu prójimo como a ti mismo. El joven le dijo: Todo esto lo he guardado desde mi juventud. ¿Qué más me falta? Jesús le dijo: Si quieres ser perfecto, anda, vende lo que tienes, y dalo a los pobres, y tendrás tesoro en el cielo; y ven y sígueme. Oyendo el joven esta palabra, se fue triste, porque tenía muchas posesiones.

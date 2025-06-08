@@ -19,7 +19,7 @@ const second = data.value?.slice(1, 7) || []
       v-if="data && data.length > 0 && data[0]"
       v-bind="data[0]"
       :to="data[0].path"
-      :image="data[0].image ? `/img/articulos/${data[0].image.src}` : undefined"
+      :image="data[0].image.src"
       orientation="horizontal"
       :ui="{
         description: 'mt-2 pr-4 text-lg'
