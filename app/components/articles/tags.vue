@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { getArticulos, type GetArticlesResult } from './getArticles'
+import { useArticles } from './useArticles'
 
 const props = defineProps<{
   title?: string
@@ -10,22 +10,16 @@ const props = defineProps<{
 }>()
 
 const page = defineModel<number>('page', { required: true })
-const data = reactive<GetArticlesResult>({} as GetArticlesResult)
-watch([page, () => props.tags, () => props.itemsPerPage], async () => {
-  const values = await getArticulos({
-    page,
-    itemsPerPage: computed(() => props.itemsPerPage),
-    tags: computed(() => props.tags)
-  })
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  data.articles = values.articles as any
-  data.total = values.total.value ?? 0
-  data.totalSkip = values.totalSkip.value ?? 0
-}, { immediate: true })
+
+const { articles, total } = await useArticles({
+  page,
+  itemsPerPage: computed(() => props.itemsPerPage),
+  tags: computed(() => props.tags)
+})
 </script>
 
 <template>
-  <template v-if="!tags.length || (data?.articles?.status === 'success' && !data.articles?.data?.length)">
+  <template v-if="!tags.length || (articles?.status.value === 'success' && !articles?.data?.value?.length)">
     <UError
       :error="{
         statusCode: 404,
@@ -41,8 +35,8 @@ watch([page, () => props.tags, () => props.itemsPerPage], async () => {
     :path="path"
     :image-path="imagePath"
     :items-per-page="itemsPerPage"
-    :total="data.total ?? 0"
-    :articles="data.articles?.data ?? []"
+    :total="total ?? 0"
+    :articles="articles?.data.value ?? []"
   >
     <template #title>
       <slot name="title">

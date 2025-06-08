@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { useArticles } from './getArticles'
+import { useArticles } from './useArticles'
 
 const props = defineProps<{
   title: string
