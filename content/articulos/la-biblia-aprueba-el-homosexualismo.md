@@ -189,3 +189,5 @@ Para terminar, con toda esta evidencia estoy realmente convencido de que esta es
 [^cite_perez_malakoi]: La regulación de la sexualidad en Las leyes particulares de Filón de Alejandría, Laura Pérez. P. 527
 
 [^cite_gagnon_malakoi]:  The Bible and the homosexual practice, Robert Gagnon  Ch 4 - The meaning of malakoi in 1 Cor 6:9
+
+[^cite_arsenokoitai]: The Bible and the homosexual practice, Robert Gagnon. Ch 4 - The meaning of arsenokoitai in 1 Cor 6:9

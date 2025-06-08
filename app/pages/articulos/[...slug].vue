@@ -50,7 +50,7 @@ const env = getConfig(useRuntimeConfig())
       />
       <div
         v-if="page.image && !page.image.hide"
-        :class="['bg-elevated/50 px-2', { 'pb-2': !page.image.descr }]"
+        :class="['bg-elevated/50 px-2 print:hidden', { 'pb-2': !page.image.descr }]"
       >
         <Image
           :src="page.image.src"
@@ -82,7 +82,7 @@ const env = getConfig(useRuntimeConfig())
               tooltip
             />
           </div>
-          <div class="flex gap-2 flex-wrap items-center justify-center sm:justify-start">
+          <div class="flex gap-2 flex-wrap items-center justify-center sm:justify-start print:hidden">
             <span class="text-sm font-semibold hidden sm:block">
               Tags
             </span>
@@ -98,7 +98,7 @@ const env = getConfig(useRuntimeConfig())
             />
           </div>
         </div>
-        <div class="hidden sm:block">
+        <div class="hidden sm:block print:hidden">
           <ArticleShareVertical
             :url="`${env.siteUrl}${route.path}`"
             :text="page.title"
@@ -107,7 +107,7 @@ const env = getConfig(useRuntimeConfig())
       </div>
     </UPageBody>
     <template #right>
-      <div>
+      <div class="print:hidden">
         <UContentToc
           :links="page.body.toc?.links && page.body.toc?.links.length > 1 ? page.body.toc.links : []"
           class="z-[2]"

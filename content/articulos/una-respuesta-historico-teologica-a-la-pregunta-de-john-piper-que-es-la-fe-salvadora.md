@@ -1,8 +1,13 @@
 ---
 title: "Una respuesta histórico-teológica a la pregunta de John Piper ¿Qué es la fe salvadora?"
+description: "John Piper argumenta que “en la naturaleza misma de la fe salvadora hay algún tipo de elemento afectivo” en donde cita erroneamente a teologos reformados y los contradice"
 date: 2023-12-01
+translation:
+  summary: "Articulo original: “A Historical-Theological Response to John Piper’s What Is Saving Faith?“por John V. Fesko, Harriet Barbour Professor of Systematic and Historical Theology Reformed Theological Seminary, Jackson"
+  url: https://journal.rts.edu/article/a-historical-theological-response-to-john-pipers-what-is-saving-faith/
+  by: albert
+author: john-fesko
 type: article
-translation: true
 category: teologia
 tags:
   - "evangelio"

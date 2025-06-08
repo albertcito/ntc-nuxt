@@ -62,7 +62,7 @@ const items = computed<NavigationMenuItem[]>(() => [
     </NuxtLayout>
     <USeparator class="h-px" />
     <UFooter class="bg-muted">
-      <div class="flex flex-col items-center gap-8">
+      <div class="flex flex-col items-center gap-8 print:hidden">
         <div class="flex flex-col items-center gap-4">
           <h5 class="text-lg font-semibold">
             Suscríbete al boletín

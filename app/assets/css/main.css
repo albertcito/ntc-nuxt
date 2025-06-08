@@ -22,3 +22,7 @@
   --color-green-900: #0A5331;
   --color-green-950: #052E16;
 }
+
+html {
+  scroll-padding-top: 4.5rem;
+}

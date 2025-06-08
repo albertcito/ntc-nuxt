@@ -56,6 +56,7 @@ Parte de este antiintelectualismo que impregna todas las religiones -oriental, o
 
 ::ArticleQuote{quote="Una proposición es el significado de una oración declarativa" position="right"}
 ::
+
 Permítanme definir un par de términos y luego pasaré al cuerpo de mi artículo, un examen de las Escrituras. Primero, no estoy usando la palabra proposición de ninguna manera novedosa, sino en su sentido estándar: una proposición es el significado de una oración declarativa. Las oraciones interrogativas, imperativas y exclamativas no expresan proposiciones. Las palabras sueltas, sin contexto, no expresan proposiciones. Las preguntas retóricas, oraciones ostensiblemente interrogativas, son oraciones funcionalmente declarativas. Las voces de los verbos no importan. Dos oraciones declarativas, una en voz pasiva y otra en voz activa, pueden expresar la misma proposición: _Jim golpeó la pelota y la pelota fue golpeada por Jim_ expresan la misma proposición. No importa el idioma: _Il pleut, Es regnet y It is raining_ expresan la misma proposición. Este principio, dicho sea de paso, es una condición sine qua non para la traducción de las Escrituras. Si este principio no fuera cierto, la traducción de las Escrituras, de hecho, la traducción de cualquier documento de un idioma a otro, no sería posible.
 
 ## La herejía extática
