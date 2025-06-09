@@ -1,15 +1,21 @@
 ---
 title: "La Cruzada de los Niños Transgénero"
+description: "La identidad de género, con su visión de niños autónomos en contacto con sus deseos más íntimos y auténticos, niega todo lo que sabemos sobre la adolescencia, al igual que lo hace con la primera infancia"
 date: 2023-06-05
 type: article
-translation: true
+translation:
+  summary: "Artículo original “The Transgender Children’s Crusade” escrito por Kay S. Hymowitz  editora colaboradora de City Journal, y autora de Manning Up: How the Rise of Women Has Turned Men into Boys"
+  url: https://www.city-journal.org/article/the-transgender-childrens-crusade
+  by: albert
+author: kay-hymowitz
 categories:
   - "analisis"
 tags:
   - "familia"
   - "lgtbiq"
 image:
-  src: nina-lgtbiq-1.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749474422/nina-lgtbiq-1_zbsjwf.jpg
+  alt: Niña con bandera LGBTIQ+
   cc: https://unsplash.com/photos/hcfUjrA3jgo
 ---
 

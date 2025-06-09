@@ -1,8 +1,13 @@
 ---
 title: "¿Qué tan malo es el declive denominacional en Estados Unidos?"
+description: "Si las denominaciones lograran crecer al mismo ritmo que la población general de los Estados Unidos, ¿Qué tamaño tendrían hoy?"
 date: 2023-06-18
 type: article
-translation: true
+translation:
+  summary: "Artículo original “Just How Bad Is Denominational Decline?” escrito por Ryan Burge"
+  url: https://www.graphsaboutreligion.com/p/just-how-bad-is-denominational-decline?utm_source=profile&utm_medium=reader2
+  by: albert
+author: ryan-burge
 categories:
   - "analisis"
 tags:
@@ -10,8 +15,8 @@ tags:
   - "estadisticas"
   - "iglesia"
 image:
-  src: image.png
-  cc: https://www.graphsaboutreligion.com/p/just-how-bad-is-denominational-decline?utm_source=profile&utm_medium=reader2
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749473898/declive_denominacional_de_9_iglesias_protestantes_cruhdu.jpg
+  alt: Declive denominacional de 9 iglesias protestantes en Estados Unidos
 ---
 
 Un error que cometo todo el tiempo es suponer que probablemente alguien más haya hecho el trabajo necesario para obtener la respuesta que quiero. Esta publicación fue impulsada por la búsqueda de una respuesta a una pregunta bastante simple: **si las denominaciones lograran crecer al mismo ritmo que la población general de los Estados Unidos, ¿Qué tamaño tendrían hoy?**
@@ -46,11 +51,11 @@ Esa es realmente la primera pregunta que hago cuando alguien quiere información
 
 Pero el enfoque aquí está en el protestantismo denominacional. Así que tenlo en mente.
 
-![](images/image-1024x683.png)
+![](https://res.cloudinary.com/dpzgupe2y/image/upload/v1749473898/declive_denominacional_de_9_iglesias_protestantes_cruhdu.jpg)
 
 Este es el cambio porcentual en la membresía entre 1987 y 2021. Esa primera fecha es completamente arbitraria, pero creo que en realidad puede representar el punto más alto para la membresía denominacional por algunas razones que describo [aquí](https://religionnews.com/2022/04/13/how-americas-youth-lost-its-religion-in-1990s/){target=blank}.
 
-**La línea principal es solo un baño de sangre**. Cinco tradiciones se han reducido en al menos un 30%. La ELCA ha bajado un 41%. La UCC tiene menos de la mitad del tamaño que tenía a fines de la década de 1980. La UMC ya han bajado un 31 %, pero con más del 15 % de sus iglesias [desafiliándose solo este año](https://www.catholicnewsagency.com/news/254504/thousands-of-united-methodist-churches-break-away-over-lgbtq-plus-disagreements){target=blank}, no me sorprendería que la membresía baje un 40% o más para el próximo año.
+La línea principal es solo un baño de sangre. Cinco tradiciones se han reducido en al menos un 30%. La ELCA ha bajado un 41%. La UCC tiene menos de la mitad del tamaño que tenía a fines de la década de 1980. La UMC ya han bajado un 31 %, pero con más del 15 % de sus iglesias [desafiliándose solo este año](https://www.catholicnewsagency.com/news/254504/thousands-of-united-methodist-churches-break-away-over-lgbtq-plus-disagreements){target=blank}, no me sorprendería que la membresía baje un 40% o más para el próximo año.
 
 El SBC solo ha bajado un 4%, pero eso se debe a que su declive ha sido mucho más reciente. Entro en muchos detalles sobre eso [aquí](https://www.graphsaboutreligion.com/p/the-2022-data-on-the-southern-baptist){target=blank}.
 
@@ -58,7 +63,7 @@ El SBC solo ha bajado un 4%, pero eso se debe a que su declive ha sido mucho má
 
 Una cosa que me gusta hacer es mirar el cambio año tras año en la membresía. Eso puede darnos una mejor idea si la tasa de crecimiento de una denominación se está desacelerando. O si la tasa de disminución se está acelerando.
 
-![](images/image-1-1024x910.png)
+![](https://res.cloudinary.com/dpzgupe2y/image/upload/v1749474045/porcentaje_de_cambio_en_el_tamano_de_membresia_ui7v7c.png)
 
 Observe que la línea de tendencia aquí es claramente bajista. (Para que conste, los números ABC no pueden ser correctos y lo digo como un ministro de 20 años en la denominación). Por ejemplo, tenga en cuenta que muchas denominaciones están experimentando una disminución del 3-4% año tras año en la membresía. Eso es obviamente muy, muy malo. Para muchos, las caídas porcentuales solo se han acelerado en los últimos cinco años.
 
@@ -66,7 +71,7 @@ Quería señalar que los números de las AoG no están funcionando tan bien como
 
 Entonces, esto es realmente lo que quería hacer con esta publicación. Averigüe cómo sería la trayectoria de las denominaciones si tomara su membresía en 1990 y simplemente proyectara su crecimiento reflejando el crecimiento de la población general de los Estados Unidos. Eso nos ayuda a responder preguntas como: ¿Qué tan grande sería el SBC (o UMC) si se mantuviera al ritmo del crecimiento natural de la población?
 
-![](images/image-2-1024x683.png)
+![](https://res.cloudinary.com/dpzgupe2y/image/upload/v1749474142/projecion-y-actual-crecimiento-relacionado-con-poblacion_apdqun.png)
 
 Los resultados son bastante marcados, sinceramente. Una cosa que me llamó la atención es cómo estas denominaciones se estaban quedando atrás incluso en la década de 1990. No es que siguieran reflejando a la población durante una década y luego comenzaran a disminuir. Todo lo contrario. **Para muchos, ya estaban perdiendo cuota de mercado a principios de la década de 1990.**
 
@@ -76,7 +81,7 @@ Obviamente, los dos valores atípicos son el AoG y el PCA. Están creciendo más
 
 ¿Qué tan grandes serían estas denominaciones si siguieran creciendo con la población en comparación con la cantidad de miembros que realmente reportan?
 
-![](images/image-3-683x1024.png)
+![](https://res.cloudinary.com/dpzgupe2y/image/upload/v1749474204/tamano_proyectado_y_actual_tamano_de_las_denominaciones_en_2021_wcwdqp.png)
 
 **Si estas nueve denominaciones hubieran crecido tan rápido como la población desde 1990 hasta 2022, hoy tendrían alrededor de 53 millones de miembros**. Eso es alrededor del 16% de la población total del país.
 
