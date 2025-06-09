@@ -61,6 +61,7 @@ const items = computed<NavigationMenuItem[]>(() => [
       <NuxtPage />
     </NuxtLayout>
     <USeparator class="h-px" />
+
     <UFooter class="bg-muted">
       <div class="flex flex-col items-center gap-8 print:hidden">
         <div class="flex flex-col items-center gap-4">

@@ -31,7 +31,7 @@ const page = defineModel<number>('page', { required: true })
         </slot>
       </template>
       <template #links>
-        <div class="flex justify-between items-center gap-2">
+        <div class="hidden sm:flex justify-between items-center gap-2">
           <div class="opacity-50 text-xs">
             {{ articles.length }} de {{ total }} artículos
           </div>
@@ -42,7 +42,7 @@ const page = defineModel<number>('page', { required: true })
             :total="total"
             :show-controls="false"
             show-edges
-            :sibling-count="1"
+            :sibling-count="0"
             size="sm"
             :to="(pageSelected) => ({
               path,
@@ -75,6 +75,10 @@ const page = defineModel<number>('page', { required: true })
           path,
           query: { page: pageSelected }
         })"
+        :ui="{
+          first: 'hidden sm:block',
+          last: 'hidden sm:block'
+        }"
       />
     </UMain>
   </UPage>
