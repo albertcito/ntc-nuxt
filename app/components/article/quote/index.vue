@@ -2,11 +2,10 @@
 import { useClipboard } from '@vueuse/core'
 
 const props = defineProps<{
-  position?: 'left' | 'right' | 'center' | 'inline',
+  position?: 'left' | 'right' | 'center' | 'inline'
   quote: string
 }>()
-const url = window.location.href
-
+const url = window.location.origin + window.location.pathname
 const { copy, copied } = useClipboard({ legacy: true })
 </script>
 
