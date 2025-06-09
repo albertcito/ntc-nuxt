@@ -1,20 +1,23 @@
 ---
 title: "El victorioso avance del Reino de Dios"
+description: "Para que el Reino de Dios sea victorioso en la historia, a través de la proclamación del Evangelio con el poder del Espíritu y la obediencia de la Iglesia mundial con el poder del Espíritu, Jesús pondrá a todos Sus enemigos debajo de sus pies"
 date: 2023-05-20
 type: article
-translation: true
+translation:
+  summary: "Basado en el articulo “Hope Defined: A Postmillennial Primer” por Matthew Belleville"
+  url: https://www.amazon.com/gp/product/B086RRQRDP
+  author: matthew-belleville
+author: albert
 category: teologia
 tags:
   - "escatologia"
   - "matthew-belleville"
   - "postmilenialismo"
 image:
-  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/luke_24.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749502520/luke_24_wb2dhi.jpg
   alt: Jesus resucitado con angeles
   cc: https://biblepics.co/bible/books/luke/24/
 ---
-
-Para que el Reino de Dios sea victorioso en la historia, a través de la proclamación del Evangelio con el poder del Espíritu y la obediencia de la Iglesia mundial con el poder del Espíritu, Jesús pondrá a todos Sus enemigos debajo de sus pies.
 
 ### La autoridad y voluntad de Cristo
 
