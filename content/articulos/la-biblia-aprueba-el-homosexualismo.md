@@ -22,20 +22,20 @@ En 2017 vine por primera vez a EEUU al Estado de Massachusetts, vi algo muy raro
 
 Empecemos por la base, el texto bíblico.
 
-Levítico 18:22
-No te echarás con varón como con mujer; es abominación.
+> Levítico 18:22
+> No te echarás con varón como con mujer; es abominación.
 
-Levítico 20:13 
-Si alguno se ayuntare con varón como con mujer, abominación hicieron; ambos han de ser muertos; sobre ellos será su sangre.
+> Levítico 20:13 
+> Si alguno se ayuntare con varón como con mujer, abominación hicieron; ambos han de ser muertos; sobre ellos será su sangre.
 
-Romanos 1:26-27
-Por esto Dios los entregó a pasiones vergonzosas; pues aun sus mujeres cambiaron el uso natural por el que es contra naturaleza, y de igual modo también los hombres, dejando el uso natural de la mujer, se encendieron en su lascivia unos con otros, cometiendo hechos vergonzosos hombres con hombres, y recibiendo en sí mismos la retribución debida a su extravío.
+> Romanos 1:26-27
+> Por esto Dios los entregó a pasiones vergonzosas; pues aun sus mujeres cambiaron el uso natural por el que es contra naturaleza, y de igual modo también los hombres, dejando el uso natural de la mujer, se encendieron en su lascivia unos con otros, cometiendo > hechos vergonzosos hombres con hombres, y recibiendo en sí mismos la retribución debida a su extravío.
 
-1 Corintios 6:9
-¿No sabéis que los injustos no heredarán el reino de Dios? No erréis; ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los que se echan con varones
+> 1 Corintios 6:9
+> ¿No sabéis que los injustos no heredarán el reino de Dios? No erréis; ni los fornicarios, ni los idólatras, ni los adúlteros, ni los > afeminados, ni los que se echan con varones
 
-1 Timoteo 1:10
-para los fornicarios, para los sodomitas, para los secuestradores, para los mentirosos y perjuros, y para cuanto se oponga a la sana doctrina
+> 1 Timoteo 1:10
+> para los fornicarios, para los sodomitas, para los secuestradores, para los mentirosos y perjuros, y para cuanto se oponga a la sana doctrina
 
 Una simple lectura de las Escrituras y de estos pasajes nos da una conclusión clara: las Escrituras condenan la homosexualidad. Pero, entonces, ¿Cómo es posible que estas iglesias afirmen que la escritura ve positivamente la homosexualidad o las ideas LGTBIQ?
 

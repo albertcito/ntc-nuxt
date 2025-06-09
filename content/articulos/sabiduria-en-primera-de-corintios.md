@@ -14,8 +14,9 @@ tags:
   - "gordon-clark"
   - "logos"
 image:
-  src: https://upload.wikimedia.org/wikipedia/commons/2/2e/Achaea_SPQR.png
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749415907/Mapa_del_Imperio_Romano_durante_el_an%CC%83o_116-destacando_la_provincia_de_Acaya_nig9a5.png
   alt: Mapa del Imperio Romano durante el año 116, destaca la provincia de Acaya (Península del Peloponeso y otras zonas del sur de la actual Grecia).
+  descr: Mapa del Imperio Romano durante el año 116, destaca la provincia de Acaya (Península del Peloponeso y otras zonas del sur de la actual Grecia).
   cc: https://en.wikipedia.org/wiki/File:Achaea_SPQR.png
 ---
 

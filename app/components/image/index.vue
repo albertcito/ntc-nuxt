@@ -31,7 +31,10 @@ defineProps<{
         aria-label="Creditos de la imagen"
       />
     </div>
-    <figcaption v-if="descr" class="text-sm text-neutral-500 text-right p-2">
+    <figcaption
+      v-if="descr"
+      class="text-sm text-neutral-500 text-center sm:text-right p-2 print:hidden"
+    >
       {{ descr }}
     </figcaption>
   </figure>

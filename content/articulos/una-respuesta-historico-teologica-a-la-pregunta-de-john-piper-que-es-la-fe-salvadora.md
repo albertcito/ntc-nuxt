@@ -15,7 +15,7 @@ tags:
   - "john-piper"
   - "justificacion"
 image:
-  src: Que-es-fe-salvadora-John-Piper.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749416260/Que-es-fe-salvadora-John-Piper_qvv7lu.jpg
   alt: John Piper presentando su libro "Que es la fe que salva?"
   cc: https://www.youtube.com/watch?v=kTGpxretjec
 ---

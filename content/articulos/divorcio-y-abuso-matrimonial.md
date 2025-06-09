@@ -13,7 +13,7 @@ tags:
   - "familia"
   - "greg-bahnsen"
 image:
-  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/abuso-violencia-mujer.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749416111/abuso-violencia-mujer_okkhuo.jpg
   alt: Hombre abusando de mujer
   cc: https://pixabay.com/photos/violence-abuse-aggression-bullying-4207549/
 ---

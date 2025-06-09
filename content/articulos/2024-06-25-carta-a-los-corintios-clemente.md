@@ -2,11 +2,16 @@
 title: "Carta a los Corintios (Clemente)"
 date: 2024-06-25
 type: article
-translation: true
+translation:
+  summary: "Traducido desde la pagina newadvent.org: Letter to the Corinthians (Clement)."
+  url: https://www.newadvent.org/fathers/1010.htm
+  by: albert
+author: clemente
 categories:
   - "historia"
 tags:
   - "padres-de-la-iglesia"
+  - clemente
 image:
   src: clemente-de-roma.jpg
 ---

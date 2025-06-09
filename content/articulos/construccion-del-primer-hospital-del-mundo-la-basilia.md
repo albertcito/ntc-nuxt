@@ -4,8 +4,10 @@ description: "La Basilia: La visión de San Basilio para el primer hospital del 
 date: 2024-11-04
 type: article
 translation:
-  summary: "Artículo original “Reconstructing the world’s first hospital: The Basiliad” por Thomas Heyne."
+  summary: "Artículo original “Reconstructing the world’s first hospital: The Basiliad” por Thomas Heyne"
   url: https://hekint.org/2017/02/24/reconstructing-the-worlds-first-hospital-the-basiliad/
+  by: albert
+author: thomas-heyne
 categories:
   - "historia"
 tags:
@@ -16,9 +18,10 @@ tags:
   - "hospital"
   - "padres-de-la-iglesia"
 image:
-  src: basilio-el-grande.jpg
-  alt: Basilio el grande
-  cc: https://www.thecollector.com/who-was-saint-basil-of-caesarea/
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749415058/San_Basilio_el_grande_zva5u0.jpg
+  alt: Un icono moderno de Basilio pintado por Brian Matthew Whirledge
+  descr: Un icono moderno de Basilio pintado por Brian Matthew Whirledge
+  cc: http://www.iconsandechoes.com/2014/01/saint-basil-great.html
 ---
 
 > Una cosa noble es la filantropía, el socorro a los pobres y la asistencia a la debilidad humana…
