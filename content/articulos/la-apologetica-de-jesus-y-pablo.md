@@ -1,15 +1,20 @@
 ---
 title: "La apologética de Jesús y Pablo"
+description: "La Escritura no es simplemente el mejor argumento, es el único fundamento de la verdad. Cristo apela a ella exclusivamente, no como una entre varias fuentes. Cristo no es un evidencialista, sino un escrituralista"
 date: 2023-06-02
 type: article
-translation: true
+translation:
+  summary: "Articulo original “The Apologetics of Jesus and Paul” escrito por John W. Robbins"
+  url: https://www.trinityfoundation.org/journal.php?id=168
+  author: john-robbins
+author: albert
 category: "apologetica"
 tags:
   - "apologetica"
   - "gordon-clark"
   - "john-w-robbins"
 image:
-  src: Raphael_St_Paul_Preaching_in_Athens_1515.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749475996/Raphael_St_Paul_Preaching_in_Athens_1515_w9jup8.jpg
   alt: San Pablo predicando en Atenas por Rafael
   cc: https://commons.wikimedia.org/wiki/File:V%26A_-_Raphael,_St_Paul_Preaching_in_Athens_(1515).jpg
 ---
