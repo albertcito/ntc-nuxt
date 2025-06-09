@@ -3,12 +3,12 @@ title: "Sabiduría en Primera de Corintios"
 description: "Pablo condena la “sabiduría de este mundo” y no la sabiduría de Dios ni la doctrina de la expiación. Pablo no apoya el anti-intelectualismo"
 date: 2023-12-11
 type: article
-author: gordon-clark
 category: "apologetica"
 translation:
   summary: "\"Wisdom in first corinthians\" por Gordon Clark. Escrito en diciembre 1972 para \"Evangelical Theological Society\" Volume 15, No. 4"
   url: https://etsjets.org/jets15/
-  by: albert
+  author: gordon-clark
+author: albert
 tags:
   - "apologetica"
   - "gordon-clark"

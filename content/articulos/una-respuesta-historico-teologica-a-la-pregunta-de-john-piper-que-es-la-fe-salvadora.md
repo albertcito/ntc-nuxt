@@ -5,8 +5,8 @@ date: 2023-12-01
 translation:
   summary: "Articulo original: “A Historical-Theological Response to John Piper’s What Is Saving Faith?“por John V. Fesko, Harriet Barbour Professor of Systematic and Historical Theology Reformed Theological Seminary, Jackson"
   url: https://journal.rts.edu/article/a-historical-theological-response-to-john-pipers-what-is-saving-faith/
-  by: albert
-author: john-fesko
+  author: john-fesko
+author: albert
 type: article
 category: teologia
 tags:

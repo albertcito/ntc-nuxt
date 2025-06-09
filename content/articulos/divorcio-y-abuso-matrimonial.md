@@ -5,8 +5,8 @@ date: 2023-12-04
 translation:
   summary: "Articulo original Is a Wife Less than a Slave? escrito por Rev. Wes Bredenhof (B.A., M.Div., Th.D.) pastor de la Iglesia Reformada Libre en Launceston, Tasmania."
   url: https://bredenhof.ca/2023/08/21/is-a-wife-less-than-a-slave/
-  by: albert
-author: greg-bahnsen
+  author: greg-bahnsen
+author: albert
 type: article
 category: teologia
 tags:

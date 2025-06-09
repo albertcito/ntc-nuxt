@@ -6,8 +6,8 @@ type: article
 translation:
   summary: "Del libro The Bounds of Love, por Joel McDurmon"
   url: https://www.amazon.com/Bounds-Love-Introduction-Gods-Liberty/dp/1074519183
-  by: albert
-author: joel-mcdurmon
+  author: joel-mcdurmon
+author: albert
 category: teologia
 tags:
   - "joel-mcdurmon"

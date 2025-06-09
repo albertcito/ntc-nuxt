@@ -18,7 +18,7 @@ export default defineContentConfig({
         translation: z.object({
           summary: z.string().min(1),
           url: z.string(),
-          by: z.string()
+          author: z.string()
         }),
         image: z.object({
           src: z.string().min(1),
