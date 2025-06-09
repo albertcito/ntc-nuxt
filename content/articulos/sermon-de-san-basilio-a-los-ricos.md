@@ -1,6 +1,6 @@
 ---
 title: "Sermón de San Basilio a los ricos"
-description: "El siguiente sermón “A los ricos” probablemente fue pronunciado en el año 368, cuando la mayor parte de Asia Menor se vio afectada por una grave sequía que causó grandes penurias, intensificadas por la avaricia de algunos que retenían el grano. En ese momento, San Basilio era sacerdote en la diócesis de Cesarea y supervisaba un ministerio muy activo en favor de los pobres y enfermos; San Gregorio el Teólogo describe el hospital de Basilio a las puertas de Cesarea como una “ciudad” virtual (or. 43.63)"
+description: "El siguiente sermón “A los ricos” probablemente fue pronunciado en el año 368, cuando la mayor parte de Asia Menor se vio afectada por una grave sequía que causó grandes penurias, intensificadas por la avaricia de algunos que retenían el grano. En ese momento, San Basilio era sacerdote en la diócesis de Cesarea y supervisaba un ministerio muy activo en favor de los pobres y enfermos; San Gregorio el Teólogo describe el hospital de Basilio a las puertas de Cesarea como una “ciudad” virtual"
 date: 2024-12-07
 type: article
 translation:

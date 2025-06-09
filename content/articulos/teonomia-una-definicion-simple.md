@@ -1,14 +1,20 @@
 ---
 title: "Teonomía: Una definición simple"
+description: "La teonomía es la enseñanza bíblica de que la Ley Mosaica contiene estándares morales perpetuos para la vida, incluyendo algunas leyes civiles, que siguen siendo obligatorias para hoy"
 date: 2023-06-19
 type: article
-translation: true
+translation:
+  summary: "Del libro The Bounds of Love, por Joel McDurmon"
+  url: https://www.amazon.com/Bounds-Love-Introduction-Gods-Liberty/dp/1074519183
+  by: albert
+author: joel-mcdurmon
 category: teologia
 tags:
   - "joel-mcdurmon"
   - "teonomia"
 image:
-  src: The-Bounds-of-Love.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749473526/The-Bounds-of-Love_nn2eg6.jpg
+  alt: "Portada de libro \"The-Bounds-of-Love\" de Joel McDurmon"
 ---
 
 Es lamentable que los teonomistas en el pasado han tenido que pasar más tiempo diciendo lo que no es la Teonomía en lugar de lo que sí es. Hay buenas razones por las que esto ha sido así, pero el hecho también puede frustrar tanto a los recién llegados como a los críticos cuando buscan una definición concisa que sea lo suficientemente amplia y distintiva como para ser útil. En este capítulo, daré mi versión de esa definición. También discutiré algunas de las razones por las que los teonomistas del pasado han tenido que dedicar tiempo a decir lo que no es la Teonomía con tanta frecuencia, así como a menudo adoptar una postura defensiva. Le mostraré por qué algunas de estas razones no solo son convenientes, sino necesarias.

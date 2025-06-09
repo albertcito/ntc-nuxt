@@ -3,6 +3,7 @@ title: "¿La Biblia aprueba el Homosexualismo 🏳️‍🌈?"
 description: "Análisis Bíblico sobre la homosexualidad: Perspectivas y debates en torno al contexto histórico cultura y la interpretación de textos clave"
 date: 2023-11-15
 type: article
+author: albert
 categories:
   - "analisis"
   - "apologetica"
@@ -12,7 +13,7 @@ tags:
   - "historia"
   - "LGTBIQ"
 image:
-  src: lgtb-church.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749431269/lgtb-church_ow1hih.jpg
   alt: Una bandera LGTB que cuelga de una iglesia local de Boston en apoyo del matrimonio homosexual y los derechos civiles
   cc: https://www.flickr.com/photos/b-tal/65347879
   descr: Bandera LGTB que cuelga de una iglesia local de Boston

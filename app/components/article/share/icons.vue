@@ -9,19 +9,7 @@ const { url, text } = defineProps<{
   iconClass?: HTMLAttributes['class']
   tooltip?: boolean
 }>()
-
-const copied = ref(false)
-const interval = ref<NodeJS.Timeout | null>(null)
-function onCopy() {
-  if (interval.value) {
-    clearTimeout(interval.value)
-  }
-  navigator.clipboard.writeText(url)
-  copied.value = true
-  interval.value = setTimeout(() => {
-    copied.value = false
-  }, 2000)
-}
+const { copy, copied } = useClipboard({ legacy: true })
 type BtnProps = ButtonProps & { ariaLabel: string }
 const items = computed<BtnProps[]>(() => [
   {
@@ -70,7 +58,7 @@ const items = computed<BtnProps[]>(() => [
     size: 'md',
     icon: copied.value ? 'i-lucide-copy-check' : 'i-lucide-copy',
     label: copied.value ? 'Copiado' : 'Copiar',
-    onClick: onCopy,
+    onClick: () => copy(url),
     ui: { leadingIcon: copied.value ? 'text-success' : '' },
     ariaLabel: 'Copia al portapeles'
   }

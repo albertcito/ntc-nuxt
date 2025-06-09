@@ -1,9 +1,13 @@
 <script setup lang="ts">
-defineProps<{
+import { useClipboard } from '@vueuse/core'
+
+const props = defineProps<{
   position?: 'left' | 'right' | 'center' | 'inline',
   quote: string
 }>()
 const url = window.location.href
+
+const { copy, copied } = useClipboard({ legacy: true })
 </script>
 
 <template>
@@ -39,6 +43,14 @@ const url = window.location.href
         :href="`https://twitter.com/intent/tweet?text=${quote}&url=${url}`"
         target="_blank"
         rel="noopener noreferrer"
+      /> <UButton
+        variant="outline"
+        color="neutral"
+        size="sm"
+        :icon="copied ? 'i-lucide-copy-check' : 'i-lucide-copy'"
+        class="cursor-pointer"
+        :ui="{ leadingIcon: copied ? 'text-success' : '' }"
+        @click="copy(`${props.quote}\n${url}`)"
       />
     </div>
   </div>
