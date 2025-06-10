@@ -10,7 +10,8 @@ tags:
   - "joel-mcdurmon"
   - "teonomia"
 image:
-  src: cherem-law.png
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582617/cherem-law_drbdjr.png
+  alt: "Cherem en la ley Biblica"
 ---
 
 La ley de cherem como se da en Levítico 27:28-29 aclara que todo lo que se hace cherem (o “consagrado”) está sujeto a los límites judiciales de las cosas más santas. Se “hace” santísimo, no necesariamente en el sentido de que está purificado en sí mismo, sino en el sentido de que es llevado al espacio judicial y sujeto al estándar de santidad requerido por ese espacio.

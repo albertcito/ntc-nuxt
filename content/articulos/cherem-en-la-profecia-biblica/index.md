@@ -10,7 +10,8 @@ tags:
   - "joel-mcdurmon"
   - "teonomia"
 image:
-  src: cherem-profecia.png
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582609/cherem-profecia_jqbj7j.png
+  alt: "Cherem en la profecia Biblica"
 ---
 
 Los profetas contienen varias referencias a cherem, algunas de las cuales son coloridas. Algunas son sencillas, otras son matizadas y misteriosas, pero otras tienen implicaciones radicales.
