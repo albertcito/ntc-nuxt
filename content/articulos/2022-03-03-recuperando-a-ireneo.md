@@ -1,8 +1,13 @@
 ---
 title: "Recuperando a Ireneo"
+description: "Cuando se entiende dentro del contexto de sus propias obras y de su griego nativo, Ireneo enseñó en el siglo II la misma liturgia eucarística practicada por los protestantes reformados en la actualidad. Lo que es más, se muestra que es completamente ignorante de las novedades católicas romanas de la antigüedad tardía y medieval de la transubstanciación y el sacrificio en la misa"
 date: 2022-03-03
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Artículo original en Inglés “Recovering Irenaeus” escrito por Timothy F. Kauffman para Trinity Foundation."
+  url: https://www.trinityfoundation.org/journal.php?id=339
+  author: timothy-kauffman
 categories:
   - "historia"
 tags:
@@ -11,7 +16,7 @@ tags:
   - "icar"
   - "ireneo-de-lyon"
 image:
-  src: Ireneo-de-Lyon.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749519534/Ireneo-de-Lyon_dcaser.jpg
   alt: Ireneo de Lyon
   cc: https://en.wikipedia.org/wiki/Irenaeus#/media/File:Saint_irenee_saint_irenee.jpg
 ---

@@ -1,8 +1,13 @@
 ---
 title: "El Corán y su \"perfecta preservación\""
+description: "En este artículo revisaremos la tan famosa afirmación acerca de la “perfecta preservación del Corán en el tiempo” revisando las fuentes musulmanas. Lo que nos permitirá ver que tan cierta es esa afirmación"
 date: 2022-03-06
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Artículo original “Quran” escrito por David Wood para Answering Muslims."
+  url: http://www.answeringmuslims.com/p/quran.html
+  author: david-wood
 categories:
   - "islam"
 tags:
@@ -10,8 +15,8 @@ tags:
   - "coran"
   - "islam"
 image:
-  src: Manuscrito-coran-correcciones.jpg
-  alt: Manuscrito coran - correcciones
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749519389/Manuscrito-coran-correcciones_fi2hng.jpg
+  alt: Manuscrito del coran con correcciones
   cc: https://www.youtube.com/watch?v=7a4dJ5KTSSs
 ---
 
