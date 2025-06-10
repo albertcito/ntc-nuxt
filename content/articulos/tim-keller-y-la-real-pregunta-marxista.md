@@ -15,7 +15,8 @@ tags:
   - "marxismo"
   - "tim-keller"
 image:
-  src: tim-keller-marxista.png
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582471/tim-keller-marxista_lkmsqw.png
+  alt: Tim Keller
 ---
 
 Parece que todos los teólogos y su gato se han sentido obligados a publicar una opinión sobre si Tim Keller es marxista. Sin embargo, después de todo, todavía falta algo muy importante.

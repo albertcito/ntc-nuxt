@@ -10,7 +10,8 @@ tags:
   - "nuevo-testamento"
   - "teonomia"
 image:
-  src: cherem-nuevo-testamento.png
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582515/cherem-nuevo-testamento_ni7wcy.png
+  alt: Cherem en el Nuevo Testamento
 ---
 
 En este capítulo, veremos cómo se entendía la revelación de la ley y la profecía del Antiguo Pacto en la era del Nuevo Testamento. También veremos lo que significa a la luz del cumplimiento de Moisés y los profetas en Jesucristo. Con esto, discutiremos qué cambios se producen debido al cambio en las administraciones del Pacto y sus diferentes naturalezas.

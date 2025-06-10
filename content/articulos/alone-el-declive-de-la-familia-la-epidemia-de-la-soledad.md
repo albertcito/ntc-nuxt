@@ -5,8 +5,8 @@ date: 2022-02-11
 type: article
 author: albert
 translation:
-  summary: "De la serie Solo | El declive de la familia ha desatado una epidemia de la soledad. Kay S. Hymowitz es editora colaboradora del City Journal , miembro del William E. Simon Fellow del Manhattan Institute y autora de Manning Up: How the Rise of Women Ha Convert Men Men into Boys. También puedes escuchar la entrevista (en inglés) a Kay Hymowitz llamado “La epidemia de la soledad” en el programa 10 Blocks Podcast."
-  url: https://www.noteconformes.org/articles/alone-el-declive-de-la-familia-la-epidemia-de-la-soledad
+  summary: "Alone | The decline of the family has unleashed an epidemic of loneliness. Kay S. Hymowitz es editora colaboradora del City Journal , miembro del William E. Simon Fellow del Manhattan Institute y autora de Manning Up: How the Rise of Women Has Convert Men Men into Boys. También puedes escuchar la entrevista (en inglés) a Kay Hymowitz llamado “La epidemia de la soledad” en el programa 10 Blocks Podcast."
+  url: https://www.city-journal.org/article/alone
   author: kay-hymowitz
 categories:
   - "analisis"

@@ -17,7 +17,8 @@ tags:
   - "logos"
   - "verdad"
 image:
-  src: biblia-salmos.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582105/biblia-salmos_qqw6ka.jpg
+  alt: Biblia
   cc: https://pixabay.com/es/photos/biblia-abierto-libro-paginas-1846174/
 ---
 

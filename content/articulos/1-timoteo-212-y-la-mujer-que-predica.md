@@ -10,7 +10,7 @@ tags:
   - "predicacion"
   - "timoteo"
 image:
-  src: mujer-predicadora-timoteo-2-1.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582359/mujer-predicadora-timoteo-2-1_oti4lc.jpg
   alt: Mujer predicando en iglesia
   cc: https://www.pexels.com/photo/woman-standing-on-stage-with-a-microphone-10401279/
 ---

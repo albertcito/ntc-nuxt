@@ -13,7 +13,9 @@ tags:
   - "padres-de-la-iglesia"
   - clemente
 image:
-  src: clemente-de-roma.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749581915/clemente-de-roma_q5bbya.jpg
+  alt: Clemnte de Roma
+  cc: https://commons.wikimedia.org/wiki/File:Clemens_Romanus.jpg
 ---
 
 ## Capítulo 1. El Saludo. Alabanza de los Corintios antes de que estallara el cisma entre ellos.

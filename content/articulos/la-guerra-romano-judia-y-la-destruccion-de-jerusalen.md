@@ -14,7 +14,7 @@ tags:
   - "historia"
   - "nuevo-testamento"
 image:
-  src: David_Roberts_-_The_Siege_and_Destruction_of_Jerusalem_by_the_Romans_Under_the_Command_of_Titus_A.D._70-1.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582241/David_Roberts_-_The_Siege_and_Destruction_of_Jerusalem_by_the_Romans_Under_the_Command_of_Titus_A.D._70-1_rrhgqf.jpg
   cc: https://commons.wikimedia.org/wiki/File:David_Roberts_-_The_Siege_and_Destruction_of_Jerusalem_by_the_Romans_Under_the_Command_of_Titus,_A.D._70.jpg
 ---
 

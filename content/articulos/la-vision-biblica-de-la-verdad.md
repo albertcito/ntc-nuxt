@@ -17,7 +17,8 @@ tags:
   - "logos"
   - "verdad"
 image:
-  src: leyend-la-biblia.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582209/leyend-la-biblia_ricc1l.jpg
+  alt: Biblia
   cc: https://pixabay.com/es/photos/gente-ni%c3%b1a-sentado-leyendo-libro-2598752/
 ---
 

@@ -14,7 +14,8 @@ tags:
   - "gordon-clark"
   - "logica"
 image:
-  src: leonardo-davinci-man.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582025/leonardo-davinci-man_xnzcv7.jpg
+  alt: "Vitruvian Man – Leonardo da Vinci"
   cc: https://en.wikipedia.org/wiki/Vitruvian_Man#/media/File:Da_Vinci_Vitruve_Luc_Viatour.jpg
 ---
 

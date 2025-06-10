@@ -13,7 +13,7 @@ tags:
   - "michael-kruger"
   - "nuevo-testamento"
 image:
-  src: Evangeli-de-Juan-Griego-Papiro-1.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582415/Evangeli-de-Juan-Griego-Papiro-1_m217sq.jpg
   alt: Evangelio de Juan - Codex Sinaiticus
   descr: Evangelio de Juan - Codex Sinaiticus
   cc: https://codexsinaiticus.org/en/manuscript.aspx?book=36&lid=en&side=r&zoomSlider=0#36-1-1-5
