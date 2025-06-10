@@ -1,8 +1,13 @@
 ---
 title: "Samuel Hopkins y el legado paradójico de Jonathan Edwards Sr."
+description: "El patriota y teólogo Samuel Hopkins (1721-1803) se opuso enérgicamente a la esclavitud durante toda su vida. Paradójicamente, su teología anti-esclavista se inspiró en su mentor, el presidente de Princeton, propietario de esclavos, Jonathan Edwards Sr."
 date: 2023-05-15
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Articulo original “Samuel Hopkins and the Paradoxical Legacy of Jonathan Edwards Sr.” escrito en el para Pricenton & Slavery Project."
+  url: https://slavery.princeton.edu/stories/samuel-hopkins-and-the-paradoxical-legacy-of-jonathan-edwards-sr
+  author: john-lowe
 categories:
   - "historia"
 tags:
@@ -11,7 +16,7 @@ tags:
   - "jonathan-edwards-sr"
   - "samuel-hopkins"
 image:
-  src: Samuel-Hopkins-Clergyman.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749516618/Samuel-Hopkins-Clergyman_wtx509.jpg
   alt: Teólogo y abolicionista Samuel Hopkins, alumno de Jonathan Edwards Sr.
   cc: https://commons.wikimedia.org/wiki/File:SamuelHopkinsClergyman.jpg#/media/File:SamuelHopkinsClergyman.jpg
 ---

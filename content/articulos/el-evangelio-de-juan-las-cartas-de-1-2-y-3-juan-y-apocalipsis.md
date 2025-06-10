@@ -1,15 +1,20 @@
 ---
 title: "El Evangelio de Juan, las Cartas de 1, 2 y 3 Juan y Apocalipsis"
+description: "Una examinación interna de los escritos de Juan nos indican que fueron escritos antes del 70 dC. "
 date: 2023-02-24
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Escrito en Dating the New Testament"
+  url: http://www.datingthenewtestament.com/John.htm
 categories:
   - "datacion"
 tags:
   - "datacion"
   - "nuevo-testamento"
 image:
-  src: Juan-en-Patmos-Titian-and-Workshop.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749517292/Juan-en-Patmos-Titian-and-Workshop_obk4ux.jpg
+  alt: "San Juan el evangelista en la isla de Patmos"
   cc: https://www.nga.gov/collection/art-object-page.43725.html
 ---
 

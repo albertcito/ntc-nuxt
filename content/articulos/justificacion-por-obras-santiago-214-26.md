@@ -1,13 +1,20 @@
 ---
 title: "Justificación por Obras - Santiago 2:14-26"
+description: "Pablo confirma que hay dos clases de justificación. En Romanos 4:2, Pablo dijo: “Porque si Abraham fue justificado por las obras, tiene de qué gloriarse, pero no para con Dios”. Pablo había estado escribiendo sobre la justificación ante Dios (Rom 3:21–4:1). Pablo explicó extensamente cómo la justificación ante Dios es por fe aparte de las obras. Pero luego, en Rom 4:2, Pablo da a entender que hay un segundo tipo de justificación, una que es por obras, y que no es ante Dios. ¿Quién es antes? Evidentemente, es antes que los hombres"
 date: 2023-04-06
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Articulo original “Justification by Works for Baptists (James 2:14-26)” escrito por Shawn Lazar. Artículo fur modificado y se agrego una sección para hacerlo que se entienda mejor aun."
+  url: https://www.academia.edu/6726789/Justification_by_Works_for_Baptists_James_2_14_26_
+  author: shawn-lazar
 category: teologia
 tags:
   - "fe-sola"
+  - justificacion
 image:
-  src: ayudando.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749517120/ayudando_oh6dqp.jpg
+  alt: Personas ayudando
   cc: https://pixabay.com/es/photos/ni%c3%b1a-lodo-correr-pendiente-ayuda-1186895/
 ---
 

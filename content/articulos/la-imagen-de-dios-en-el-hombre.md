@@ -1,8 +1,13 @@
 ---
 title: "La imagen de Dios en el hombre"
+description: "La imagen de Dios es la razón. Porque Dios es verdad la imagen debe ser la razón. La comunión con él, un propósito muy importante en la creación, requiere pensar y comprender. Sin razón, el hombre sin duda glorificaría a Dios como lo hacen las estrellas, las piedras y los animales, pero no podría disfrutarlo para siempre. Aunque en la providencia de Dios los animales sobrevivan a la muerte y adornen el mundo futuro, no pueden tener lo que la Escritura llama vida eterna porque la vida eterna es conocer al único Dios verdadero, y el conocimiento es un ejercicio de la mente o razón. Sin razón no puede haber moralidad ni rectitud: éstas también requieren pensamiento. Sin estos, los animales no son justos ni pecaminosos"
 date: 2023-04-06
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Artículo escrito por Gordon Clark: “The image of God in Man” para “Journal of the evangelical theological society” (Jest 12.4)"
+  url: https://etsjets.org/jets-archive/
+  author: gordon-clark
 category: "apologetica"
 tags:
   - "apologetica"

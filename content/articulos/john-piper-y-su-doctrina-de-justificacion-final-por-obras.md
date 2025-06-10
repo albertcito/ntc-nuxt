@@ -1,8 +1,13 @@
 ---
 title: "John Piper y su doctrina de justificación final por obras"
+description: "Piper predica 2 justificaciones: La justificación por la fe sola. Donde, según el, estas en una posición pero aun no eres salvo, si no que debes pasar la “justificación final”. La segunda es “justificación final” es un juicio basado en una vida de buena obras (los frutos de la fe). Por lo cual necesitarás obras para poder ser aceptado como salvo."
 date: 2022-06-14
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Artículo original “John Piper on Final Justification by Works” escrito por Timothy F. Kauffman and Tim Shaughnessy para Trinity Foundation."
+  url: https://www.trinityfoundation.org/journal.php?id=331
+  author: tim-shaughnessy
 categories:
   - "analisis"
 tags:
@@ -11,7 +16,7 @@ tags:
   - "john-piper"
   - "justificacion"
 image:
-  src: John-Piper-Faith-Alone-How-Not-to-Use-a-Reformed-Slogan.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749517688/John-Piper-Faith-Alone-How-Not-to-Use-a-Reformed-Slogan_xwlf83.jpg
   alt: "John Piper predicando Faith Alone: Cómo (no) usar un eslogan reformado"
 ---
 

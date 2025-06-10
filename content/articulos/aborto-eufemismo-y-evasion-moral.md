@@ -1,14 +1,19 @@
 ---
 title: "Aborto, eufemismo y evasión moral"
+description: "¿Hay alguien que crea que la muerte del niño por nacer es simplemente un no intencionado “efecto secundario” de un aborto provocado del cual el provocador, la madre, no es culpable?"
 date: 2022-05-28
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Artículo original “Abortion, euphemism, and moral evasion” escrito por Anthony G. Flood"
+  url: https://anthonygflood.com/2022/05/abortion-euphemism-and-moral-evasion/
+  author: anthony-flood
 categories:
   - "analisis"
 tags:
   - "aborto"
 image:
-  src: ecografia-bebe.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749517828/ecografia-bebe_vzodhr.jpg
   alt: Ecografia bebe
   cc: https://www.pexels.com/photo/a-pregnant-woman-holding-an-ultrasound-picture-7055918/
 ---
