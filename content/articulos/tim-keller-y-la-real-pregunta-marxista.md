@@ -1,8 +1,13 @@
 ---
 title: "Tim Keller y la real pregunta \"marxista\""
+description: Dr. Keller no comprende la economía. El texto muestra que José hizo que los egipcios pagaran caro para mantenerse con vida. Compró sus tierras a nombre del Estado. Los trajo a la esclavitud permanente. Keller asume cosas similares sobre los programas gubernamentales y las tiranías en su último artículo de opinión en The New York Times.
 date: 2022-02-10
 type: article
-translation: true
+translation:
+  summary: "Artículo original Tim Keller And The Real “Marxist” Question de Joel McDurmon"
+  url: https://www.lambsreign.com/mcdurmon/tim-keller-marxist-question
+  author: joel-mcdurmon
+author: albert
 categories:
   - "analisis"
 tags:

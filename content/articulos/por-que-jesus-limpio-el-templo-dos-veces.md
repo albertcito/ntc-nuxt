@@ -1,8 +1,13 @@
 ---
 title: "¿Por qué Jesús limpió el templo dos veces?"
+description: "Por qué se registra que Jesús limpió el templo de los cambistas dos veces. Juan registra que sucedió al comienzo del ministerio de Jesús, y todos los evangelios sinópticos registran que sucedió al final. Cual es ¿O son ambos? Si es así, ¿por qué? ¿Qué sentido tiene? En los próximos minutos, le daré sentido"
 date: 2022-02-18
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Escrito por Joel McDurmon, para Lambs Reign"
+  url: https://www.lambsreign.com/blog/why-jesus-cleansed-the-temple-twice-a-long-standing-mystery-solved
+  author: joel-mcdurmon
 category: teologia
 tags:
   - "corrupcion"
@@ -11,7 +16,9 @@ tags:
   - "levitico"
   - "templo"
 image:
-  src: Изгнание_торгующих_из_храма._XXI_век-1.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749559481/Expulsio%CC%81n_de_los_mercaderes_del_templo_por_Andrei_Mironov_zb3on6.jpg
+  alt: Expulsion of the merchants from the temple by Andrei Mironov
+  descr: Expulsion of the merchants from the temple by Andrei Mironov
   cc: https://commons.wikimedia.org/wiki/File:%D0%98%D0%B7%D0%B3%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D0%BE%D1%80%D0%B3%D1%83%D1%8E%D1%89%D0%B8%D1%85_%D0%B8%D0%B7_%D1%85%D1%80%D0%B0%D0%BC%D0%B0._XXI_%D0%B2%D0%B5%D0%BA.jpg
 ---
 

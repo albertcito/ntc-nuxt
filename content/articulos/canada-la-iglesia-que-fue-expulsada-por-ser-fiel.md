@@ -1,8 +1,13 @@
 ---
 title: "La Iglesia que fue expulsada por ser fiel - Canadá"
+description: "Esta es una historia inspiradora de la mayor crisis que vivió la Iglesia Anglicana de Canada entre dos fracciones: liberales quienes rechazaban la palabra de Dios y el remanente que se mantuvo fiel al evangelio y la palabra de Dios"
 date: 2022-02-18
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Artículo original en inglés: How Anglicans in Canada Found New Life After Their Eviction escrito por Sarah Eekhoff Zylstra para The Gospel Colaition"
+  url: https://www.thegospelcoalition.org/article/how-anglicans-in-canada-found-new-life-after-their-eviction/
+  author: sarah-eekhoff-zylstra
 categories:
   - "analisis"
 tags:
@@ -12,8 +17,9 @@ tags:
   - "investigacion"
   - "lgtbiq"
 image:
-  src: IMG_3109.jpg
-  alt: We are not a church anymore
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749558994/esta-ya-no-es-una-iglesia_ibchau.jpg
+  alt: Cartel afuera de una iglesia que se convirtió en un restaurant. La imagen dice “Esta no es iglesia, ven y toma un café o cerveza”. Imagen tomada en Ottawa, Canadá – 2017.
+  descr: Cartel afuera de una iglesia que se convirtió en un restaurant. La imagen dice “Esta no es iglesia, ven y toma un café o cerveza”. Imagen tomada en Ottawa, Canadá – 2017.
   cc: https://www.google.com/maps/@45.4272951,-75.6779567,3a,75y,78.92h,92.22t/data=!3m6!1e1!3m4!1sedl7hoJQW1NF4ULBf7KS-A!2e0!7i16384!8i8192
 ---
 

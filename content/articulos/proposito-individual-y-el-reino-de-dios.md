@@ -1,8 +1,13 @@
 ---
 title: "Propósito individual y el Reino de Dios"
+description: La educación en el hogar no tendría sentido a menos que enseñáramos a nuestros hijos a buscar y encontrar su tarea y propósito específicos como individuos, en el plan de Dios.
 date: 2022-02-18
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Escrito por Bojidar Marinov, para Reconstructionist Radio"
+  url: https://www.reconstructionistradio.com/
+  author: bojidar-marinov
 category: teologia
 tags:
   - "bojidar-marinov"
@@ -11,7 +16,8 @@ tags:
   - "proposito"
   - "reino-de-dios"
 image:
-  src: estudiando-1.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749559612/estudiando_rboyh7.jpg
+  alt: Niños estudiando
   cc: https://www.pexels.com/photo/girls-on-desk-looking-at-notebook-159823/
 ---
 

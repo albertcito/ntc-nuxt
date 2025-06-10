@@ -1,8 +1,13 @@
 ---
 title: "Alone | El declive de la familia  la epidemia de la soledad"
+description: "La soledad, según nos dicen los expertos en salud pública, está matando a tantos personas como obesidad y tabaquismo. Los estadounidenses están solos, los alemanes, los franceses bon vivant están solos, e incluso los escandinavos, las personas “más felices del mundo” también están solos. Te invito a leer este reportaje de como el declive de la familia ha destado esta oculta pandemia"
 date: 2022-02-11
 type: article
-translation: true
+author: albert
+translation:
+  summary: "De la serie Solo | El declive de la familia ha desatado una epidemia de la soledad. Kay S. Hymowitz es editora colaboradora del City Journal , miembro del William E. Simon Fellow del Manhattan Institute y autora de Manning Up: How the Rise of Women Ha Convert Men Men into Boys. También puedes escuchar la entrevista (en inglés) a Kay Hymowitz llamado “La epidemia de la soledad” en el programa 10 Blocks Podcast."
+  url: https://www.noteconformes.org/articles/alone-el-declive-de-la-familia-la-epidemia-de-la-soledad
+  author: kay-hymowitz
 categories:
   - "analisis"
 tags:
@@ -11,7 +16,8 @@ tags:
   - "sociedad"
   - "soledad"
 image:
-  src: gitl-alone.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749559773/gitl-alone_mfqqu5.jpg
+  alt: Niña triste
   cc: https://pixabay.com/photos/girl-sitting-jetty-docks-boardwalk-1822702/
 ---
 
@@ -84,11 +90,3 @@ El desafío es encontrar formas de comunicar lo que necesitan las generaciones f
 En su mayor parte, este silencio cultural estudiado sobre el matrimonio, los hijos y el parentesco no ha dañado las perspectivas de que los hijos de mis compañeros creen y mantengan vínculos tan esenciales para el bienestar individual y social. Ven estas relaciones a su alrededor; son parte del aire que respiran. Eso está lejos del caso en las comunidades menos favorecidas, donde los lazos más elementales se deshilachan como una pieza de muselina de 100 años. La mayoría de las discusiones sobre políticas sobre los problemas de la clase trabajadora y los pobres de los Estados Unidos se centran en la educación vocacional y técnica, empleos mejor pagados y confiables y beneficios. Estos son esfuerzos necesarios, pero no son suficientes para contrarrestar la soledad, los sin familia y la desesperación que aplastan a tantos espíritus. También debe haber lo que Tom Wolfe llamó un "Gran reaprendizaje" sobre cómo satisfacer el anhelo humano de continuidad y conexión.
 
 Y no es solo por el bien de los niños.
-
-* * *
-
-De la serie [Solo | El declive de la familia ha desatado una epidemia de la soledad](/articulos/alone-el-declive-de-la-familia-la-epidemia-de-la-soledad).
-
-[Kay S. Hymowitz](https://www.city-journal.org/contributor/kay-s-hymowitz_90){target=blank} es editora colaboradora del City Journal , miembro del [William E. Simon Fellow del Manhattan Institute](https://www.manhattan-institute.org/expert/kay-s-hymowitz){target=blank} y autora de [Manning Up: How the Rise of Women Ha Convert Men Men into Boys](http://www.manhattan-institute.org/manningup/){target=blank}.
-
-También puedes [escuchar la entrevista](https://www.city-journal.org/loneliness-epidemic){target=blank} (en inglés) a Kay Hymowitz llamado "La epidemia de la soledad" en el programa [10 Blocks Podcast](https://www.city-journal.org/10-blocks){target=blank}.

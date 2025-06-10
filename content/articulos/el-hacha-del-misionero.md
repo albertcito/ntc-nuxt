@@ -1,17 +1,23 @@
 ---
 title: "El hacha del misionero"
+description: Un misionero que no hace todo lo posible por desafiar al ídolo central de una cultura está produciendo futuros apóstatas, no verdaderos creyentes. No importa cuántas conversiones personales pueda producir un misionero, si no desafían al ídolo central de la cultura, los nuevos conversos se apartarán y volverán al paganismo
 date: 2022-02-18
 type: article
-translation: true
 category: teologia
+author: albert
+translation:
+  summary: "Escrito por Bojidar Marinov, para Reconstructionist Radio"
+  url: https://www.reconstructionistradio.com/
+  author: bojidar-marinov
 tags:
   - "bojidar-marinov"
   - "cultura"
   - "misiones"
   - "reino-de-dios"
 image:
-  src: St-Boniface-cutting-Donar-Oak-Christmas-Tree.jpg
-  alt: St. Boniface chopping down the Donar Oak
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749559120/St-Boniface-cutting-Donar-Oak-Christmas-Tree_ncwl2h.jpg
+  alt: San Bonifacio talando el roble de Donar, sagrado para los paganos alemanes
+  descr: San Bonifacio talando el roble de Donar, sagrado para los paganos alemanes
 ---
 
 Situada en el corazón de la Alemania actual, en la provincia de Hesse, es una pequeña y humilde ciudad de tan solo 15.000 habitantes. En medio de ese pueblo se levanta una imponente catedral antigua construida en los siglos XII-XIV de piedra rojiza. Frente a esa catedral se encuentra la estatua de un hombre con traje de monje sobre un tocón de un roble recién talado, con un enorme hacha sajona en la mano.

@@ -1,8 +1,13 @@
 ---
 title: "La demografía de la irrelevancia"
+description: La demografía de la irrelevancia es la maldición de Dios sobre una generación que se negó a escuchar el llamado de la victoria del Reino de Cristo en la historia y en la tierra
 date: 2022-02-18
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Escrito por Bojidar Marinov, para Reconstructionist Radio"
+  url: https://www.reconstructionistradio.com/
+  author: bojidar-marinov
 category: teologia
 tags:
   - "bojidar-marinov"
@@ -12,7 +17,8 @@ tags:
   - "proposito"
   - "reino-de-dios"
 image:
-  src: church-g3b4906560_1280.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749559248/church-g3b4906560_1280_vpgeij.jpg
+  alt: Linda iglesia y naturaleza
   cc: https://pixabay.com/photos/church-lake-lake-biel-autumn-fog-4850405/
 ---
 

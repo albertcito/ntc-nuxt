@@ -1,8 +1,13 @@
 ---
 title: "Libertad, la herramienta perdida del evangelismo"
+description: La fe en Cristo cambia la cultura y crea las bases para esa libertad, justicia y prosperidad que la gente en Europa del Este quería alcanzar después de la caída del comunismo. Desafortunadamente, los misioneros estadounidenses a menudo tienen una idea muy mística, casi gnóstica de la salvación.
 date: 2022-02-18
 type: article
-translation: true
+author: albert
+translation:
+  summary: "Escrito por Bojidar Marinov para Bulgarian Reformation Ministries"
+  url: https://bulgarianreformation.com/freedom-lost-tool-evangelism/
+  author: bojidar-marinov
 categories:
   - "analisis"
 tags:
@@ -12,8 +17,8 @@ tags:
   - "libertad"
   - "misiones"
 image:
-  src: Raphael_St_Paul_Preaching_in_Athens_1515.jpg
-  alt: Saint Paul delivering the Areopagus Sermon in Athens, by Raphael, 1515.
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749475996/Raphael_St_Paul_Preaching_in_Athens_1515_w9jup8.jpg
+  alt: San Pablo pronunciando el Sermón del Areópago en Atenas, por Rafael, 1515.
   cc: https://en.wikipedia.org/wiki/Areopagus_sermon#/media/File:V&A_-_Raphael,_St_Paul_Preaching_in_Athens_(1515).jpg
 ---
 

@@ -1,15 +1,22 @@
 ---
 title: "Facciones en teonomía ¿Penas de muerte \"ceremoniales\"?"
+description: La teonomía bíblica es, como describió una vez Rushdoony, lo más parecido a un libertarismo radical que se puede tener. El problema es que, en demasiados aspectos, la perspectiva de Rushdoony se parecía más a esas tiranías retrógradas que a la sociedad de la libertad de la que a veces hablaba.
 date: 2022-02-08
 type: article
-translation: true
+translation:
+  summary: "Escrito por Joel McDurmon: Factions In Theonomy: *Ceremonial* Death Penalties?"
+  url: https://www.lambsreign.com/blog/factions-in-theonomy-ceremonial-death-penalties
+  author: joel-mcdurmon
+author: albert
 category: teologia
 tags:
   - "greg-bahnsen"
   - "joel-mcdurmon"
   - "teonomia"
 image:
-  src: pena-capital-antiguo.testamento.png
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749560138/La_historia_del_hombre_que_fue_atrapado_recogiendo_len%CC%83a_mjmhur.jpg
+  alt: La historia del hombre que fue atrapado recogiendo leña en el Antiguo Testamento
+  cc: https://www.everythingstudio.com/barbara-griffiths/archive/books-moses.php#moses-17
 ---
 
 La Reconstrucción Cristiana y la Teonomía siempre han sufrido divisiones y facciones. ¡Por supuesto, **necesitamos más unidad! Y sostengo que debe provenir de un mayor énfasis y productividad en la exégesis**. Aquí es donde he formado mi trabajo en Teonomía. Pero aún quedan facciones, y debemos entenderlas.

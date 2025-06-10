@@ -58,7 +58,7 @@ const items = computed<BtnProps[]>(() => [
     size: 'md',
     icon: copied.value ? 'i-lucide-copy-check' : 'i-lucide-copy',
     label: copied.value ? 'Copiado' : 'Copiar',
-    onClick: () => copy(url),
+    onClick: () => copy(`${text}\n${url}`),
     ui: { leadingIcon: copied.value ? 'text-success' : '' },
     ariaLabel: 'Copia al portapeles'
   }
