@@ -4,15 +4,21 @@ date: 2022-01-10
 type: subseries
 serie: la-creacion-desde-una-perspectiva-economica
 category: teologia
+author: albert
+translation:
+  summary: "Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado Christian Economics: Scholar’s Edition"
+  url: https://www.garynorth.com/public/department188.cfm
+  author: gary-north
 tags:
   - "caida"
   - "creacion"
   - "economia"
   - "gary-north"
 image:
-  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/sunrise.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749604830/sunrise_kciakr.jpg
   alt: Tierra vista desde el espacio
   cc: https://pixabay.com/photos/sunrise-space-outer-space-globe-1765027/
+  hide: true
 ---
 
 De Jehová es la tierra y su plenitud; El mundo, y los que en él habitan. Porque él la fundó sobre los mares, Y la afirmó sobre los ríos. (Salmos 24:1-2)

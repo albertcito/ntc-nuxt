@@ -4,15 +4,21 @@ date: 2022-01-12
 type: 'subseries'
 serie: la-creacion-desde-una-perspectiva-economica
 category: teologia
+author: albert
+translation:
+  summary: "Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado Christian Economics: Scholar’s Edition"
+  url: https://www.garynorth.com/public/department188.cfm
+  author: gary-north
 tags:
   - "caida"
   - "creacion"
   - "economia"
   - "gary-north"
 image:
-  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/sunrise.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749604830/sunrise_kciakr.jpg
   alt: Tierra vista desde el espacio
   cc: https://pixabay.com/photos/sunrise-space-outer-space-globe-1765027/
+  hide: true
 ---
 
 Tomó, pues, Jehová Dios al hombre y lo puso en el huerto de Edén, para que lo labrara y lo cuidara. Y mandó Jehová Dios al hombre, diciendo: «De todo árbol del huerto podrás comer; pero del árbol del conocimiento del bien y del mal no comerás, porque el día que de él comas, ciertamente morirás.» (Génesis 2:15-17)

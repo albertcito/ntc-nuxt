@@ -4,15 +4,21 @@ date: 2022-01-11
 type: 'subseries'
 serie: la-creacion-desde-una-perspectiva-economica
 category: teologia
+author: albert
+translation:
+  summary: "Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado Christian Economics: Scholar’s Edition"
+  url: https://www.garynorth.com/public/department188.cfm
+  author: gary-north
 tags:
   - "caida"
   - "creacion"
   - "economia"
   - "gary-north"
 image:
-  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/sunrise.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749604830/sunrise_kciakr.jpg
   alt: Tierra vista desde el espacio
   cc: https://pixabay.com/photos/sunrise-space-outer-space-globe-1765027/
+  hide: true
 ---
 
 Entonces dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y señoree en los peces del mar, en las aves de los cielos, en las bestias, en toda la tierra, y en todo animal que se arrastra sobre la tierra. Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó. Y los bendijo Dios, y les dijo: Fructificad y multiplicaos; llenad la tierra, y sojuzgadla, y señoread en los peces del mar, en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra (Génesis 1: 26-28)
