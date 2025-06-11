@@ -6,7 +6,6 @@ const props = defineProps<{
 const { data } = await useAsyncData(
   computed(() => `${props.serie}`),
   () => queryCollection('articulos')
-    .where('type', '=', 'subseries')
     .where('serie', '=', props.serie)
     .order('date', 'ASC')
     .all()

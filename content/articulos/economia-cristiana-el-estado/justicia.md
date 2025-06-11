@@ -1,9 +1,15 @@
 ---
 title: Justicia
+description: "La justicia bíblica exige tribunales imparciales y una ley igualitaria para todos. Si bien la justicia perfecta solo la puede lograr Dios, los tribunales humanos deben centrarse en la aplicación predecible de las leyes y la compensación a las víctimas, equilibrando la justicia con la paz para la estabilidad social."
 date: 2022-01-02
 type: 'subseries'
 serie: economia-cristiana-el-estado
 category: teologia
+author: albert
+translation:
+  summary: "Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamada Christian Economics: Scholar’s Edition"
+  url: https://www.garynorth.com/public/20604.cfm
+  author: gary-north
 tags:
   - "burocracia"
   - "economia"
@@ -11,7 +17,7 @@ tags:
   - "gary-north"
   - "impuestos"
 image:
-  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/washington-dc.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749602760/washington-dc_qwufk5.jpg
   alt: Capitolio de Washington D.C.
   descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/

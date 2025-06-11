@@ -1,9 +1,15 @@
 ---
 title: Introducción
+description: Explora la legitimidad del gobierno civil, tal como se describe en Romanos 13, afirmando que toda autoridad proviene de Dios. Critica la falta de enfoque de la comunidad cristiana en el Estado moderno y aboga por un gobierno sujeto a la ley bíblica. Insta al desarrollo de teorías económicas y políticas cristianas para contrarrestar las ideologías estatales humanistas.
 date: 2022-01-01
 type: 'subseries'
 serie: economia-cristiana-el-estado
 category: teologia
+author: albert
+translation:
+  summary: "Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamada Christian Economics: Scholar’s Edition"
+  url: https://www.garynorth.com/public/20606.cfm
+  author: gary-north
 tags:
   - "burocracia"
   - "economia"
@@ -11,7 +17,7 @@ tags:
   - "gary-north"
   - "impuestos"
 image:
-  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/washington-dc.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749602760/washington-dc_qwufk5.jpg
   alt: Capitolio de Washington D.C.
   descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/

@@ -1,9 +1,14 @@
 ---
 title: "Economía Cristiana: El Estado"
+description: "Te has preguntado alguna vez ¿Qué dice la Biblia respecto al estado? ¿Qué áreas es permitido que el estado afecte a tu vida y a la vida de la sociedad? ¿Los impuestos son válidos? Muchas preguntas más y como estas son respondidas desde una perspectiva Biblia"
 date: 2022-01-08
 type: series
-translation: true
 category: teologia
+author: albert
+translation:
+  summary: "Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamada Christian Economics: Scholar’s Edition"
+  url: https://www.garynorth.com/public/department196.cfm
+  author: gary-north
 tags:
   - "burocracia"
   - "economia"
@@ -11,7 +16,7 @@ tags:
   - "gary-north"
   - "impuestos"
 image:
-  src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/washington-dc.jpg
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749602760/washington-dc_qwufk5.jpg
   alt: Capitolio de Washington D.C.
   descr: Capitolio de Washington D.C.
   cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/
