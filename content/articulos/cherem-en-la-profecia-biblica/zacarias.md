@@ -40,7 +40,3 @@ La palabra "maldición" aquí es anatema en griego. Como veremos, es el equivale
 Esta idea también es perfectamente consistente con el punto de vista de que cherem era una ley levítica, una ley ceremonial mosaica ligada al templo y al sacerdocio levítico, terminada en el año 70 d. C. No solo es consistente, es la mejor explicación. La ley Cherem era una ley del templo y sacerdotal.
 
 Cuando el templo terminó, también lo hizo el cherem mosaico. El cherem/anatema que permanece en la tierra ahora es la pronunciación de la iglesia, y solo se refiere a la excomunión. En última instancia, es la obra de Dios al declarar el juicio de las personas. Lo que Zacarías y Juan aclaran juntos es esto: cherem/anatema es ahora solo una sanción espiritual.
-
-* * *
-
-Este artículo es parte de [Cherem en la profecia Biblica](/articulos/cherem-en-la-profecia-biblica).

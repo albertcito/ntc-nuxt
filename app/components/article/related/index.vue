@@ -8,7 +8,7 @@ const {
 const { data } = await useAsyncData(
   computed(() => `articulos-${JSON.stringify(tags)}`),
   () => {
-    const query = queryCollection('articulos')
+    const query = queryCollection('all')
       .where('type', '<>', 'subseries')
       .where('path', '<>', path)
       .order('date', 'DESC')

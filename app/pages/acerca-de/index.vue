@@ -1,8 +1,8 @@
 <script setup lang="ts">
 const route = useRoute()
 const { data: page } = await useAsyncData(
-  `/pages${route.path}`,
-  () => queryCollection('pages').path(`/pages${route.path}`).first()
+  route.path,
+  () => queryCollection('all').path(route.path).first()
 )
 </script>
 

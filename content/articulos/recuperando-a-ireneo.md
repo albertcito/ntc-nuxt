@@ -17,6 +17,7 @@ tags:
   - "historia"
   - "icar"
   - "ireneo-de-lyon"
+  - padres-de-la-iglesia
 image:
   src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749519534/Ireneo-de-Lyon_dcaser.jpg
   alt: Ireneo de Lyon

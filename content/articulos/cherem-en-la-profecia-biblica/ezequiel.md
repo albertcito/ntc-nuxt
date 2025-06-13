@@ -32,7 +32,3 @@ En segundo lugar, esta realidad también está fuertemente sugerida por la revel
 También se alteran otros límites de santidad. Por ejemplo, los gentiles que residen en Tierra Santa ahora podrán poseer propiedades y poseerlas como herencia (Ezequiel 47:22). Esto estaba prohibido anteriormente. La tierra no podía venderse a perpetuidad (Lev. 25: 23-24). Siempre regresó a sus dueños hebreos originales bajo la ley del Jubileo. Esto, por definición, es la eliminación de al menos un límite de separación: el que mantenía la Tierra Santa en posesión del pueblo santo del pacto, excluyendo a los gentiles.
 
 Estos cambios en la tierra santa y especialmente en el lugar santísimo también dan una nueva dimensión a la aplicación del cherem. Ezequiel nos muestra un nuevo templo que es una realidad espiritual, no terrenal, al menos no en el sentido de un edificio o lugar. Muestra un lugar santísimo que es celestial, no un edificio en la tierra. Dado que cherem implica la violación del límite más sagrado, el cambio de ese límite de una realidad terrenal a una celestial tiene una importancia tremenda. La única agencia en la tierra que ahora tiene jurisdicción con respecto a este límite es la iglesia, y su jurisdicción tampoco incluye ninguna pena de muerte física.
-
-* * *
-
-Este artículo es parte de [Cherem en la profecia Biblica](/articulos/cherem-en-la-profecia-biblica).

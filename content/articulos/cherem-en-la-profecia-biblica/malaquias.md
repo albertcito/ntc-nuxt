@@ -38,7 +38,3 @@ Además, la profecía llama específicamente a su audiencia a enfocarse en la le
 > Tal es la terrible maldición suspendida sobre la tierra de Israel por el Espíritu profético, en el momento de partir y callar por siglos. Es importante observar que todo esto tiene una referencia distinta y específica a la tierra de Israel. El mensaje del profeta es para Israel; los pecados que son reprobados son los pecados de Israel; la venida del Señor es a su templo en Israel; la tierra amenazada por la maldición es la tierra de Israel. Todo esto apunta manifiestamente a una catástrofe local y nacional específica, de la cual la tierra de Israel sería el escenario y sus habitantes culpables las víctimas. La historia registra el cumplimiento de la profecía, en correspondencia exacta de tiempo, lugar y circunstancia, en la ruina que abrumó a la nación judía en el período de la destrucción de Jerusalén.
 
 Siguiendo al famoso erudito bíblico Hengstenberg y otros, Russell se da cuenta de que esta profecía es la ley mosaica de la ciudad apóstata (Deut. 13) que se aplica al Israel apóstata. Russell continúa mostrando cómo el 99 por ciento de los pasajes apocalípticos del Nuevo Testamento se refieren a este mismo juicio cherem sobre Jerusalén e Israel, cumplido en el año 70 d. C.
-
-* * *
-
-Este artículo es parte de [Cherem en la profecia Biblica](/articulos/cherem-en-la-profecia-biblica).

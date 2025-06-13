@@ -2,9 +2,9 @@ import { defineContentConfig, defineCollection, z } from '@nuxt/content'
 
 export default defineContentConfig({
   collections: {
-    articulos: defineCollection({
+    all: defineCollection({
       type: 'page',
-      source: 'articulos/**/*.md',
+      source: '**/*.md',
       schema: z.object({
         title: z.string().min(1),
         description: z.string(),
@@ -26,15 +26,12 @@ export default defineContentConfig({
           descr: z.string().optional(),
           cc: z.string().optional(),
           hide: z.boolean().default(false)
-        })
-      })
-    }),
-    pages: defineCollection({
-      type: 'page',
-      source: 'pages/*.md',
-      schema: z.object({
-        title: z.string().min(1)
+        }),
+        attachments: z.array(z.object({
+          type: z.enum(['pdf', 'epub']),
+          url: z.string().min(1)
+        }))
       })
     })
-  },
+  }
 })

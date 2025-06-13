@@ -7,7 +7,7 @@ const path = computed(() => `/articulos/${serie}`)
 
 const { data: page } = await useAsyncData(
   path,
-  () => queryCollection('articulos').path(path.value).first()
+  () => queryCollection('all').path(path.value).first()
 )
 </script>
 

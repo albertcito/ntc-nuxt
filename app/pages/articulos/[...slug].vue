@@ -9,7 +9,7 @@ definePageMeta({ layout: 'docs' })
 const route = useRoute()
 const { data: page, status } = await useAsyncData(
   route.path,
-  () => queryCollection('articulos').path(route.path).first()
+  () => queryCollection('all').path(route.path).first()
 )
 const navigation = inject<Ref<ContentNavigationItem[]>>('navigation')
 const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(navigation?.value, page.value)).map(({ icon, ...link }) => link))

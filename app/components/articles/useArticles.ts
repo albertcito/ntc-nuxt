@@ -6,7 +6,7 @@ interface UseArticlesProps {
 
 export const useArticles = async ({ page, itemsPerPage, tags }: UseArticlesProps) => {
   const tagsString = computed(() => tags?.value.join(',') ?? '')
-  const collection = 'articulos'
+  const collection = 'all'
   const totalSkip = computed(() => (page.value - 1) * itemsPerPage.value)
   const articles = await useAsyncData(
     computed(() => `${collection}_${tagsString.value}_${page.value}_${totalSkip.value}_${itemsPerPage.value}`),

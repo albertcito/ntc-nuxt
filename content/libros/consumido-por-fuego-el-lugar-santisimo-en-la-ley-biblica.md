@@ -1,15 +1,24 @@
 ---
 title: "Fuego Consumidor – El Lugar Santísimo en la Ley Bíblica"
-description: "El libro "Fuego Consumidor" de Joel McDurmon ofrece un tratamiento muy claro y preciso del concepto de cherem en las Escrituras. McDurmon argumenta que las leyes de cherem se refieren especialmente al Lugar Santísimo del Tabernáculo y del Templo. Las violaciones de estas leyes conllevan penas diferentes a las que se producen fuera del ámbito de cherem. Partiendo de esta premisa, McDurmon argumenta tesis significativas sobre las continuidades y discontinuidades entre la ley del Antiguo y el Nuevo Pacto"
+description: "El libro \"Fuego Consumidor\" de Joel McDurmon ofrece un tratamiento muy claro y preciso del concepto de cherem en las Escrituras. McDurmon argumenta que las leyes de cherem se refieren especialmente al Lugar Santísimo del Tabernáculo y del Templo. Las violaciones de estas leyes conllevan penas diferentes a las que se producen fuera del ámbito de cherem. Partiendo de esta premisa, McDurmon argumenta tesis significativas sobre las continuidades y discontinuidades entre la ley del Antiguo y el Nuevo Pacto"
 date: 2023-03-22
 translation:
   summary: "A Consuming Fire: The Holy of Holies in Biblical Law by Joel McDurmon"
   url: https://www.trinityfoundation.org/journal.php?id=258
-  author: joel-mcdurmon
-author: albert
+  by: albert
+authors:
+  - Joel McDurmon
 image:
   src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749729372/consumido-or-fuego_ftmfgz.jpg
   alt: Consumido por fuego – El Lugar Santísimo en la Ley Bíblica
+attachments:
+  -
+    type: pdf
+    url: https://declaradojusto.files.wordpress.com/2020/12/consumido-por-fuego.pdf
+  -
+    type: epub
+    url: https://noseconformen.com/wp-content/uploads/2022/03/consumido-por-fuego-joel-mc-durmon.epub
+
 ---
 
 El trabajo de Joel es el pináculo en los esfuerzos por aplicar todo el consejo de Dios a toda la fe y la vida. Los críticos han recibido una respuesta amable pero completa, y sus objeciones al Principio de Cherem han demostrado ser defectuosas y bíblicamente insostenibles.

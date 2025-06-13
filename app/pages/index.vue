@@ -7,7 +7,7 @@ useHead({ title: page.title })
 
 const { data } = await useAsyncData(
   'today',
-  () => queryCollection('articulos').order('date', 'DESC').limit(7).all()
+  () => queryCollection('all').order('date', 'DESC').limit(7).all()
 )
 const second = data.value?.slice(1, 7) || []
 </script>
