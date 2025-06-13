@@ -29,20 +29,25 @@ const env = getConfig(useRuntimeConfig())
   <Article
     v-if="page"
     :title="page.title"
-    :description="page?.description"
     :breadcrumb="breadcrumb"
     :date="page.date"
     :authors="page.authors"
     :translation="page.translation"
-    :image="page.image"
     :body="page"
-    :toc-links="page.body.toc?.links"
     :serie="page.serie"
     :share="{
       url: `${env.siteUrl}${route.path}`,
       text: page.title
     }"
-    :tags="page.tags"
     :current-path="route.path"
-  />
+  >
+    <template #aside>
+      <img
+        :src="page.image.src"
+        :alt="page.image.alt"
+        :cc="page.image.cc"
+        :descr="page.image.descr"
+      />
+    </template>
+  </Article>
 </template>

@@ -7,7 +7,7 @@ import type { ShareIconsProps } from './share/icons.vue'
 
 defineProps<{
   title: string
-  description: string
+  description?: string
   breadcrumb?: BreadcrumbItem[]
   date: string
   authors?: string[]
@@ -121,24 +121,27 @@ defineProps<{
           highlight-color="neutral"
           color="neutral"
         >
-          <template v-if="tags && tags.length > 0" #bottom>
-            <USeparator v-if="tocLinks && tocLinks.length > 1" type="dashed" />
-            <div>
-              <div class="group text-sm font-semibold flex-1 items-center gap-1.5 py-1.5 -mt-1.5 focus-visible:outline-primary hidden lg:flex">
-                <div class="truncate">
-                  Artículos relacionados
+          <template #bottom>
+            <slot name="aside" />
+            <template v-if="tags && tags.length > 0">
+              <USeparator v-if="tocLinks && tocLinks.length > 1" type="dashed" />
+              <div>
+                <div class="group text-sm font-semibold flex-1 items-center gap-1.5 py-1.5 -mt-1.5 focus-visible:outline-primary hidden lg:flex">
+                  <div class="truncate">
+                    Artículos relacionados
+                  </div>
                 </div>
+                <ArticleRelated
+                  :tags="tags"
+                  :path="currentPath"
+                  :limit="tocLinks && tocLinks.length > 1 ? 4 : 5"
+                >
+                  <template #default="{ items }">
+                    <ArticleRelatedArticles :items="items" />
+                  </template>
+                </ArticleRelated>
               </div>
-              <ArticleRelated
-                :tags="tags"
-                :path="currentPath"
-                :limit="tocLinks && tocLinks.length > 1 ? 4 : 5"
-              >
-                <template #default="{ items }">
-                  <ArticleRelatedArticles :items="items" />
-                </template>
-              </ArticleRelated>
-            </div>
+            </template>
           </template>
         </UContentToc>
       </div>

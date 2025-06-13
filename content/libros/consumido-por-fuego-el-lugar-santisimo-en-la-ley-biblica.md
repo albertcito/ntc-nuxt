@@ -4,9 +4,9 @@ description: "El libro \"Fuego Consumidor\" de Joel McDurmon ofrece un tratamien
 date: 2023-03-22
 translation:
   summary: "A Consuming Fire: The Holy of Holies in Biblical Law by Joel McDurmon"
-  url: https://www.trinityfoundation.org/journal.php?id=258
+  url: https://www.amazon.com/Consuming-Fire-Holy-Holies-Biblical/dp/1078311242
   authors:
-    - Joel McDurmon
+    - joel-mcdurmon
 authors:
   - albert
 image:
