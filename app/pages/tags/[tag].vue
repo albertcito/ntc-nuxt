@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { useArticles } from '~/components/articles/useArticles'
 import { isValidInteger } from '~/util/getIntegerOrDefault'
 
 const route = useRoute()
@@ -11,15 +12,32 @@ const pageNumber = computed(() => (valid.value.isValid ? valid.value.value : 1))
 const title = computed(() => (tag.value).replaceAll('-', ' '))
 
 useHead({ title: `Tag: ${title.value}` })
+
+const { articles, total } = await useArticles({
+  page: pageNumber,
+  itemsPerPage: computed(() => 6),
+  tags: computed(() => [tag.value])
+})
 </script>
 
 <template>
-  <ArticlesTags
+  <template v-if="!tag || (articles?.status.value === 'success' && !articles?.data?.value?.length)">
+    <UError
+      :error="{
+        statusCode: 404,
+        statusMessage: 'Página no encontrada',
+        message: 'La página que estás buscando no existe.'
+      }"
+    />
+  </template>
+  <Articles
+    v-else
     v-model:page="pageNumber"
+    :title="title"
     :path="`/tags/${tag}`"
-    image-path="/img/articulos"
     :items-per-page="6"
-    :tags="[tag]"
+    :total="total ?? 0"
+    :articles="articles?.data.value ?? []"
   >
     <template #title>
       <div class="flex items-center gap-2">
@@ -31,5 +49,5 @@ useHead({ title: `Tag: ${title.value}` })
         </UBadge>
       </div>
     </template>
-  </ArticlesTags>
+  </Articles>
 </template>

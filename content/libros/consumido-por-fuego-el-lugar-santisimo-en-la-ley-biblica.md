@@ -8,7 +8,7 @@ translation:
   authors:
     - Joel McDurmon
 authors:
-  - Joel McDurmon
+  - albert
 image:
   src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749729372/consumido-or-fuego_ftmfgz.jpg
   alt: Consumido por fuego – El Lugar Santísimo en la Ley Bíblica
