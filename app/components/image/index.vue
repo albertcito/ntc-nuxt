@@ -1,19 +1,22 @@
-<script setup lang="ts">
-defineProps<{
+<script lang="ts">
+export type ImageProps = {
   src: string
   alt?: string
   cc?: string
   descr?: string
-}>()
+  hide?: boolean
+}
+</script>
+
+<script setup lang="ts">
+defineProps<ImageProps>()
 </script>
 
 <template>
   <figure>
     <div class="relative">
       <img
-        :src="src.substring(0, 4) === 'http'
-          ? src
-          :`/img/articulos/${src}`"
+        :src="src"
         :alt="alt"
         class="w-full object-cover object-center"
       >

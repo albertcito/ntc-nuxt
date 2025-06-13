@@ -8,10 +8,10 @@ defineProps<{
 
 <template>
   <UCard>
-    <template #header>
-      <div class="flex items-center justify-center">
+    <template #footer>
+      <div class="flex items-center">
         <div class="font-semibold">
-          Este artículo es una traducción
+          Visitar el original
         </div>
         <UTooltip v-if="url" text="Ir al artículo original">
           <UButton

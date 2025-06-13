@@ -1,13 +1,17 @@
-<script setup lang="ts">
+<script lang="ts">
 import dayjs from 'dayjs'
 
+export type TranslationProps = {
+  summary: string
+  url?: string
+  authors?: string[]
+}
+</script>
+
+<script setup lang="ts">
 defineProps<{
   date: string
-  translation?: {
-    summary: string
-    url?: string
-    authors?: string[]
-  }
+  translation?: TranslationProps
   authors?: string[]
 }>()
 </script>

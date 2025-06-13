@@ -1,14 +1,18 @@
-<script setup lang="ts">
+<script lang="ts">
 import type { ButtonProps } from '@nuxt/ui'
 import type { HTMLAttributes } from 'vue'
 
-const { url, text } = defineProps<{
+export type ShareIconsProps = {
   text: string
   url: string
   hideLabel?: boolean
   iconClass?: HTMLAttributes['class']
   tooltip?: boolean
-}>()
+}
+</script>
+
+<script setup lang="ts">
+const { url, text } = defineProps<ShareIconsProps>()
 const { copy, copied } = useClipboard({ legacy: true })
 type BtnProps = ButtonProps & { ariaLabel: string }
 const items = computed<BtnProps[]>(() => [
