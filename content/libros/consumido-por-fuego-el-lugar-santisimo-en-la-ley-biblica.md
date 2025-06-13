@@ -5,7 +5,8 @@ date: 2023-03-22
 translation:
   summary: "A Consuming Fire: The Holy of Holies in Biblical Law by Joel McDurmon"
   url: https://www.trinityfoundation.org/journal.php?id=258
-  by: albert
+  authors:
+    - Joel McDurmon
 authors:
   - Joel McDurmon
 image:

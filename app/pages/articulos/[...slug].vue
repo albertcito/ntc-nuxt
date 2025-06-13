@@ -83,7 +83,10 @@ const env = getConfig(useRuntimeConfig())
               tooltip
             />
           </div>
-          <div class="flex gap-2 flex-wrap items-center justify-center sm:justify-start print:hidden">
+          <div
+            v-if="page.tags && page.tags.length > 0"
+            class="flex gap-2 flex-wrap items-center justify-center sm:justify-start print:hidden"
+          >
             <span class="text-sm font-semibold hidden sm:block">
               Tags
             </span>
