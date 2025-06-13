@@ -17,7 +17,8 @@ const second = data.value?.slice(1, 7) || []
     <HomeHeader />
     <UBlogPost
       v-if="data && data.length > 0 && data[0]"
-      v-bind="data[0]"
+      :title="data[0].title"
+      :date="data[0].date"
       :to="data[0].path"
       :image="data[0].image.src"
       orientation="horizontal"
@@ -32,9 +33,7 @@ const second = data.value?.slice(1, 7) || []
         :title="post.title"
         :date="post.date"
         :to="post.path"
-        :image="post.image.src.substring(0, 4) === 'http'
-          ? post.image.src
-          :`/img/articulos/${post.image.src}`"
+        :image="post.image.src"
       />
     </UBlogPosts>
   </UMain>

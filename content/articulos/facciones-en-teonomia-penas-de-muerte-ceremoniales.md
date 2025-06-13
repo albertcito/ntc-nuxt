@@ -7,7 +7,8 @@ translation:
   summary: "Escrito por Joel McDurmon: Factions In Theonomy: *Ceremonial* Death Penalties?"
   url: https://www.lambsreign.com/blog/factions-in-theonomy-ceremonial-death-penalties
   author: joel-mcdurmon
-author: albert
+authors: 
+  - albert
 category: teologia
 tags:
   - "greg-bahnsen"

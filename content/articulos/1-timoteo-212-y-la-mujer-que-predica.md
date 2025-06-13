@@ -4,7 +4,8 @@ description: "Las mujeres enseñaban y exhortaban en las iglesias de Corinto. Es
 date: 2022-04-11
 type: article
 category: teologia
-author: albert
+authors:
+  - albert
 tags:
   - "mujer"
   - "predicacion"

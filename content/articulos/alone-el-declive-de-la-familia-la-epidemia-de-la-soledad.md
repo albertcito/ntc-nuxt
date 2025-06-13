@@ -3,7 +3,8 @@ title: "Alone | El declive de la familia  la epidemia de la soledad"
 description: "La soledad, según nos dicen los expertos en salud pública, está matando a tantos personas como obesidad y tabaquismo. Los estadounidenses están solos, los alemanes, los franceses bon vivant están solos, e incluso los escandinavos, las personas “más felices del mundo” también están solos. Te invito a leer este reportaje de como el declive de la familia ha destado esta oculta pandemia"
 date: 2022-02-11
 type: article
-author: albert
+authors: 
+  - albert
 translation:
   summary: "Alone | The decline of the family has unleashed an epidemic of loneliness. Kay S. Hymowitz es editora colaboradora del City Journal , miembro del William E. Simon Fellow del Manhattan Institute y autora de Manning Up: How the Rise of Women Has Convert Men Men into Boys. También puedes escuchar la entrevista (en inglés) a Kay Hymowitz llamado “La epidemia de la soledad” en el programa 10 Blocks Podcast."
   url: https://www.city-journal.org/article/alone

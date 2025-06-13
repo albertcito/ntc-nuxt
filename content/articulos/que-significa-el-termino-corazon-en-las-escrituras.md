@@ -3,7 +3,8 @@ title: "¿Qué significa el término corazón en las escrituras?"
 description: "El objetivo de citar los siguientes datos bíblicos, una lista inusualmente extensa para estudios como este, pero solo una pequeña fracción de las instancias textuales, es mostrar lo más claramente posible lo que significa el término corazón"
 date: 2022-07-05
 type: article
-author: albert
+authors: 
+  - albert
 translation:
   summary: "Extracto del libro “What Is Saving Faith?” por Gordon Clark"
   url: https://www.trinitylectures.org/what-is-saving-faith-p-60.html

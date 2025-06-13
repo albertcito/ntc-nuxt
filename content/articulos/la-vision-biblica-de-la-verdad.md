@@ -7,7 +7,8 @@ translation:
   summary: "Articulo original \"The Biblical View of Truth\" escrito por  John W Robbins. Fue  presentada en la reunión anual de la Sociedad Teológica Evangélica, San Antonio, Texas, el miércoles 17 de noviembre de 2004"
   url: https://www.trinityfoundation.org/journal.php?id=205
   author: gordon-clark
-author: albert
+authors: 
+  - albert
 category: teologia
 tags:
   - "apologetica"

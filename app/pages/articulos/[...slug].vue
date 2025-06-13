@@ -47,6 +47,7 @@ const env = getConfig(useRuntimeConfig())
       <ArticleHeaderBar
         :date="page.date"
         :translation="page.translation"
+        :authors="page.authors"
       />
       <div
         v-if="page.image && !page.image.hide"

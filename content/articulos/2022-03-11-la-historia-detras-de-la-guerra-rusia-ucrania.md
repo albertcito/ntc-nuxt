@@ -3,7 +3,8 @@ title: "La historia detrás de la guerra Rusia-Ucrania"
 description: "Como el imperio estadounidense, su expansión militar y abandono de tratados de paz ha dado perfectas excusas a Rusia para entrar en guerra contra Ucrania"
 date: 2022-03-11
 type: article
-author: albert
+authors: 
+  - albert
 translation:
   summary: "Artículo original llamado “The History Behind the Russia-Ukraine War” escrito por Scott Horton para AntiWar.com"
   url: https://original.antiwar.com/scott/2022/03/02/the-history-behind-the-russia-ukraine-war/

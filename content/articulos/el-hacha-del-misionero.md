@@ -4,7 +4,8 @@ description: Un misionero que no hace todo lo posible por desafiar al ídolo cen
 date: 2022-02-18
 type: article
 category: teologia
-author: albert
+authors: 
+  - albert
 translation:
   summary: "Escrito por Bojidar Marinov, para Reconstructionist Radio"
   url: https://www.reconstructionistradio.com/

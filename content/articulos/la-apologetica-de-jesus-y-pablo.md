@@ -7,7 +7,8 @@ translation:
   summary: "Articulo original “The Apologetics of Jesus and Paul” escrito por John W. Robbins"
   url: https://www.trinityfoundation.org/journal.php?id=168
   author: john-robbins
-author: albert
+authors: 
+  - albert
 category: "apologetica"
 tags:
   - "apologetica"

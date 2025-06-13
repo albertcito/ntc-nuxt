@@ -13,7 +13,7 @@ export default defineContentConfig({
         // if a article is "subseries" it should have the serie file name
         serie: z.string(),
         category: z.string().optional(),
-        author: z.string().optional(),
+        authors: z.array(z.string()).optional(),
         tags: z.array(z.string()).optional(),
         translation: z.object({
           summary: z.string().min(1),

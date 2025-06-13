@@ -3,7 +3,8 @@ title: "Continuidad y Discontinuidad de la Ley Bíblica - Una Crítica a la Inte
 description: "En Mateo 5:31–32 y 19:3–9, Jesús estableció un principio judicial fundamental que los fariseos deberían haber entendido: la ley revelada de Dios maduró con el tiempo, desde Adán hasta Jesús. La ley mosaica introdujo un elemento de laxitud moral, una intrusión, que Jesús identificó específicamente. Jesús introdujo un orden moral más riguroso para el pueblo del pacto de Dios en el Nuevo Testamento"
 date: 2022-02-05
 type: article
-author: albert
+authors: 
+  - albert
 translation:
   summary: "Basado en el libro A Consuming Fire: The Holy of Holies in Biblical Law de Joel McDurmon."
   url: https://www.noteconformes.org/books/consumido-por-fuego-el-lugar-santisimo-en-la-ley-biblica

@@ -7,7 +7,8 @@ translation:
   summary: "Artículo original “The Transgender Children’s Crusade” escrito por Kay S. Hymowitz  editora colaboradora de City Journal, y autora de Manning Up: How the Rise of Women Has Turned Men into Boys"
   url: https://www.city-journal.org/article/the-transgender-childrens-crusade
   author: kay-hymowitz
-author: albert
+authors: 
+  - albert
 categories:
   - "analisis"
 tags:

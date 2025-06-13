@@ -7,7 +7,8 @@ translation:
   summary: "Artículo original “Know, Knowledge by Gordon H. Clark” de Gordon Clark Foundation."
   url: https://gordonhclark.com/know-knowledge-by-gordon-h-clark/
   author: gordon-clark
-author: albert
+authors: 
+  - albert
 category: "apologetica"
 tags:
   - "apologetica"

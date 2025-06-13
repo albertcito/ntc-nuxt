@@ -7,7 +7,8 @@ translation:
   summary: "Artículo original Tim Keller And The Real “Marxist” Question de Joel McDurmon"
   url: https://www.lambsreign.com/mcdurmon/tim-keller-marxist-question
   author: joel-mcdurmon
-author: albert
+authors: 
+  - albert
 categories:
   - "analisis"
 tags:

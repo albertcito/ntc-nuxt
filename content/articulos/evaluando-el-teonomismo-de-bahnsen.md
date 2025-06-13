@@ -7,7 +7,8 @@ translation:
   summary: "Extracto \"Appendix B Evaluating Theonomy\" del libro \"The Shadow of Christ in the Law of Moses\" de Vern Sheridan Poythress"
   url: https://frame-poythress.org/ebooks/the-shadow-of-christ-in-the-law-of-moses/
   author: vern-poythress
-author: albert
+authors: 
+  - albert
 category: teologia
 tags:
   - "greg-bahnsen"

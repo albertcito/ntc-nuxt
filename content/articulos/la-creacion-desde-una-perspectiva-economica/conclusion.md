@@ -4,7 +4,8 @@ date: 2022-01-15
 type: subseries
 serie: la-creacion-desde-una-perspectiva-economica
 category: teologia
-author: albert
+authors: 
+  - albert
 translation:
   summary: "Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado Christian Economics: Scholar’s Edition"
   url: https://www.garynorth.com/public/department188.cfm

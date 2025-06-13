@@ -2,7 +2,7 @@
 defineProps<{
   text: string
   url?: string
-  by?: string
+  authors?: string[]
 }>()
 </script>
 

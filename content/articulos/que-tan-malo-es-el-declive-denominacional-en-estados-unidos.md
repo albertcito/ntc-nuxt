@@ -7,7 +7,8 @@ translation:
   summary: "Artículo original “Just How Bad Is Denominational Decline?” escrito por Ryan Burge"
   url: https://www.graphsaboutreligion.com/p/just-how-bad-is-denominational-decline?utm_source=profile&utm_medium=reader2
   author: ryan-burge
-author: albert
+authors: 
+  - albert
 categories:
   - "analisis"
 tags:

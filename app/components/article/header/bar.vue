@@ -6,9 +6,9 @@ defineProps<{
   translation?: {
     summary: string
     url?: string
-    by?: string
+    authors?: string[]
   }
-  autor?: string
+  authors?: string[]
 }>()
 </script>
 
@@ -19,8 +19,11 @@ defineProps<{
         <div>
           Publicado: {{ dayjs(date).format('MMMM D, YYYY') }}
         </div>
-        <div v-if="autor">
-          escrito por {{ autor }}
+        <div v-if="authors && authors.length > 0" class="hidden">
+          escrito por
+          <span v-for="name in authors" :key="name">
+            {{ name }}
+          </span>
         </div>
       </div>
       <div v-if="translation">
@@ -39,7 +42,7 @@ defineProps<{
               <ArticleTranslation
                 :url="translation.url"
                 :text="translation.summary"
-                :by="translation.by"
+                :authors="translation.authors"
               />
             </div>
           </template>
