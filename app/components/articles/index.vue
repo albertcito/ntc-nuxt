@@ -7,7 +7,7 @@ interface ArticulosCollectionItem {
   image: {
     src: string
   }
-  type: 'article' | 'series' | 'subseries'
+  type: 'article' | 'series' | 'subseries' | 'book'
 }
 
 defineProps<{

@@ -9,7 +9,7 @@ export default defineContentConfig({
         title: z.string().min(1),
         description: z.string(),
         date: z.string().min(1),
-        type: z.enum(['article', 'series', 'subseries']),
+        type: z.enum(['article', 'series', 'subseries', 'book']),
         // if a article is "subseries" it should have the serie file name
         serie: z.string(),
         category: z.string().optional(),

@@ -1,6 +1,7 @@
 ---
 title: "Fuego Consumidor – El Lugar Santísimo en la Ley Bíblica"
 description: "El libro \"Fuego Consumidor\" de Joel McDurmon ofrece un tratamiento muy claro y preciso del concepto de cherem en las Escrituras. McDurmon argumenta que las leyes de cherem se refieren especialmente al Lugar Santísimo del Tabernáculo y del Templo. Las violaciones de estas leyes conllevan penas diferentes a las que se producen fuera del ámbito de cherem. Partiendo de esta premisa, McDurmon argumenta tesis significativas sobre las continuidades y discontinuidades entre la ley del Antiguo y el Nuevo Pacto"
+type: book
 date: 2023-03-22
 translation:
   summary: "A Consuming Fire: The Holy of Holies in Biblical Law by Joel McDurmon"

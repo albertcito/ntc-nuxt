@@ -16,7 +16,8 @@ useHead({ title: `Tag: ${title.value}` })
 const { articles, total } = await useArticles({
   page: pageNumber,
   itemsPerPage: computed(() => 6),
-  tags: computed(() => [tag.value])
+  tags: computed(() => [tag.value]),
+  type: computed(() => ['article', 'series'])
 })
 </script>
 

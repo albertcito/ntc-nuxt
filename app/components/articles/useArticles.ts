@@ -1,10 +1,16 @@
 interface UseArticlesProps {
   page: Ref<number>
   itemsPerPage: Ref<number>
+  type: Ref<string[]>
   tags?: Ref<string[]>
 }
 
-export const useArticles = async ({ page, itemsPerPage, tags }: UseArticlesProps) => {
+export const useArticles = async ({
+  page,
+  itemsPerPage,
+  tags,
+  type
+}: UseArticlesProps) => {
   const tagsString = computed(() => tags?.value.join(',') ?? '')
   const collection = 'all'
   const totalSkip = computed(() => (page.value - 1) * itemsPerPage.value)
@@ -12,7 +18,7 @@ export const useArticles = async ({ page, itemsPerPage, tags }: UseArticlesProps
     computed(() => `${collection}_${tagsString.value}_${page.value}_${totalSkip.value}_${itemsPerPage.value}`),
     () => {
       const query = queryCollection(collection)
-        .where('type', '<>', 'subseries')
+        .where('type', 'IN', type.value)
         .order('date', 'DESC')
         .skip(totalSkip.value)
         .limit(itemsPerPage.value)
