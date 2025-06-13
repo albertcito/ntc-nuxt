@@ -34,12 +34,16 @@ const env = getConfig(useRuntimeConfig())
     :authors="page.authors"
     :translation="page.translation"
     :body="page"
+    :image="page.image"
     :serie="page.serie"
     :share="{
       url: `${env.siteUrl}${route.path}`,
       text: page.title
     }"
     :current-path="route.path"
+    :ui="{
+      image: 'sm:hidden'
+    }"
   >
     <template #aside>
       <img
@@ -47,7 +51,7 @@ const env = getConfig(useRuntimeConfig())
         :alt="page.image.alt"
         :cc="page.image.cc"
         :descr="page.image.descr"
-      />
+      >
     </template>
   </Article>
 </template>

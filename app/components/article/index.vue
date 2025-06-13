@@ -5,6 +5,10 @@ import type { ImageProps } from '../image/index.vue'
 import type { TranslationProps } from './header/bar.vue'
 import type { ShareIconsProps } from './share/icons.vue'
 
+type UiProps = {
+  image?: string
+}
+
 defineProps<{
   title: string
   description?: string
@@ -19,6 +23,7 @@ defineProps<{
   share?: ShareIconsProps
   tags?: string[]
   currentPath: string
+  ui?: UiProps
 }>()
 </script>
 
@@ -47,7 +52,11 @@ defineProps<{
       />
       <div
         v-if="image && !image.hide"
-        :class="['bg-elevated/50 px-2 print:hidden', { 'pb-2': !image.descr }]"
+        :class="[
+          'bg-elevated/50 px-2 print:hidden',
+          ui?.image,
+          { 'pb-2': !image.descr }
+        ]"
       >
         <Image
           :src="image.src"
