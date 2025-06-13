@@ -6,8 +6,9 @@ type: article
 translation:
   summary: "Artículo original “Reconstructing the world’s first hospital: The Basiliad” por Thomas Heyne"
   url: https://hekint.org/2017/02/24/reconstructing-the-worlds-first-hospital-the-basiliad/
-  author: thomas-heyne
-authors: 
+  authors:
+   - thomas-heyne
+authors:
   - albert
 categories:
   - "historia"

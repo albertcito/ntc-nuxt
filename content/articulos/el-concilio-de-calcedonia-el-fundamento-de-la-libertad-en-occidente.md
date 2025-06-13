@@ -3,12 +3,13 @@ title: "El Concilio de Calcedonia: El Fundamento de La Libertad En Occidente"
 description: "Pero la influencia de Calcedonia en la filosofía y en la política no ha sido menos grande. La cultura  occidental ha sido en gran parte un producto de Calcedonia, y las continuas crisis en la Iglesia y en el Estado reflejan sus desviaciones o rebeliones en contra de Calcedonia"
 date: 2022-03-02
 type: article
-authors: 
+authors:
   - albert
 translation:
   summary: "Capitulo 7 del libro “Foundations of Social Order: Studies in the Creeds and Councils of the Early Church” por R. J. Rushdoony. Traducido por William García para Contra Mundum."
   url: https://chalcedon.edu/resources/books/the-foundations-of-social-order
-  author: rousas-rushdoony
+  authors:
+   - rousas-rushdoony
 category: teologia
 tags:
   - "calcedonia"

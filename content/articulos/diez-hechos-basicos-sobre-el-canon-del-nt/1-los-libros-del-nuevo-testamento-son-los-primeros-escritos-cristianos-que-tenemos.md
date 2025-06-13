@@ -13,7 +13,8 @@ tags:
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
-author: michael-kruger
+authors:
+   - michael-kruger
 ---
 
 Esta nueva serie de blogs está diseñada para ayudar al creyente a aprender algunos hechos básicos sobre el canon del Nuevo Testamento, el tipo de hechos que pueden ser útiles en una conversación con un amigo escéptico o inquisitivo. El primero de estos hechos es tan básico que a menudo se pasa por alto. Es simplemente que los libros del Nuevo Testamento son los primeros escritos cristianos que poseemos.

@@ -3,12 +3,13 @@ title: "El Naturalismo: Una Falacia de Autonomía"
 description: "Estos ateos no tienen justificación para rechazar al Dios Creador por definición, ellos simplemente lo hacen. No tienen autoridad para tal decisión, confían únicamente en su propia experiencia y criterio. La autoridad última para tal criterio yace en el individuo, no en algún hecho trascendente u objetivo"
 date: 2022-03-07
 type: article
-authors: 
+authors:
   - albert
 translation:
   summary: "Extracto del libro La Lógica Bíblica: En Teoría y Práctica de Joel McDurmon. Traducido por Donald Herrera para Contra Mundum"
   url: https://store.americanvision.org/products/biblical-logic-in-theory-and-practice
-  author: joel-mcdurmon
+  authors:
+   - joel-mcdurmon
 category: "apologetica"
 tags:
   - "apologetica"

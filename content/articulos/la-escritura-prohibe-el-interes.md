@@ -6,8 +6,9 @@ type: article
 translation:
   summary: "Artículo original “Chapter 50: The Prohibition of Interest” escrito por Gary North. Artículo parte de “Christian Economics: Scholar’s Edition“."
   url: https://www.garynorth.com/public/20586.cfm
-  author: gary-north
-authors: 
+  authors:
+   - gary-north
+authors:
   - albert
 category: teologia
 tags:

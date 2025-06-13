@@ -6,8 +6,9 @@ type: article
 translation:
   summary: "Basado en el articulo “Hope Defined: A Postmillennial Primer” por Matthew Belleville"
   url: https://www.amazon.com/gp/product/B086RRQRDP
-  author: matthew-belleville
-authors: 
+  authors:
+   - matthew-belleville
+authors:
   - albert
 category: teologia
 tags:

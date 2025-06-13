@@ -3,12 +3,13 @@ title: "¿Por qué Jesús limpió el templo dos veces?"
 description: "Por qué se registra que Jesús limpió el templo de los cambistas dos veces. Juan registra que sucedió al comienzo del ministerio de Jesús, y todos los evangelios sinópticos registran que sucedió al final. Cual es ¿O son ambos? Si es así, ¿por qué? ¿Qué sentido tiene? En los próximos minutos, le daré sentido"
 date: 2022-02-18
 type: article
-authors: 
+authors:
   - albert
 translation:
   summary: "Escrito por Joel McDurmon, para Lambs Reign"
   url: https://www.lambsreign.com/blog/why-jesus-cleansed-the-temple-twice-a-long-standing-mystery-solved
-  author: joel-mcdurmon
+  authors:
+   - joel-mcdurmon
 category: teologia
 tags:
   - "corrupcion"

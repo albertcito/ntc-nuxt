@@ -6,7 +6,8 @@ translation:
   summary: "Traducido desde la pagina newadvent.org: Letter to the Corinthians (Clement)."
   url: https://www.newadvent.org/fathers/1010.htm
   by: albert
-author: clemente
+authors:
+   - clemente
 categories:
   - "historia"
 tags:

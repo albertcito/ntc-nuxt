@@ -6,8 +6,9 @@ type: article
 translation:
   summary: "El texto griego del sermón de Basilio se encuentra en la Patrologia Graeca de J.-P. Migne, vol. 31, cols. 277C-304C. Traducido al español del artículo original \"St. Basil’s Sermon to the Rich\""
   url: https://bekkos.wordpress.com/st-basils-sermon-to-the-rich/
-  author: basilio-el-grande
-authors: 
+  authors:
+   - basilio-el-grande
+authors:
   - albert
 categories:
   - "historia"

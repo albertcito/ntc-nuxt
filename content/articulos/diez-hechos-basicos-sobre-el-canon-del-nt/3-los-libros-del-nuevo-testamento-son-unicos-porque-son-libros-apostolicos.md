@@ -9,7 +9,8 @@ tags:
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
-author: michael-kruger
+authors:
+   - michael-kruger
 ---
 
 Uno de los hechos más básicos sobre el canon del Nuevo Testamento que todos los cristianos deben entender es que el canon está íntimamente conectado con las actividades de los apóstoles.

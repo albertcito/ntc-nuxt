@@ -3,12 +3,13 @@ title: "Relación versus propósito, cómo la iglesia destruye a la familia cris
 description: Como la predicación actual elimina todas las razones por las que la familia debería existir en primer lugar, y luego intenta de recrearla sin propósito ni significado
 date: 2022-02-19
 type: article
-authors: 
+authors:
   - albert
 translation:
   summary: "Escrito por Bojidar Marinov, para Reconstructionist Radio"
   url: https://www.reconstructionistradio.com/
-  author: bojidar-marinov
+  authors:
+   - bojidar-marinov
 categories:
   - "analisis"
 tags:

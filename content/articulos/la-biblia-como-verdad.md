@@ -6,8 +6,9 @@ type: article
 translation:
   summary: "\"La Biblia como verdad\" por Gordon Clark se publicó por primera vez en Bibliotheca Sacra (abril de 1957) y se reimprimió en God’s Hammer: The Bible and Its Critics (1995)."
   url: https://www.trinityfoundation.org/journal.php?id=258
-  author: gordon-clark
-authors: 
+  authors:
+   - gordon-clark
+authors:
   - albert
 category: "apologetica"
 tags:

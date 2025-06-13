@@ -6,8 +6,9 @@ type: article
 translation:
   summary: "Artículo original Gordon Clark’s Argument From Truth del blog God’s Hammer"
   url: https://godshammer.wordpress.com/2013/07/02/gordon-clarks-argument-from-truth/
-  author: ronald-nash
-authors: 
+  authors:
+   - ronald-nash
+authors:
   - albert
 category: "apologetica"
 tags:

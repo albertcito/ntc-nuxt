@@ -5,12 +5,13 @@ date: 2022-01-07
 type: 'subseries'
 serie: economia-cristiana-el-estado
 category: teologia
-authors: 
+authors:
   - albert
 translation:
   summary: "Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamada Christian Economics: Scholar’s Edition"
   url: https://www.garynorth.com/public/20626.cfm
-  author: gary-north
+  authors:
+   - gary-north
 tags:
   - "burocracia"
   - "economia"

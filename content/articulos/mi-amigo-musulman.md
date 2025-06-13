@@ -3,7 +3,7 @@ title: "Mi amigo Musulmán"
 description: "Exploramos la justicia divina, la salvación y las escrituras, contrastando cristianismo e islam"
 date: 2022-02-09
 type: article
-authors: 
+authors:
   - albert
 category: islam
 tags:

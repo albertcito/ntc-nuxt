@@ -9,7 +9,8 @@ tags:
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
-author: michael-kruger
+authors:
+   - michael-kruger
 ---
 
 ¿Cómo sabemos qué libros son de Dios y cuáles no? Hay muchas respuestas a esa pregunta, algunas de las cuales hemos cubierto en publicaciones anteriores. Ciertamente, los orígenes apostólicos de un libro pueden ayudar a identificarlo como proveniente de Dios. Y, el consenso general de la iglesia sobre un libro puede ser parte de cómo lo identificamos como proveniente de Dios.

@@ -9,7 +9,8 @@ tags:
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
-author: michael-kruger
+authors:
+   - michael-kruger
 ---
 
 Uno de los temas más controvertidos en el estudio del canon del Nuevo Testamento es la fecha en que estos libros fueron considerados Escritura. ¿Cuándo se utilizaron por primera vez estos libros como guía autorizada para la iglesia? Los eruditos críticos argumentarán que estos libros no fueron escritos para ser Escritura y ni siquiera se usaron como Escritura hasta fines del siglo II.

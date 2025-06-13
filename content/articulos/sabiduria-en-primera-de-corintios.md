@@ -7,8 +7,9 @@ category: "apologetica"
 translation:
   summary: "\"Wisdom in first corinthians\" por Gordon Clark. Escrito en diciembre 1972 para \"Evangelical Theological Society\" Volume 15, No. 4"
   url: https://etsjets.org/jets15/
-  author: gordon-clark
-authors: 
+  authors:
+   - gordon-clark
+authors:
   - albert
 tags:
   - "apologetica"

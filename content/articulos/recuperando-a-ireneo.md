@@ -3,12 +3,13 @@ title: "Recuperando a Ireneo"
 description: "Cuando se entiende dentro del contexto de sus propias obras y de su griego nativo, Ireneo enseñó en el siglo II la misma liturgia eucarística practicada por los protestantes reformados en la actualidad. Lo que es más, se muestra que es completamente ignorante de las novedades católicas romanas de la antigüedad tardía y medieval de la transubstanciación y el sacrificio en la misa"
 date: 2022-03-03
 type: article
-authors: 
+authors:
   - albert
 translation:
   summary: "Artículo original en Inglés “Recovering Irenaeus” escrito por Timothy F. Kauffman para Trinity Foundation."
   url: https://www.trinityfoundation.org/journal.php?id=339
-  author: timothy-kauffman
+  authors:
+   - timothy-kauffman
 categories:
   - "historia"
 tags:

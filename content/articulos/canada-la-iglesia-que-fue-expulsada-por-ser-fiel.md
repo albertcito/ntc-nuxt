@@ -3,12 +3,13 @@ title: "La Iglesia que fue expulsada por ser fiel - Canadá"
 description: "Esta es una historia inspiradora de la mayor crisis que vivió la Iglesia Anglicana de Canada entre dos fracciones: liberales quienes rechazaban la palabra de Dios y el remanente que se mantuvo fiel al evangelio y la palabra de Dios"
 date: 2022-02-18
 type: article
-authors: 
+authors:
   - albert
 translation:
   summary: "Artículo original en inglés: How Anglicans in Canada Found New Life After Their Eviction escrito por Sarah Eekhoff Zylstra para The Gospel Colaition"
   url: https://www.thegospelcoalition.org/article/how-anglicans-in-canada-found-new-life-after-their-eviction/
-  author: sarah-eekhoff-zylstra
+  authors:
+   - sarah-eekhoff-zylstra
 categories:
   - "analisis"
 tags:

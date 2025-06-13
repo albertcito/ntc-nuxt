@@ -13,7 +13,8 @@ tags:
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
-author: michael-kruger
+authors:
+   - michael-kruger
 ---
 
 En la publicación anterior, discutimos el primer hecho básico sobre el canon del Nuevo Testamento, a saber, que los escritos del Nuevo Testamento son los primeros textos cristianos que poseemos. Tuvimos cuidado de dejar en claro que la fecha temprana de estos libros no los hace canónicos, pero la fecha temprana muestra que estos libros fueron escritos durante un período de tiempo cuando los testigos oculares de Jesús todavía estaban vivos.

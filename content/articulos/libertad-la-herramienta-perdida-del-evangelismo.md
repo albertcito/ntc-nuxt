@@ -3,12 +3,13 @@ title: "Libertad, la herramienta perdida del evangelismo"
 description: La fe en Cristo cambia la cultura y crea las bases para esa libertad, justicia y prosperidad que la gente en Europa del Este quería alcanzar después de la caída del comunismo. Desafortunadamente, los misioneros estadounidenses a menudo tienen una idea muy mística, casi gnóstica de la salvación.
 date: 2022-02-18
 type: article
-authors: 
+authors:
   - albert
 translation:
   summary: "Escrito por Bojidar Marinov para Bulgarian Reformation Ministries"
   url: https://bulgarianreformation.com/freedom-lost-tool-evangelism/
-  author: bojidar-marinov
+  authors:
+   - bojidar-marinov
 categories:
   - "analisis"
 tags:

@@ -9,7 +9,8 @@ tags:
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
-author: michael-kruger
+authors:
+   - michael-kruger
 ---
 
 Cuando se trata de hechos básicos que todos los cristianos deben conocer sobre el canon, es importante que reconozcamos que el desarrollo del canon no siempre fue limpio y ordenado. No fue un proceso prístino y sin problemas en el que todos estuvieron de acuerdo en todo desde el principio.

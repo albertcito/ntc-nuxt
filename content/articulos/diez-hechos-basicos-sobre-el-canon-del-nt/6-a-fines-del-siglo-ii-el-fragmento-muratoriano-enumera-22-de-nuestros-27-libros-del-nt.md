@@ -9,7 +9,8 @@ tags:
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
-author: michael-kruger
+authors:
+   - michael-kruger
 ---
 
 Esta serie está diseñada para presentar a los cristianos laicos los hechos básicos de cómo se desarrolló el canon del Nuevo Testamento. Uno de los puntos de datos clave en cualquier discusión sobre el canon es algo llamado el fragmento de Muratorian (también conocido como el canon de Muratorian). Este fragmento, que lleva el nombre de su descubridor Ludovico Antonio Muratori, contiene nuestra lista más antigua de los libros del Nuevo Testamento. Si bien el fragmento en sí data del siglo VII o VIII, la lista que contiene se escribió originalmente en griego y se remonta a finales del siglo II (c. 180).

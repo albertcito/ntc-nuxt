@@ -6,8 +6,9 @@ type: article
 translation:
   summary: "Artículo original “Reflections on the Christian Apologetics of Gordon H. Clark” de Gordon Clark Foundation. Este se presentó originalmente como una charla en una conferencia de apologética en la Iglesia Presbiteriana Ortodoxa Branch of Hope, Torrance, California, el 23 de octubre de 2015"
   url: https://www.trinityfoundation.org/journal.php?id=342
-  author: calvin-beisner
-authors: 
+  authors:
+   - calvin-beisner
+authors:
   - albert
 category: "apologetica"
 tags:

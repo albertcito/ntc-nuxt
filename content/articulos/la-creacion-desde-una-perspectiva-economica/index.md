@@ -4,12 +4,13 @@ description: "Es una historia triste de como nuestros padres perdieron el inmens
 date: 2022-01-17
 type: series
 category: teologia
-authors: 
+authors:
   - albert
 translation:
   summary: "Escrito por Gary North, en el volumen 1 de la obra magna de Gary North llamado Christian Economics: Scholar’s Edition"
   url: https://www.garynorth.com/public/department188.cfm
-  author: gary-north
+  authors:
+   - gary-north
 tags:
   - "caida"
   - "creacion"

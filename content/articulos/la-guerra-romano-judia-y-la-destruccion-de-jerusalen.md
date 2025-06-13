@@ -6,7 +6,7 @@ type: article
 translation:
   summary: "Escrito en Dating the New Testament"
   url: http://www.datingthenewtestament.com/Jerusalem.htm
-authors: 
+authors:
   - albert
 categories:
   - "datacion"

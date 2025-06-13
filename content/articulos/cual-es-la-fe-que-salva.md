@@ -3,12 +3,13 @@ title: "¿Cuál es la fe que salva?"
 description: "En su Comentario sobre Juan 3:33, Calvino escribió: “…dando su asentimiento a Dios…. Para creer en el Evangelio no es otra cosa que asentir a las verdades que Dios ha revelado”"
 date: 2022-07-08
 type: article
-authors: 
+authors:
   - albert
 translation:
   summary: "Extracto del libro “What Is Saving Faith?” por Gordon Clark"
   url: https://www.trinitylectures.org/what-is-saving-faith-p-60.html
-  author: gordon-clark
+  authors:
+   - gordon-clark
 category: teologia
 tags:
   - "fe-sola"

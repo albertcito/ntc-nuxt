@@ -9,7 +9,8 @@ tags:
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
-author: michael-kruger
+authors:
+   - michael-kruger
 ---
 
 Para los cristianos que luchan por comprender el desarrollo del canon del Nuevo Testamento, uno de los hechos más confusos (y quizás preocupantes) es que los primeros escritores cristianos a menudo citaron y usaron escritos no canónicos. En otras palabras, los primeros cristianos no solo usaban libros de nuestro Nuevo Testamento actual, sino que también leían libros como el Pastor de Hermas, el Evangelio de Pedro y la Epístola de Bernabé.

@@ -9,7 +9,8 @@ tags:
   - "canon"
   - "michael-kruger"
   - "nuevo-testamento"
-author: michael-kruger
+authors:
+   - michael-kruger
 ---
 
 Por alguna serie de razones, existe una creencia generalizada (Internet, libros populares) de que el canon del Nuevo Testamento se decidió en el Concilio de Nicea en el 325 d.C., bajo la influencia conspirativa de Constantino. El hecho de que esta afirmación se haya hecho en el best-seller de Dan Brown, El Código Da Vinci, muestra lo generalizado que está realmente. Brown no se inventó esta creencia; simplemente lo usó en su libro.
