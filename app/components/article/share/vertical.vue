@@ -2,6 +2,7 @@
 defineProps<{
   text: string
   url: string
+  tooltip?: boolean
 }>()
 </script>
 
@@ -16,6 +17,7 @@ defineProps<{
           'uppercase w-30 py-3',
           'opacity-50 hover:opacity-100 transition-opacity'
         ]"
+        :tooltip="tooltip"
       />
     </div>
   </div>

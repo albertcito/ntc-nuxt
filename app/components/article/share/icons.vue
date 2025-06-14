@@ -22,8 +22,8 @@ const items = computed<BtnProps[]>(() => [
     color: 'neutral',
     variant: 'link',
     size: 'md',
-    icon: 'i-lucide-facebook',
-    label: 'Facebook',
+    icon: 'i-simple-icons-facebook',
+    label: 'Comparte',
     ariaLabel: 'Compartir en Facebook'
   },
   {
@@ -32,8 +32,8 @@ const items = computed<BtnProps[]>(() => [
     color: 'neutral',
     variant: 'link',
     size: 'md',
-    icon: 'i-lucide-linkedin',
-    label: 'Linkedin',
+    icon: 'i-simple-icons-linkedin',
+    label: 'Post',
     ariaLabel: 'Compartir en Linkedin'
   },
   {
@@ -42,8 +42,8 @@ const items = computed<BtnProps[]>(() => [
     color: 'neutral',
     variant: 'link',
     size: 'md',
-    icon: 'i-lucide-twitter',
-    label: 'En X',
+    icon: 'i-simple-icons-x',
+    label: 'Post',
     ariaLabel: 'Compartir en X'
   },
   {

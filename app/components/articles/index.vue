@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { PageHeaderProps } from '@nuxt/ui-pro'
+import type { BlogPostProps, PageHeaderProps } from '@nuxt/ui-pro'
 
 interface ArticulosCollectionItem {
   title: string
@@ -17,6 +17,7 @@ defineProps<{
   total: number
   articles: ArticulosCollectionItem[]
   uiPageHeader?: PageHeaderProps['ui']
+  uiBlogPost?: BlogPostProps['ui']
 }>()
 const page = defineModel<number>('page', { required: true })
 </script>
@@ -29,13 +30,12 @@ const page = defineModel<number>('page', { required: true })
           {{ title }}
         </slot>
       </template>
-      <template #links>
+      <template v-if="total && total > itemsPerPage" #links>
         <div class="hidden sm:flex justify-between items-center gap-2">
           <div v-if="articles.length" class="opacity-50 text-xs">
             {{ articles.length }} de {{ total }} artículos
           </div>
           <UPagination
-            v-if="total"
             v-model:page="page"
             :items-per-page="itemsPerPage"
             :total="total"
@@ -61,10 +61,11 @@ const page = defineModel<number>('page', { required: true })
           :to="post.path"
           :image="post.image.src"
           :badge="post.type === 'series' ? 'Serie' : undefined"
+          :ui="uiBlogPost"
         />
       </UBlogPosts>
       <UPagination
-        v-if="total"
+        v-if="total && total > itemsPerPage"
         v-model:page="page"
         :items-per-page="itemsPerPage"
         show-edges

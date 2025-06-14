@@ -15,7 +15,7 @@ export const useArticles = async ({
   const collection = 'all'
   const totalSkip = computed(() => (page.value - 1) * itemsPerPage.value)
   const articles = await useAsyncData(
-    computed(() => `${collection}_${tagsString.value}_${page.value}_${totalSkip.value}_${itemsPerPage.value}`),
+    computed(() => `${collection}_${tagsString.value}_${type.value.join(',')}_${page.value}_${totalSkip.value}_${itemsPerPage.value}`),
     () => {
       const query = queryCollection(collection)
         .where('type', 'IN', type.value)
@@ -36,9 +36,9 @@ export const useArticles = async ({
     }
   )
   const { data: total } = await useAsyncData(
-    computed(() => `total_${collection}_${tagsString.value}`),
+    computed(() => `total_${collection}_${type.value.join(',')}_${tagsString.value}`),
     () => {
-      const query = queryCollection(collection).where('type', '<>', 'subseries')
+      const query = queryCollection(collection).where('type', 'IN', type.value)
       if (tags?.value.length) {
         query.orWhere((subQuery) => {
           for (const tag of tags.value) {

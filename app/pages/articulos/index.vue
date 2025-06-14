@@ -14,7 +14,7 @@ if (!valid.value.isValid && valid.value.value) {
 }
 const pageNumber = computed(() => (valid.value.isValid ? valid.value.value : 1))
 const { articles, total } = await useArticles({
-  page,
+  page: pageNumber,
   itemsPerPage: computed(() => 6),
   type: computed(() => ['article', 'series'])
 })

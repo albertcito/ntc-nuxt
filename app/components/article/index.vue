@@ -51,7 +51,7 @@ defineProps<{
         :authors="authors"
       />
       <div
-        v-if="image && !image.hide"
+        v-if="image"
         :class="[
           'bg-elevated/50 px-2 print:hidden',
           ui?.image,
@@ -132,25 +132,24 @@ defineProps<{
         >
           <template #bottom>
             <slot name="aside" />
-            <template v-if="tags && tags.length > 0">
-              <USeparator v-if="tocLinks && tocLinks.length > 1" type="dashed" />
-              <div>
-                <div class="group text-sm font-semibold flex-1 items-center gap-1.5 py-1.5 -mt-1.5 focus-visible:outline-primary hidden lg:flex">
-                  <div class="truncate">
-                    Artículos relacionados
+            <ArticleRelated
+              v-if="tags && tags.length > 0"
+              :tags="tags"
+              :path="currentPath"
+              :limit="tocLinks && tocLinks.length > 1 ? 4 : 5"
+            >
+              <template #default="{ items }">
+                <USeparator v-if="tocLinks && tocLinks.length > 1" type="dashed" />
+                <div>
+                  <div class="group text-sm font-semibold flex-1 items-center gap-1.5 py-1.5 -mt-1.5 focus-visible:outline-primary hidden lg:flex">
+                    <div class="truncate">
+                      Artículos relacionados
+                    </div>
                   </div>
                 </div>
-                <ArticleRelated
-                  :tags="tags"
-                  :path="currentPath"
-                  :limit="tocLinks && tocLinks.length > 1 ? 4 : 5"
-                >
-                  <template #default="{ items }">
-                    <ArticleRelatedArticles :items="items" />
-                  </template>
-                </ArticleRelated>
-              </div>
-            </template>
+                <ArticleRelatedArticles :items="items" />
+              </template>
+            </ArticleRelated>
           </template>
         </UContentToc>
       </div>

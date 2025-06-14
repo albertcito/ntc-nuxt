@@ -4,7 +4,6 @@ export type ImageProps = {
   alt?: string
   cc?: string
   descr?: string
-  hide?: boolean
 }
 </script>
 
