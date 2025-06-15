@@ -27,7 +27,8 @@ const onSend = async (props: AddContactProps, brevo: { key: string, url: string,
     }),
     body: JSON.stringify(body)
   })
-  if (response.status !== 200) {
+  // https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/201
+  if (response.status !== 201) {
     throw new Error('Lo sentimos, no se pudo suscribirte al newsletter. Por favor, intenta nuevamente.')
   }
   return response
