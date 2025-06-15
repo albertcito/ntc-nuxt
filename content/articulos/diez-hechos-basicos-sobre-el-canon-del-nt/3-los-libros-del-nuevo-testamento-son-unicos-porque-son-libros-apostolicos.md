@@ -10,14 +10,20 @@ tags:
   - "michael-kruger"
   - "nuevo-testamento"
 authors:
-   - michael-kruger
+   - albert
+translation:
+  summary: "Artículo “The New Testament Books Are Unique Because They Are Apostolic Books” escrito por Michael J. Kruger"
+  url: https://michaeljkruger.com/ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize-3-the-new-testament-books-are-unique-because-they-are-apostolic-books/
 ---
 
 Uno de los hechos más básicos sobre el canon del Nuevo Testamento que todos los cristianos deben entender es que el canon está íntimamente conectado con las actividades de los apóstoles.
 
 Jesús había comisionado a sus apóstoles “para que estuviesen con él, y para enviarlos a predicar y que tuviesen autoridad...” (Marcos 3: 14-15). Cuando Jesús envió a los doce, les recuerda que “Porque no sois vosotros los que habláis, sino el Espíritu de vuestro Padre que habla en vosotros” (Mateo 10:20). Por lo tanto, puede dar una advertencia a quienes rechazan la autoridad de los apóstoles: “ Y si alguno no os recibiere, ni oyere vuestras palabras, salid de aquella casa o ciudad, y sacudid el polvo de vuestros pies”(Mateo 10:14).
 
-En resumen, **los apóstoles tenían la autoridad misma de Cristo mismo**. Eran su portavoz. Como tales, sus enseñanzas, junto con las de los profetas, fueron el fundamento mismo de la iglesia. Pablo describe la iglesia como “edificados sobre el fundamento de los apóstoles y profetas” (Efesios 2:20). Si la iglesia quisiera conocer el verdadero mensaje cristiano, siempre necesitaría mirar hacia atrás a las enseñanzas de los apóstoles.
+::ArticleShareQuote{quote="Los apóstoles tenían la autoridad misma de Cristo mismo" position="right"}
+::
+
+En resumen, los apóstoles tenían la autoridad misma de Cristo mismo. Eran su portavoz. Como tales, sus enseñanzas, junto con las de los profetas, fueron el fundamento mismo de la iglesia. Pablo describe la iglesia como “edificados sobre el fundamento de los apóstoles y profetas” (Efesios 2:20). Si la iglesia quisiera conocer el verdadero mensaje cristiano, siempre necesitaría mirar hacia atrás a las enseñanzas de los apóstoles.
 
 Pero los apóstoles no sólo enseñaron sobre Jesús oralmente. En algún momento —un punto muy temprano— se escribió el mensaje apostólico. A menudo fue escrito por los mismos apóstoles. En otros puntos fue escrito por compañeros de apóstoles que estaban grabando su mensaje. De cualquier manera, el mensaje apostólico autorizado llegó a los libros.
 

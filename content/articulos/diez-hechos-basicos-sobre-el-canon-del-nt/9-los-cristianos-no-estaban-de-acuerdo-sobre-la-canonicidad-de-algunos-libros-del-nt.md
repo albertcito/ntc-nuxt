@@ -1,5 +1,6 @@
 ---
 title: "9. Los cristianos no estaban de acuerdo sobre la canonicidad de algunos libros del NT"
+description: "La iglesia finalmente alcanzó un consenso amplio, profundo y duradero sobre libros que algunos disputaron. La iglesia estaba bastante unificada con respecto a estos escritos. "
 date: 2022-02-12 21:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
@@ -10,7 +11,17 @@ tags:
   - "michael-kruger"
   - "nuevo-testamento"
 authors:
-   - michael-kruger
+   - albert
+translation:
+  summary: "Artículo “Christians Did Disagree about the Canonicity of Some NT Books” escrito por Michael J. Kruger"
+  url: https://michaeljkruger.com/ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize-9-christians-did-disagree-about-the-canonicity-of-some-nt-books/
+  authors:
+    - michael-kruger
+image:
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582415/Evangeli-de-Juan-Griego-Papiro-1_m217sq.jpg
+  alt: Evangelio de Juan - Codex Sinaiticus
+  cc: https://codexsinaiticus.org/en/manuscript.aspx?book=36&lid=en&side=r&zoomSlider=0#36-1-1-5
+  hide: true
 ---
 
 Cuando se trata de hechos básicos que todos los cristianos deben conocer sobre el canon, es importante que reconozcamos que el desarrollo del canon no siempre fue limpio y ordenado. No fue un proceso prístino y sin problemas en el que todos estuvieron de acuerdo en todo desde el principio.

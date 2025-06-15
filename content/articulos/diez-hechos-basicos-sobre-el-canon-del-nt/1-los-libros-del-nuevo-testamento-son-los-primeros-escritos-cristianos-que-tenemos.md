@@ -1,9 +1,6 @@
 ---
 title: "1. Los libros del Nuevo Testamento son los primeros escritos cristianos que tenemos"
-description: "Descubre por qué los libros del Nuevo Testamento son nuestros escritos cristianos más antiguos y confiables, conectándonos directamente con Jesús y la iglesia primitiva."
-translation:
-  summary: "Artículo \"The New Testament Books are the Earliest Christian Writings We Possess\" escrito por Michael J. Kruger"
-  url: https://michaeljkruger.com/ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize-1-the-new-testament-books-are-the-earliest-christian-writings-we-possess/
+description: "La gran mayoría de los escritos del Nuevo Testamento (incluidos los cuatro evangelios) siguen siendo los primeros escritos cristianos que tenemos"
 date: 2022-02-12 13:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
@@ -14,7 +11,17 @@ tags:
   - "michael-kruger"
   - "nuevo-testamento"
 authors:
-   - michael-kruger
+   - albert
+translation:
+  summary: "Artículo \"The New Testament Books are the Earliest Christian Writings We Possess\" escrito por Michael J. Kruger"
+  url: https://michaeljkruger.com/ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize-1-the-new-testament-books-are-the-earliest-christian-writings-we-possess/
+  authors:
+    - michael-kruger
+image:
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582415/Evangeli-de-Juan-Griego-Papiro-1_m217sq.jpg
+  alt: Evangelio de Juan - Codex Sinaiticus
+  cc: https://codexsinaiticus.org/en/manuscript.aspx?book=36&lid=en&side=r&zoomSlider=0#36-1-1-5
+  hide: true
 ---
 
 Esta nueva serie de blogs está diseñada para ayudar al creyente a aprender algunos hechos básicos sobre el canon del Nuevo Testamento, el tipo de hechos que pueden ser útiles en una conversación con un amigo escéptico o inquisitivo. El primero de estos hechos es tan básico que a menudo se pasa por alto. Es simplemente que los libros del Nuevo Testamento son los primeros escritos cristianos que poseemos.

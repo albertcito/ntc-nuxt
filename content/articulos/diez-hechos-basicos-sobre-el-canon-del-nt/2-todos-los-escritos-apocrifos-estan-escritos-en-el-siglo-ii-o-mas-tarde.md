@@ -1,9 +1,6 @@
 ---
 title: "2. Todos los escritos apócrifos están escritos en el siglo II o más tarde"
-description: "Descubre por qué los escritos apócrifos, al ser del siglo II o posteriores, carecen de la fiabilidad del Nuevo Testamento. Entiende por qué no ofrecen una versión más auténtica del cristianismo."
-translation:
-  summary: "Artículo \"Apocryphal Writings are All Written in the Second Century or Later\" escrito por Michael J. Kruger"
-  url: https://michaeljkruger.com/ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize-2-apocryphal-writings-are-all-written-in-the-second-century-or-later/
+description: "Todos los escritos del Nuevo Testamento son del primer siglo y todos los escritos apócrifos son del siglo II o posteriores"
 date: 2022-02-12 14:59:59
 type: subseries
 serie: diez-hechos-basicos-sobre-el-canon-del-nt
@@ -14,14 +11,24 @@ tags:
   - "michael-kruger"
   - "nuevo-testamento"
 authors:
-   - michael-kruger
+   - albert
+translation:
+  summary: "Artículo \"Apocryphal Writings are All Written in the Second Century or Later\" escrito por Michael J. Kruger"
+  url: https://michaeljkruger.com/ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize-2-apocryphal-writings-are-all-written-in-the-second-century-or-later/
+  authors:
+    - michael-kruger
+image:
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582415/Evangeli-de-Juan-Griego-Papiro-1_m217sq.jpg
+  alt: Evangelio de Juan - Codex Sinaiticus
+  cc: https://codexsinaiticus.org/en/manuscript.aspx?book=36&lid=en&side=r&zoomSlider=0#36-1-1-5
+  hide: true
 ---
 
 En la publicación anterior, discutimos el primer hecho básico sobre el canon del Nuevo Testamento, a saber, que los escritos del Nuevo Testamento son los primeros textos cristianos que poseemos. Tuvimos cuidado de dejar en claro que la fecha temprana de estos libros no los hace canónicos, pero la fecha temprana muestra que estos libros fueron escritos durante un período de tiempo cuando los testigos oculares de Jesús todavía estaban vivos.
 
 En este artículo actual, abordamos el tema de los escritos “apócrifos” del Nuevo Testamento. Se trata de escritos que no estaban incluidos en el Nuevo Testamento, pero que tienen un género similar (evangelios, hechos, cartas, apocalipsis, etc.). Y estos escritos a menudo se atribuyen a personajes famosos; por ejemplo, el Evangelio de Pedro, el Evangelio de Tomás, los Hechos de Juan.
 
-::ArticleShareQuote{quote="No solo todos los escritos del Nuevo Testamento son del primer siglo, sino que todos los escritos apócrifos (al menos los que existen) son del siglo II o posteriores" position="right"}
+::ArticleShareQuote{quote="Todos los escritos del Nuevo Testamento son del primer siglo y todos los escritos apócrifos son del siglo II o posteriores" position="right"}
 ::
 
 Si bien no podemos entrar en detalles extensos sobre estos diversos escritos apócrifos, al menos podemos señalar un hecho básico que a menudo se pasa por alto: todos estos escritos apócrifos están fechados en el siglo II o posterior. Así, este post es el corolario del anterior. No solo todos los escritos del Nuevo Testamento son del primer siglo, sino que todos los escritos apócrifos (al menos los que existen) son del siglo II o posteriores. Y muchos son del siglo tercero o cuarto.
