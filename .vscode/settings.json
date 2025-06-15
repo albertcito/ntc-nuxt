@@ -1,0 +1,6 @@
+{
+  "tailwindCSS.classAttributes": [
+    "active-class",
+    "inactive-class"
+  ]
+}

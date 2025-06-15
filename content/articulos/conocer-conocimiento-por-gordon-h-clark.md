@@ -52,7 +52,7 @@ Se requiere una explicación similar para comprender la oposición cristiana al 
 
 ¿Cuál es entonces la relación entre fe y conocimiento? Los protestantes tradicionalmente han analizado la fe en conocimiento, asentimiento y confianza. Este análisis no es tan sencillo como parece. El conocimiento en este contexto aparentemente se refiere sólo a comprender (no creer) el significado de una proposición. Por supuesto, uno puede entender el significado de proposiciones falsas, como por ejemplo, David era rey de Tiro; pero indudablemente las proposiciones verdaderas son intencionadas porque el asentimiento o la creencia en una proposición falsa sería un error, no un conocimiento.
 
-::ArticleQuote{quote="El conocimiento se define como la posesión de la verdad por parte de la mente, no puede haber conocimiento sin el asentimiento" position="left"}
+::ArticleShareQuote{quote="El conocimiento se define como la posesión de la verdad por parte de la mente, no puede haber conocimiento sin el asentimiento" position="left"}
 ::
 
 Tenga en cuenta que esta última instancia de la palabra conocimiento no tiene el mismo significado que tiene en el análisis. En el análisis, el conocimiento ocurre como algo distinto del asentimiento, como un elemento separado de la fe; pero si el conocimiento se define como la posesión de la verdad por parte de la mente, no puede haber conocimiento sin el asentimiento. Ésta es una dificultad. Además, lo que es peor, el elemento de confianza, que los protestantes enfatizan, desafía toda explicación y permanece en completa confusión. Ejemplos, como depositar dinero en un banco en lugar de simplemente creer que el banco es sólido, dependen de una acción física, además del acto mental de creer. Tal acción externa adicional es inapropiada para representar el acto mental de fe completamente interno. El conocimiento es una parte integral de la fe y no su antítesis.
@@ -85,17 +85,17 @@ Aunque nominalistas como Roscellinus y Occam afirman que los conceptos no se ref
 
 La cuestión, por supuesto, es si los conceptos pueden realmente abstraerse de las sensaciones. Platón lo negó. Además, incluso la abstracción de conceptos “empíricos” como gato y perro depende de una teoría de las imágenes visuales que la psicología introspectiva no puede sostener. Es aún más difícil ver cómo conceptos normativos como el de justicia pueden derivarse de material puramente fáctico.
 
-::ArticleQuote{quote="La experiencia no da ni universalidad ni necesidad" position="right"}
+::ArticleShareQuote{quote="La experiencia no da ni universalidad ni necesidad" position="right"}
 ::
 
 Kant amplió con fuerza este argumento en oposición a Hume. El conocimiento, insistía Kant, contiene juicios necesarios y universales, tales como dos y dos son, son siempre y deben ser cuatro, y todos los péndulos siempre deben oscilar de una determinada manera. Tenga en cuenta definitivamente que cuando se formuló la ley del péndulo, los científicos pensaron que todos los péndulos del pasado habían oscilado y todos los péndulos futuros oscilarían tal como se describe. Pero la experiencia no se extiende a todos los péndulos pasados y, con mayor claridad aún, no se extiende a ningún péndulo futuro. La experiencia no da ni universalidad ni necesidad.
 
-::ArticleQuote{quote="Las experiencias nunca pueden determinar que el robo está mal o que la honestidad es correcta" position="inline"}
+::ArticleShareQuote{quote="Las experiencias nunca pueden determinar que el robo está mal o que la honestidad es correcta" position="inline"}
 ::
 
 De manera similar, nunca se pueden derivar principios morales normativos de la experiencia. Vemos actos de honestidad y casos de robo. Los dos tienen la misma experiencia. Las experiencias nunca pueden determinar que el robo está mal o que la honestidad es correcta.
 
-::ArticleQuote{quote="El concepto del número uno es esencial, no sólo para las matemáticas, sino también para todo aprendizaje; porque el aprendizaje nunca podría proceder a menos que pudiéramos distinguir una cosa de otra" position="left"}
+::ArticleShareQuote{quote="El concepto del número uno es esencial, no sólo para las matemáticas, sino también para todo aprendizaje; porque el aprendizaje nunca podría proceder a menos que pudiéramos distinguir una cosa de otra" position="left"}
 ::
 
 Quizás el ejemplo más simple de una categoría a priori sea el de la unidad. El concepto del número uno es esencial, no sólo para las matemáticas, sino también para todo aprendizaje; porque el aprendizaje nunca podría proceder a menos que pudiéramos distinguir una cosa de otra. Berkeley, el empirista británico, intentó basar la idea de unidad en la sensación. La unidad, dijo, es cualquier cosa que elijas. Puedes contar sillas o granos de arena. Así encontramos nuestra unidad en la experiencia. Kant demolió el argumento de Berkeley. En primer lugar, el empirista planteó erróneamente el problema, que no es la selección de una unidad entre otras unidades; el problema es el origen de la idea de unidad. En segundo lugar, la idea de uno debe estar presente antes de que podamos identificar una silla o un grano de arena como tal. La idea no se deriva del objeto experimentado. Y, finalmente, ningún objeto experimentado es estrictamente una unidad, ya que todo en el espacio tiene partes. Por tanto, el concepto de uno debe preceder a la experiencia. Estos ejemplos de argumentos deben ser suficientes para mostrar las ventajas filosóficas del racionalismo, o del priorismo, sobre el empirismo.
@@ -114,7 +114,7 @@ Además, Romanos 1:32 y 2:14 muestran que ni siquiera el pecado erradica cierto 
 ## Neo-ortodoxia
 
 
-::ArticleQuote{quote="El conocimiento es encomiable y esencial para la fe" position="right"}
+::ArticleShareQuote{quote="El conocimiento es encomiable y esencial para la fe" position="right"}
 ::
 
 Hasta ahora la discusión ha mantenido la posición de que el conocimiento es encomiable y esencial para la fe. Por lo tanto, la religión, o al menos el cristianismo, debe tener en alta estima la teología. Sin embargo, en varias ocasiones se hacen protestas contra el intelectualismo “frío” o el orgullo de la “mera” razón humana. Los místicos han elogiado los trances; otros hacen que la religión sea esencialmente emocional; y más recientemente la neoortodoxia ha entronizado la paradoja y la contradicción.

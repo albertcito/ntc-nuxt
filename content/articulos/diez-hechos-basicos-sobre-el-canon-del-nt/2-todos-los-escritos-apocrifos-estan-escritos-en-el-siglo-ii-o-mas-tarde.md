@@ -21,7 +21,10 @@ En la publicación anterior, discutimos el primer hecho básico sobre el canon d
 
 En este artículo actual, abordamos el tema de los escritos “apócrifos” del Nuevo Testamento. Se trata de escritos que no estaban incluidos en el Nuevo Testamento, pero que tienen un género similar (evangelios, hechos, cartas, apocalipsis, etc.). Y estos escritos a menudo se atribuyen a personajes famosos; por ejemplo, el Evangelio de Pedro, el Evangelio de Tomás, los Hechos de Juan.
 
-Si bien no podemos entrar en detalles extensos sobre estos diversos escritos apócrifos, al menos podemos señalar un hecho básico que a menudo se pasa por alto: todos estos escritos apócrifos están fechados en el siglo II o posterior. Así, este post es el corolario del anterior. **No solo todos los escritos del Nuevo Testamento son del primer siglo, sino que todos los escritos apócrifos (al menos los que existen) son del siglo II o posteriores**. Y muchos son del siglo tercero o cuarto.
+::ArticleShareQuote{quote="No solo todos los escritos del Nuevo Testamento son del primer siglo, sino que todos los escritos apócrifos (al menos los que existen) son del siglo II o posteriores" position="right"}
+::
+
+Si bien no podemos entrar en detalles extensos sobre estos diversos escritos apócrifos, al menos podemos señalar un hecho básico que a menudo se pasa por alto: todos estos escritos apócrifos están fechados en el siglo II o posterior. Así, este post es el corolario del anterior. No solo todos los escritos del Nuevo Testamento son del primer siglo, sino que todos los escritos apócrifos (al menos los que existen) son del siglo II o posteriores. Y muchos son del siglo tercero o cuarto.
 
 Lo que es particularmente digno de mención sobre este hecho es que incluso los estudiosos críticos están de acuerdo. Si bien existe una disputa sobre la fecha de algunos libros del Nuevo Testamento (por ejemplo, 2 Pedro, las Epístolas Pastorales), existe una virtual unanimidad sobre la fecha tardía de los libros apócrifos. Por supuesto, existen intentos marginales de colocar algunos escritos apócrifos en el primer siglo; por ejemplo, Crossan sostiene que un "evangelio cruzado" incrustado en el Evangelio de Pedro es del primer siglo, pero estas sugerencias no han sido ampliamente recibidas.
 

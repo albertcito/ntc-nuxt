@@ -56,13 +56,8 @@ export default defineNuxtConfig({
   },
   googleFonts: {
     families: {
-      'Roboto': true,
-      'Source Sans 3': [300, 400, 500, 600, 700],
-      'Alkatra': true,
-      'JetBrains Mono': true,
-      'Material Symbols Outlined': true,
-      'Karma': [300, 400, 500, 600, 700],
-      'Inter': [300, 400, 500, 600, 700]
+      Karma: [300, 400, 500, 600, 700],
+      Inter: [300, 400, 500, 600, 700]
     }
   }
 })

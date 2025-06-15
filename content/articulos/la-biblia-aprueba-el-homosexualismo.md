@@ -45,7 +45,7 @@ Hablando con un pastor luterano y leyendo los argumentos de Reformation Project<
 
 > En los tiempos de Pablo las relaciones duraderas de amor monogamo homosexual no existian, por lo cual lo que condena la escritura es el tipo de relacion homosexual que existia en ese tiempo solamente: pederastia y abuso sexual. Por lo cual si Pablo hubiera conocido las parejas homosexuales, fieles y amorosas de hoy él las hubiera aceptado
 >
-> Pastor Luterano (ELCA) en EEUU
+> *Pastor Luterano (ELCA) en EEUU*
 
 Hay dos puntos clave de esta declaración para revisar:
 
@@ -79,7 +79,7 @@ Empecemos con el contexto histórico y analizemos si el amor monogamo homosexual
 
 Platón escribió el "Simposio" (385-370 a. C.), un libro que aborda preguntas: qué es el amor; las relaciones a través del amor; qué tipos de amor son dignos de elogio; el propósito del amor, etc. Pausanias divide el amor en ordinario y celestial, atribuyendo este último a las relaciones masculinas exclusivamente homosexuales.
 
-> “Aquellos a quienes  \[el amor celestial\] inspira no aman más que al sexo masculino naturalmente más fuerte y más inteligente… No se sienten atraídos por una gran juventud, sino por jóvenes cuya inteligencia comienza a desenvolverse… Sería verdaderamente deseable que existiera una ley que prohibiera amar a mancebos demasiado jóvenes... El amor no es bello ni feo por sí mismo. Es bello si se ama obedeciendo a las leyes de la honorabilidad… Pero el amante de un alma bella permanece fiel toda la vida porque ama lo que es duradero”
+> “Aquellos a quienes \[el amor celestial\] inspira no aman más que al sexo masculino naturalmente más fuerte y más inteligente… No se sienten atraídos por una gran juventud, sino por jóvenes cuya inteligencia comienza a desenvolverse… Sería verdaderamente deseable que existiera una ley que prohibiera amar a mancebos demasiado jóvenes... El amor no es bello ni feo por sí mismo. Es bello si se ama obedeciendo a las leyes de la honorabilidad… Pero el amante de un alma bella permanece fiel toda la vida porque ama lo que es duradero”
 >
 > Symposium by Plato. Pages 12-17 ([→](https://www.elejandria.com/libro/el-banquete/platon/1682){target=blank})
 

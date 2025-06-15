@@ -22,12 +22,12 @@ Esta nueva serie de blogs está diseñada para ayudar al creyente a aprender alg
 
 Uno de los desafíos más formidables en cualquier discusión sobre el canon del Nuevo Testamento es explicar qué hace que estos 27 libros sean únicos. ¿Por qué estos y no otros? Hay muchas respuestas a esa pregunta, pero en esta publicación de blog nos enfocamos en solo una: la fecha de estos libros. Estos libros se destacan como distintivos porque son los primeros escritos cristianos que poseemos y, por lo tanto, nos acercan más al Jesús histórico y a la iglesia más antigua. Si queremos descubrir cómo era realmente el cristianismo auténtico, entonces debemos confiar en los escritos más cercanos a ese período de tiempo.
 
-::ArticleQuote{quote="Los cuatro evangelios, Mateo, Marcos, Lucas y Juan. Estos son los únicos relatos de los evangelios que se derivan del primer siglo" position="left"}
+::ArticleShareQuote{quote="Los cuatro evangelios, Mateo, Marcos, Lucas y Juan. Estos son los únicos relatos de los evangelios que se derivan del primer siglo" position="left"}
 ::
 
 Esto es particularmente evidente cuando se trata de Los cuatro evangelios, Mateo, Marcos, Lucas y Juan. Estos son los únicos relatos de los evangelios que se derivan del primer siglo. Claro, hay algunos eruditos que han intentado colocar el Evangelio de Tomás en el primer siglo, pero esto no ha tenido mucho éxito. Después de que todo el polvo académico se haya asentado, incluso los críticos están de acuerdo en que estos cuatro son los primeros relatos de Jesús que poseemos.
 
-::ArticleQuote{quote="La gran mayoría de los escritos del Nuevo Testamento (incluidos los cuatro evangelios) siguen siendo los primeros escritos cristianos que tenemos" position="right"}
+::ArticleShareQuote{quote="La gran mayoría de los escritos del Nuevo Testamento (incluidos los cuatro evangelios) siguen siendo los primeros escritos cristianos que tenemos" position="right"}
 ::
 
 Ahora, algunas calificaciones están en orden. Primero, debe notarse que existen desacuerdos sobre la datación de algunos libros del Nuevo Testamento. Algunos eruditos críticos han argumentado que algunos libros del Nuevo Testamento son falsificaciones escritas en el siglo II. Mientras tanto, otros estudiosos han defendido la autenticidad (y la fecha del siglo I) de estos libros. Este es un debate en el que no podemos profundizar aquí. Sin embargo, incluso si estos libros debatidos se dejan de lado en nuestras discusiones, aún podemos afirmar que la gran mayoría de los escritos del Nuevo Testamento (incluidos los cuatro evangelios) siguen siendo los primeros escritos cristianos que tenemos.

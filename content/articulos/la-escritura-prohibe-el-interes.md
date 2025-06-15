@@ -102,19 +102,19 @@ Esta hostilidad a los intereses de los préstamos es un desafío evidente a la p
 
 Me he ocupado de esto extensamente en el capítulo 49 de mi [comentario sobre Éxodo](https://www.garynorth.com/AuthorityAndDominion4.pdf){target=blank}. Esto es lo que escribí.
 
-::ArticleQuote{quote="La ley civil bíblica no autoriza a los tribunales a buscar formas de hacer buenos a los hombres" position="left"}
+::ArticleShareQuote{quote="La ley civil bíblica no autoriza a los tribunales a buscar formas de hacer buenos a los hombres" position="left"}
 ::
 
 ¿Por qué no fue esto regulado pot la ley? Porque la ley civil bíblica presenta solo mandatos negativos. Prohíbe públicamente los actos malvados. La ley civil bíblica no autoriza a los tribunales a buscar formas de hacer buenos a los hombres. No autoriza al Estado a obligar a los hombres a hacer cosas buenas. No autoriza la creación de un estado mesiánico, salvacionista. El estado no puede escudriñar los corazones de los hombres. Dios hace esto, como Creador y Juez, por lo que el estado no debe reclamar tal capacidad. El estado solo está autorizado por Dios para imponer sanciones negativas contra actos públicamente malos. No está autorizado a tratar de obligar a los hombres a hacer buenas obras. En resumen, la Biblia se opone al estado de bienestar moderno.
 
-::ArticleQuote{quote="La “pobreza” es una categoría demasiado subjetiva para ser definida por ley" position="right"}
+::ArticleShareQuote{quote="La “pobreza” es una categoría demasiado subjetiva para ser definida por ley" position="right"}
 ::
 
 No hay manera de que la regulación de la ley bíblica defina qué es la pobreza aparte de las opiniones de los afectados por la ley, ya sea como contribuyentes, prestamistas caritativos o beneficiarios de bienestar público o caridad privada. La “pobreza” es una categoría demasiado subjetiva para ser definida por ley.. El Estado necesita poder asignar tipificaciones jurídicas a los delitos, para que no se amplíe su poder arbitrario. Sin embargo, las definiciones económicas de riqueza y pobreza que no son arbitrarias no están disponibles para los magistrados civiles para la creación de mandatos legales positivos. Por lo tanto, la ley civil de Dios no obliga a un hombre a hacer un préstamo a una persona pobre.
 
 Sin embargo, la ley civil prohíbe tomar interés de los pobres. ¿Cómo puede hacer esto sin crear las condiciones de tiranía judicial a través de la arbitrariedad? Si los magistrados no pueden definir exactamente qué es la pobreza a los efectos de escribir medidas cautelares positivas, ¿Cómo pueden definir qué es un préstamo caritativo? ¿Cómo puede el estado prohibir legítimamente los intereses de un préstamo de caridad si los legisladores y los jueces no pueden definir la pobreza con un grado de precisión suficiente para identificar los casos en que un préstamo de caridad es legalmente obligatorio para el prestamista potencial?
 
-::ArticleQuote{quote="El prestamista decide quién es merecedor de su préstamo y quién no. Esta es su elección moral. Dios, no el estado, lo juzgará" position="left"}
+::ArticleShareQuote{quote="El prestamista decide quién es merecedor de su préstamo y quién no. Esta es su elección moral. Dios, no el estado, lo juzgará" position="left"}
 ::
 
 El prestamista decide quién es merecedor de su préstamo y quién no. Esta es su elección moral. Dios, no el estado, lo juzgará. Sin embargo, una vez que el prestamista otorga este préstamo de caridad único y moralmente impuesto, no puede extraer un pago de intereses. Este es un mandato negativo—no hacer algo que está prohibido por la ley—y por lo tanto es legítimamente ejecutable por la ley civil, tan seguramente como se suponía que los magistrados civiles en el antiguo Israel hacían cumplir la liberación de los esclavos por deudas en el séptimo año (sabático) (Deuteronomio 15:12–15). El requisito de prestar al hermano en necesidad bajo los términos especificados en la ley bíblica, siendo un mandato positivo, por lo tanto cae bajo las provisiones de autogobierno de la conciencia y las sanciones negativas de Dios. Esta medida cautelar positiva no está bajo la jurisdicción de los tribunales civiles. Por otro lado, la prohibición de intereses sobre estos préstamos únicos, al ser una medida cautelar negativa, está sujeta a la aplicación tanto de los tribunales civiles como de los tribunales eclesiásticos.

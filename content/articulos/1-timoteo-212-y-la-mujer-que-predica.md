@@ -35,7 +35,7 @@ Los dones que liste, son dones los cuales quien los este usando, debe hablar a l
 O sea si pensamos hoy en día, podríamos decir que aplicaría a una persona que esta predicando en el culto publico, quien este predicando, esta profetizando igualmente.
 
 
-::ArticleQuote{quote="Profetizar es “edificación, exhortación y consolación.. el que profetiza, edifica a la iglesia” (1 Corintios 14:3-4) y sirve “para que todos aprendan, y todos sean exhortados” (1 Corintios 14:31)" position="right"}
+::ArticleShareQuote{quote="Profetizar es “edificación, exhortación y consolación.. el que profetiza, edifica a la iglesia” (1 Corintios 14:3-4) y sirve “para que todos aprendan, y todos sean exhortados” (1 Corintios 14:31)" position="right"}
 ::
 
 Sabemos que estos dones son dados a todos por un mismo Espíritu (1 Corintios 12:11) el reparte como quiere y "_por un solo Espíritu fuimos todos bautizados en un cuerpo_" (1 Corintios 12:13). Pablo le esta explicando esto a toda la congregación en Corintios (hombres y mujeres). Además Pablo ordena que la mujer debe usar un velo (1 Corintios 11:5) cuando profetiza (el velo en los tiempos de Pablo lo podría explicar pero saldría del objetivo de esta publicación), o sea mujer profetizando, usando los dones de Dios dados a ella para que hombres y mujeres aprendan y sean exhortados (1 Corintios 14:31).
