@@ -1,5 +1,5 @@
 ---
-title: "La Iglesia que fue expulsada por ser fiel - Canadá"
+title: "Como el liberalismo teologico casí destruye la Iglesia Anglicana en Canadá"
 description: "Esta es una historia inspiradora de la mayor crisis que vivió la Iglesia Anglicana de Canada entre dos fracciones: liberales quienes rechazaban la palabra de Dios y el remanente que se mantuvo fiel al evangelio y la palabra de Dios"
 date: 2022-02-18
 type: article
@@ -20,12 +20,12 @@ tags:
   - "lgtbiq"
 image:
   src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749558994/esta-ya-no-es-una-iglesia_ibchau.jpg
-  alt: Cartel afuera de una iglesia que se convirtió en un restaurant. La imagen dice “Esta no es iglesia, ven y toma un café o cerveza”. Imagen tomada en Ottawa, Canadá – 2017.
-  descr: Cartel afuera de una iglesia que se convirtió en un restaurant. La imagen dice “Esta no es iglesia, ven y toma un café o cerveza”. Imagen tomada en Ottawa, Canadá – 2017.
+  alt: Cartel afuera de una iglesia que se convirtió en un restaurant. La imagen dice “Está no es iglesia, ven y toma un café o cerveza”. Imagen tomada en Ottawa, Canadá – 2017.
+  descr: Cartel afuera de una iglesia que se convirtió en un restaurant. La imagen dice “Está no es iglesia, ven y toma un café o cerveza”. Imagen tomada en Ottawa, Canadá – 2017.
   cc: https://www.google.com/maps/@45.4272951,-75.6779567,3a,75y,78.92h,92.22t/data=!3m6!1e1!3m4!1sedl7hoJQW1NF4ULBf7KS-A!2e0!7i16384!8i8192
 ---
 
-Estuve viviendo casi 3 años en Canadá en la ciudad de Ottawa y me congregue un tiempo en la iglesia [Church of The Messiah](https://www.messiahchurch.ca/){target=blank} donde pastorea George Sinclair, por esa razón leer este [artículo](https://www.thegospelcoalition.org/article/how-anglicans-in-canada-found-new-life-after-their-eviction/){target=blank} toco mi corazón, viendo como mis hermanos anglicanos, el remanente, se mantuvo firme en la palabra de Dios a costa de su trabajo, edificios, dinero, reputación, etc. Y como hoy esta iglesia esta creciendo en nuevos hermanos, el evangelio y madurez. Además, trabajando en la universidad de Ottawa, abriendo una [nueva congregación en Kanata](https://www.messiahkanata.ca/){target=blank} y solo esta semana Jonathan (un hermano de esa iglesia) me escribió contándome que se esta mudando a Quebeq con su familia para abrir una [nueva misión](https://www.saintlazare.ca/){target=blank}. Yo viví en downtown, frente a mi departamento había una iglesia anglicana gigante tomada por el liberalismo teológico con un [letrero que deciá](https://lh3.googleusercontent.com/BY10gGEPdWDXgJvGR4fDx4lkfyJqWmOZkjgwEvuH59_d73yvG7B68sZf6PGq3cDJYINrvlEN2Ha5W-rjV8X8=w2560-h1386-rw){target=blank} "Esta ya no es iglesia... disfruta un almuerzo, café, cerveza o más...".
+Estuve viviendo casi 3 años en Canadá en la ciudad de Ottawa y me congregue un tiempo en la iglesia [Church of The Messiah](https://www.messiahchurch.ca/){target=blank} donde pastorea George Sinclair, por esa razón leer este [artículo](https://www.thegospelcoalition.org/article/how-anglicans-in-canada-found-new-life-after-their-eviction/){target=blank} toco mi corazón, viendo como mis hermanos anglicanos, el remanente, se mantuvo firme en la palabra de Dios a costa de su trabajo, edificios, dinero, reputación, etc. Y como hoy esta iglesia esta creciendo en nuevos hermanos, el evangelio y madurez. Además, trabajando en la universidad de Ottawa, abriendo una [nueva congregación en Kanata](https://www.messiahkanata.ca/){target=blank} y solo esta semana Jonathan (un hermano de esa iglesia) me escribió contándome que se esta mudando a Quebeq con su familia para abrir una [nueva misión](https://www.saintlazare.ca/){target=blank}. Yo vivia en el centro de la ciudad, frente a mi departamento había una iglesia anglicana gigante tomada por el liberalismo teológico con un [letrero que deciá](https://lh3.googleusercontent.com/BY10gGEPdWDXgJvGR4fDx4lkfyJqWmOZkjgwEvuH59_d73yvG7B68sZf6PGq3cDJYINrvlEN2Ha5W-rjV8X8=w2560-h1386-rw){target=blank} "Esta ya no es iglesia... disfruta un almuerzo, café, cerveza o más...".
 
 Te invito a leer esta inspiradora historia que trata acerca de lo que vivió la iglesia Anglicana en su división por mantener la pureza del evangelio, escrito por [Sarah Eekhoff](https://twitter.com/sarahezylstra){target=blank} para [The Gospel Coalition](https://www.thegospelcoalition.org/article/how-anglicans-in-canada-found-new-life-after-their-eviction/){target=blank}
 
@@ -226,5 +226,3 @@ A Short ni siquiera le gusta la pregunta: "¿Valió la pena?" (Tanto Sinclair co
 Quizás te quedes en la denominación y abogues por la verdad bíblica. O tal vez sales de la reunión. Tal vez presente la demanda o pelee con una que se haya presentado en su contra. Tal vez formes una nueva denominación.
 
 Haces lo siguiente, “ser fiel con lo que Dios ha puesto frente a ti”, dijo. Y todo el tiempo, predicas el evangelio”.
-
-Sarah Eekhoff Zylstra es escritora principal y editora de fe y trabajo para The Gospel Coalition. Antes de eso, escribió para Christianity Today , educó a sus hijos en el hogar, trabajó como freelance para un periódico local y enseñó en el Trinity Christian College. Obtuvo una licenciatura en inglés y comunicación de la Universidad de Dordt y un MSJ de la Escuela de Periodismo Medill de la Universidad de Northwestern. Ella vive con su esposo y sus dos hijos en los suburbios de Chicago.

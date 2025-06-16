@@ -14,6 +14,18 @@ const { data: page, status } = await useAsyncData(
 const navigation = inject<Ref<ContentNavigationItem[]>>('navigation')
 const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(navigation?.value, page.value)).map(({ icon, ...link }) => link))
 const env = getConfig(useRuntimeConfig())
+
+useSeoMeta({
+  title: page.value?.title,
+  ogTitle: page.value?.title,
+  twitterTitle: page.value?.title,
+  titleTemplate: 'No te conformes - Romanos 12:2',
+  description: page.value?.description,
+  ogDescription: page.value?.description,
+  twitterDescription: page.value?.description,
+  ogImage: page.value?.image?.src,
+  twitterImage: page.value?.image?.src
+})
 </script>
 
 <template>

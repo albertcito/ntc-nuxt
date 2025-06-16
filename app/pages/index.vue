@@ -1,19 +1,27 @@
 <script setup lang="ts">
-// @ts-expect-error yaml is not typed
-import page from '.index.yml'
 import { useArticles } from '~/components/articles/useArticles'
 import HomeHeader from '~/components/homeHeader/index.vue'
 
-useHead({ title: page.title })
-
-const { articles: data } = await useArticles({
+const { articles: page } = await useArticles({
   page: computed(() => 1),
   itemsPerPage: computed(() => 7),
   type: computed(() => ['article', 'series'])
 })
 
-const first = computed(() => data.data.value?.[0])
-const second = data.data.value?.slice(1, 7) || []
+const first = computed(() => page.data.value?.[0])
+const second = page.data.value?.slice(1, 7) || []
+
+useSeoMeta({
+  title: 'Artículos',
+  ogTitle: 'Artículos',
+  twitterTitle: 'Artículos',
+  titleTemplate: 'No te conformes - Romanos 12:2',
+  description: 'Artículos sobre la Biblia y la fe cristiana',
+  ogDescription: 'Artículos sobre la Biblia y la fe cristiana',
+  twitterDescription: 'Artículos sobre la Biblia y la fe cristiana',
+  ogImage: 'https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582209/leyend-la-biblia_ricc1l.jpg',
+  twitterImage: 'https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582209/leyend-la-biblia_ricc1l.jpg'
+})
 </script>
 
 <template>
