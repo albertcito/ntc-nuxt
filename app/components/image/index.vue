@@ -9,15 +9,17 @@ export type ImageProps = {
 
 <script setup lang="ts">
 defineProps<ImageProps>()
+const isLoadError = ref(false)
 </script>
 
 <template>
-  <figure>
+  <figure v-if="!isLoadError">
     <div class="relative">
       <img
         :src="src"
         :alt="alt"
         class="w-full object-cover object-center"
+        :onerror="() => { isLoadError = true }"
       >
       <UButton
         v-if="cc"

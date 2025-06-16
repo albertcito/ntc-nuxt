@@ -13,7 +13,7 @@ defineProps<{
       :alt="alt"
       class="mx-auto"
     >
-    <figcaption class="text-sm text-center opacity-90">
+    <figcaption class="[&>p]:text-sm/tight [&>p]:mt-2 text-center opacity-90">
       <slot>
         {{ caption }}
       </slot>
