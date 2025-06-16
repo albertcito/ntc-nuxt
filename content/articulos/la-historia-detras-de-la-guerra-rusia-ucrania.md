@@ -19,23 +19,15 @@ tags:
   - "usa"
 image:
   src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749518711/support-ucrania-stop-putin_crrvp2.jpg
-  alt: "Niñas con pancartas: Apoya Ucrania y detengan a  Putin"
+  alt: "Niñas con pancartas: \"Apoya Ucrania y detengan a Putin\""
   cc: https://www.pexels.com/photo/girls-with-signs-on-protest-against-russian-war-on-ukraine-11291271/
 ---
 
 _Lo siguiente es una adaptación de un discurso que Scott pronunció ante el Partido Libertario de Utah el 26 de febrero de 2022._
 
-<figure>
-
-[https://youtu.be/NbiuAfcpzQU](https://youtu.be/NbiuAfcpzQU){target=blank}
-
-<figcaption>
-
+::MdYoutube{ src="https://www.youtube.com/embed/NbiuAfcpzQU?feature=oembed" alt="Scott Horton Speech on the History Behind the Russia-Ukraine Crisis SLC, Utah 2/26/22"}
 **Solo en Inglés** - Scott Horton Speech on the History Behind the Russia-Ukraine Crisis SLC, Utah 2/26/22
-
-</figcaption>
-
-</figure>
+::
 
 Solo para sacar esto del camino primero muy rápido: cada vez que alguien se atreve a diferir de la narrativa común del gobierno y la televisión sobre Rusia y su papel en el mundo, esa persona generalmente es condenada instantáneamente por decir "puntos de conversación rusos" o ser " pagado por Putin". Este es probablemente el caso especialmente esta semana, ya que Rusia está librando una agresiva invasión contra su vecina Ucrania mientras hablamos.
 
