@@ -1,5 +1,5 @@
 ---
-title: "¿La Biblia aprueba el Homosexualismo 🏳️‍🌈?"
+title: "Homosexualidad: Análisis Bíblico y contexto histórico cultural"
 description: "Análisis Bíblico sobre la homosexualidad: Perspectivas y debates en torno al contexto histórico cultura y la interpretación de textos clave"
 date: 2023-11-15
 type: article
