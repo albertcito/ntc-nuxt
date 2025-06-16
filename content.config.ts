@@ -28,8 +28,8 @@ export default defineContentConfig({
           hide: z.boolean().default(false)
         }),
         attachments: z.array(z.object({
-          type: z.enum(['pdf', 'epub']),
-          url: z.string().min(1)
+          pdf: z.string().min(1),
+          epub: z.string()
         }))
       })
     })

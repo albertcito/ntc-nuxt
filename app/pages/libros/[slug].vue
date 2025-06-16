@@ -56,6 +56,7 @@ useSeoMeta({
     :ui="{
       image: 'sm:hidden'
     }"
+    :attachments="page.attachments"
   >
     <template #aside>
       <img

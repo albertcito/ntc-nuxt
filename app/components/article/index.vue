@@ -24,6 +24,10 @@ defineProps<{
   tags?: string[]
   currentPath: string
   ui?: UiProps
+  attachments?: {
+    pdf: string
+    epub?: string
+  }
 }>()
 </script>
 
@@ -80,6 +84,24 @@ defineProps<{
             v-if="serie"
             :serie="serie"
           />
+          <div class="flex flex-col sm:flex-row gap-4">
+            <ArticleBooksDownload
+              v-if="attachments?.pdf"
+              title="Descargar PDF"
+              :url="attachments.pdf"
+              class="flex-1"
+            >
+              Para ver en computador o smartphone y fácil de imprimir
+            </ArticleBooksDownload>
+            <ArticleBooksDownload
+              v-if="attachments?.epub"
+              title="Descargar EPUB"
+              :url="attachments.epub"
+              class="flex-1"
+            >
+              Para leer de una forma más fácil en el smartphone.
+            </ArticleBooksDownload>
+          </div>
           <div
             v-if="share"
             class="sm:hidden flex justify-center items-center bg-(--ui-bg-muted)"

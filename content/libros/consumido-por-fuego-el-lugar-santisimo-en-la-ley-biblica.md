@@ -14,13 +14,8 @@ image:
   src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749729372/consumido-or-fuego_ftmfgz.jpg
   alt: Consumido por fuego – El Lugar Santísimo en la Ley Bíblica
 attachments:
-  -
-    type: pdf
-    url: https://declaradojusto.files.wordpress.com/2020/12/consumido-por-fuego.pdf
-  -
-    type: epub
-    url: https://noseconformen.com/wp-content/uploads/2022/03/consumido-por-fuego-joel-mc-durmon.epub
-
+  pdf: https://declaradojusto.files.wordpress.com/2020/12/consumido-por-fuego.pdf
+  epub: https://noseconformen.com/wp-content/uploads/2022/03/consumido-por-fuego-joel-mc-durmon.epub
 ---
 
 El trabajo de Joel es el pináculo en los esfuerzos por aplicar todo el consejo de Dios a toda la fe y la vida. Los críticos han recibido una respuesta amable pero completa, y sus objeciones al Principio de Cherem han demostrado ser defectuosas y bíblicamente insostenibles.

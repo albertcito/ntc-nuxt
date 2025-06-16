@@ -14,13 +14,8 @@ image:
   src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749870187/DiscipletheNations_iyehh9.jpg
   alt: Consumido por fuego – El Lugar Santísimo en la Ley Bíblica
 attachments:
-  -
-    type: pdf
-    url: https://www.kuyper.org/s/Discipulando-las-Nacionesv6.pdf
-  -
-    type: epub
-    url: https://noseconformen.com/wp-content/uploads/2022/09/Discipulando-las-Naciones-Stephen-C.-Perks.epub
-
+  pdf: https://www.kuyper.org/s/Discipulando-las-Nacionesv6.pdf
+  epub: https://noseconformen.com/wp-content/uploads/2022/09/Discipulando-las-Naciones-Stephen-C.-Perks.epub
 ---
 
 El último mandato que Jesús dio a sus discípulos mientras estuvo en la tierra fue ir y discipular a las naciones. La Escritura nos dice que él regresará cuando esta tarea haya sido completada y todas las naciones de la tierra hayan llegado a ser reinos de nuestro Señor y de su Cristo (Ap. 11:15). Muchos cristianos, sin embargo, malinterpretan la Gran Comisión como un mandato para hacer discípulos de personas de todas las naciones. Esto no es lo que Jesús mandó hacer a sus discípulos en la Gran Comisión. Más bien, nos ordenó discipular a las naciones, i.e. hacer cristianas a las naciones, cristianizar las naciones.

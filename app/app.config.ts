@@ -6,10 +6,10 @@ export default defineAppConfig({
     }
   },
   uiPro: {
-    /* prose: {
-      p: {
-        base: 'leading-9'
+    prose: {
+      blockquote: {
+        base: 'not-italic'
       }
-    } */
+    }
   }
 })

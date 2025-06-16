@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import type { HTMLAttributes } from 'vue'
-import { z } from 'zod'
+import { z, type TypeOf } from 'zod'
 
 defineProps<{
   onSave: (props: FormValues) => void
@@ -8,16 +8,12 @@ defineProps<{
   error: Error | undefined
   class?: HTMLAttributes['class']
 }>()
-
-interface FormValues {
-  name: string
-  email: string
-}
-const form = reactive<Partial<FormValues>>({})
 const schema = z.object({
   name: z.string().min(2, 'El nombre es obligatorio'),
   email: z.string().email('Email es inválido').min(1, 'El email es obligatorio')
 })
+type FormValues = TypeOf<typeof schema>
+const form = reactive<Partial<FormValues>>({})
 </script>
 
 <template>
