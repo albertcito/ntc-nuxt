@@ -29,7 +29,7 @@ const items = computed<NavigationMenuItem[]>(() => [
 <template>
   <UApp>
     <UHeader
-      title="No te conformes"
+      title="No te Conformes"
       :ui="{
         title: 'text-primary'
       }"

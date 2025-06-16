@@ -16,7 +16,7 @@ const breadcrumb = computed(() => mapContentNavigation(findPageBreadcrumb(naviga
 const env = getConfig(useRuntimeConfig())
 
 useSeoMeta({
-  title: page.value?.title,
+  title: `${page.value?.title} - Artículos`,
   ogTitle: page.value?.title,
   twitterTitle: page.value?.title,
   titleTemplate: 'No te conformes - Romanos 12:2',
