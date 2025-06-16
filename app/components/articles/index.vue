@@ -73,7 +73,8 @@ const page = defineModel<number>('page', { required: true })
         :total="total"
         :to="(pageSelected) => ({
           path,
-          query: { page: pageSelected }
+          query: { page: pageSelected },
+          hash: '#content'
         })"
         :ui="{
           first: 'hidden sm:block',

@@ -59,7 +59,9 @@ const items = computed<NavigationMenuItem[]>(() => [
       </template>
     </UHeader>
     <NuxtLayout>
-      <NuxtPage />
+      <div id="content">
+        <NuxtPage />
+      </div>
     </NuxtLayout>
     <USeparator class="h-px" />
 
