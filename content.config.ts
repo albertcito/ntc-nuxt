@@ -27,10 +27,10 @@ export default defineContentConfig({
           cc: z.string().optional(),
           hide: z.boolean().default(false)
         }),
-        attachments: z.array(z.object({
+        attachments: z.object({
           pdf: z.string().min(1),
           epub: z.string()
-        }))
+        })
       })
     })
   }
