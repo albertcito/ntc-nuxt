@@ -1,7 +1,7 @@
 ---
 title: "Los hombres han abandonado el matrimonio y la paternidad"
 description: ¿Se debe a la política, la religión o a algo más?
-date: 2025-06-26
+date: 2025-06-17
 type: article
 translation:
   summary: "Artículo original “Men Have Abandoned Marriage and Parenthood” de Ryan Burge"

@@ -17,15 +17,17 @@ const { copy, copied } = useClipboard({ legacy: true })
       {
         'sm:float-right sm:pl-5 sm:max-w-xs': position === 'right',
         'sm:float-left sm:pr-5 sm:max-w-xs xl:-ml-20': position === 'left',
-        'float-center': position === 'center',
         'inline-block': position === 'inline'
       }
     ]"
   >
-    <div>
+    <div :class="{ 'text-center': position === 'center' }">
       {{ quote }}
     </div>
-    <div class="flex items-center gap-2 text-sm font-semibold justify-left">
+    <div
+      :class="{ 'justify-center': position === 'center' }"
+      class="flex items-center gap-2 text-sm font-semibold justify-left"
+    >
       Comparté: <UButton
         variant="outline"
         color="neutral"
