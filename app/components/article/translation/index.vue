@@ -26,7 +26,7 @@ defineProps<{
         </UTooltip>
       </div>
     </template>
-    {{ text }}
+    <div v-html="text" class="prose" />
     <!-- <template v-if="by" #footer>
       <div class="text-right text-sm text-muted">
         Traducido por <UTooltip text="Ver más artículos de este autor">
