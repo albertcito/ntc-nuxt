@@ -1,0 +1,1 @@
+import{C as t,q as a,aG as s,c,d as o}from"./BNv7yR5_.js";const r={class:"flex items-center justify-center"},p=t({__name:"[slug]",setup(n){const e=a();return s(`${e.path.replace("/articles","/articulos")}`,{replace:!0}),(i,l)=>(o(),c("div",r," Re-redireccionando... "))}});export{p as default};
