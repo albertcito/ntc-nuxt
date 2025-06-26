@@ -1,44 +1,47 @@
 ---
-title: "1 Timoteo 2:12 y la Mujer que Predica"
-description: "Las mujeres enseñaban y exhortaban en las iglesias de Corinto. Eso es profetizar, los dones del Espíritu Santo es para todos los creyentes"
+title: 1 Timoteo 2:12 y la Mujer que Predica
+description: Las mujeres enseñaban y exhortaban en las iglesias de Corinto. Eso
+  es profetizar, los dones del Espíritu Santo es para todos los creyentes
 date: 2022-04-11
 type: article
 category: teologia
 authors:
   - albert
 tags:
-  - "mujer"
-  - "predicacion"
-  - "timoteo"
+  - mujer
+  - predicacion
+  - timoteo
 image:
   src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749582359/mujer-predicadora-timoteo-2-1_oti4lc.jpg
   alt: Mujer predicando en iglesia
   cc: https://www.pexels.com/photo/woman-standing-on-stage-with-a-microphone-10401279/
 ---
 
-Cuando estaba en la universidad estabamos hablando de la Biblia y salió el tema _¿Puede la mujer predicar en el culto?_ Yo le respondí "_No, porque 1 Timoteo 2 dice que la mujer no puede ejercer dominio sobre el hombre, no puede hablar, debe estar en silencio_" El me respondió: "_¿Pero cómo el 1 Corintios las mujeres profetizan?_". Yo había leído la Biblia muchas veces y pensé sí es cierto, dice que la mujer que ora o profetisa debe usar velo dice 1 Corintios 11, así que desde ese momento, pensé "_Debo estudiarlo más_". Porque no sabia como conciliar 1 Timoteo 2 y 1 Corintios 14. Pero gracias a Dios creo que ahora llegue a una respuesta Bíblica para armoniza ambos pasajes.
+Cuando estaba en la universidad estabamos hablando de la Biblia y salió el tema *¿Puede la mujer predicar en el culto?* Yo le respondí "*No, porque 1 Timoteo 2 dice que la mujer no puede ejercer dominio sobre el hombre, no puede hablar, debe estar en silencio*" El me respondió: "*¿Pero cómo el 1 Corintios las mujeres profetizan?*". Yo había leído la Biblia muchas veces y pensé sí es cierto, dice que la mujer que ora o profetisa debe usar velo dice 1 Corintios 11, así que desde ese momento, pensé "*Debo estudiarlo más*". Porque no sabia como conciliar 1 Timoteo 2 y 1 Corintios 14. Pero gracias a Dios creo que ahora llegue a una respuesta Bíblica para armoniza ambos pasajes.
 
 ## Corintios y los dones
 
 El capitulo 12 de la primera epístola a los Corintios habla de los dones espirituales, entre los dones están:
 
 - Palabra de sabiduría.
-
 - Palabra de ciencia.
-
 - Profecía.
-
 - Interpretación de lenguas.
 
-Los dones que liste, son dones los cuales quien los este usando, debe hablar a la congregación en público, y según la misma carta el don de profetizar es "_edificación, exhortación y consolación.. el que profetiza, edifica a la iglesia"_ (1 Corintios 14:3-4) y sirve "_para que todos aprendan, y todos sean exhortados_" (1 Corintios 14:31).
+Los dones que liste, son dones los cuales quien los este usando, debe hablar a la congregación en público, y según la misma carta el don de profetizar es "*edificación, exhortación y consolación.. el que profetiza, edifica a la iglesia"* (1 Corintios 14:3-4) y sirve "*para que todos aprendan, y todos sean exhortados*" (1 Corintios 14:31).
 
 O sea si pensamos hoy en día, podríamos decir que aplicaría a una persona que esta predicando en el culto publico, quien este predicando, esta profetizando igualmente.
 
-
-::ArticleShareQuote{quote="Profetizar es “edificación, exhortación y consolación.. el que profetiza, edifica a la iglesia” (1 Corintios 14:3-4) y sirve “para que todos aprendan, y todos sean exhortados” (1 Corintios 14:31)" position="right"}
+::article-share-quote
+---
+position: right
+quote: Profetizar es “edificación, exhortación y consolación.. el que profetiza,
+  edifica a la iglesia” (1 Corintios 14:3-4) y sirve “para que todos aprendan, y
+  todos sean exhortados” (1 Corintios 14:31)
+---
 ::
 
-Sabemos que estos dones son dados a todos por un mismo Espíritu (1 Corintios 12:11) el reparte como quiere y "_por un solo Espíritu fuimos todos bautizados en un cuerpo_" (1 Corintios 12:13). Pablo le esta explicando esto a toda la congregación en Corintios (hombres y mujeres). Además Pablo ordena que la mujer debe usar un velo (1 Corintios 11:5) cuando profetiza (el velo en los tiempos de Pablo lo podría explicar pero saldría del objetivo de esta publicación), o sea mujer profetizando, usando los dones de Dios dados a ella para que hombres y mujeres aprendan y sean exhortados (1 Corintios 14:31).
+Sabemos que estos dones son dados a todos por un mismo Espíritu (1 Corintios 12:11) el reparte como quiere y "*por un solo Espíritu fuimos todos bautizados en un cuerpo*" (1 Corintios 12:13). Pablo le esta explicando esto a toda la congregación en Corintios (hombres y mujeres). Además Pablo ordena que la mujer debe usar un velo (1 Corintios 11:5) cuando profetiza (el velo en los tiempos de Pablo lo podría explicar pero saldría del objetivo de esta publicación), o sea mujer profetizando, usando los dones de Dios dados a ella para que hombres y mujeres aprendan y sean exhortados (1 Corintios 14:31).
 
 ### Objeción: "La mujer calle en la congregación"
 
@@ -50,15 +53,15 @@ En el capítulo 14 dice:
 
 Para quienes creen que es un mandato a que la mujer no puede intervenir en absoluto en el culto, les invito a leer el contexto (al menos desde el versículo 26 al 40) y conciliar lo ya demostrado de la mujer que profetiza.
 
-En el contexto de los versículos Pablo se da el tiempo de explicar cómo deben usar sus dones, sin interrumpirse entre ellos, que den oportunidad a otro a hablar y "_hágase todo decentemente y con orden_" (v.40). Además, pareciera que el culto (como hoy en día), no era un lugar para hacer preguntas, porque Pablo dice "_si quieren aprender algo, pregunten en casa_", sino que era para escuchar a los profetas "_para que todos aprendan, y todos sean exhortados_" (1 Corintios 14:31). Por lo cual, se concluye que lo indecoroso que hacían las mujeres en Corintios era interrumpir en medio de la predicación con preguntas.
+En el contexto de los versículos Pablo se da el tiempo de explicar cómo deben usar sus dones, sin interrumpirse entre ellos, que den oportunidad a otro a hablar y "*hágase todo decentemente y con orden*" (v.40). Además, pareciera que el culto (como hoy en día), no era un lugar para hacer preguntas, porque Pablo dice "*si quieren aprender algo, pregunten en casa*", sino que era para escuchar a los profetas "*para que todos aprendan, y todos sean exhortados*" (1 Corintios 14:31). Por lo cual, se concluye que lo indecoroso que hacían las mujeres en Corintios era interrumpir en medio de la predicación con preguntas.
 
 ## 1 Timoteo 2
 
-Ya hemos visto en la carta a los Corintios que los dones están disponibles para todos los hijos de Dios (hombres y mujeres) y estos se pueden usar por ellos en el culto, siempre y cuando esto se haga decentemente y con orden. También vimos cómo en Corintios habían mujeres que profetizaban (1 Corintios 11:5) y que Dios las usaba "_para que todos aprendan, y todos sean exhortados_" (1 Corintios 14:31).
+Ya hemos visto en la carta a los Corintios que los dones están disponibles para todos los hijos de Dios (hombres y mujeres) y estos se pueden usar por ellos en el culto, siempre y cuando esto se haga decentemente y con orden. También vimos cómo en Corintios habían mujeres que profetizaban (1 Corintios 11:5) y que Dios las usaba "*para que todos aprendan, y todos sean exhortados*" (1 Corintios 14:31).
 
 Ahora, ¿Por qué pareciera que Pablo dice en la epístola a Timoteo que la mujer no puede decir nada en absoluto en el culto?
 
-Para empezar veamos que la primera epístola a Timoteo era una carta personal de Pablo a Timoteo (1:2) donde el propósito principal de Timoteo en Éfeso era a causa de falsas doctrinas (1:3 - 4:1). Falsas enseñanzas que Pablo discute en muchas partes de la carta. Y en un lugar especifico, es acerca de que la mujer no debe "_ejercer dominio sobre el hombre_" (2:12), ese es el versículo importante para poder entender de que esta hablando Pablo entre los versículos 11 y 14.
+Para empezar veamos que la primera epístola a Timoteo era una carta personal de Pablo a Timoteo (1:2) donde el propósito principal de Timoteo en Éfeso era a causa de falsas doctrinas (1:3 - 4:1). Falsas enseñanzas que Pablo discute en muchas partes de la carta. Y en un lugar especifico, es acerca de que la mujer no debe "*ejercer dominio sobre el hombre*" (2:12), ese es el versículo importante para poder entender de que esta hablando Pablo entre los versículos 11 y 14.
 
 Veamos el texto:
 
@@ -68,17 +71,21 @@ Veamos el texto:
 
 ### αὐθεντεῖν
 
-Para poder entender las restricciones de Pablo a las mujeres en Éfeso primero debemos comprender que significa el texto _"**ejercer dominio**"_ y para ello vamos a ver qué dice el original.
+Para poder entender las restricciones de Pablo a las mujeres en Éfeso primero debemos comprender que significa el texto *"ejercer dominio"* y para ello vamos a ver qué dice el original.
 
-::MdImage{ src="https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/authentein.png" alt="Definicion de αὐθεντεῖν"}
-1 Timothy 2:12 - [BibleHub.com](https://biblehub.com/1_timothy/2-12.htm){target=blank}
+::md-image
+---
+alt: Definicion de αὐθεντεῖν
+src: https://declaradojusto.wordpress.com/wp-content/uploads/2025/05/authentein.png
+---
+1 Timothy 2:12 - [BibleHub.com](https://biblehub.com/1_timothy/2-12.htm)
 ::
 
-La palabra _αὐθεντεῖν_ solo aparece [una vez](https://biblehub.com/greek/strongs_831.htm){target=blank} en todo el Nuevo Testamento y el significado en español seria: "**Dominar, gobernar, tener dominio sobre**". Esto significa más que autoridad, es dominar o tener dominio ("mastery" en inglés sería como un amo y un esclavo) es una relación de gobierno de alguien sobre otro.
+La palabra *αὐθεντεῖν* solo aparece [una vez](https://biblehub.com/greek/strongs_831.htm) en todo el Nuevo Testamento y el significado en español seria: "**Dominar, gobernar, tener dominio sobre**". Esto significa más que autoridad, es dominar o tener dominio ("mastery" en inglés sería como un amo y un esclavo) es una relación de gobierno de alguien sobre otro.
 
-La palabra "_αὐθεντεῖν_" no aparece nuevamente en las escrituras. Pero si hay cartas antiguas donde podemos ver el mismo verbo, por ejemplo en la queja de Bassianos en el Concilio de Calcedonia (451 d.C) que se traduce como "_usar fuerza_".
+La palabra "*αὐθεντεῖν*" no aparece nuevamente en las escrituras. Pero si hay cartas antiguas donde podemos ver el mismo verbo, por ejemplo en la queja de Bassianos en el Concilio de Calcedonia (451 d.C) que se traduce como "*usar fuerza*".
 
-> Fui nombrado obispo por violencia! ... Los Padres decían: 'Si hay un procedimiento preferido, es hacer una elección para un cargo, y no renunciar'... Cuando se hizo esta temeridad, **_usaron la fuerza_** y ​​entraron en mi habitación y agarraron me.
+> Fui nombrado obispo por violencia! ... Los Padres decían: 'Si hay un procedimiento preferido, es hacer una elección para un cargo, y no renunciar'... Cuando se hizo esta temeridad, ***usaron la fuerza*** y ​​entraron en mi habitación y agarraron me.
 >
 > Concilio universal de Calcedonia año 451 (2.1.3.48.12) - Libro: Paul and Gender. Por Cynthia Long Westfall
 
@@ -88,13 +95,13 @@ Según leo en las escrituras, la relación entre cristianos, que incluye esposo/
 
 ### Entendiendo 1 Timoteo 2:11-14
 
-Con "_αὐθεντεῖν = dominio_" en mente quiero empezar a leer los versículos uno a uno.
+Con "*αὐθεντεῖν = dominio*" en mente quiero empezar a leer los versículos uno a uno.
 
 > La mujer aprenda en silencio, con toda sujeción
 >
 > 1 Timoteo 2:11
 
-La palabra "silencio" es del griego _ἡσυχίᾳ_ que también es [tranquilidad](https://biblehub.com/1_timothy/2-11.htm){target=blank}. No en medio de discusión acerca de dominar a otro y con toda sujeción ¿Sujeción a quién? A la Palabra de Dios, a las escrituras obviamente.
+La palabra "silencio" es del griego *ἡσυχίᾳ* que también es [tranquilidad](https://biblehub.com/1_timothy/2-11.htm). No en medio de discusión acerca de dominar a otro y con toda sujeción ¿Sujeción a quién? A la Palabra de Dios, a las escrituras obviamente.
 
 >  Porque no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio. 
 >
@@ -118,9 +125,9 @@ La segundo, Pablo muestra que la mujer fue engañada. Si leemos las cartas de Pa
 
 ### La explicación erronea
 
-He leído muchas explicaciones de este pasaje como que "_la mujer es engañada por lo cual no puede predicar en el culto publico_". Esto no tiene mucho sentido, primero que todo Pablo no esta hablando del culto necesariamente (1 Tim 2:8 "_oren en todo lugar_"), ademas no puedes llevar a la mujer a la acusación de lo que que paso en el Eden y seguir teniendo consecuencias dentro de la familia de Dios, cuando el Señor pago todo y todas las cosas son hechas nueva, somos una nueva criatura.
+He leído muchas explicaciones de este pasaje como que "*la mujer es engañada por lo cual no puede predicar en el culto publico*". Esto no tiene mucho sentido, primero que todo Pablo no esta hablando del culto necesariamente (1 Tim 2:8 "*oren en todo lugar*"), ademas no puedes llevar a la mujer a la acusación de lo que que paso en el Eden y seguir teniendo consecuencias dentro de la familia de Dios, cuando el Señor pago todo y todas las cosas son hechas nueva, somos una nueva criatura.
 
-> De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas.[](https://www.biblegateway.com/passage/?search=2%20Corintios+5&version=RVR1960){target=blank}
+> De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas.[](https://www.biblegateway.com/passage/?search=2%20Corintios+5\&version=RVR1960)
 >
 > 2 Corintios 5:17
 
