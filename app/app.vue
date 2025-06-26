@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { NavigationMenuItem } from '@nuxt/ui'
+import type { ContentNavigationLink } from '@nuxt/ui-pro/runtime/types/content.js'
 
 const { data: navigation } = await useAsyncData('navigation', () => queryCollectionNavigation('all'))
 provide('navigation', navigation)
@@ -24,6 +25,21 @@ const items = computed<NavigationMenuItem[]>(() => [
     active: route.path.startsWith('/acerca-de')
   }
 ])
+const items3 = computed<ContentNavigationLink[]>(() => {
+  const values: ContentNavigationLink[] = [{
+    title: 'Inicio',
+    path: '/'
+  }]
+  console.log(items.value)
+  for (const item of items.value) {
+    console.log(item)
+    values.push({
+      title: `${item.label}`,
+      path: `${item.to}`
+    })
+  }
+  return values
+})
 </script>
 
 <template>
@@ -43,8 +59,7 @@ const items = computed<NavigationMenuItem[]>(() => [
       </template>
       <template #body>
         <UContentNavigation
-          v-if="navigation"
-          :navigation="navigation"
+          :navigation="items3"
           highlight
           :ui="{ linkTrailingBadge: 'font-semibold uppercase' }"
         >
